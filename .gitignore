@@ -6,3 +6,7 @@ __pycache__/
 .venv/
 .DS_Store
 .env
+
+# generated per-build copies of /data — canonical source lives at /data
+packages/npm/src/data/
+packages/pypi/lk_schools/data/

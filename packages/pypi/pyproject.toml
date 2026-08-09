@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+[project]
+name = "lk-schools"
+version = "0.1.0"
+description = "Open, community-maintained dataset of Sri Lankan schools — filterable by district, province, and type."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+authors = [{ name = "lk-schools contributors" }]
+keywords = ["sri-lanka", "schools", "education", "open-data"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Typing :: Typed",
+]
+
+[project.urls]
+Homepage = "https://github.com/TODO-set-org/lk-schools"
+Issues = "https://github.com/TODO-set-org/lk-schools/issues"
+
+[tool.hatch.build.targets.wheel]
+packages = ["lk_schools"]
+
+[tool.hatch.build.targets.sdist]
+include = ["lk_schools", "README.md"]

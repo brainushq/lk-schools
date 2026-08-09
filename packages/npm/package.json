@@ -1,0 +1,46 @@
+{
+  "name": "lk-schools",
+  "version": "0.1.0",
+  "description": "Open, community-maintained dataset of Sri Lankan schools — filterable by district, province, and type.",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist"
+  ],
+  "sideEffects": false,
+  "scripts": {
+    "sync-data": "node ../../scripts/sync-data.mjs npm",
+    "build": "npm run sync-data && tsup",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "sri-lanka",
+    "schools",
+    "education",
+    "open-data"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TODO-set-org/lk-schools.git",
+    "directory": "packages/npm"
+  },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}
