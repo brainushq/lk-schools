@@ -5,15 +5,14 @@ export type SchoolManagementType =
   | "private";
 
 export interface District {
-  id: string;
   name: string;
   province: string;
 }
 
 export interface School {
+  /** Stable slug owned by this dataset, e.g. "trinity-college-kandy". Not a database ID. */
   id: string;
   name: string;
-  districtId: string;
   district: string;
   province: string;
   type: SchoolManagementType | null;

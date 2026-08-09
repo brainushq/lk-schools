@@ -14,25 +14,23 @@ since existing rows don't record per-row source.
 
 ### `districts.json`
 
-| field      | type   | notes                          |
-|------------|--------|---------------------------------|
-| `id`       | string | stable identifier               |
-| `name`     | string | e.g. "Jaffna"                    |
-| `province` | string | e.g. "Northern"                  |
+| field      | type   | notes                                     |
+|------------|--------|--------------------------------------------|
+| `name`     | string | e.g. "Jaffna" — the district's own key, no separate id |
+| `province` | string | e.g. "Northern"                            |
 
 ### `schools.json`
 
-| field           | type            | notes                                                       |
-|-----------------|-----------------|--------------------------------------------------------------|
-| `id`            | string          | stable identifier                                             |
-| `name`          | string          |                                                                |
-| `districtId`    | string          | FK into `districts.json`                                      |
-| `district`      | string          | denormalized for convenience                                  |
-| `province`      | string          | denormalized for convenience                                  |
-| `type`          | string \| null  | `provincial` \| `national` \| `international` \| `private`    |
-| `totalStudents` | number \| null  | enrollment, where known                                       |
-| `logoUrl`       | string \| null  | link to school/Wikimedia-hosted logo, not rehosted             |
-| `source`        | string \| null  | e.g. `"moe-gov-pdf"` or `"wikipedia"` — required for new rows  |
+| field           | type            | notes                                                                 |
+|-----------------|-----------------|-------------------------------------------------------------------------|
+| `id`            | string          | slug owned by this dataset, e.g. `"trinity-college-kandy"` — not a database ID, contributors mint their own |
+| `name`          | string          |                                                                          |
+| `district`      | string          | matches a `name` in `districts.json`                                    |
+| `province`      | string          | denormalized for convenience                                            |
+| `type`          | string \| null  | `provincial` \| `national` \| `international` \| `private`              |
+| `totalStudents` | number \| null  | enrollment, where known                                                 |
+| `logoUrl`       | string \| null  | link to school/Wikimedia-hosted logo, not rehosted                       |
+| `source`        | string \| null  | e.g. `"moe-gov-pdf"` or `"wikipedia"` — required for new rows            |
 
 New contributions must set `source`. Rows missing it are treated as
 unverified and excluded from release builds once that check is added to CI.

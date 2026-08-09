@@ -13,7 +13,6 @@ SchoolManagementType = Literal["provincial", "national", "international", "priva
 
 @dataclass(frozen=True, slots=True)
 class District:
-    id: str
     name: str
     province: str
 
@@ -21,8 +20,8 @@ class District:
 @dataclass(frozen=True, slots=True)
 class School:
     id: str
+    """Stable slug owned by this dataset, e.g. "trinity-college-kandy". Not a database ID."""
     name: str
-    district_id: str
     district: str
     province: str
     type: SchoolManagementType | None
@@ -50,7 +49,6 @@ def get_all_schools() -> list[School]:
         School(
             id=row["id"],
             name=row["name"],
-            district_id=row["districtId"],
             district=row["district"],
             province=row["province"],
             type=row.get("type"),
