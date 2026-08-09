@@ -6,11 +6,9 @@ package's source tree at build time — never edit the copies under
 `packages/*/`, only these files.
 
 **Currently empty.** The ~3,500-school seed dataset migrated from BrainUs's
-internal database is held back until the data license is decided — the
-existing rows don't record whether they came from a government PDF or from
-Wikipedia, and Wikipedia content is CC-BY-SA (share-alike/attribution
-required), so the two sources can't be published under one blanket license
-without that attribution. See `LICENSE-DATA`.
+internal database is not yet loaded here — migration is the next step. The
+dataset is licensed CC-BY-SA 4.0 (see `LICENSE-DATA`) as a blanket policy
+since existing rows don't record per-row source.
 
 ## Schema
 

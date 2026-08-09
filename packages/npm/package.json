@@ -32,7 +32,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TODO-set-org/lk-schools.git",
+    "url": "git+https://github.com/brainushq/lk-schools.git",
     "directory": "packages/npm"
   },
   "publishConfig": {

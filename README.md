@@ -22,12 +22,12 @@ packages/pypi/        PyPI package — reads data/ at build time
 ## License
 
 Code: MIT (see `LICENSE`).
-Data: TBD — the dataset is derived from Sri Lankan government PDFs and
-Wikipedia, which may require share-alike/attribution terms (e.g. CC-BY-SA or
-ODbL). A `LICENSE-DATA` file and a per-row `source` field will be added
-before any data is published.
+Data: CC-BY-SA 4.0 (see `LICENSE-DATA`) — the dataset is derived in part
+from Wikipedia, so the whole dataset carries Wikipedia's share-alike and
+attribution terms even though not every row originated there.
 
 ## Contributing
 
-Fixes and additions to `data/` are welcome via pull request once the data
-schema and licensing are finalized.
+Fixes and additions to `data/` are welcome via pull request. New rows must
+set a `source` field (e.g. `"moe-gov-pdf"` or `"wikipedia"`) — see
+`data/README.md` for the schema.

@@ -9,5 +9,5 @@ schools = find_schools(province="Northern", query="maha vidyalaya")
 provinces = get_provinces()
 ```
 
-See the [main repo](https://github.com/TODO-set-org/lk-schools) for the data
+See the [main repo](https://github.com/brainushq/lk-schools) for the data
 schema, license, and how to contribute a missing or corrected school.
