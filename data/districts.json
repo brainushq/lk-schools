@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "name": "Kandy",
+    "province": "Central"
+  },
+  {
+    "name": "Matale",
+    "province": "Central"
+  },
+  {
+    "name": "Nuwara Eliya",
+    "province": "Central"
+  },
+  {
+    "name": "Ampara",
+    "province": "Eastern"
+  },
+  {
+    "name": "Batticaloa",
+    "province": "Eastern"
+  },
+  {
+    "name": "Trincomalee",
+    "province": "Eastern"
+  },
+  {
+    "name": "Anuradhapura",
+    "province": "North Central"
+  },
+  {
+    "name": "Polonnaruwa",
+    "province": "North Central"
+  },
+  {
+    "name": "Kurunegala",
+    "province": "North Western"
+  },
+  {
+    "name": "Puttalam",
+    "province": "North Western"
+  },
+  {
+    "name": "Jaffna",
+    "province": "Northern"
+  },
+  {
+    "name": "Kilinochchi",
+    "province": "Northern"
+  },
+  {
+    "name": "Mannar",
+    "province": "Northern"
+  },
+  {
+    "name": "Mullaitivu",
+    "province": "Northern"
+  },
+  {
+    "name": "Vavuniya",
+    "province": "Northern"
+  },
+  {
+    "name": "Kegalle",
+    "province": "Sabaragamuwa"
+  },
+  {
+    "name": "Ratnapura",
+    "province": "Sabaragamuwa"
+  },
+  {
+    "name": "Galle",
+    "province": "Southern"
+  },
+  {
+    "name": "Hambantota",
+    "province": "Southern"
+  },
+  {
+    "name": "Matara",
+    "province": "Southern"
+  },
+  {
+    "name": "Badulla",
+    "province": "Uva"
+  },
+  {
+    "name": "Monaragala",
+    "province": "Uva"
+  },
+  {
+    "name": "Colombo",
+    "province": "Western"
+  },
+  {
+    "name": "Gampaha",
+    "province": "Western"
+  },
+  {
+    "name": "Kalutara",
+    "province": "Western"
+  }
+]

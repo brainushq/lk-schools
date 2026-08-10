@@ -1,12 +1,17 @@
 import districtsData from "./data/districts.json" with { type: "json" };
-import schoolsData from "./data/schools.json" with { type: "json" };
+import schoolsRaw from "./data/schools.json" with { type: "json" };
 
 import type { District, School, SchoolFilter } from "./types.js";
 
 export type { District, School, SchoolFilter, SchoolManagementType } from "./types.js";
 
 const districts = districtsData as District[];
-const schools = schoolsData as School[];
+const provinceByDistrict = new Map(districts.map((d) => [d.name, d.province]));
+
+const schools: School[] = (schoolsRaw as Omit<School, "province">[]).map((s) => ({
+  ...s,
+  province: provinceByDistrict.get(s.district) ?? "",
+}));
 
 export function getAllSchools(): School[] {
   return schools;

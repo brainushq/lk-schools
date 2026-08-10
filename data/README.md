@@ -5,10 +5,11 @@ the npm and PyPI packages. `scripts/sync-data.mjs` copies these into each
 package's source tree at build time — never edit the copies under
 `packages/*/`, only these files.
 
-**Currently empty.** The ~3,500-school seed dataset migrated from BrainUs's
-internal database is not yet loaded here — migration is the next step. The
-dataset is licensed CC-BY-SA 4.0 (see `LICENSE-DATA`) as a blanket policy
-since existing rows don't record per-row source.
+Migrated from BrainUs's internal database via `scripts/migrate-from-supabase.mjs`
+(re-runnable — pulls from the public Supabase REST API, cleans names, and
+regenerates slugs). The dataset is licensed CC-BY-SA 4.0 (see
+`LICENSE-DATA`) as a blanket policy since existing rows don't record
+per-row source.
 
 ## Schema
 
@@ -25,12 +26,15 @@ since existing rows don't record per-row source.
 |-----------------|-----------------|-------------------------------------------------------------------------|
 | `id`            | string          | slug owned by this dataset, e.g. `"trinity-college-kandy"` — not a database ID, contributors mint their own |
 | `name`          | string          |                                                                          |
-| `district`      | string          | matches a `name` in `districts.json`                                    |
-| `province`      | string          | denormalized for convenience                                            |
+| `district`      | string          | must match a `name` in `districts.json` — checked in CI                 |
 | `type`          | string \| null  | `provincial` \| `national` \| `international` \| `private`              |
 | `totalStudents` | number \| null  | enrollment, where known                                                 |
 | `logoUrl`       | string \| null  | link to school/Wikimedia-hosted logo, not rehosted                       |
 | `source`        | string \| null  | e.g. `"moe-gov-pdf"` or `"wikipedia"` — required for new rows            |
+
+`province` is not stored on schools — both packages derive it from `district`
+by joining against `districts.json` at load time, so a district's province
+only ever needs correcting in one place.
 
 New contributions must set `source`. Rows missing it are treated as
 unverified and excluded from release builds once that check is added to CI.

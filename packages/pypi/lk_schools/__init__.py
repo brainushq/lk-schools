@@ -45,12 +45,13 @@ def get_all_districts() -> list[District]:
 
 @lru_cache(maxsize=1)
 def get_all_schools() -> list[School]:
+    province_by_district = {d.name: d.province for d in get_all_districts()}
     return [
         School(
             id=row["id"],
             name=row["name"],
             district=row["district"],
-            province=row["province"],
+            province=province_by_district.get(row["district"], ""),
             type=row.get("type"),
             total_students=row.get("totalStudents"),
             logo_url=row.get("logoUrl"),
