@@ -11,12 +11,12 @@ package's source tree at build time — never edit the copies under
 Ministry of Education's 2024 Educational Statistics school lists
 (`data/raw/moe-2024/*.csv`, originally the Excel files linked at
 https://dmb.moe.gov.lk/showStat2024.php — List of National School 2024 plus
-the 9 provincial lists). The MoE rows are the canonical base (10,076
-government schools); legacy BrainUs rows from `data/raw/legacy-schools.json`
-are matched onto that base by normalized name + district to enrich
-`totalStudents`/`logoUrl`. Unmatched legacy rows are written to
-`data/raw/unmatched-existing-review.csv` for manual reconciliation — they are
-never silently dropped.
+the 9 provincial lists). The dataset is the complete official government
+school list (10,076 schools) with census numbers, addresses, zones,
+education divisions and MoE A/L type. Private rows from
+`data/raw/legacy-schools.json` (a frozen snapshot of the old BrainUs
+dataset) are kept as-is since they are real schools outside the government
+list.
 
 Re-run with: `python3 scripts/build-from-moe.py` (stdlib only, idempotent).
 The raw CSVs and the legacy snapshot are committed for provenance.
@@ -43,8 +43,6 @@ The raw CSVs and the legacy snapshot are committed for provenance.
 | `address`           | string \| null | MoE address (government rows)                                           |
 | `zone`              | string \| null | MoE education zone                                                      |
 | `educationDivision` | string \| null | MoE education division                                                  |
-| `totalStudents`     | number \| null | enrollment, where known                                                 |
-| `logoUrl`           | string \| null | link to school/Wikimedia-hosted logo, not rehosted                       |
 | `source`            | string \| null | e.g. `"moe-gov-2024"` or `"wikipedia"` — required for new rows            |
 
 `province` is not stored on schools — both packages derive it from `district`
