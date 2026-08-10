@@ -32,8 +32,6 @@ class School:
     address: str | None
     zone: str | None
     education_division: str | None
-    total_students: int | None
-    logo_url: str | None
     source: str | None
     """Where this row was sourced from, e.g. "moe-gov-2024" or "wikipedia"."""
 
@@ -65,8 +63,6 @@ def get_all_schools() -> list[School]:
             address=row.get("address"),
             zone=row.get("zone"),
             education_division=row.get("educationDivision"),
-            total_students=row.get("totalStudents"),
-            logo_url=row.get("logoUrl"),
             source=row.get("source"),
         )
         for row in _read_json("schools.json")
