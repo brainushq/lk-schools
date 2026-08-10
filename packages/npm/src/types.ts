@@ -16,9 +16,16 @@ export interface School {
   district: string;
   province: string;
   type: SchoolManagementType | null;
+  /** Official Ministry of Education census number (unique per government school). */
+  censusNo: string | null;
+  /** MoE grade-span classification: "1AB" | "1C" | "Type2" | "Type3" | null. */
+  moeType: string | null;
+  address: string | null;
+  zone: string | null;
+  educationDivision: string | null;
   totalStudents: number | null;
   logoUrl: string | null;
-  /** Where this row was sourced from, e.g. "moe-gov-pdf" or "wikipedia". Null for rows not yet attributed. */
+  /** Where this row was sourced from, e.g. "moe-gov-2024" or "wikipedia". Null for rows not yet attributed. */
   source: string | null;
 }
 
