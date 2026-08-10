@@ -25,10 +25,17 @@ class School:
     district: str
     province: str
     type: SchoolManagementType | None
+    census_no: str | None
+    """Official Ministry of Education census number (unique per government school)."""
+    moe_type: str | None
+    """MoE grade-span classification: "1AB" | "1C" | "Type2" | "Type3"."""
+    address: str | None
+    zone: str | None
+    education_division: str | None
     total_students: int | None
     logo_url: str | None
     source: str | None
-    """Where this row was sourced from, e.g. "moe-gov-pdf" or "wikipedia"."""
+    """Where this row was sourced from, e.g. "moe-gov-2024" or "wikipedia"."""
 
 
 def _read_json(name: str) -> list[dict]:
@@ -53,6 +60,11 @@ def get_all_schools() -> list[School]:
             district=row["district"],
             province=province_by_district.get(row["district"], ""),
             type=row.get("type"),
+            census_no=row.get("censusNo"),
+            moe_type=row.get("moeType"),
+            address=row.get("address"),
+            zone=row.get("zone"),
+            education_division=row.get("educationDivision"),
             total_students=row.get("totalStudents"),
             logo_url=row.get("logoUrl"),
             source=row.get("source"),
