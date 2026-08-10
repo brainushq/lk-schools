@@ -6,9 +6,22 @@ this repo.
 
 ## Status
 
-Early scaffold. Not yet published. Current seed data (being migrated from an
-internal BrainUs dataset) covers ~3,500 schools with uneven coverage across
-districts — see `data/README.md` once added.
+Data migrated (3,499 schools, 25 districts, 9 provinces) and both packages
+build and pass CI. Not yet published to npm or PyPI.
+
+## Install
+
+```bash
+npm install @brainus/lk-schools
+```
+
+```bash
+pip install lk-schools
+```
+
+(Different names per registry: `@brainus/lk-schools` on npm to match
+BrainUs's existing `@brainus/*` packages, `lk-schools` on PyPI since that
+name was free and there's no existing BrainUs PyPI convention to match.)
 
 ## Structure
 

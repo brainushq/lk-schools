@@ -1,5 +1,5 @@
 {
-  "name": "lk-schools",
+  "name": "@brainus/lk-schools",
   "version": "0.1.0",
   "description": "Open, community-maintained dataset of Sri Lankan schools — filterable by district, province, and type.",
   "type": "module",
