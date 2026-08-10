@@ -23,8 +23,6 @@ export interface School {
   address: string | null;
   zone: string | null;
   educationDivision: string | null;
-  totalStudents: number | null;
-  logoUrl: string | null;
   /** Where this row was sourced from, e.g. "moe-gov-2024" or "wikipedia". Null for rows not yet attributed. */
   source: string | null;
 }
