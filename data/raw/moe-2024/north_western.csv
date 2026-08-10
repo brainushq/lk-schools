@@ -1,0 +1,1203 @@
+census_no,school_name,school_address,province,district,zone,education_division,school_type,category
+11120,RIZWAN GMM SCHOOL,"KARAMBE-B, PALAVI, PUTTALAM.",North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+11121,ABDEEN GOVERNMENT MUSLIM MIX SCHOOL,THMPAPANNI PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+11122,ANSARI G.M.M.S.,UMARABATH THILLAYADY PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+11123,HASBAN G.M.M.S.,90 ACRE THALAVILA PUTTALAM,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+11124,IYOOB GMM SCHOOL,"AL-MANAAR, MANDALAKUDA, KALPITIYA.",North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+11125,PALAVI RISHAD BATHIUDEEN .M.V.,"AL-QASSIMI CITY, PALAVI",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+17002,POTHUHERA DUTUGEMUNU M.M.V.,POTHUHERA,North Western,61.Kurunegala,Kurunegala,Polgahawela,1.1AB,provincial
+17004,UDAPOLA SRI SUMANGALA MAHA VIDYALAYA,UDAPOLA POGAHAWELA,North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17005,KALUGAMUWA MAHA VIDYALAYA,KALUGAMUWA,North Western,61.Kurunegala,Kurunegala,Polgahawela,2.1C,provincial
+17006,GALLEHERA MAHA VIDYALAYA,LOKAHETTIYA,North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17007,DENAGAMUWA MAHA VIDYALAYA,POLGAHAWELA,North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17008,SRI SARANANKARA SANGARAJA MAHA VIDYALAYA,"MAHAPITIYA, POTHUHERA",North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17009,SRI PIYARATHANA MAHA VIDYALAYA,"MUDUNNA, UHUMEEYA",North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17010,RATHMALGODA MAHA VIDYALAYA,POLGAHAWELA,North Western,61.Kurunegala,Kurunegala,Polgahawela,1.1AB,provincial
+17011,WIMALASURENDRA VIDYALAYA,WADAKADA,North Western,61.Kurunegala,Kurunegala,Polgahawela,2.1C,provincial
+17012,POLGAHAWELA ST. BERNADETTES MAHA VIDYALAYA,POLGAHAWELA,North Western,61.Kurunegala,Kurunegala,Polgahawela,2.1C,provincial
+17013,SIRI PERAKUM VIDYALAYA,"UDUGAMA, KALUGAMUEWA",North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17014,HANDUGALA PRIMARY SCHOOL,"HANDUGALA, POTHUHERA",North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17015,SRI SONUTHTHARA PRIMARY SCHOOL,"AHUGODA, POTHUHERA",North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17016,SRIMATH ANAGARIKA DHARMAPALA VIDYALAYA,"ARAGODA, POLGAHAWELA",North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17017,BUWANEKABA VIDYALAYA,POLGAHAWELA,North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17018,KADURUGAHAMADITTA SRI SUMANASARA VIDYALAYA,"KADURUGAHAMADITHTHA, RANJANAGAMA",North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17019,KALUDELIYA KANISHTA VIDYALAYA,LOKAHETTIYA,North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17020,GENARAL DENZIL KOBBEKADUWA PRIMARY SCHOOL,KIRALABOKKA. KALUGAMUWA,North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17021,SRI DEERANANDA VIDYALAYA,"THALAWATHTHEGEDARA, POLGAHAWELA",North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17022,KUMBALOLUWA JUNIOR SCHOOL,"PANALIYA, POLGAHAWELA",North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17023,GAMMANA PRIMARY SCHOOL,GAMMANA POTHUHERA,North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17024,SAPUMAL KUMARA VIDYALAYA,POLGAHAWELA,North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17025,WAYAMBA DHARMARAJA VIDYARAJA VIDYALAYA,WEERAMBUGEDARA,North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17026,WAYAMBA VIDYARAJA VIDYALAYA,POTHUHERA,North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17028,POLPITIYA KANISHTA VIDYALAYA,"METIKUMBURA, POLGAHAWELA",North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17030,MAWATHTHA KANISHTA VIDYALAYA,"MAWATHTHA, POLGAHAWELA",North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17032,WELAMITIYAWA SIRI GUNARATHANA ADARSHA KANISHTA VIDYALAYA,WELAMITIYAWA NARAMMALA,North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17033,RATHNALOKA VIDYALAYA,"KEGALLE ROAD, POLGAHAWELA",North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17034,POLGAHAWELA ST. BERNADETTE'S MODEL SCHOOL,POLGAHAWELA,North Western,61.Kurunegala,Kurunegala,Polgahawela,2.1C,provincial
+17035,VIDYALOKA VIDYALAYA,"SANDAGALA, UHUMEEYA",North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17036,VIDARSHANA PRIMARY SCHOOL,HONDELLA METIKUMBURA,North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17039,ARAMBEPOLA PRIMARY SCHOOL,"ARAMBEPOLA, POTHUHERA",North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+17052,RAMBADAGALLA M.M.V.,RAMBADAGALLA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,1.1AB,provincial
+17053,MORATHIHA SRI GAMINI M.M.V.,MORATHIHA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,1.1AB,provincial
+17054,GONIGODA M. M.V.,PIHIMBUWA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17055,DODAMGASLANDA SIR JOHN KOTHALAWALA M.M.V.,DODAMGASLANDA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,1.1AB,provincial
+17056,PALLEYAYA SRI VIDYARAJA M.V,PALLEYAYA DODAMGASLANDA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17057,PUSSELLA PRATHIRAJADEVA M.V.,PUSSELLA PUSSELITHENNA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17058,BULUWALA M.V.,BULUWALA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17059,KOSWATHTHA M.V.,KOSWATHTHA GOKARELLA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,3.Type2,provincial
+17060,WEERA WALAGAMBA M.V.,MADURAGODA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17061,ALAKOLAMADA NALANDAWA P.V.,DODAMGASLANDA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17062,AMBAKOTE P.V.,AMBAKOTE,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17063,IKIRIWATHA P.V.,KANADENIYAWALA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17064,ERIYAGOLLA M.V.,IRIYAGOLLA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,3.Type2,provincial
+17065,EGODAMULLA P.V.,IRIYAGOLLA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17066,KATIYAWA P.V.,UDAHENA DODAMGASLANDA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17067,KANDUPALATHA K.V.,MADURAGODA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17068,DELVITA M.V.,DELVITA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17069,NIYANGAMA P.V.,KANADENIYAWA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17070,PAHALA OGODAPOLA K.V.,PIHIMBUWA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,3.Type2,provincial
+17071,MEDAGAMA K.V.,ANHANDIYA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,3.Type2,provincial
+17072,MIRISSALA K.V.,PIHIMBUWA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,3.Type2,provincial
+17073,MORATHIHAP.V.,MORATHIHA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17074,RATHVITA P.V.,IHALA RATHVITA GOKARELLA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17075,RANTHATI KAMDA P.V.,PANAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17076,RIDEEVIHARA M.V.,RIDEEGAMA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17077,REDDAGODA K.V.,REDDAGODA RIDEGAMA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,3.Type2,provincial
+17078,UDANVITA M.V.,MELSIRIPURA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17079,KALUGAHATHENNA P.V.,DELVITA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17080,KIRIBATHGALLA K.V.,DELVITA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,3.Type2,provincial
+17081,BALAWATHTHALA P.V.,DODAMGASLANDA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17082,ALAWALA K.V.,AMBAKOTE,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,3.Type2,provincial
+17085,NELAULLA P.V.,PIHIMBUWA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17086,DODAMGASLANDA RAJAKEEYA VIDYALAYA,NILANTHATTUWA RIDIGAMA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17087,PUSSELLA P.V.,PUSSELLA PUSSELITHENNA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17088,BULUWALAKANDA P.V.,BULUWALA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17089,LIHINIWEHERA P.V.,DODAMGASLANDA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17090,DUNUMAWA P.V.,IRIYAGOLLA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17093,UDAHOROMBUWA P.V.,UDAHOROMBUWA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17096,THALAMPITIYA P.V.,KOHILEGEDARA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+17097,THIRAGAMA M.V.,KOHILEGEDARA,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17098,DIGAMPITIYA SRI PIYARATHANA M.V.,HINDAGOLLA KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17099,PILESSA MAHA VIDYALAYA,PILESSA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17100,POTHUBOWA MAHA VIDYALAYA,POTHUBOWA MAWATHAGAMA,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17101,BOGAMUWA CENTRAL COLLEGE,BOGAMUWA BOYAGANE,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17102,MEETANWALA M.V..,MEETHANWALA MAWATHAGAMA,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17103,WATAREKA M.V.,INGURUWATTA,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17104,WEUDA ROYAL CENTRAL COLLEGE,WEUDA,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17106,ALAKOLADENIYA BOUDDHA VIDYALAYA,DAMBULLA ROAD KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17107,KAHAPATHWALA V.,KAHAPATHWALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17108,KATUPITIYA VIDYALAYA,KATUPITIYA INDULGODAKANDA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17109,KETAWALA JONIOR SCHOOL,INGURUWATHTHA MAWATHAGAMA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17110,WAYAMBA VISHWALOKA VIDYALAYA,KUDA KOWANA THORAYAYA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17111,WAYAMBA SWARNA PRADEEPA VIDYALAYA,KOONGASWALA THORAYAYA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17112,DORATIYAWA V.,DORATIYAWA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17113,MADAWA UDUMULLA VIDYALAYA,MADAWA PILESSA KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+17115,WAYAMBA C W W KANNANGARA M.V.,MALLAWAPITIYA KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,1.1AB,provincial
+17116,MEDDEGAMA JUNIOR SCHOOL,WELLAWA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17117,YATIWALA SRI GUNANANDA V.,YATIWALA MEETHENWALA MAWATHAGAMA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17118,ATHUGALPURA SINHALOKA VIDYALAYA,WEWAGEDARA HINDAGOLLA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+17119,HENGAWA KANISHTA V.,THORAYAYA KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17120,ATHUGALPURA PRINCE COLLEGE,"HEWAPOLA, PILESSA",North Western,61.Kurunegala,Kurunegala,Mawathagama,1.1AB,provincial
+17121,KOSGOLLA KANISHTA VIDYALAYA,KOSGOLLA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17124,MAWATHAGAMA ROMAN CATHOLIC COLLEGE,MAWATHAGAMA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+17125,ROYAL COLLEGE,WEUDA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+17126,AKADE PRIMARY SCHOOL,WEUDA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+17128,IRIMINNA K.V.,IRIMINNA KAHAPATHWELA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17131,GONAGALDENIYA PRIMARY SCHOOL,INDULGODAKANDA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+17134,MALAGANE SARASWATHIE VIDYALAYA,KOHILEGEDARA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+17138,ITHANAWATHTHA M.V.,ITHANAWATHTHA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,2.1C,provincial
+17139,KATUPOTA TISSA M.M.V.,KATPOTHA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,1.1AB,provincial
+17140,BAMUNAKOTUWA ISIPATHANA M.M.V.,BAMUNAKOTUWA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,1.1AB,provincial
+17142,AMUNUGAMA K.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17143,KANOTUWA K.V.,"KANOTUWA, DEMATALUWA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17144,KEDAPATHWEHERA K.V.,PANADARAGAMA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17145,KONGOLLA K.V.,"KONGOLLA, KATUPOTHA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17146,GANTHIRIYAWA M.V.,"GANTHIRIYAWA, BAMUNAKOTUWA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,2.1C,provincial
+17147,GOLUWAWA K.V.,THALWITA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17148,THABILIPOLA K.V.,ITHANAWATHTHA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17149,DEMATALUWA M.V.,DEMATAUWA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,2.1C,provincial
+17150,NATHAGANE K.V.,BAMUNAKOTUWA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17151,NAWINNA K.V.,WARIYAPOLA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17152,MAHINDODAYA P.V.,"PANADARE, PANADARAGAMA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17153,MAHAKELIYA M.V.,WARIYAPOLA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,2.1C,provincial
+17155,RATHMALE SRI REWATHA KANISHTA VIDYALAYA,ITHANAWATHTHA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17156,WALPOLA K.V.,"WALPOLA, BAMUNAKOTUWA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17157,WARIYAPOLA SRI GANODAYA M.M.V.,WARIYAPOLA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,1.1AB,provincial
+17158,SRI SARANANDA K.V.,"WALLAGALA, WARIYAPOLA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17159,SRI SUMANGALA P.V.,"HOROMBUWA, WARIYAPOLA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17161,KATUPOTHA P.V.,KATUPOTHA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17162,KITHULWEHARA K.V.,"KITHULWAHARA, WARIYAPOLA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17164,THALGAMUWA P.V.,WARIYAPOLA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17166,MALASNA DEWARAJA P.V.,THALWITA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17167,MALWANA P.V.,"MALWANA, KANATHTHEWAWA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17168,ABAKADAWARA M.V.,KANATHTHEWEWA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17169,AWLEGAMA SANGABODHI M.M.V.,AWLEGAMA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,1.1AB,provincial
+17170,MINUWANGATE M.V.,MINUWANGATE,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,2.1C,provincial
+17171,KARAGASWEWA K.V.,"KARAGASWEWA, PADENIYA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17172,KURUNAWA K.V.,WARIYAPOLAA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17173,NARAMANA WALAGAMBA M.V.,"NARAMANA, PADENIYA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17174,NABADAWAWA P.V.,"NABADAWEWA, WELAWA JUNCTION",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17175,SRI SUNANDA M.V.,PADENIYA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,2.1C,provincial
+17176,BAYAWA K.V.,"BAYAWA, AWLEGAMA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17177,MALAGANE M.V.,MALAGANE,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17179,RAMBUKANA P.V.,WELAWA JUNCTION,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17181,WEPATHTHANGE P.V.,PADENIYA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17182,THENNAKOONGAMA M.V.,"THENNAKOONGAMA, AWLEGAMA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17183,ETHAWA P.V.,AWLEGAMA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17184,KATAGAMUWA P.V.,AWLEGAMA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17185,THABARAWA P.V.,MALAGANE,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17186,NETIYA K.V.,"NETIYA, MALAGANE",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17189,BOGODA P.V.,"BOGODA, PADENIYA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17191,MIRIHANEGAMA M.V.,"MIRIHANEGAMA, MIRIHANEGAMA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17192,SUNDARAGAMA P.V.,"SUNDARAGAMA, AWLEGAMA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17195,HERATHGAMA P.V.,"HERATHGAMA, AWLEGAMA",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17196,WALPALUWA P.V.,"WALPALUWA , MINUWANGATE",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17197,KONOTHTHA P.V.,MINUWANGATE,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17198,DABALIYADDA P.V.,BAMUNAKOTUWA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial
+17200,GOKERALLA M.M.V.,GOKERALLA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,1.1AB,provincial
+17201,KUMBUKWEWA M.V.,KUMBUKWEWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,2.1C,provincial
+17202,THAKSHALA M.V.,MAHAMUKALANYAYA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,2.1C,provincial
+17203,MEDAMULLA DE MEL M.V.,MELSIRIPURA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,2.1C,provincial
+17204,IBBAGAMUWA MODEL SCHOOL,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,1.1AB,provincial
+17205,OMARAGOLLA M.V.,PANLIYADDA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,2.1C,provincial
+17206,KIRIBAMUNA P.V.,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17207,GASSANDALUPOTHA V.,KUMBUKWEWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17208,MELSIRIPURA NAMALANGA M.V.,MELSIRIPURA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,2.1C,provincial
+17209,DIDDENIYA V.,"DIDDENIYA, MELSIRIPURA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17210,AKKARA PANAHA K.V.,MELSIRIPURA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17211,WAYAMBA PRESIDENT'S COLLEGE,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17212,UDAKENDAWALA SIRI SARANANKARA V.,MELSIRIPURA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17213,USSAWA P.V.,"USSAWA, MELSIRIPURA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17214,KANAWA K.V.,"MAHA MUKALANYAYA, PE NELAWA",North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,3.Type2,provincial
+17215,KIRIDIGALLA P.V.,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17216,THALAHINNA SIDDHARTHA VIDYALAYA,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17217,THALANGAMUWA K.V.,DIDDENIYA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17218,NABETA VIDYALAYA,MELSIRIPURA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17219,NELAWA VIDYALAYA,"PERIYAKADU NELAWA, IBBAGAMUWA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17220,NEMBILIKUMBURA P.V.,"NEMBILIKUMBURA, IBBAGAMUWA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17221,NIKAGOLLA P.V.,KUMBUKWEWA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17222,C.W.W.KANNANGARA P.V.,"NINDAPALLA, GOKARELLA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17223,NEERAMMULA JAYANTHI P.V.,MELSIRIPURA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17224,WEERA COLONEAL NIYOMAL PALIPANA V.,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17225,LENAWAV P.V.,"LENAWA, HIRIYALA, LENAWA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17226,HANGAMUWA P.V.,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17227,SRI WIMALASARA P.V.,"UDATHAMMITA, KIRIDIGALLA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17229,WEERA PARAKUM VIDYALAYA,"PALLEKENDAWALA, MELSIRIPURA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17232,GODARATHMALE VIDYARTHA P.V.,"GODARATHMALE, GOKARELLA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17233,KUMBUKGETE M.M.V.,KUMBUKGETE,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,1.1AB,provincial
+17235,POTHUWAGONNA M.V.,KU. THAMBAGALLE,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,2.1C,provincial
+17236,OTHUWELA P.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17237,SARUBIMA SUPIPI VIDYALAYA,"NELLIYA, MELSIRIPURA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17238,THAMBAGALLA P.V.,THAMBAGALLA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17239,NABIRITHTHAWEWA M.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,3.Type2,provincial
+17240,MAKULWEWA M.V.,MAKULWEWA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,3.Type2,provincial
+17241,WAYAMBA VIDYALOKA VIDYALAYA,NELLIYA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17242,WAYAMBA SHILPALOKA P.V.,"WEGOLLA, NIKADALUPOTHA",North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17245,HIRIPITIYA M.P.S.,NIKADALUPOTHA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17246,HUNUPOLA M.V.,HUNUPOLA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,2.1C,provincial
+17247,ALUTHGAMA P.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17248,UYANGALLE K.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,3.Type2,provincial
+17249,UNIT 3 MAHASEN VIDYALAYA,NELLIYA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17250,GALAGEDARA CHANDRAWANSHA P.V.,MAKULWEWA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17251,THITHTHAWELLA P.V.,KUMBUKGETE,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17253,DIGANKOONWEWA P.V.,NAGOLLAGAMA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17254,NINDAGAMA P.V.,"KU, THAMBAGALLE",North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17255,NEERAVIYA P.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17257,MANAPAYA P.V.,"MANAPAYA, KUMBUKWEWA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,4.Type3,provincial
+17259,RANKIRIMADA K.V.,"DOLUWA, KUMBUKWEWA",North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17260,WADUWAWA P.V.,KUMBUKGETE,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17261,WEWALAGAMA K.V.,KUMBUKWEWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17262,THIMBIRIWEWA K.V.,NAGOLLAGAMA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,3.Type2,provincial
+17263,HETTIGAMA P.V.,KUMBUKGETE,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17264,MEEGAHAELA P.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,4.Type3,provincial
+17266,DAMBADENIYA M.M.V.,DAMBADENIYA.,North Western,61.Kurunegala,Giriulla,Alawwa,1.1AB,provincial
+17267,NARAMMALA R.G.SENANAYAKE M.V.,NARAMMALA,North Western,61.Kurunegala,Giriulla,Alawwa,1.1AB,provincial
+17268,PARANAGAMA MAHA VIDYALAYA,PARANAGAMA GIRIULLA,North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17269,MAYURAWATHI MAHA VIDYALAYA,METIYAGANE,North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17270,KADAHAPOLA M.V.,"KADAHAPOLA, PAHAMUNE.",North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17271,PENTHENIGODA M.V.,"PENTHENIGODA, NARAMMALA.",North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17272,KITHALADENIYA K.V.,"KITHALADENIYA, DAMDENIYA.",North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17273,KIULGALLA KANISHTA VIDYALAYA,NARAMMALA,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17274,KOOTTAPITIYA MODEL K.V.,"KOOTTAPITIYA, NARAMMALA",North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17275,NARAMMALA MAYURAPADA K.V.,NARAMMALA.,North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17277,MEEWEWA P.V.,NARAMMALA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17278,MUTHUGALA K.V.,"MUTHUGALA, DAMBADENIYA.",North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17279,YAKKAVITA P.V.,NARAMMALA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17280,RANGALLEPOLA P.V.,NARAMMALA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17282,KALUNDAWA SARANANKARA M.V.,"KALUNDAWA, NARAMMALA.",North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17283,GANEGODA P.V.,NARAMMALA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17286,PARANAGAMA P.V.,GIRIULLA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17287,RANAWATHTHA P.V.,NARAMMALA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17288,RILOIUWA P.V.,GIRIULLA,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17289,WERAGALA P.V.,NARAMMALA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17290,SIRIGALA WIJAYABA M.V.,SIRIGALA DAMBADENIYA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17291,SARABHUMI P.V.,"UDAWELAWATHTHA, DAMBADENIYA.",North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17294,WELLAWA MADAYA MAHA WIDYALAYA,"RANGAMA, WELLAWA",North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17295,KURUNEGALA ST. ANNE'S COLLEGE,KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17296,KURUNEGALA HOLY FAMILY BALIKA MAHA VIDYALAYA,"MIHIDU MW, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17298,UDABADALAWA SUDARSHANA MAHA VIDYALAYA,MASPOTHA,North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17299,SRI SARANANKARA MAHA VIDYALAYA,KUDAGALGAMUWA,North Western,61.Kurunegala,Kurunegala,Kurunegala,3.Type2,provincial
+17300,KURUNEGALA MAHINDA COLLEGE,"DAMBULLA ROAD, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,2.1C,provincial
+17301,PIMBURUWELLEGAMA MADYA MAHA VIDYALAYA,"GONAGAMA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17302,KURUNEGALA D.B.WELAGEDARA MADYA MAHA VIDYALAYA,"NEGAMBO ROAD, MALKADUWAWA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17303,NALANDODAYA MAHA VIDYALAYA,MASPOTHA,North Western,61.Kurunegala,Kurunegala,Kurunegala,2.1C,provincial
+17304,WAYAMBA JAYASANKA COLLEGE,MINHETTIYA,North Western,61.Kurunegala,Kurunegala,Kurunegala,4.Type3,provincial
+17305,KURUNEGALA LAKDASA DE MEL COLLEGE,"DAMBULLA ROAD, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17306,BOYAGANE MAHA VIDYALAYA,MALPITIYA BOYAGANE,North Western,61.Kurunegala,Kurunegala,Kurunegala,2.1C,provincial
+17307,ALAKOLADENIYA KANISHTA VIDYALAYA,"NEGAMBO ROAD, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,3.Type2,provincial
+17308,EDANDAWALA SRI MEDHANKARA VIDYALAYA,"EDANDAWALA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,3.Type2,provincial
+17310,THALWITA KANISHTA VIDYALAYA,THALVITA,North Western,61.Kurunegala,Kurunegala,Kurunegala,3.Type2,provincial
+17311,DEMATAGOLLA KANISHTA VIDYALAYA,"WELLAWA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,3.Type2,provincial
+17312,PORAPOLA KANISHTA VIDYALAYA,"PORAPOLA,THALVITA",North Western,61.Kurunegala,Kurunegala,Kurunegala,3.Type2,provincial
+17313,KURUNEGALA SIR JHON KOTHALAWALA MAHA VIDYALAYA,KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17314,KURUNEGALA DEFENCE SERVICES COLLEGE,"WEWAGEDARA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17315,KURUNEGALA S.W.R.D. BANDARANAYAKE COLLEGE,KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17316,WEHERABENDA MUSLIM VIDYALAYA,DORATIYAWA,North Western,61.Kurunegala,Kurunegala,Kurunegala,3.Type2,provincial
+17318,KURUNEGALA SRI NISHSHANKA MAHA VIDYALAYA,"SOUTH CIRCULAR ROAD, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17320,WILGAMDEMATAWA VIDYALAYA,GONAGAMA,North Western,61.Kurunegala,Kurunegala,Kurunegala,4.Type3,provincial
+17321,KURUNEGALA MALIYADEVA ADARSHA MAHA VIDYALAYA,KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17326,SIYABALANGAMUWA PRIMARY SCHOOL,MASPOTHA,North Western,61.Kurunegala,Kurunegala,Kurunegala,4.Type3,provincial
+17327,KURUNEGALA PRESIDENT'S GIRLS COLLEGE,"SARAGAMA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17328,ASWEDDUMA KANISHTA VIDYALAYA,"ASWEDDUMA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,3.Type2,provincial
+17330,HENEGEDARA MUSLIM K.V.,PANADARAGAMA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17331,MIRIHAMPITIYA MUSLIM K.V.,ITHANAWATHTHA,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,3.Type2,provincial
+17332,BABUL ADAM MUSLIM K.V.,"MALLAPOTHTHA, MINUWANGATE",North Western,61.Kurunegala,Nikaweratiya,Wariyapola,2.1C,provincial
+17333,KURUNEGALA HIZBULLAH CENTRAL COLLEGE,"THELIYAGONNA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17334,KURUNEGALA ZAHIRA MODEL MAHA VIDYALAYA,"DAMBULLA ROAD, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,2.1C,provincial
+17335,KURUNEGALA HINDU TAMIL MAHA VIDYALAYA,"VILGODA ROAD, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,2.1C,provincial
+17336,AL-ASHAR COLLEGE,"HADIRAWALANA, WELLAWA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,3.Type2,provincial
+17337,PANAGAMUWA AN-NOOR MUSLIM MAHA VIDYALAYA,PANAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,1.1AB,provincial
+17338,AL ASHRAQ MUSLIM VIDYALAYA,THALGASPITIYA AMBAKOTE,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,1.1AB,provincial
+17339,RAMBUKANDANA AL-HUDA MUSLIM VIDYALAYA,RAMBUKANDANA RIDEGAMA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17340,THELAMBUGALLA MUSLIM V.,DODAMGASLANDA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,2.1C,provincial
+17341,AL-IRFAN CENTRAL COLLEGE,POLGAHAWELA,North Western,61.Kurunegala,Kurunegala,Polgahawela,2.1C,provincial
+17342,AL-AQSA MAHA VIDYALAYA,"ORULIYADDA, POLGAHAWELA",North Western,61.Kurunegala,Kurunegala,Polgahawela,2.1C,provincial
+17343,CHURCH OF CEYLON TAMIL VIDYALAYA,POLGAHAWELA,North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17344,POTHUHERA MUSLIM VIDYALAYA,POTHUHERA,North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17345,UDAPOLA TAMIL VIDYALAYA,"MAWATHTHA ROAD, POLGAHAWELA",North Western,61.Kurunegala,Kurunegala,Polgahawela,3.Type2,provincial
+17346,AL-MINA MUSLIM V.,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17347,HAMEEDIYA MUSLIM M.V.,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,2.1C,provincial
+17348,AL-HIKMA MUSLIM M.V.,"THITHTHAWELGALA, NIKADALUPOTHA",North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,2.1C,provincial
+17349,MAIWELA MUSLIM V.,MELSIRIPURA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,3.Type2,provincial
+17350,AL-AKRAM MUSLIM K.V.,"INGURUWATHTHA, MAHAMUKALANYAYA",North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,3.Type2,provincial
+17351,MADIGE MUSLIM V.,IBBAGAMUWA,North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,2.1C,provincial
+17353,SARASWATHI TAMIL VIDYALAYA,MUWANKANDA MAWATHAGAMA,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17354,NAKALAGAMUWA AMINA MUSLIM VIDYALAYA,NAKALAGAMUWA KOHILEGEDARA KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17355,NOTTINGHILL TAMIL VIDYALAYA,KAHAPATHWELA MAWATHAGAMA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17356,MORATHANNA TAMIL VIDYALAYA,INDULGODAKANDA KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+17357,ATHTHARIQUE MUSLIM MAHA VIDYALAYA,DAMBULLA ROAD THORAYAYA KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17358,POLGAHAYAYA M.M.V.,NARAMMALA,North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17359,NOORANIYA MUSLIM V.,PAHAMUNE.,North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17360,AL-HIJRA M.K.V.,DAMBADENIYA.,North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17362,KANDEGEDARA M.V.,MAHARACHCHIMULLA.,North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17363,GALGAMUWA M.V.,MAHARACHCHIMULLA.,North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17364,NUNGAMUWA DAMSEN M.M.V.,YATIGALOIUWA.,North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17365,PORAMADALA M.V.,"PORAMADALA, YATIGALOLUWA.",North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17366,BOYAWALANA M.V.,"BOYAWALANA, KEPPETIWALANA.",North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17367,WAYAMBA PRESIDENT'S COLLEGE,"PAMBADENIYA, ALAWWA",North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17368,HUMBULUWA M.M.V.,"HUMBULUWA, ALAWWA",North Western,61.Kurunegala,Giriulla,Alawwa,1.1AB,provincial
+17369,WEWALA M.V.,NAWATHALWATHTHA.,North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17370,WENNORUWA WIJAYABA MAHA VIDYALAYA,WENNORUWA.,North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17371,WALAKUBURA M.V.,ALAWWA.,North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17372,AGBOWA P.V.,"AGBOWA, ALAWWA.",North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17373,UDAKEKULAWALA M.V.,BUJJOMUWA.,North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17374,OTHARA KIRUWANPOLA PRIMARY SCHOOL,NAWATHALWATHTHA,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17375,GALDENIYA K.V.,"GALDENIYA, KEPPETIWALANA.",North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17376,BURUSSEGODA K.V.,MAHARACHCHIMULLA.,North Western,61.Kurunegala,Giriulla,Alawwa,3.Type2,provincial
+17377,MADAWALA K.V.,MADAWALA.KEPPETIWALANA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17378,ALAWWA RATHANALANKARA M.V.,"NARAMMALA ROAD, ALAWWA",North Western,61.Kurunegala,Giriulla,Alawwa,2.1C,provincial
+17379,ADIYADENIYA P.V.,MAHARACHCHIMULLA,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17384,PAHALA BUJJOMUWA PRIMARY SCHOOL,MUJJOMUWA,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17385,PORAMADALA P.V.,"PORAMADALA, YATIGALOUWA.",North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17387,WEWALA P.V.,NAWATHALWATHTHA.,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17392,HALMILLAWEWA SIDDRARTHA M.V.,HALMILLAWEWA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17393,WELLARAWA MAHA VIDYALAYA,WELLARAWA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17394,WEERAPOKUNA VIJITHA M.M.V.,WEERAPOKUNA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17395,UDAWELA REWATHA CENTRAL COLLEGE,THARANA-UDAWELA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17396,L.B.JAYASENA M.V.,HORAGASSAGARAHIRUWALPOLA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17397,IHALA KADIGAMUWA M.V.,IHALA KADIGAMUWA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17398,MANALEMBUWA SRI SARANANDA MODEL SCHOOL,MANALEMBUWA WEERAPOKUNA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17399,THISOGAMA SRIPALI M.V.,THISOGAMA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17400,BOWATHTHA KANISHTA VIDYALAYA,BOWATHTHA BINGIRIYA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,4.Type3,provincial
+17401,SRI SADDANANDA KANISHTA VIDYALAYA,BRAHMANAYAGAMA BINGIRIYA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17403,KOSWATHTHA GAMINI M.V.,KOSWATHTHA-HALMILLAWAWA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17404,PAHALA KOONKADAWALA KANISHTA VIDYALAYA,KOONKADAWALA WEERAPOKUNA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17405,SIRI SUMEDA KANISHTA WIDYALAYA,PANAWEWA-BINGIRIYA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17406,URAPOTTA K.V.,URAPOTHTHA -BINGIRIYA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17407,IHALA MOLEALIPITIYA KANISTA VIDYALAYA,THISOGAMA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17408,KULIYAPITIYA NITHALAWA SAMAN BADURU P.V.,NITHALAWA HALMILLAWEWA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,4.Type3,provincial
+17409,HIRIPOKUNA K.V.,HIRIPOKUNA -WEERAPOKUNA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17410,KULIYAPITIYA ST. XAVIOUR PRIMARY SCHOOL,THALGAHAPITIYA BINGIRIYA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,4.Type3,provincial
+17411,ALUTH KADURUWEWA K.V.,KADURUWERWA BINGIRIYA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17412,GETULAWA K.V.,"GETULAWA, THISOGAMA",North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17413,KULIYAPITIYA IHALA KINIYAMA SINHALA P.S.,WEERAPOKUNA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,4.Type3,provincial
+17414,KULIYAPITIYA KADIGAMUWA PRIMARY SCHOOL,IHALA KADIGAMUWA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,4.Type3,provincial
+17416,MAKULLAPOKUNA K.V.,MAKULLAPOKUNA WERAPOKUNA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17417,MOLAELIYA PRIMARY SCHOOL,MOLAELIYA KU/THISOGAMA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,4.Type3,provincial
+17418,WILATHTHAWA KANISHTA VIDYALAYA,WILATHTHAWA BINGIRIYA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17419,KULIYAPITIYA SWARNAPRADEEPA VIDYALAYA,WADURESSA HALMILLAWEWA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17421,KIRINDAWA MAHA VIDYALAYA,KIRINDAWA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,2.1C,provincial
+17422,GALGAMMULLA MAYURAWATHI MAHA VIDYALAYA,GALGAMULLA WEWAGAMA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,2.1C,provincial
+17423,RUWANGIRI M.M.V.,BOGAMULLA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,1.1AB,provincial
+17424,NETHTHIPOLAGEDARA MAHA VIDYALAYA,NETHTHIPOLAGEDARA - SIYAMBALAGASKOTUWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,3.Type2,provincial
+17425,HOROMBAWA MAHA VIDYALAYA,HOROMBAWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,2.1C,provincial
+17426,ANUKKANE MAHA VIDYALAYA,ANUKKANE,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,2.1C,provincial
+17427,MEDELPOLA MAHA VIDYALAYA,MEDELPOLA - KIRIMETIYAWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,2.1C,provincial
+17428,ANNARUWA KANISHTA VIDYALAYA,ANNARUWA KITHALAWA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17429,ETAMPOLA P.V.,ETAMPOLA - HOROMBAWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17430,KITHALAWA POOGALLA MAHA VIDYALAYA,KITHALAWA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,2.1C,provincial
+17432,GODAGAMA JANAPADA KANISHTA VIDYALAYA,NAKKAWATTA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,3.Type2,provincial
+17433,THELAHARA ARIYAWANSA K.V.,THELAHARA -KATUPOTHA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17434,DALUPOTHAGAMA P.V.,"DALUPOTHGAMA, KATUPOTHA",North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17435,DETHAWA K.V.,DERHAWA - DEEKIRIKEWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,3.Type2,provincial
+17436,PAHALA POTHUEWWA PRIMARY SCHOOL,KATUPOTHA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17437,BEMINIGALLA SRI SADDAWIMALA K.V.,BEMINIGGALLA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17438,RANASGALLA PRIMARY SCHOOL,NAKKAWATHTHA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17439,RUGGASSAGARA K.V.,RUGGASSAGARA - NAKKAWATHTHA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,3.Type2,provincial
+17440,WAHUMUWA KANISHTA VIDYALAYA,WAHUMUWA KIRINDAWA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17441,ALAHITIYA PRIMARY SCHOOL,ALAHITIYAWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17442,ANDIGEDARA PRIMARY SCHOOL,ANDIGEDARA - BOGAMULLA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17445,KARAGAHAGEDARA PRIMARY SCHOOL,KARAGAHAGEDARA - KARAGAHAGEDARA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17446,KILIMPOLA PRIMARY SCHOOL,PAHAMUNE,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17448,KODURUWAPOLA PRIMARY SCHOOL,KODURUWAPOLA - NAKKAWATHTHA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17450,BARIGODA MAHINDA MODEL PRIMARY SCHOOL,BARIGODA - NAKKAWATHTHA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17452,MAHAGAMA PRIMARY SCHOOL,HOROMBAWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17453,MANAWA K.V.,KIRIMETIYAWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,3.Type2,provincial
+17454,MURUTENGE JAYAKODY PRIMARY SCHOOL,"MURUTHANGA, MURUTHENGA",North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17455,BARAGEDARA ANAGARIKA DHARMAPALA M.M.V.,BARAGEDARA-ATHUNGAHAKOTUWA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17456,BIBILADENIYA SRI GUNANANDA M.M.V.,WELIPANNAGAHAMULLA.,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,2.1C,provincial
+17457,GAHALAGASWALA M.V.,DUMMALASOORIYA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,3.Type2,provincial
+17458,HORATHEPOLA MAHANAMA M.V.,HORATHEPOLA WELIPANNAGAHAMULLA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,2.1C,provincial
+17459,KATTIMAHANA M.V.,KATTIMAHANA DUMMALSOORIYA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,2.1C,provincial
+17460,KUBUKGAHAMULLA SRI BODHI M.M.V.,WALIPANNAGAHAMULLA.,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,2.1C,provincial
+17461,UDUBADDAWA DHAMMANANDA MAHA VIDYALAYA,UDUBDDAWA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,2.1C,provincial
+17462,SRI SADDANANDA P.V.,"BUNNAHAPOLA, UDUBADDAWA",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17463,DUNAKADENIYA R.C.V.,"DUNAKADENIYA, WELIPANNAGAHAMULLA",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17465,HENEGEDARA P.V.,UDUBADDAWA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17466,ST. ANNE'S COLLEGE,"KATTIMAHANA, DUMMALASOORIYA",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,3.Type2,provincial
+17467,KAPPANGAMUWA DARMAWARDANA P.V.,ILUKHENA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17468,KAHADENIGAMA P.V.,UDUBADDAWA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17469,SAMBUDDHALOKA P.V.,"KARAULLA, UDUBADDAWA",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17470,KOOTHARIPPUWA P.V.,WELIPANNAGAHAMULLA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17471,MANDAKONDANA R.C.V.,DUMMALASOORIYA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17472,THAWALLA DAMMALOKA M.V.,"YAGAMWELA, DUMMALASOORIYA",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,2.1C,provincial
+17473,THALGAHAPOTHTHA P.V.,"THALGAHAPOTHTHA, UDUBADDAWA.",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17474,WATHUWATHTHA SRISOBITHA P.V.,"WATHUWATHTHA, DUMMALASOORIYA",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17475,WEERAKODIYANA M.V.,"IHALA/WEERAKODIYANA,WEERAKODIYANA.",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,2.1C,provincial
+17477,KULIYAPITIYA DIGANWELA ANANGA VIDYALAYA,DIGANWELA WELLARAWA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,4.Type3,provincial
+17478,HAMANNAPAHUWA MODEL PRIMARY SCHOOL,HAMANNAPAHUWA NAGOLLAGODA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,4.Type3,provincial
+17480,UDAWELA KUMARA K.V.,WELIPANNAGAHAMULLA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,3.Type2,provincial
+17484,ST. JOHN OF ARC VIDYALAYA,UDUBADDAWA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17485,WALPITAGAMA GAMINI DARMARAJA K.V.,WADUMUNNEGEDARA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,3.Type2,provincial
+17486,WILAPOLA P.V.,"WILAPOLA, UDUBADDAWA",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17488,SHARIPUTHRA P.V.,DUMMALASOORIYA.,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,4.Type3,provincial
+17491,DEEGALLA REWATHA MADYA MAHA VIDYALAYA,DEEGALLA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,2.1C,provincial
+17492,LAKVIRU KUMARA VIDYALAYA,KITHALAWA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,2.1C,provincial
+17493,SRI SARANANDA MADYA MAHA VIDYALAYA,WEWAGA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,1.1AB,provincial
+17494,ILUKHENA GUNANANDA MAHA VIDYALAYA,ILUKHENA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,2.1C,provincial
+17495,KANADULLA DARMARAJA MAHA VIDYALAYA,KANADULLA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,1.1AB,provincial
+17496,MAHIMPITIYA KANISHTA VIDYALAYA,THALAHITIMULLA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17497,EMBAWA SRI SARANANKARA PRIMARY SCHOOL,EMBAWA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17498,SRI DAMMARATHANA KANISHTA VIDYALAYA,IHALA DIYADORA WEWAGAMA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17499,KULIYAPITIYA ST. JOSHEP BOY'S COLLEGE,KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,2.1C,provincial
+17500,KULIYAPITIYA HOLY ANJELS GIRLS COLLEGE,KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,1.1AB,provincial
+17501,SRI SUMANGALA VIDYALAYA,KUMBALWALA ILUKHENA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17502,GALPOLA KANISHTA VIDYALAYA,GALPOLA ILUKHENA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17503,THALAHITIMULLA KANISHTA VIDYALAYA,THALAHITIMULLA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17504,DIYAKALAMULLA SRIPATI ROYAL VIDYALAYA,DIYAKALAMULLA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17505,DELANA SILWATHENNA JUNIOR SCHOOL,DELANA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17506,PAHALA ELATHALAWA KANISHTA VIDYALAYA,DEEGALLA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17507,PAHALA DIYADORA KANISHTA VIDYALAYA,PAHALA DIYADORA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17508,MADAKUMBURUMULLA KANISHTA VIDYALAYA,MADUKUBURUMULLA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17509,WEERAMBUWA PRIMARY SCHOOL,WEERAMBUWA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17510,HAMMALAWA KANISHTA VIDYALAYA,HAMMALAWA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17512,KULIYAPITIYA ASSEDDUMA SUBARATHI KANISHTA VIDYALAYA,ASSEDDUMA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,2.1C,provincial
+17513,INGURUWATHTHA PRIMARY SCHOOL,PAHALADIYADORA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17514,ELUWAPOLA PRIMARY SCHOOL,ELUWAPOLA WEWAGAMA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17515,KATUWATHTHEWELA PRIMARY SCHOOL,WEWAGAMA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17516,THAWALANDANA PRIMARY SCHOOL,THAWALANDANA WEWAGAMA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17518,SAMBODI PRIMARY SCHOOL,BOHANDIYA ILUKHENA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17520,WADUGEDARA PRIMARY SCHOOL,WADUGEDARA WEWAGAMA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17521,HAGGAMUWA SRI REWATHA KANISHTA VIDYALAYA,HAGGAMUWA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17523,IMRA IRIYAGOLLA M.M.V.,YAKWILA,North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17524,KADANEGEDARA DHARMAPALA M.V.,WADUMUNNEGEDARA,North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17525,DARALUWA M.V.,DARALUWA,North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17526,HENDIYAGALA SRI RATHANAPALA M.V.,"HENDIYAGALA, SANDALANKAWA.",North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17527,WELPALLA M.V.,WELPALLA,North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17528,NEDALAGAMUWA RAHULA M.V.,"NEDALAGAMUWA, WADUMUNNEGEDARA",North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17529,GALLEHAMULLA M.V.,WELIPENNAGAHAMULLA,North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17530,MANKADURA VIDYANANDA V.,"MANKADUWA, GONAWILA.",North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17531,GONULLA VIDYADEEPTHI K.V.,GONULLA GONAWILA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17532,HETTIRIPPUWA K.V.,LIHIRIYAGAMA,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17533,WAGURUWELA K.V.,"WAGURUWELA, WELPALLA",North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17534,IHALA HUNDIRAPOLA K.V.,LIHIRIYAGAMA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17535,UTHURAWELA DHARMARAJA K.V.,WELIPANNAGAHAMULLA,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17536,KITHALAHITIYAWA P.V.,YAKVILA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17537,WERAHARA K.V.,"WERAHARA, YAKWILA",North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17538,RANDIYA VIDYALAYA,"GALAYAYA, PANNALA.",North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17539,DARALUWA K.V.,DARALUWA NWP,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17540,NALAWALANA K.V.,GONAWILA,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17542,JAYASRI PRIMARY SCHOOL,HUNUWILA ELABADAGAMA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17543,NAPOKUNA K.V.,GONAWILA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17545,WADUMUNNEGEDARA PRIMARY SCHOOL,WADUMUNNEGEDARA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17547,KORALAMPOTHTHA P.V.,WELPALLA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17551,INGRADAULA GEMUNU M M.V.,"INGRADAULA, NARANGODA",North Western,61.Kurunegala,Giriulla,Pannala,1.1AB,provincial
+17552,LABBALA M.V.,LABBALA,North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17553,HAMANGALLA M.V.,"HAMANGALLA, NARANGODA",North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17554,BOPITIYA M.V.,BOPITIYA,North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17555,KAWDUMUNNA M.V.,IHALA KATUGAMPALA,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17556,ELABADAGAMA SINHALA M.V.,ELABADAGAMA,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17557,WAYAMBA SRI SIDDHARTHA VIDYALAYA,MURUNTHANGE,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17558,HANGAWA SRI SUMANGALA P.V.,YAWILA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17559,NARANGODA KANISHTA VIDYALAYA,NARANGODA,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17560,KATUGAMPALA K.V.,IHALA KATUGAMPALA,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17561,MEDDEPOLA PRIMARY SCHOOL,MEDDEPOLA GIRIULLA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17562,ELIBICHCHIYA P.V.,ELIBICHCHIYA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17563,KOHOMBAPOLA PRIMARY SCHOOL,KOHOMBAPOLA PANNALA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17564,DODAMPOTHTHA K.V.,"DODAMPOTHTHA, NARANGODA",North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17565,DHAMMALOKA COLLEGE,GIRIULLA,North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17566,SIRI SIDATH PRIMARY SCHOOL,KOTUWELLA PANNALA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17567,WELLAWA P.V.,"WELLAWA, KU.BOPITIYA",North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17568,KADIRAPOLA P.V.,KADIRAPOLA NARANGODA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17569,HORAWADUNNA K.V.,"HORAWADUNNA, PANNALA.",North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17571,MAHOLAWA PRIMARY SCHOOL,KU/BOPITIYA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17573,BALAWALA P.V.,"BALAWALA, KU",North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17574,HELARAJABIMA P.S.,"WETHTHEWA, DAMBADENIYA.",North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17575,YATATHTHAWALA P.V.,YATATHTHAWALA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17578,HETTIPOLA MAHINDODAYA MAHA VIDYALAYA,HETTIPOLA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,1.1AB,provincial
+17579,BANDARAKOSWATHTHA MAHA VIDYALAYA,BANDARAKOSWATHTHA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17580,RATHMALLA SRI ARIYAWANSHA MAHA VIDYALAYA,KATUPOTHA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17581,KADAWALAGEDARA MAHA VIDYALAYA,THUTHTHIRIPITIGAMA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17582,KOLAMBAGAMA WIMALASEELA MAHA VIDYALAYA,KANATHTHEWEWA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17583,DEWAMEDI KUDAWEWA AGGAWANSA MAHA VIDYALAYA,MANDAPOLA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17584,MADULLA MAHA VIDYALAYA,SUNANDAPURA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,3.Type2,provincial
+17585,KATUMULUWA KANISHTA VIDYALAYA,KANATHTHEWEWA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,3.Type2,provincial
+17586,SIRISUMANA KANISHTA VIDYALAYA,KOORATIHENA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,3.Type2,provincial
+17587,KOSDENIYA MAHA VIDYALAYA,KOSDENIYA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17588,TEKEWA PRIMARY SCHOOL,HETTIPOLA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17589,PANDUWASNUWARA SRI MEDHANKARA KANISHTA VIDYALAYA,HETTIPOLA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17590,PALUGAHAWELA KANISHTA VIDYALAYA,HETTIPOLA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17591,RAMBAWEWA KANITU VIDYALAYA,SUNANDAPURA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,3.Type2,provincial
+17592,WADUMUNNA KANISHTA VIDYALAYA,KOORATIHENA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,3.Type2,provincial
+17593,WILBAGEDARA KANISHTA VIDYALAYA,BANDARAKOSWATHTHA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,3.Type2,provincial
+17594,HUNNELEMBUWA MAHA VIDYALAYA,SUNANDAPURA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17595,KATAGAMUWA KANISTA VIDYALAYA,BANDARAKOSWATHTHA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17596,MANDAPOLA PRAIMARI SCHOOL,MANDAPOLA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17597,KOONWEWA KANISHTA VIDYALAYA,MANDAPOLA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17598,NALLURA ANANDA PRIMARY SCHOOL,THUTHTHIRIPITIGAMA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17599,SRI SAMBUDDATHWA JAYANTHI MODEL PRIMARY SCHOOL,KANATHTHEWEWA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17605,MADAINA SARANANKARA KANISHTA VIDYALAYA,KOORATIHENA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,3.Type2,provincial
+17606,MEDAGAMA PRIMARY SCHOOL,KOSDENIYA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17607,WAYAMBA JANADHIPATHI VIDYALAYA,"MUNIHIRIGAMA , HETTIPOLA",North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17611,HINDAGAHAWEWA KANISTA VIDYALAYA,BANDARAKOSWATHTHA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,3.Type2,provincial
+17612,HETTIPOLA MODEL PRIMARY SCHOOL,HETTIPOLA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17614,NAGOLLAGODA M.M.V.,NAGOLLAGODA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,2.1C,provincial
+17615,KIRIMETIYAWA SRI SUMANASARA M.V.,KIRIMETIYAWA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,2.1C,provincial
+17616,JAYASENA RAJAKARUNA M.V.,DAHANAKGEDEARA MUNAMALDENIYA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,2.1C,provincial
+17617,DEMATAWA MAHA VIDYALAYA,MARAGANE,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17618,MAGULAGAMA M.V.,MAGULAGAMA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,2.1C,provincial
+17619,MORAGANE M.V.,MORAGANE,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,2.1C,provincial
+17620,EPALADENIYA K.V.,IHALA GOMUGOMUWA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,3.Type2,provincial
+17622,KAMBURAPOLA M.K.V.,MOONAMALDENIYA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,3.Type2,provincial
+17623,GONNAWA P.V.,GONNAWA ANUKKANE,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17624,GOMUGOMUWA K.V.,IHALA GOMUGOMUWA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,3.Type2,provincial
+17625,PIHIMBIYA RATHMALE K.V.,PIHIMBIYA RATHMALE,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,3.Type2,provincial
+17626,PORAWEWA K.V.,HALMILLAWEWA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17627,BANDARA DAMPITIYA K.V.,PIHIMBIYA RATHMALE,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,3.Type2,provincial
+17628,BODHIMULLA K.V.,BODHIMULLA ANUKKANA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,3.Type2,provincial
+17629,MOHOTHTHAWAGODA K.V.,MOHOTHTHAWADODA ANUKKANE,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,3.Type2,provincial
+17630,HANTHIHAWA K.V.,"HANTHIHAWA, HALMILLAWAWA",North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,3.Type2,provincial
+17631,PAHALA PIHIMBIYA P.V.,NAGOLLAGODA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17634,UDAGAMA K.V.,UDAGAMA KOORATIHENA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17636,JAYASIRIPURA INDRASARA P.V.,"JAYASIRIPURA, NAGOLLGODA",North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17639,GALAHITIYAWA P.V.,"GALAHITIYAWA, KIRIMATIYAWA",North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17640,DUNAKAYAWATHTHA P.V.,DUNAKAYAWATHTHA MOONAMALDENIYA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17641,DORATIYAGEDARA P.V.,"DORATIYAGEDARA, MOONAMALDENIYA",North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17644,RATHMULUKANDA SRI SUNANDA P.V.,RATHMULUKANDA MAGULAGAMA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17645,KOTAMBAPITIYA MUSLIM CENTRAL COLLEGE,HETTIPOLA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17646,BANDARAKOSWATHTHA MUSLIM MAHA VIDYALAYA,BANDARAKOSWATHTHA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17647,EHATTUMULLA MUSLIM M.V.,EHATTUMULLA NAGOLLAGODA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,2.1C,provincial
+17648,KOORATIHENA MUSLIM PRIMARY SCHOOL,ASANAKOTUWA KOORATIHENA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17649,MADIGE ANUKKANA MUSLIM MAHA VIDYALAYA,SUNANDAPURA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17650,MADIGE MIDIYALA CENTRAL COLLEGE,BANDARAKOSWATHTHA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,2.1C,provincial
+17651,THORAKOTUWA MUSLIM K.V.,THORAKOTUWA ANUKKANE,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,3.Type2,provincial
+17652,GODEKURUGAMA MUSLIM PRIMARY SCHOOL,THUTHTHIRIPITIGAMA,North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+17653,IHALA KINIYAMA MUSLIM M.V.,WEERAPOKUNA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,2.1C,provincial
+17654,DIVRUMPOLA MUSLIM K.V.,"DIVRUMPOLA, ETHUNGAHAKOTUWA.",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,3.Type2,provincial
+17655,ETHUMGAHAKOTUWA MUSLIM M.M.V.,ETHUNGAHAKOTUWA,North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,1.1AB,provincial
+17656,MADIGE WEEDIYAWALA MUSLIM VIDYALAYA,NAGOLLAGODA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17657,POOWELLA MUSLIM M.V.,POOWELLA-WEERAPOKUNA,North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,3.Type2,provincial
+17658,YAGAMWELA MUSLIM K.V.,"YAGAMWELA, DUMMALASOORIYA",North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,3.Type2,provincial
+17659,BAMMANNA AL-QAMAR CENTRAL COLLEGE,"BAMMANNA, NARANGODA",North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17660,AL-AMEEN M.M.V.,ALABADAGAMA,North Western,61.Kurunegala,Giriulla,Pannala,2.1C,provincial
+17661,AGARA MUSLIM VIDYALAYA,NARANGODA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17662,MUMMANA MUSLIM K.V.,"MUMMANA, DAMBADENIYA.",North Western,61.Kurunegala,Giriulla,Pannala,3.Type2,provincial
+17665,ARAKYALA MUSLIM MAHA VIDYALAYA,"ARAKYALA, KEKUNAGOLA",North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,2.1C,provincial
+17666,AL-HUMAIRA MUSLIM VIDYALAYA,EDANDAWELA WEWAGAMA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17667,MINHAJ MUSLIM VIDYALAYA,HOROMBAWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,3.Type2,provincial
+17668,KULIYAPITIYA MUSLIM KANISHTA VIDYALAYA,KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17669,KUREEKOTUWA SULEIMANIYA MUSLIM M.V.,KUREEKOTUWA-PAHAMUNE,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,2.1C,provincial
+17670,MEDDEKETIYA MUSLIM MAHA VIDYALAYA,MEDDEKETIYA - ALAHITIYAWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,2.1C,provincial
+17671,PANAVITIYA MUSLIM VIDYALAYA,PANAVITIYA - DEEKIRIKEWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,3.Type2,provincial
+17672,TORANEGEDARA AL-IRSHAD MUSLIM VIDYALAYA,THORANEGEDARA - KEKUNAGOLLA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+17673,YAYAWATHTHA MUSLIM VIDYALAYA,YAYAWATHTHA KIRINDADARA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,3.Type2,provincial
+17674,METIWALAGEDARA AL-BADUR MUSLIM VIDYALAYA,METIWELAGEDARA - HOROMBAWA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,3.Type2,provincial
+17676,MADAHAPOLA MAHINDA M.V.,MADAHAPOLA,North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17677,MAKULPOTHA M.V.,MKULPOTHA,North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17678,MAELIYA M.V.,MAELIYA,North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17679,AMBAGASWEWA M.V.,HIRIPITIYA,North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17680,MAELIYA BALAGOLLA K.V.,BALAGOLLA MAELIYA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17681,T.B.WIJESOORIYA K.V.,DORAWERAWA MAELIYA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17682,GALKETIYAGAMA K.V.,POLPITHIGAMA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17683,PANSIYAGAMA M.V.,PANSIYAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17684,HATHIGAMUWA P.S.,POLPITHIGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17685,MAHANAMA MAHA VIDYALAYA,"KORUWAWA, POLPITHIGAMA",North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17686,MADAHAPOLA KANDA K.V.,MADAHAPOLA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17687,NIYADAWANAYA K.V.,"MEEGASWEWA, KOONWEWA",North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17688,NAKWATHTHAGAMA K.V.,MAKULPOTHA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17689,PONNILAWA M.V.,PONNILAWA MAELIYA,North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17690,RAWA ELA K.V,THALAKOLAWEWA POLPITHIGAMA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17691,THALPATHWEWA K.V.,"THALPATHWEWA, POLPITHIGAMA",North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17692,THALAKOLAWEWA M.V.,POLPITHIGAMA,North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17693,DAGAMA P.V.,DAGAMA MAELIYA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17694,DEEGAMA P.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17695,GALTEMWEWA P.V.,GALTEMWEWA POLPITHIGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17696,HAKWATUNAOYA P.V.,THALAKOLAWEWA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17697,IMIHAMINEGAMA P.V.,IMIHAMINEGAMA PANSIYAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17698,MADITHIYAGOLLA K.V.,PANSIYAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17699,NIKAWEHERA P.V.,MAKULPOTHA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17700,PALAGAMA K.V.,MAKULPOTHA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17701,THELABIYAWA P.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17702,WEHERAGALA P.V.,MAELIYA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17703,KALUGALLA K.V.,NIKADALUPOTHA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17704,PALLAKALE K.V.,ULPOTHA PALLEKELE,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17705,HALMILLAGOLLA K.V.,DIDDENIYA MELSIRIPURA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17706,POTUWEPITIYA P.V.,KOONWEWA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17707,POTHUVILA SIRI PARAKUM M.V.,POTHUVILA PALLAKELE,North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17709,VISHWA DEEPANI M.M.V,ANURADAPURA ROAD AMBANPOLA,North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17710,BALALLA U.B.WANNINAYAKA MAHA VIDYALAYA,BALALLA,North Western,61.Kurunegala,Maho,Maho,1.1AB,provincial
+17711,NAGOLLAGAMA M.V.,NAGALLAGAMA,North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17712,YAPAHUWA SUBASEN MAHA VIDYALAYA,"YAPAHUWA, MAHO",North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17713,PAHALAGAMA M.V.,KOONWEWA,North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17714,WALALIYA M.V.,"WALALIYA, AMBANPOLA",North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17715,KARAMBE M.V.,"KARAMBE, MAHO",North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17716,THUMBULLEGAMA M.V.,"MEDIYAWA, MAHO",North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17717,THAMMITAGAMA M.V.,"THAMMITAGAMA, MAHO",North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17718,YAPAW ROYAL COLLEGE,GALA AMBAGASWEWA NAGOLLAGAMA,North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17719,ABAKOLAWEWA P.V.,"ABAKOLAWEWA, AMBANPOLA",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17720,BAKMEEGAHAWATHTHA K.V.,BAKMEEGAHAWATHTHA,North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17721,BAKMEEWEWA K.V.,AMBANPOLA,North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17722,BAMUNUGAMA K.V.,"BAMUNUGAMA, NAGOLLAGAMA",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17723,BORAWEWA K.V.,AMBANPOLA,North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17724,ELLABADAGAMA P.V.,AMBANPOLA,North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17725,EMBOGAMA K.V.,MAHO,North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17726,GAJANEGGAMA M.V.,RIDEEBEDI ELLA,North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17727,HITHOKADAWALA K.V.,MAHO,North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17728,SOBHITHA VIDYALAYA,BALALLA,North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17729,IPALOGAMA K.V.,"IPALOGAMA, MAHO",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17730,KANDUBADAGAMA P.V.,"KANDUBADAGAMA, MAHO",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17731,KASIKOTE K.V.,AMBANPOLA,North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17732,KATHTHAPAHUWA K.V.,"KATHTHAPAHUWA, AMBANPOLA",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17733,S.MAHINDA P.V.,"KIVULLEWA, BALALLA",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17734,KOONWEWA M.V.,KOONWEWA,North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17735,MORAGOLLA K.V.,"MORAGOLLA, MAHO",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17736,UDADIVULWEWA M.V.,AMBANPOLA,North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17737,ROLAWA P.V.,"ROLAWA, AMBANPOLA",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17738,UDUWEERIYA K.V.,UDUWERIYA,North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17739,WERAGALA SRI RAHULA P.V.,"AMBAGASWEWA, RIDIBENDI ELLA",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17740,EMBALEGODA M.V.,NAGOLLAGAMA,North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17741,AMBANPOLA MODEL P.V.,AMBANPOLA,North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17742,C.W.W. KANNANGARA P.V.,"KIRIMETIYAWA, AMBANPOLA",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17743,MORAGASWEWA P.V.,"MORAGASWEWA KONWEWA, MAHO",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17744,NARAMANAKOTUWA P.V.,NAGOLLAGAMA,North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17745,NELUMPATHWEWA P.V.,AMBANPOLA,North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17746,PANWEWA P.V.,"PANWEWA, MAHO",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17747,SRI HENRY OLCOTT MODEL P.V.,"PALAPATHWALA, AMBANPOLA",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17748,"THISNAMPALAGAMA, K.V.","THISNAMPALAGAMA, MAHO",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17749,MAHO GUNAPALA MALALASEKARA MODEL K.V.,"WALASWEWA, MAHO",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17750,UDAGAMA P.V.,MAHO,North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17751,DEHENAGGAMA K.V.,"KARAMBE, MAHO",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17752,WEGEDARAGAMA K.V.,"KARAMBE, MAHO",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17753,DALADAGAMA P.V.,"DALADAGAMA, MAHO",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17754,RANDENIGAMA MUSLIM K.V.,MAHO,North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17755,NIKAWERATIYA MUSLIM M.M.V.,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,2.1C,provincial
+17756,MADAPOKUNA MAHIRA MUSLIM K.V.,"MADAPOKUNA, MAHO",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17758,EHETUWEWA BANDARNAYAKA M.V.,EHETUWEWA,North Western,61.Kurunegala,Maho,Galgamuwa,1.1AB,provincial
+17759,NIKAWEWA DEWANMPIYATHISSA M.V.,"NKAWEWA, MORAGOLLAGAMA",North Western,61.Kurunegala,Maho,Polpitigama,1.1AB,provincial
+17760,SRI SIDDARTHA M.V.,"KUDAKATHNORUWA, MEEGALEWA",North Western,61.Kurunegala,Maho,Galgamuwa,2.1C,provincial
+17761,PAHALA GIRIBAWA M.V.,PAHALA GIRIBAWA,North Western,61.Kurunegala,Maho,Giribawa,1.1AB,provincial
+17762,USGALA THISSA M.V.,"USGALA SIYABALNGAMUWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,2.1C,provincial
+17763,BUDURUWAKANDA M.V.,"BUDURUWAKANDA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,2.1C,provincial
+17764,USGALA GEMUNU M.V.,"UNIT-01,USGALA SIYABALANGAMUWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,2.1C,provincial
+17765,BORAWEWA M.V.,MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17766,SOLE M.V.,SOLEWEWA,North Western,61.Kurunegala,Maho,Giribawa,2.1C,provincial
+17768,MAHA NANNERIYA M.V.,MAHANANNERIYA,North Western,61.Kurunegala,Maho,Galgamuwa,1.1AB,provincial
+17769,MAILEWA M.V.,"MAILEWA, THAMBUTHTHA",North Western,61.Kurunegala,Maho,Giribawa,2.1C,provincial
+17770,THAMBUTHTHA M.V.,"THAMBUTHTHA, GALGAMUWA",North Western,61.Kurunegala,Maho,Giribawa,3.Type2,provincial
+17772,ATHARAGALLA K.V.,"ATHARAGALLA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17773,IHALA NANNERIYA KANISHTA VIDYALAYA,"MAHA NANNERIYA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17774,KADAWALA K.V.,MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17775,KALLANCHIYA P.V.,"WANNI IHALAGAMA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17776,GALPITIYA K.V.,GIRATHALANA MEEGALEWA,North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17777,DIMBULAGALA V.,"DIULGANE, EHETUWEWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17778,DEWAGIRIPURA WALAGAMBA M.V.,"DEWAGIRIRPURA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,2.1C,provincial
+17779,GNANESHWARA KANISHTA VIDYALAYA,"MAKULAWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17780,PALUWA VIDYADEEPA V.,"WANNI IHALAGAMA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17781,BULNEWA VIDYALAYA,GALGAMUWA,North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17782,MAHA EMBOGAMA MODEL K.V.,EMBOGAMA,North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17783,MAHATHORAWA K.V.,"MAHANANERIYA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17784,MADADOBE P.V.,"GALLEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17785,MAPEGAMUWA MAHA VIDYALAYA,"MAPEGAMUWA, MORAGOLLAGAMA",North Western,61.Kurunegala,Maho,Polpitigama,2.1C,provincial
+17786,WANNIKUDAEWA SIRISAGABO M.V.,"WANNIKUDAWEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Giribawa,2.1C,provincial
+17787,WARAWEWA M.V.,"WARAWEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Giribawa,2.1C,provincial
+17788,SALIYA ASOKA NAWODYYA SCHOOL,"RAJANGANAYA (L.B.) YAYA 02, SALIYA ASOKAPURA",North Western,61.Kurunegala,Maho,Giribawa,2.1C,provincial
+17789,SIYAMBALANGAMUWA K.V.,SIYAMBALANGAMUWA MAHO,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17790,USGALA SALIYARAJA K.V.,"USGALA SIYABALANGAMUWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17791,DHARMODAYA KANISHTA VIDYALAYA,"HUNUGALLEWA, EHETUWEWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17792,PALUKADAWALA SRI SUMANA VIDYALAYA,"PALUKADAWALA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17793,MAHINDHA PRIMARY SCHOOL,"ERIYAWA, EHETUWEWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17794,KUMBUKKADAWALA K.V.,MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17795,MAKALANEGAMA V.,"MAKALANEGAMA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17796,MAHAGALKADAWALA MAHASEN VIDYALAYA,"MAHAGALKADAWALA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17797,RAJANGANAYA YAYA 06 VIDYALAYA,WARAWEWA,North Western,61.Kurunegala,Maho,Giribawa,4.Type3,provincial
+17798,MEDINNORUWA K.V.,MEEGALEWA,North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17799,JAYABIMA SIRI SUDASSI P.V.,"LEEKOLAWEWA, MEDAGAMA, MAHAGALKADAWALA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17800,THENNAKOONGAMA K.V.,MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17802,PEDDOGAMA KANISHTA VIDYALAYA,PEDDOGAMA MAHANANNERIYA,North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17803,VIKADENIGAMA K.V.,"MAKULEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17804,LAKJAYA K.V.,"YAYA 04, SOLEWEWA",North Western,61.Kurunegala,Maho,Giribawa,3.Type2,provincial
+17805,EHETUWEWA MODEL PRIMARY SCHOOL,"EHETUWEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17806,IHALA MARADANKADAWALA P.V.,"IHALA MARADANKADAWALA, OAHALA GIRIBAWA",North Western,61.Kurunegala,Maho,Giribawa,4.Type3,provincial
+17807,IHALAGAMA KANISHTA VIDYALAYA,"WANNI IHALAGAMA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17808,IHALA KONWEWA PRIMARY SCHOOL,"IHALA KONWEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17809,KADURUWEWA P.V.,"KADURUWEWA, EHETUWEWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17810,GANEKANDA P.V.,MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17811,GAMPOLA K.V.,"GAMPOLA, PAHALA GIRIBAWA",North Western,61.Kurunegala,Maho,Giribawa,3.Type2,provincial
+17812,THALAWA P.V.,SIYABALANGAMUWA MAHO,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17813,THAMMENNAWA K.V.,"THAMMENNAWA, THAMBUTHTHA",North Western,61.Kurunegala,Maho,Giribawa,4.Type3,provincial
+17814,THARANAGOLLAGAMA K.V.,MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,3.Type2,provincial
+17816,NAKOLAGANE K.V.,"ATHARAGALLA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17817,NAHETTIKULAMA PRIMARY SCHOOL,"MAHA NANNERIYA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17818,POTHANEGAMA PRIMARY SCHOOL,"KUDAKATHNORUWA, MEEGALEWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17820,WAYAMBA JANADHIPATHI VIDYALAYA,"PALUKANDEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17821,MANAKKULIYAGAMA PRIMARY SCHOOL,"MANAKKULIYAGAMA, EHETUWEWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17822,JAYANTHIPURA K.V.,"JAYNYHIPURA, SOLEWEWA,",North Western,61.Kurunegala,Maho,Giribawa,4.Type3,provincial
+17823,WAMBATUWEWA P.V.,"ALUTHGAMA, MORAGOLLAGAMA",North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17824,WANNI AMUNUKOLE P.V.,"WANNIAMUNUKOLE, MAHANANNERIYA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17825,POTHANEGAMA VIJAYA K.V.,PAHALA GIRIBAWA,North Western,61.Kurunegala,Maho,Giribawa,3.Type2,provincial
+17826,SIYAMBALEEWA P.V.,"SIYAMBALEEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17827,HETTIARACHCHIGAMA P.V.,"HETTIARACHCHIGAMA, WARAWEWA",North Western,61.Kurunegala,Maho,Giribawa,4.Type3,provincial
+17828,HERATHGAMA P.V.,HERATHGAMA MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17829,MEEGALEWA PRIMARY SCHOOL,MEEGALEWA,North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17830,POHORAWATHTHA SRI SIDDHARTHA P.V.,MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17831,RAMBAWEWA BUWANEKABA P.V.,MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17832,WANEKOLANIAYA PRIMARY SCHOOL,"ATHARAGALLA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17833,GALAPITA DIGANA P.V.,"GALLEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17834,DHARMASHOKA K.V.,"DHAMSOPURA, SALIYA ASHOKAPURA",North Western,61.Kurunegala,Maho,Giribawa,3.Type2,provincial
+17835,MAHAWELITHENNA PRIMARY SCHOOL,"MAHAWELITHENNA, MEEGALEWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17836,BONGAMUWA P.V.,"BONGAMA, GIRATHALANA, MEEGALEEWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17837,GANANGAMUWA PRIMARY SCHOOL,"GANANGAMUWA, MEEGALEWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17839,THUMBULLA M.V.,NABADEWA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,2.1C,provincial
+17840,DIVULLEGODA M.V.,DIVULLEGODA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,2.1C,provincial
+17841,SRI SARANANDA MAHA VIDYALAYA,"HEELOGAMA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,2.1C,provincial
+17842,KAVISENA HERATH M.V.,"HULUGALLA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,2.1C,provincial
+17843,HULOGEDARA M.V.,HULOGEDARA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,2.1C,provincial
+17844,IHALAGAMA K.V.,HULUGALLA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17845,OTHOTA RADENIGAMA K.V.,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17846,KEBELLEWA K.V.,HEELOGAMA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17847,KUMBUKWEWA K.V.,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17848,GALAGEDARA K.V.,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17849,THIMBIRIYAWA K.V.,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17850,DANDUWAWA M.V.,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17851,DALUKGOLLA SRI DAMMARAKKITHA MODEL V,"DALUKGOLLA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17852,PRINCE COLLEGE,"MADURAGAMA, HULOGEDARA",North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17853,D.S.SENANAYAKA P.S.,"MILLAGODA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17854,WANDURESSA SRI BUDDARAKKITHA V.,MAHAGIRILLA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17855,WANNI KIRINDIGALLA P.V.,REDEEBENDIELLA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17856,HALMILEWA K.V.,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17857,UDAHENEGAMA P.S.,KOTAWEHERA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17859,NIKAWERATIYA JAYANTHI CENTRAL COLLEGE,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,1.1AB,provincial
+17861,RAMBAPOKUNA P.V.,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17862,WAYAMBA PRESIDENT'S COLLEGE,"HEWENPELESSA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17863,RAJABIMA V.,"MAGALLEGAMA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,2.1C,provincial
+17865,OTHOTA DIVULLEWA P.S.,DIVULLEGODA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17866,SUDEERAGAMA P.S.,"SUDEERAGAMA, KOTAWEHERA",North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17869,I.M.R.A.IRIYAGOLLA CENTRAL COLLEGE,BORALUWEWA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,1.1AB,provincial
+17870,SIRI SUMANASIRI M.V.,"SIYABALAGAHAWETIYA, KOBEIGANE",North Western,61.Kurunegala,Nikaweratiya,Kobeigane,2.1C,provincial
+17871,VITHIKULIYA M.M.V.,VITHIKULIYA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,2.1C,provincial
+17872,ALAHENEGAMA M.V.,ALAHENEGAMA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,2.1C,provincial
+17874,IHALAGAMA GAMUNU VIDYALAYA,ALAHENEGAMA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,2.1C,provincial
+17875,SIRI PERAKUM P.V.,KOSGAHAWEWA KOBEIGANE,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17876,THELAHERA M.V.,HENGAMUWA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,2.1C,provincial
+17877,PANNAWA SINHALA P.V.,KOBEIGANE,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17878,PAHALA BALADORA P.V.,KOBEIGANE,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17879,PUBBILIYA K.V.,KOBEIGANE,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,3.Type2,provincial
+17880,MELLAGASWEWA P.V.,BANDARAKOSWATHTHA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17881,MIDELLAEA WIMALASHEELA M.V.,BANDARAKOSWATHTHA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,3.Type2,provincial
+17882,HALMILLAKOTUWA K.V.,THUTHTHIRIPITIGAMA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,3.Type2,provincial
+17883,HENGAMUWA M.V.,HENGAMUWA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,3.Type2,provincial
+17884,ASSEDDUMA P.V.,BORALUWEWA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17885,GETADIWULWEWA P.V.,KOBEIGANE,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17886,BAMUMUGAMA M.V.,"BAMUNUGAMA, MIRIHANEGAMA",North Western,61.Kurunegala,Nikaweratiya,Kobeigane,2.1C,provincial
+17887,LEEKOLAWEEA P.S.,BORALUWEWA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17888,LOLANWEWA SINHALA P.V.,KOBEIGANE,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17889,HATHALAWA K.V.,BORALUWEWA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,3.Type2,provincial
+17892,KADIGAWA M.V.,"KADIGAWA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17893,GIRILLA BODHIRAJA M.M.V,MAHAGIRILLA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17894,DIGANNEWA SRI DEVAMITHTHHA M.V.,DIGANNEWA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17895,H.M.RASNAYAKA M.M.V.,"RASNAYAKAPURA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17896,MEEWELLAWA M.V.,"MEEWELLAWA, MEEWELLAWA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17897,MONNEKULAMA M.V.,MONNEKULAMA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17898,HALAMBAGALA M.V.,SIRISETHAGAMA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17899,ALUTHGAMA K.V.,DIGANNEWA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17900,UDUNOWA K.V.,MONNEKULAMA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17901,UNAGOLLA K.V.,"UNAGOLLA, HEELOGAMA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17902,KELEGAMA K.V.,DIGANNEVA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17903,KIRINDA K.V.,MAHAGIRILLA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17904,KUDARAVALIYA K.V.,"THAMBAROMBUWA, KOTAWEHERA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17905,GALKADAWALA K.V.,"GALKADAWALA, MEEWALLAWA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17906,DIVULLAPITIYA P.V.,"DIVULLAPITIYA, MEEWELLEWA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17907,NAWANA M.V.,"THIMBIRIYAWA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17908,NELUMGALA P.V.,WANNI RASNAYAKAPURA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17909,PALUGOLLA YAYA 10 M.V.,"PALUGOLLA, GALGAMUWA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17910,MAHAMITHAWA K.V.,"MAHAMITHAWA, MONNEKULAMA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17911,HALABE K.V.,MONNEKULAMA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17912,ITHEWA K.V.,"THIMBIRIYAWA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17913,UNALE P.V.,"UNALE, KOTAWEHERA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17914,OTTUKULAM HIJRA MUSLIM M.V.,"OTTUKULAMA, RASNAYAKAPURA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17915,KURAVIKULAMA P.V.,"KURUVIKULAMA, KADIGAWA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17916,THEIYADALUWA P.V.,"KADIGAWA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17917,NAGANSOLE P.V.,"RASNAYAKAPURA, WANNI RASNAYAKAPURA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17918,EAST THIMBIRIYAWA K.V.,THIMBIRIYAVA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17919,NEERALIYADDA K.V.,"HEELOGAMA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,3.Type2,provincial
+17920,MAGURANKADAWALA P.V.,MAGURANKADAWALA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17923,IHALA OTTUKULAMA K.V.,WANNIRASNAYAKAPURA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17924,ELAGAMMILLAWA K.V.,MEEWALLAWA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17925,KEENAWA P.V.,"KEENAWA, MEEWALLAWA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17926,SIRISETHAGAMA P.V.,"SIRISETHAGAMA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17930,SIYAMBALEWA SRI SOBHITHA P.V.,"SIYAMBALEWA, MONNEKULAMA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17931,GALLEGODA P.V.,MONNEKULAMA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17933,EAST MORAGOLLAGAMA P.V.,"THIMBIRIYAWA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17934,U.B.WANNINAYAKA M.M.V.,KOTAWEHERA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17935,AL-MADEENA MUSLIM M.V.,MAHO,North Western,61.Kurunegala,Maho,Maho,2.1C,provincial
+17936,PANNAWA MUSLIM M.V.,KOBEIGANE,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,2.1C,provincial
+17937,ABUKKAGAMA MUSLIM M.V.,"ABUKKAGAMA, MONNEKULAMA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17938,NAMMUWAWA MUSLIM M.V.,HEELOGAMA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,2.1C,provincial
+17939,BORALUWEWA AL-ILMIYA M.V.,BORALUWEWA,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,1.1AB,provincial
+17940,GALPANAWA MUSLIM K.V.,"GALPANAWA, MONNEKULAMA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,2.1C,provincial
+17941,KOLLANDALUWA MUSLIM K.V.,KADIGAWA,North Western,61.Kurunegala,Nikaweratiya,Kotavehera,3.Type2,provincial
+17943,HIJRA MUSLIM K.V.,"ANURADHAPURA ROAD, AMBANPOLA",North Western,61.Kurunegala,Maho,Maho,3.Type2,provincial
+17944,GALGAMUWA MODEL MUSLIM M.V.,GALGAMUWA,North Western,61.Kurunegala,Maho,Galgamuwa,2.1C,provincial
+17945,ALIYAWETUNUWEWA MUSLIM M.V.,"THAMBUTHTHA, GALGAMUWA",North Western,61.Kurunegala,Maho,Giribawa,2.1C,provincial
+17946,GALGAMUWA ROMAN CATHOLIC TAMIL VIDYALAYA,"MAHAGALGAMUWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17947,GALLEWA MUSLIM V.,"GALLEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17948,WANNI KUDAWEWA MUSLIM K.V.,"WANNIKUDAWEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Giribawa,3.Type2,provincial
+17949,WALPALUWA MUSLIM M.V.,"WALPALUWA, THAMBUTHTHA, GALGAMUWA",North Western,61.Kurunegala,Maho,Giribawa,2.1C,provincial
+17950,JAGAMA AL-HAKIM MUSLIM VIDYALAYA,"PALUKADAWALA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17951,KATTAKADUWA MUSLIM VIDYALAYA,"PALUKADAWALA,GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17952,KARAMBEWA ALMINA M.V.,"WANNIKUDAWEWA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17953,ANGAMUGAMA MUSLIM K.V.,"ANGAMUGAM, KOONWEWA, MAHO",North Western,61.Kurunegala,Maho,Galgamuwa,3.Type2,provincial
+17954,ASSIRAJ MUSLIM P.V.,"LOLANWFEWA, KOBEIGANE",North Western,61.Kurunegala,Nikaweratiya,Kobeigane,3.Type2,provincial
+17956,KATAGAMUWA P.S.,NIKAWERATIYA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17957,MANAPAYA P.V.,DIVULLEGODA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17958,AMBALAYAGAMA P.S.,"AMBALAYAGAMA, HENGAMUWA",North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17959,BAMBARE P.V.,"R.L.B.TRACK 03, SOLEPURA",North Western,61.Kurunegala,Maho,Giribawa,4.Type3,provincial
+17960,POLPITHIGAMA BUWANEKABA P.V.,KOONWEWA,North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17961,SAMAGIGAMA P.V.,KOBEGAME,North Western,61.Kurunegala,Nikaweratiya,Kobeigane,4.Type3,provincial
+17964,WASIWEWA P.S.,RIDIBINDIELLA,North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,4.Type3,provincial
+17965,AMBAGASWEWA P.V.,"AMBAGASWEWA, MEEWELLEWA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17969,KUDAMITHAWA P.V.,"KUDAMITHAWA, MONNEKULAMA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17970,BANADARAGAMA PRIMARY SCHOOL,"BANDARAGAMA,MEEGALEWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17971,GURULUPITIGAMA P.V.,"GURULUPITIGAMA, WARAWEWA",North Western,61.Kurunegala,Maho,Giribawa,4.Type3,provincial
+17972,REKEULA P.V.,THALAKOLAWEWA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17973,ATHGALPURA VDYADEEPA V.,NIDAHASGAMA WELLAWA,North Western,61.Kurunegala,Kurunegala,Mawathagama,3.Type2,provincial
+17974,KURUNEGALA WAYAMBA ROYAL COLLEGE,KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,provincial
+17976,SIDDHARTHA P.V.,"KOKMADUWA, PAHALA GIRIBAWA",North Western,61.Kurunegala,Maho,Giribawa,4.Type3,provincial
+17978,BAMBARAGALAYAYA K.V.,ULPATA PALLEKELE,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17979,WALAGAMBA P.V.,KATTAMBERIYA MAKULPOTHA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17980,KALUWILAPOTHANA P.V.,AMBANPOLA,North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17981,SIRIMAWO BANDARANAYAKE PRIMARY SCHOOL,GALGAMUWA,North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17982,KAWISIGAMUWA P.V.,KAWISIGAMUWA MORATHIHA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17983,WEERA WALAGAMBA P.V.,KELEMULLA MADURAGODA,North Western,61.Kurunegala,Ibbagamuwa,Rideegama,4.Type3,provincial
+17984,KULIYAPITIYA VISHAKA VIDYALAYA,KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,1.1AB,provincial
+17985,D P WICKRAMASINGHE VIDYALAYA,MAWATHAGAMA,North Western,61.Kurunegala,Kurunegala,Mawathagama,2.1C,provincial
+17986,MAHANANNERIYA PRIMARY SCHOOL,"MAHANANNERIYA, GALGAMUWA",North Western,61.Kurunegala,Maho,Galgamuwa,4.Type3,provincial
+17987,KORUWAWA P.V.,POLPITHIGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17988,VIJAYA VIDYALAYA,YAYA IHALA GOMUGOMUWA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17989,PAHALA GIRIBAWA P.V.,PAHALA GIRIBAWA,North Western,61.Kurunegala,Maho,Giribawa,4.Type3,provincial
+17990,PANDUPURA SUBHOOTHI P.V.,MAGULAGAMA MAGULAGAMA,North Western,61.Kurunegala,Kuliyapitiya,Dahanekgedara,4.Type3,provincial
+17991,SRI SEELARATHANA PRATHAMIKA VIDYALAYA,WEWEGAMA KULIYAPITIYA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+17992,RATHUPOLA ANANDA PRIMARY VIDYALAYA,MINUWANGAMUWA WALAKUMBURUMULLA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17993,MAHINDODAYA P.V.,DAMBADENIYA,North Western,61.Kurunegala,Giriulla,Alawwa,4.Type3,provincial
+17994,SIRI SARASAVI P.V.,BATAPOTHALA NARANGODA,North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17995,PRATHIBA P.V.,"KONDURUWAWELA,RARANGODA",North Western,61.Kurunegala,Giriulla,Pannala,4.Type3,provincial
+17996,DIGANNEWA P.V.,"DIGANNEWA, NIKAWERATIYA",North Western,61.Kurunegala,Nikaweratiya,Kotavehera,4.Type3,provincial
+17997,SRI MEDHANKARA P.V.,"YAPAHUWA, MAHO",North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+17998,POLPITHIGAMA RAJASINGHE P.V.,POLPITHIGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+17999,BAUDDHALOKA VIDYALAYA,DEEGALLA DEEGALLA,North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,4.Type3,provincial
+18001,ANAMADUWA CENTRAL COLLEGE,ANAMADUWA,North Western,62.Puttalam,Puttalam,Anamaduwa,1.1AB,provincial
+18002,SRI RATHANAPALA M.V.,MAHAUSWEWA,North Western,62.Puttalam,Puttalam,Anamaduwa,1.1AB,provincial
+18003,WIMALARATHNA KUMARAGAMA K.V.,"THALGASWEWA, ANAMADUWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18004,PALIYAGAMA SHARIPUTHRA M.V.,"URIYAWA, ANAMADUWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,2.1C,provincial
+18005,KOTHALAKEMIYAWA K.V.,"KOTHALAKEMIYAWA, ANAMADUWA",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18006,WALPALUWA KANISHTA VIDYALAYA,"WALPALUWA, MAHAKUMBUKKDAWALA",North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18007,WADIGAMANGAWA K.V.,ANAMADUWA,North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18008,PERIYAKULAMA K.V.,"PERIYAKULAMA, ANAMADUWA",North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18009,UPPALAWATTA K.V.,"UPPALAWATTA, ANAMADUWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18010,ATHTHIKULAMA K.V.,"ATHTHIKULAMA, ANAMADUWA",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18011,KEDETHTHAWA P.V.,ANAMADUWA,North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18012,DIULWEWA K.V.,DIULWEWA ANAMADUWA,North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18013,KOTTAGAMA SRIPALI K.V.,"URIYAWA, ANAMADUWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18014,THONIGALA NEW MODEL K.V.,"THONIGALA, ANAMADUWA",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18015,WATHTHEGEDARA P.V.,"WATHTHEGEDARA, MAHAUSWEWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18016,MUNAMALGAWEWA SIRIPERAKUM K.V.,"H7-GAMMANAYA, MAHAUSWEWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18019,WAYAMBA JANADIPATHI VIDYALAYA,"DHARMAPALAYA, ANAMADUWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18020,NAWAGATHTHEGAMA M.V.,NAWAGATHTHEGAMA,North Western,62.Puttalam,Puttalam,Anamaduwa,1.1AB,provincial
+18021,THAMMENNAWETIYA P.V.,"THAMMENNAWETIYA,IHALA KURUKETIYAWA",North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18022,KOONKADAWALA K.V.,NAWAGATHTHEGAMA,North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18023,RAMBAKANAYAGAMA P.V.,NAWAGATHTHEGAMA,North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18024,DANGAHAWEWA K.V.,NAWAGATHTHEGAMA,North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18026,IHALA KURUKETIYAWA K.V.,KURUKETIYAWA,North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18027,INGINIMITIYA M.V.,INGINIMITIYA,North Western,62.Puttalam,Puttalam,Anamaduwa,2.1C,provincial
+18028,RALAPANAWA K.V.,NAWAGATHTHEGAMA,North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18030,KELEWEWA VIJAYA M.V.,"THAMMENNAWETIYA, NAWAGATHTHEGAMA",North Western,62.Puttalam,Puttalam,Anamaduwa,2.1C,provincial
+18031,WELEWEWA SUMEDHA K.V.,"WELEWEWA, NAWAGATHTHEGAMA.",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18032,MAHA ANDARAWEWA K.V.,"MAHA ANDARAWEWA, NAWAGATHTHEGAMA.",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18033,KOTTUKACHCHIYA M.V.,KOTTUKACHCHIYA,North Western,62.Puttalam,Puttalam,Anamaduwa,2.1C,provincial
+18034,VIDYASAGARA KANISHTA VIDYALAYA,"KALLADIYA,PUTTLAM",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18035,MAHA KUMBUKKADAWALA K.V.,MAHAKUMBUKKADAWALA,North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18036,KIWULAKELE.M.V.,"KIWULA, NO.4, KOTTUKACHCHIYA",North Western,62.Puttalam,Puttalam,Pallama,2.1C,provincial
+18037,WADATTA K.V.,"WADATTA, KOTTUKACHCHIYA",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18038,U.B.JAYASOORIYA M.V.,"SIYABALAGASHENA, ANAMADUWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,2.1C,provincial
+18039,DEWALAHANDIYA JAYAWARDHANA PRIMARY SCHOOL,KOTTUKACHCHIYA,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18040,SEMBUKULIYA JUNIOR SCHOOL,"SEMBUKULIYA, MAHAKUBUKKADAWALA",North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18041,SOHONKALMA KANISHTA VIDYALAYA,MAHAKUMBUKKADAWALA,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18042,KIVULA PRIMARY SCHOOL,MADURANKULIYA,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18043,ETHUNGODA ISIPATHANA K.V.,ETHUNGODA. KOTTUKACHCHIYA,North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18044,THABBOWA M.V.,THABBOWA,North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18045,SIRAMBIADIYA K.V.,"ANURADAPURA RD, SIRAMBIADIYA",North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18046,D.S. SENANAYAKA K.V.,KARUWALAGASWEWA PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18047,THEWANUWARA P.V.,THABBQWA PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18049,THABBOVA R.C.VIDYALAYA,THABBOWA PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18050,MANAWERIYA K.V.,SIRAMBIADIYA PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18052,VIDYARAJA P.V.,KARUWALAGASWEWA PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18053,VIDYA CHAKRAWARTHI M.V.,IHALAPULIYANKULAMA PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18054,GALAWEWA M.V.,KUMBUKKALLA PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18055,KUMBUKWEWA ATTADASSI K.V.,KUMBUKKALLA PUTTLAM,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18056,SALIYA MODEL SCHOOL,SALIYAWEWA JUNCITON PUTTLAM,North Western,62.Puttalam,Puttalam,Puttalam North,1.1AB,provincial
+18057,PAHARIYA WIJAYARAJA K.V.,"PAHARIYA,IHALA PULIYANKULAMA",North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18058,MOONAMALGASWEWA K.V.,IHALA PULIYANKULAMA,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18059,PAHALA PULIYANKULAMA K.V.,"PAHALA PULIYANKULAMA, PUTHTHALAM",North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18060,WEERAPURA KANISTA VIDYALAYA,SALIYAWEWA JUNCTION PUTTLAM,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18061,ALUTHGAMA DUTUGAMUNU VIDYALAYA,IHALAPULIYANKULAMA PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18062,BANDARANAYAKAPURA M.V.,"BANDARANAYAKAPURA, VANATHAWILLUWA, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18063,NAGAMADUWA KANISHTA VIDYALAYA,"WANATHAWILLUWA, PUTTALAMA",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18064,WIJAYAPURA KANISHTA VIDYALAYA,WANATHAWILLUWA PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18065,KARADIPUWAL MAHA VIDYALAYA,"KARADIPUWAL, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18066,ELUWANKULAMA SINHALA K.V.,"ELUWANKULAMA, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18067,SERAKKULIYA K.V.,"SERAKKULIYA, KARATHIW",North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18068,MAILANKULAMA JUNIOR SCHOOL,"ISMAIL PURAM, PUTTLAM",North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18069,ELUVANKULAMA M.M.V.,ELUWANKULAM PUTTLAM,North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18070,KARAITHIVU MUSLIM M.V,KARAITIVU PONPARAPPI PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18071,PUTTALAM ANDREWS CENTRAL COLLEGE,PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,1.1AB,provincial
+18074,PUTTALAM FATHIMA BALIKA MAHA VIDYALAYA,"POLES ROAD, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18075,PUTTALAM HINDU CENTRL COLLEGE,"KURUNEGALA ROAD, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18076,ASSENKUDHOOS GOVT. MUSLIM VIDYALAYA,"VETTALAI, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18077,THILLAIYADI M M.V.,"THILLAIYADI, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18078,PUTTALAMA ST. MARY'S TAMIL MAHA VIDYALAYAM,"ANURADAPURA ROAD, PUTTALAMA",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18079,WATTAKANDAL M.M.V.,"ISMAIL PURAM, PUTTALAM.",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18080,MANALTIVU R.C.T.V.,PUTTLAM,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18081,SEMMANDALUWA PRIMARY SCHOOL,"SEMMANDALUWA, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18082,NIRMALA MATHA SINHALA MAHA VIDYALAYA,KALPITIYA,North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18083,KURINCHIPPITTIYA ROMAN CATHOLIC SINHALA VIDYALAYA,KURINCHIPPITTIYA,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18084,KANDAKKULIYA GOVT. SINHALA VIDYALAYA,KANDAKKULI KUDAWA KALPITTI,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18085,KANDALKUDA MUSLIM K.V.,KANDALKUDA THALAVILLA,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18086,MUDALAIPPALI M.V.,MUDALAIPPALI PALLIWASALTHURAI,North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18087,MUSALPITTIYA M K.V.,MUSALP[ITTI PALLIVASALTHURAI,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18088,PALLIVASALTHURAI M M.V.,PALLIVASALTHURAI,North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18089,KURINCHIPITI M M.V.,KURINCHIPITI,North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18090,KANDALKULI M.V.,"MAIN ROAD, KANDALKULI",North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18092,KALPITTY ROMAN CATHLIC TAMIL VIDYALAYA,NADUPPITTY KALPITTY,North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18093,THILLAIYOOR MUSLIM PRAIMARY SCHOOL,"THILLAYADI, KALPITY",North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18094,MUHATHUWARAM GOVT. MUSLIM VIDYALAYA,MUHATHUWAARAM DATCH BAY KALPITIYA,North Western,62.Puttalam,Puttalam,Kalpitiya,4.Type3,provincial
+18097,THALAVILA ST. ANNES M.V.,THALAVILLA CHURCH THALAVILLA,North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18098,KAPPALADI KANISTA VIDYALAYAM,KAPPALADI THALAVILA CHURCH,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18099,THIHALI M M.V.,KALPITIYA ROAD THIHALI ETHALAI,North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18100,ETALAI ROMAN CATHALIC TAMIL V.,ETALAI PUTTALAM,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18101,ALANKUDA M M.V.,"ALANKUDA, ETTALAI",North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18102,ILANTHAIADIYA SINHALA VIDYALAYA,ILANTHIADIYA NURAICHCHOLAI,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18103,NOROCHCHOLAI MUSLIM M.V.,"KALPITIYA ROAD, NURAICHOLAI",North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18104,PANAIYADI ROMAN CATHOLIC TAMIL VIDYALAYA,"PANAIYADI, NURAICHOLAI.",North Western,62.Puttalam,Puttalam,Kalpitiya,4.Type3,provincial
+18105,NARAKKALI ROMAN CATHOLIC TAMIL VIDYALAYA,"NARAKKALI, NURAICHOLAI-61342",North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18106,MAMPURIYA ROMAN CATHOLIC SINHALA TAMIL MAHA VIDYALAYA,"KALPITIYA ROAD, MAMPURIYA",North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18107,NAVATKADU R.C.T.V.,"NAWAKKADU, MAMPURI",North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18108,THETHAPOLAI R.C.T.V.,"THETHAPOLAI, MAMPURI",North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18109,NAYAKKARACHENNAYI TAMIL K.V.,"NAYAKKARACHENNAYI, MAMPURI",North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18110,DALUWA ST. ANTHONY'S M.V.,"DALUWA, MAMPURI",North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18111,PALAKUDAWA ST. PEETER'S K.V.,"PALAKUDAWA, THALAWILA.",North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18112,MADURANKULIYA MODEL SCHOOL,MADURANKULIYA,North Western,62.Puttalam,Puttalam,Puttalam South,1.1AB,provincial
+18113,AMAKULIYA GOVT SCHOOL,MADURANKULIYA,North Western,62.Puttalam,Puttalam,Puttalam South,4.Type3,provincial
+18114,WELASIYA K.V.,"WELASIYA, MADURANKULIYA",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18115,PALASOLA K.V.,"PALASOLA, MADURANKULIYA",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18116,VIRUTHODAI M.M.V.,"VIRUTHODAI, MADURANKULIYA",North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18117,PULUTHIVAYAL G.M.V.,"PULUTHIVAYAL, PALAVI",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18118,KANAMOOLAI MUSLIM K.V.,"KANAMOOLAI, MADURANKULIYA",North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18119,KANDATHODUWAWA M.V.,MADURANKULIYA,North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18120,KADAYAMOTTE GOVERNMENT SINHALA SCHOOL,"KADAYAMOTTE, MADURANKULIYA",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18121,KOTHTHANTHEEW G M M.V.,KOTHTHANTHEEW MUNDAL,North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18122,SAMEERAGAMA MUSLIM PRIMARY SCHOOL,"KOTTANTIVU, MUNDEL",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18123,PERAKUWATANA SINHALA VIDYALAYA,"PERAKUWATANA, KOTTANTIVU",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18124,KADAYAMOTTAI MUSLIM CENTRAL COLLEGE,"KADAYAMATTAI, MADURANKULIYA",North Western,62.Puttalam,Puttalam,Puttalam South,1.1AB,provincial
+18125,AL-MINHAJ MUSLIM MAHA VIDYALAYA,PERUKKUWATTAN KOTTANTIVU PUTTALUM,North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18126,KURUKKUMADUWA KANISHTA VIDYALAYA,MAHA KUMBUKKADAWALA,North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18127,KANDALAYA MAHA VIDYALAYA,"SINNAPADUWA, KOTTANTIVE",North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18128,POTHTHUWILLUWA K.V.,POTHTHUWILLUWA,North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18129,PALAVI SINHALA M.V.,"COLOMBO ROAD, PALAVI",North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18130,UTTARA ATTAVILLUWA K.V.,"UTTAR ATTAVILLUWA, ATTAVILLUWA",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18131,MADYAMA ATTAWILLUWA K.V.,"MADYAMA, ATTAWILLUWA, PUTTALAMA",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18132,ATTAWILLUWA MEDHANANDA GOVT. V.,"BOTHIRAJAPURA, PUTTALAMA",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18133,PALAVI M.V.,"COLOMBU ROAD, PALAVI, PUTTLAM",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18134,OMAR FAROOK MAHA VIDYALAYA,"PULICHCHAKKULAM, BATHULUOYA",North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18135,THARAKUDUVILLU M M.V.,"AKKARAVELI, ANGUNAWILA, MUNDEL",North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18136,UDAPPU T M.V.,MAIN STREET UDAPPU,North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18137,ANDIMUNAI TAMIL MAHA VIDYALAYA,"ANDIMUNAI, UDAPPU",North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18138,KATTAIKADU.R.C.T.M.V.,"KATTAIKADU, KOTTANIVU",North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18139,OTTAPANNI ROMAN CATHOLIC TAMIL VIDYALAYA,"MAIN STREET, POONAPPITTIYA UDAPPU",North Western,62.Puttalam,Puttalam,Puttalam South,4.Type3,provincial
+18140,WILPOTHAA BANDARANAYAKA KUSALATHA PASALA,"THARAWILLUWA, BATHLU OYA",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18141,PALLAMA NANDIMITHRA CENTRAL COLLEGE,PALLAMA,North Western,62.Puttalam,Puttalam,Pallama,1.1AB,provincial
+18142,WILPOTHA ANURA MAHA VIDYALAYA,WILPOTHA CHILAW,North Western,62.Puttalam,Puttalam,Pallama,1.1AB,provincial
+18143,WENDAKADUWA K.V.,"ADAMMANA, PALLAMA",North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18144,WATHUPOLA MAHA VIDYALAYA,WATHUPOLA PALLAMA,North Western,62.Puttalam,Puttalam,Pallama,2.1C,provincial
+18145,SERUKELE K.V.,SERUKELE,North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18146,IHALA MANDALANA P.V.,KUMARAKATTUWA,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18147,THAMARAKKULAMA KANISHTA VIDYALAYA,THAMARAKKULAMA SERUKELE,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18148,IHALAKOLAELIYA VIDYALAYA,PALLAMA,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18149,IHALA THAMMANA KANISHTA VIDYALAYA,IHALA THAMMANA KUMARAKATTUWA,North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18150,KATUPOTHA K.V.,KATUPOTHA PALLAMA,North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18152,MUNDALAMA SINHALA M.V.,MUNDHALAMA,North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18153,ANGUNAWILA K.V.,ANGUNAWILA MUNDEL,North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18154,BARANANKATTUWA K.V.,"BARANANKATTUWA, MUNDEL",North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18155,NAWADANKULAMA K.V.,NAWADANKULAMA MANGALAYELIYA,North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18156,MANGALAELIYA P.V.,"PUTTALAM ROAD, MANGALAYELIYA",North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18157,MUNDEL TAMIL VIDYALAYA,MUNDEL,North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18158,KARUNGALICHOLAI TAMIL VIDYALAYA,"KARUNGALICHOLAI, MUNDEL",North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18159,MARICHCHIKATTUA P.V.,MANGALAELIYA,North Western,62.Puttalam,Puttalam,Puttalam South,4.Type3,provincial
+18160,ANDIGAMA MADYA MAHA VIDYALAYA,ANDIGAMA,North Western,62.Puttalam,Puttalam,Pallama,2.1C,provincial
+18161,MUDALAKKULIYA VIJAYA M.V.,MUDALAKKULIYA,North Western,62.Puttalam,Puttalam,Anamaduwa,2.1C,provincial
+18162,MATHWAKKULAM M M.V.,"MATHAWAKKULAM, AANDIKKULAM",North Western,62.Puttalam,Puttalam,Pallama,2.1C,provincial
+18163,LIHINIGIRI KANISHTA VIDYALAYA,GALGHULIYA ANDIGAMA,North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18164,SANGATTIKULAMA SINHALA K.V.,"SANGATTIKULAMA, ANAMADUWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,3.Type2,provincial
+18165,SANGATTIKULAMA MUSLIM K.V.,"SANGATTIKULAMA, ANAMADUWA.",North Western,62.Puttalam,Puttalam,Anamaduwa,2.1C,provincial
+18166,PUNAVITTIYA KANISTA V.,PUNAVITIYA ANDIGAMA,North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18167,KAMMANDALUWA BILINGUAL K.V.,KAMMANDALUWA,North Western,62.Puttalam,Puttalam,Pallama,3.Type2,provincial
+18168,CHILAW ST. MARY'S COLLEGE,"PUTTLAM ROAD, CHILAW",North Western,62.Puttalam,Chilaw,Chilaw,1.1AB,provincial
+18169,CHILAW CARMEL GIRL'S CENTRAL COLLEGE,"JETTY STREET, CHILAW",North Western,62.Puttalam,Chilaw,Chilaw,1.1AB,provincial
+18170,CHILAW NAZRIYA CENTRAL COLLEGE,"PUTTLAM ROAD, CHILAW",North Western,62.Puttalam,Chilaw,Chilaw,1.1AB,provincial
+18171,CHILAW ST. BERNADETTE'S COLLEGE,"ST.MARY'S ROAD,CHILAW",North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18172,AMBAKANDAWILA ST. ROCHES SCHOOL,CHILAW,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18173,BISHOP EDMOND PEIRIS PRIMARY SCHOOL,CHILAW,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18174,ST. MARY'S PRIMARY BALIKA VIDYALAYA,CHILAW,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18175,EGODAWELLA ST. SEBASTIAN SCHOOL,CHILAW,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18176,PANKULAWA NAWODYA M.V.,NALLADARANKATTUWA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,2.1C,provincial
+18177,WIJAYA KATUPOTHA M.V.,CHILAW,North Western,62.Puttalam,Chilaw,Arachchikattuwa,2.1C,provincial
+18178,BATTULUOYA M.V.,BATTULUOYA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,2.1C,provincial
+18179,HALAMBAWATAWANA M.V.,NALLADARANKATTUWA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,1.1AB,provincial
+18180,ATHTHANGANAYA K.V.,NALLADARANKATTUWA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18181,MAHAMAELIYA K.V.,BATTULUOYA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18183,MUTHUPANTHIYA K.V.,NALLADARANKATTUWA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18185,KARUKKULIYA M.V.,RAJAKADALUWA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18186,BANGADENIYA M.V.,BANGADENIYA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,2.1C,provincial
+18187,KARUKKUPANE TAMIL V.,BANGADENIYA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18188,DEMATAPITIYA K.V.,BANGADENIYA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18189,MANDALANA K.V.,KUMARAKATTUWA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18190,RAJAKADALUWA K.V.,RAJAKADALUWA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18191,ARACHCHIKATTUWA P.V.,ARACHCHIKATTUWA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,4.Type3,provincial
+18192,KUSALA TAMIL V.,BNGADENIYA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18193,COREAPURA K.V.,BANGADENIYA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18194,ELIVITIYA K.V.,KUMARAKATTUWA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,4.Type3,provincial
+18195,WELIPELESSA K.V.,ADIPPALA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,3.Type2,provincial
+18196,KOTTAPITIYA P.V.,BANGADENIYA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,4.Type3,provincial
+18198,DHAMMALOKA K.V.,ADIPPALA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,2.1C,provincial
+18200,WIJAYA M.V.,"WIJAYA MW, CHILAW",North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18201,KANJUKKULIYA ST. BENADICT K.V.,MUGUNUWATAWANA,North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18202,SIRI SUJATHA MODEL SCHOOL,KAKKAPALLIYA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18203,ILIPPADENIYA K.V.,ILIPPADENIYA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18204,MERAWALA ST. JOSEPH'S VIDYALAYA,CHILAW,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18205,MUGUNUWATAWANA SRI BUDDHARAKKITHA V.,MUGUNUWATAWANA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18206,SAWARANA MUSLIM VIDYALAYA,CHILAW,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18208,SRI VADIVAMBIGAI HINDU COLLEGE,"MUNNESWARAM, CHILAW",North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18209,MANAKKULAMA JUNIOR SCHOOL,KAKKAPALLIYA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18211,BANDARAWATTA PRIMARY SCHOOL,KAKKAPALLIYA,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18212,MUNNESWARAMA SINHALA PRIMARY SCHOOL,CHILAW,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18213,SIPPIKALANA K.V.,MUGUNUWATAWANA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18216,THISSOGAMA MODEL PRIMARY SCHOOL,ILLIPPADENIYA,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18217,ARIYAGAMA SIDDHARTHA M.V.,MUGUNUWATAWANA,North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18219,MADAMPE KARUKKUWA SUGATHANANDA M.V.,MADAMPE,North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18220,MADAMPE ST. SEBASTIANS COLLEGE,MADAMPE,North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18221,HERATH GUNARATHNA M.V.,GALMURUWA,North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18222,THIMBIRIGASWELA JUNIOR SCHOOL,GALMURUWA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18223,ALMISBAH MUSLIM M.V.,"OLD TOWN, MADAMPE",North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18224,MUGUNUWATAWANA SENANAYAKA K.V.,MADAMPE,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18225,SEMBUKATTIYA PRIMARY SCHOOL,MADAMPE,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18226,SUDUWELLA MODEL PRIMARY SCHOOL,MADAMPE,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18227,PAMBALA VIDYALAYA,KAKKAPALLIYA,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18228,GALMURUWA JUNIOR SCHOOL,GALMURUWA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18229,KADUPITI MADAMPE DHARMAPALA VIDYALAYA,MADAMPE,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18230,MEDAGAMA ABHAYA MODEL SCHOOL,PANIRENDAWA,North Western,62.Puttalam,Chilaw,Chilaw,1.1AB,provincial
+18231,G.C.S.COREA M.V.,"KARAVITAGARA, CHILAW",North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18232,KOKKAWILA K.V.,MUGUNUWATAWANA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18233,MAHAGAMA K.V.,MUGUNUWATAWANA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18234,C.W.W.KANNANGARA M.M.V.,"PULIYANKARA, MUGUNUWATAWANA",North Western,62.Puttalam,Chilaw,Chilaw,2.1C,provincial
+18235,NANKADAWARA VIDYARTHA ADARSHA K.V.,WEERAKODIYANA,North Western,62.Puttalam,Chilaw,Chilaw,3.Type2,provincial
+18236,THAMBAGALLA PRIMARY SCHOOL,KAKKAPALLIYA,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18237,ATHUWANA SENANAYAKE PRIMARY SCHOOL,MUGUNUWATAWANA,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18238,PUNCHIWILATHTHAWA K.V.,MUGUNUWATAWANA,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18239,DEMATAPITIYA PRIMARY SCHOOL,KAKKAPALLIYA,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18240,HEENAGARA PRIMARY SCHOOL,PANIRENDAWA,North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18241,DAMBAKELE PRIMARY SCHOOL,"KARAWITAGARA, CHILAW",North Western,62.Puttalam,Chilaw,Chilaw,4.Type3,provincial
+18245,HOLY FAMILY BALIKA PRIMARY SCHOOL,WENNAPPUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18246,WENNAPPUWA HOLY FAMILY BALIKA MAHA VIDYALAYA,WENNAPPUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,1.1AB,provincial
+18247,ULHITIYAWA ST. FRANCIS XAVIER VIDYALAYA,ULHITIYAWA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18248,ST. RITA'S COLLEGE,TALDEKA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18250,DUMMALADENIYA BUDDHIST JUNIOR SCHOOL,WENNAPPUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18251,ST. MARTIN DE PORES VIDYALAYA,WENNAPPUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,2.1C,provincial
+18253,GONSALVEZ MAHA VIDYALAYA,BOLAWATHTHA,North Western,62.Puttalam,Chilaw,Wennappuwa,2.1C,provincial
+18254,BORALESSA PRIMARY SCHOOL,BORALESSA LUNUWILA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18255,BORALESSA ST. ANNAS MAHA VIDYALAYA,BORALESSA LUNUWILA,North Western,62.Puttalam,Chilaw,Wennappuwa,2.1C,provincial
+18256,KAMMALA ST. ODILIYA KANISHTA VIDYALAYA,WAIKKALA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18257,WAIKKALA GOVERMENT SCHOOL,WAIKKALA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18258,SINDATHRIYA SINDUKUMARI VIDYALAYA,SINDATHRIYA WAIKKALA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18259,THABARAWILA JUNIOR SCHOOL,THABARAWILA WAIKKALA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18260,GODELLA KANITU VIDYALAYA,GODALLA DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18261,GONAWILA ST. JOSEPH COLLEGE,GONAWILA DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18262,NAINAMADAMA MAHA VIDYALAYA,NAINAMADAMA,North Western,62.Puttalam,Chilaw,Wennappuwa,2.1C,provincial
+18263,NAINAMADAMA ST. MARYS PRIMARY SCHOOL,NAINAMADAMA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18264,MIRISSANKOTUWA NIMALA MARIYA PRIMARY SCHOOL,MIRISSANKOTUWA NORTH LUNUWILA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18265,KATUKENDA SRI SANGABODHI CENTRAL COLLEGE,KATUKENDA DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,1.1AB,provincial
+18266,NIMALA MARIYA VIDYALAYA,DUMMALAKOTUWA DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18267,ETIYAWALA K.V.,DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18269,JANKURAWELA VIDYALAYA,YOGIYANA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18270,DIKWELA PRIMARY SCHOOL,DIKWELA YOGIYANA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18271,WEKADA MAHA VIDYALAYA,YOGIYANA,North Western,62.Puttalam,Chilaw,Wennappuwa,2.1C,provincial
+18272,BUTHGAMPOLA GOVERMENT SCHOOL,IRABADAGAMA SADALANKAWA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18273,BUJJAMPOLA JUNIOR SCHOOL,BUJJAMPOLA DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18274,MELLAWA K.V.,MELLAWA LIHIRIYAGAMA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18275,MOHOTTIMULLA PRIMARY SCHOOL,MOHOTTIMULLA DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18276,HALDANDUWANA ROMAN CATHOLIC SCHOOL,HALDANDUWANA DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18277,HALDADUWANA BUDDHIST SCHOOL,HALDADUWANA DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18278,LUNUWILA ANURUDDHA MADYA MAHA VIDYALAYA,LUNUVILA,North Western,62.Puttalam,Chilaw,Wennappuwa,1.1AB,provincial
+18279,LUNUWILA BUDDHIST PRIMARY SCHOOL,LUNUWILA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18280,LUNUWILA ROMAN CATHALIC PRIMARY SCHOOL,LUNUWILA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18281,BANDIRIPPUWA KANISHTA VIDYALAYA,BANDIRIPPUWA LUNUWILA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18283,KIRIMETIYANA SRI DHARMARAMA K.V.,KIRIMETIYANA LUNUWILA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18284,POTHUWATAWANA SRI JINARATHANA MAHA VIDYALAYA,POTHUWATAWANA,North Western,62.Puttalam,Chilaw,Wennappuwa,2.1C,provincial
+18285,MAHAWEWA SRI DARMARAMA MAHA VIDYALAYA,MAHAWEWA,North Western,62.Puttalam,Chilaw,Nattandiya,2.1C,provincial
+18286,THODUWAWA ST. ANTHONY'S NAVODYA MAHA VIDYALAYA,THODUWAWA,North Western,62.Puttalam,Chilaw,Nattandiya,2.1C,provincial
+18287,MATTAKOTUWA KANISHTA VIDYALAYA,"MATTAKOTUWA, MAHAWEWA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18288,MATTAKOTUWA WERALA KANISHTA VIDYALAYA,THODUWAWA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18289,KOSWADIYA SARASWATHI VIDYALAYA,"KOSWADIYA, MAHAWEWA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18290,IRANAWILA ST. PETER'S SCHOOL,"IRANAWILA, AMBAKADAWILA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18291,KUDAWEWA BAUDDA KANISHTA VIDYALAYA,KUDAWEWA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18292,MARAVILA ST. XAVIER'S M.M.V.,MARAVILA,North Western,62.Puttalam,Chilaw,Nattandiya,1.1AB,provincial
+18293,MARAWILA HOLY FAMILY BALIKA MADYA MAHA VIDYALAYA,MARAWILA,North Western,62.Puttalam,Chilaw,Nattandiya,1.1AB,provincial
+18294,THALWILA ST.THERESA K.V.,"THALWILA, MARAWILA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18296,HORAGOLLA VIDYALAYA,MARAWILA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18297,MARAWILA BOYS' JUNIOR SCHOOL,MARAWILA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18298,HOLY FAMILY BALIKA PRIMARY SCHOOL,MARAWILA,North Western,62.Puttalam,Chilaw,Nattandiya,4.Type3,provincial
+18299,MARANDAWELLA JUNIOR SCHOOL,MARAWILA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18300,HATHTHINIYA MODEL SCHOOL,"HATHTHINIYA, MARAWILA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18301,THALWILAWELLA KANISHTA VIDYALAYA,THALWILAWELLA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18303,NATHTHANDIYA LOURDES COLLEGE,NATHTHANDIYA,North Western,62.Puttalam,Chilaw,Nattandiya,2.1C,provincial
+18304,NATHTHANDIYA PRESIDENT'S COLLEGE,NATHTHANDIYA,North Western,62.Puttalam,Chilaw,Nattandiya,1.1AB,provincial
+18305,THABBOWA KANISHTA VIDYALAYA,"THABBOWA, NATHTHANDIYA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18306,PAHALA KOTTARAMULLA ISIPATHANA KANISHTA VIDYALAYA,"PAHALA KOTTARAMULLA, IHALA KOTTARAMULLA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18307,PILAKATUMULLA JUNIOR SCHOOL,"PILAKATUMULLA, NATTANDIYA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18308,IHALA KOTTARAMULLA AL-HIRA MUSLIM M.V.,IHALA KOTTARAMULLA,North Western,62.Puttalam,Chilaw,Nattandiya,2.1C,provincial
+18309,NATHTHANDIYA ZAHIRA MUSLIM VIDYALAYA,"ZAHIRA MAWATTHA, NATHTHANDIYA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18310,THUMMODARA MUSLIM VIDYALAYA,"HUMMODARA, NATHTHANDIYA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18311,KATUNERIYA ST. SEBASTIANS CENTRAL COLLEGE,KATUNERIYA,North Western,62.Puttalam,Chilaw,Nattandiya,1.1AB,provincial
+18312,DEMATAPITIYA JUNIOR COLLEGE,DEMATAPITIYA - LUNUWILA,North Western,62.Puttalam,Chilaw,Nattandiya,4.Type3,provincial
+18313,MUDUKATUWA ROMAN CATHOLIC SCHOOL,"MUDUKATUWA, MARAWILA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18314,MUDUKATUWA SUMANADHAMMA VIDYALAYA,"MUDUKATUWA, MARAWILA",North Western,62.Puttalam,Chilaw,Nattandiya,2.1C,provincial
+18315,MAWILA MAHINDA BUDDHIST KANISHTA VIDYALAYA,"MAWILA, NATTANDIYA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18316,MAWILA JAYALATHMATHA JUNIOR SCHOOL,"MAWILA, NATHTHANDIYA",North Western,62.Puttalam,Chilaw,Nattandiya,4.Type3,provincial
+18317,IHALA KATUNERIYA PRIMARY SCHOOL,"IHALA KATUNERIYA, KATUNERIYA",North Western,62.Puttalam,Chilaw,Nattandiya,4.Type3,provincial
+18319,WALAHAPITIYA MAHA VIDYALAYA,NATHTHANDIYA,North Western,62.Puttalam,Chilaw,Nattandiya,2.1C,provincial
+18321,YATAKALANA DHARMA WIJAYA K.V.,"MUTTIBEDIWILA, NATHTHANDIYA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18322,HEWANA K.V.,WELLIPENNAGAHAMULLA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18323,MEDAGODA KANISHTA VIDYALAYA,"MEDAGODA, MUTTIBEDIWILA, NATHTHANDIYA",North Western,62.Puttalam,Chilaw,Nattandiya,4.Type3,provincial
+18325,PAHALA WALAHAPITIYA DHARMARAJA KANISHTA VIDYALAYA,"PAHALA WALAHAPITIYA, NATHTHANDIYA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18326,NARAWILA SRI GUNARATHANA M.M.V.,"NARAWILA, KOSWATTA",North Western,62.Puttalam,Chilaw,Nattandiya,2.1C,provincial
+18327,DUNKANNAWA KANISHTA VIDYALAYA,DUNKANNAWA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18328,SRI SEELANANDA MAHA VIDYALAYA,KOSWATTA,North Western,62.Puttalam,Chilaw,Nattandiya,2.1C,provincial
+18329,YAKDESSAWA JUNIOR SCHOOL,YAKDESSAWA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18331,PALUWELGALA KANISHTA VIDYALAYA,IHALA KOTTARAMULLA,North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18332,MORAKALE BUDDHIST SCHOOL,"MORAKALE, IHALA KOTTARAMULLA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18333,MEEGAHAWELA PRIMARY SCHOOL,"MEEGAHAWELA, KOSWATTA",North Western,62.Puttalam,Chilaw,Nattandiya,4.Type3,provincial
+18335,NARAWILA MUSLIM VIDYALAYA,"NARAWILA, KOSWATTA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18336,MANINGALA MUSLIM VIDYALAYA,"MANINGALA, DUNKANNAWA",North Western,62.Puttalam,Chilaw,Nattandiya,3.Type2,provincial
+18337,PARAMAKANDA P.V.,"PARAMAKANDA, ANAMADUWA",North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18338,ANAMADUWA KANNANGARA K.V.,ANAMADUWA,North Western,62.Puttalam,Puttalam,Anamaduwa,2.1C,provincial
+18339,DEWALAHANDIYA KANNANGARA P.V.,WILPOTH CHILAW,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18341,MORAPATHAWA GOT VIDYALAYA,"WANATHAWILLU, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18342,KATUPULIYANKULAMA PRIMARY SCHOOL,"WANATHAWILLUWA, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18343,IHALAUSWEWA DARMASHOKA K.V.,IHALASUWA MAHAUSWEWA,North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18344,SWARNAPALI PRIMARY SCHOOL,URIYAWA ANAMADUWA,North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18346,NEELABEMMA PRIMARY SCHOOL,"SALIYAWEWA JUNCTION, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18347,RAMBAWEWA PRIMARY SCHOOL,"KUMBUKKALLA, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18348,RAJAVIGAMA K.V.,KARUWALAGASWEWE,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18349,MURIYAKULAMA K.V.,THABBOWA,North Western,62.Puttalam,Puttalam,Puttalam North,3.Type2,provincial
+18350,POOLACHENAI MUSLIM MAHA VIDYALAYA,"PULACHENAI, NORACHCHOLAI",North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18351,MOHOTHTHUWARAMA SINHALA VIDYALAYA,"MOHOTHTHUWARAMA, KALPITIYA.",North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18352,PINKATTIYA P.V.,BATTULUOYA,North Western,62.Puttalam,Chilaw,Arachchikattuwa,4.Type3,provincial
+18353,DANKOTUWA BALIKA MAHA VIDYALAYA,DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,1.1AB,provincial
+18354,ST. ANDREW'S PRIMARY SCHOOL,ANURADHAPURA ROAD PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18355,MANALKUNDRU M.M.V.,"MANALKUNDRU, PUTTLAM",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18356,ST. ANNE'S GOVERNMENT SCHOOL,SANTHANAPURA LUNUWILA,North Western,62.Puttalam,Chilaw,Wennappuwa,3.Type2,provincial
+18357,KANDAKULIYA MUNE SINHALA VIDYALAYA,KANDAKULIYA,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18358,ERUKKALAMPIDDY M.V.,"NAGAVILLU ,PALAVI",North Western,62.Puttalam,Puttalam,Puttalam South,1.1AB,provincial
+18360,ULUKKAPPULAM MUSLIM MAHA VIDYALAYA,"HUSAINIYAPURAM, PALAVI",North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18362,KOIYAWADI MUSLIM MAHA VIDYALAYA,AKAFANAGAR NURACHOLA,North Western,62.Puttalam,Puttalam,Kalpitiya,2.1C,provincial
+18363,VEPPAMADU M.M.V.,"VEPPAMADU, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,2.1C,provincial
+18364,KAJUWATTA GOVT. MUSLIM VIDYALAYA,KAJUWATTA MADURANKULIYA,North Western,62.Puttalam,Puttalam,Puttalam South,3.Type2,provincial
+18365,SRIMAPURA PRIMARY MUSLIM VIDYALAYA,SRIMAPURAM MADURANKULIYA,North Western,62.Puttalam,Puttalam,Puttalam South,4.Type3,provincial
+18366,HIDAYATH NAGER MUSLIM M M.V.,HIDAYATH NAGER MADURANKULIYA,North Western,62.Puttalam,Puttalam,Puttalam South,2.1C,provincial
+18367,PUTTALAM ZAINAB MUSLIM GIRLS SCHOOL,"ASHRAF MEMORIAL PARK LANE, POLES ROAD, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18368,PUTTALAM ZAHIRA PRIMARY SCHOOL,"MANNAR ROAD, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18369,NAWAGATHTHEGAMA PRIMARY SCHOOL,NAWAGATHTHEGAMA,North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18370,WILPOTHA ANURA P.V.,WILPOTHA CHILAW,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18371,KATTAKADUWA SINHALA VIDYALAYA,KATTAKADUWA KOTHTHANTHEEW,North Western,62.Puttalam,Puttalam,Puttalam South,4.Type3,provincial
+18372,MAMPURIYA ROMAN CATHOLIC SINHALA TAMIL P.V.,MAMPURIYA,North Western,62.Puttalam,Puttalam,Kalpitiya,4.Type3,provincial
+18373,KAL PERIYA SANTHI GRAMA BILINGUAL PRIMARY SCHOOL,PERIYA SANTHI GRAMAM PALLIVASALTHURAI,North Western,62.Puttalam,Puttalam,Kalpitiya,4.Type3,provincial
+18374,PRESIDENT'S SCIENCE COLLEGE,"POLES ROAD, PUTTALAM",North Western,62.Puttalam,Puttalam,Puttalam North,1.1AB,provincial
+18375,UCHCHAMUNAI R C PRAIMAY VIDYALAYA,DUTCHBAY KALPITIYA,North Western,62.Puttalam,Puttalam,Kalpitiya,3.Type2,provincial
+18376,BANDARANAYAKAPURA P.V.,WANATHAVILLUWA PUTTALAMA,North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18377,ANDIGAMA P SCHOOL,ANDIGAMA,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18378,NALLANTHALUWA MUSLIM P SCHOOL,NALLANDALUWA MADURANKULIYA,North Western,62.Puttalam,Puttalam,Puttalam South,4.Type3,provincial
+18379,MAHAUSWEWA PARAKRAMA PRIMARY VIDYALAYA,MAHAUSWEWA,North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18380,AL-KARAM MUSLIM PRIMARY SCHOOL,PALLIVASALTHURAI,North Western,62.Puttalam,Puttalam,Kalpitiya,4.Type3,provincial
+18381,AL-MADEENA MUSLIM PRIMARY SCHOOL,KURINJA MATTAI ETTALAI,North Western,62.Puttalam,Puttalam,Kalpitiya,4.Type3,provincial
+18382,S D R JAYARATHNA P SCHOOL,PALLAMA,North Western,62.Puttalam,Puttalam,Pallama,4.Type3,provincial
+18383,SRI RATHANAJOTHI PRIMARY SCHOOL,YOGIYANA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18384,DANKOTUWA MIHINDU PRIMARY VIDYALAYA,KATUKENDA DANKOTUWA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18385,SINDATHRI MATHA PRIMARY SCHOOL,KALPITITYA,North Western,62.Puttalam,Puttalam,Kalpitiya,4.Type3,provincial
+18386,"ANAGARIKA DHARMAPALA P.V., PUTTALAM","GOODSHED RD, PUTTALAM.",North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18387,KATUNERIYA ST. SEBASTIAN'S PRIMARY SCHOOL,KATUNERIYA,North Western,62.Puttalam,Chilaw,Nattandiya,4.Type3,provincial
+18388,AL-HIRA PRIMARY SCHOOL,MUTHUWEL ROAD KALPITIYA,North Western,62.Puttalam,Puttalam,Kalpitiya,4.Type3,provincial
+18389,SRI RAHULA PRIMARY SCHOOL,LUNUWILA,North Western,62.Puttalam,Chilaw,Wennappuwa,4.Type3,provincial
+18390,SRI KRISHNA PRIMARY SCHOOL,ANDIMUNA UDAPPU,North Western,62.Puttalam,Puttalam,Puttalam South,4.Type3,provincial
+18391,MUNDAL SINHALA PRIMARY SCHOOL,MUNDHAL,North Western,62.Puttalam,Puttalam,Puttalam South,4.Type3,provincial
+18392,SIDDHARTHA PRIMARY SCHOOL,SALIYAWEWA JUNCTION PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,4.Type3,provincial
+18394,MAMUNAGAMA THAKSHILA PRAIMARY COLLEGE,H 8 GAMMANAYA MARUNGODA MAHAUSWEWA ANAMADUWA,North Western,62.Puttalam,Puttalam,Anamaduwa,4.Type3,provincial
+18395,MADURANKULIYA RATHNA PRADEEPA PRIMARY SCHOOL,MADURANKULIYA,North Western,62.Puttalam,Puttalam,Puttalam South,4.Type3,provincial
+18396,HIGH SCIENCE COLLEGE,PUTTALAM,North Western,62.Puttalam,Puttalam,Puttalam North,1.1AB,provincial
+18397,AROGYAMATHA P.V.,KALPITIYA,North Western,62.Puttalam,Puttalam,Kalpitiya,4.Type3,provincial
+42001,KITHSIRIMEWAN PRIMARY SCHOOL,WADAKADA,North Western,61.Kurunegala,Kurunegala,Polgahawela,4.Type3,provincial
+42002,SAMODAYA VIDYALAYA,MALLAWAPITIYA KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+42003,AL-HAMRA P.V.,NAZAR MW KURUNEGALA,North Western,61.Kurunegala,Kurunegala,Mawathagama,4.Type3,provincial
+42004,JAYA ISURU PRIMARY SCHOOL,"MALKADUWAWA, KURUNEGALA",North Western,61.Kurunegala,Kurunegala,Kurunegala,4.Type3,provincial
+42005,KEKUNAGOLLA MUSLIM PRIMARY SCHOOL,KEKUNAGOLLA,North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,4.Type3,provincial
+42006,AL-FALAH MUSLIM PRIMARY SCHOOL,"MADIGE MIDIYALA, BANDARAKOSWATTA",North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,4.Type3,provincial
+42007,NIKAWEWA SALIYA KUMARA MODEL P.V.,MORAGOLLAGAMA,North Western,61.Kurunegala,Maho,Polpitigama,4.Type3,provincial
+42011,SRI DHAMMANANDA P.V.,NAGOLLAGAMA,North Western,61.Kurunegala,Maho,Maho,4.Type3,provincial
+42017,MINUWANGETE P.V.,MINUWANGATE,North Western,61.Kurunegala,Nikaweratiya,Wariyapola,4.Type3,provincial

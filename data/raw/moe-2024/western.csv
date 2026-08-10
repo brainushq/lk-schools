@@ -1,0 +1,1261 @@
+census_no,school_name,school_address,province,district,zone,education_division,school_type,category
+1,MODARA DE LA SALLE COLLEGE,"MODARA, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,1.1AB,provincial
+2,MODARA ANANDA M.M.V.,"SRI PANCHANANDA MW, MODARA, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,2.1C,provincial
+3,MODARA ST. ANTHONY'S B.M.V.,"MODARA, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,2.1C,provincial
+4,KOTAHENA KUMARA V.,"KOTAHENA, COLOMBO 13",Western,11.Colombo,Colombo,Colombo North,2.1C,provincial
+5,ST. JOHN'S M.V.,"64, CENTER RD, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+6,KOTAHENA ST. LUCIA'S COLLEGE,"KOTAHENA, COLOMBO 13",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+7,KOTAHENA CATHEDRAL BOYS COLLEGE,"82, KOTAHENA ST, KOTAHENA, COLOMBO 13",Western,11.Colombo,Colombo,Colombo North,4.Type3,provincial
+8,KOTAHENA PRESIDENT'S COLLEGE,"ALWIS PLACE KOTAHENA, COLOMBO 13",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+10,MODARA SRI MEDHANANDA V.,"ST. JAME'S STREET, MODARA, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+11,MODARA ST. JOHN'S VIDYALAYA,"MODARA STREET, MODARA, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+12,MATTAKKULIYA AVE MARIA V.,"MATTAKKULIYA, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+13,SRI SANGHABODHI M.V.,"GRANDPASS, COLOMBO 14",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+14,BLOEMENDHAL SINHALA V.,"SIRIMAVO BANDARANAYAKA MW, COLOMBO 14",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+16,KOTAHENA SRI GUNANANDA V.,"JINANANDA MW, KOTAHENA, COLOMBO 13",Western,11.Colombo,Colombo,Colombo North,4.Type3,provincial
+17,THOTAWATTA METHODIST VIDYALAYA,"152, CHURCH RD, MATTAKKULIYA, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,4.Type3,provincial
+18,KOTAHENA ROMAN CATHOLIC B.V.,"WASALA RD, KOTAHENA, COLOMBO 13",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+19,MODARA ST. JAME'S P.V.,"261/1, MUTHUWELLA MW, MODARA, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,4.Type3,provincial
+20,MAHAWATTA ST. ANTHONY'S SINHALA V.,"299, JAYANTHA MALLIMARACHCHI MW, MAHAWATTA, COLOMBO 14",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+21,MADAMPITIYA ST. ANTHONY'S B.P.V.,"MADAMPITIYA, MODARA, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,4.Type3,provincial
+22,AGAMETHI VIDYALAYA,"BLOEMENDHAL RD, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+24,SRI SANGARAJA M.M.V.,"SANGARAJA MW, COLOMBO 10",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+25,MAHABODHI M.V.,"43, FOSTER LANE, COLOMBO 10",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+26,DEMATAGODA RAJASINGHE M.V.,"BASELINE RD, DEMATAGODA, COLOMBO 09",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+27,MIHINDU MAWATHA SINHALA M.V.,"MIHINDU MW, COLOMBO 12",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+28,SIRI SARIPUTHTHA M.V.,"VITHANAGE MW, COLOMBO 02",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+29,VIJAYABA M.V.,"STACE RD, COLOMBO 14",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+30,GRANDPASS ST. JOSEPH'S B.M.V.,"ST. JOSEPH'S STREET, GRANDPASS, COLOMBO 14",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+31,GRANDPASS ST. JOSEPH'S BOYS VIDYALAYA,"ST. JOSEPH'S PLACE, GRANDPASS, COLOMBO 14",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+32,WOLFENDHAL B.M.V.,"02, VIVEKANANDA HILL, COLOMBO 13",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+33,DEMATAGODA ST. ANTHONY'S B.M.V.,"ST. ANTHONY'S MW, DEMATAGODA, COLOMBO 09",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+34,CLIFTON B.V.,"MALIGAKANDA RD, COLOMBO 10",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+35,HOLY ROSARY R.C.SINHALA V.,"56, CHURCH STREET, COLOMBO 02",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+36,VIHARAMAHA DEVI B.V.,"DEENS RD, COLOMBO 10",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+37,HEMAMALI B.V.,"34, SRI SADDHARMA MW, COLOMBO 10",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+38,ST. MARY'S VIDYALAYA,"VIVEKANANDA KANDA RD, COLOMBO 13",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+39,HARWARD VIDYALAYA,"DAM STREET, COLOMBO 12",Western,11.Colombo,Colombo,Colombo Central,4.Type3,provincial
+40,JAYANTHI VIDYALAYA,"SUWARNA CHAIYTHYA RD, COLOMBO 14",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+41,KOTAHENA SINHALA K.V.,"200, MAHA VIDYALAYA MW, COLOMBO 13",Western,11.Colombo,Colombo,Colombo Central,4.Type3,provincial
+42,A.E.GUNASINGHA V.,COLOMBO 12,Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+43,ST. SEBASTIAN SINHALA V.,"SILVER SMITH LANE, COLOMBO 12",Western,11.Colombo,Colombo,Colombo Central,4.Type3,provincial
+44,SIR BARON JAYATHILAKA V.,"MALIGAWATTA, COLOMBO 10",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+49,DEMATAGODA ST. MATHEWS COLLEGE,"DEMATAGODA, COLOMBO 09",Western,11.Colombo,Colombo,Borella,2.1C,provincial
+52,DEMATAGODA ST. JOHN'S COLLEGE,"DEMATAGODA, COLOMBO 09",Western,11.Colombo,Colombo,Borella,2.1C,provincial
+53,SEEVALI M.M.V.,"SEEVALI LANE, COLOMBO 08",Western,11.Colombo,Colombo,Borella,2.1C,provincial
+54,SUSAMAYAWARDHANA M.V.,"AUSTIN PL, COLOMBO 08",Western,11.Colombo,Colombo,Borella,2.1C,provincial
+55,ANURUDDHA B.V.,"BASELINE RD, COLOMBO 09",Western,11.Colombo,Colombo,Borella,2.1C,provincial
+56,MAHINDA VIDYALAYA,"ANANDA MW, COLOMBO 10",Western,11.Colombo,Colombo,Borella,4.Type3,provincial
+57,COLOMBO YASODARA B.V.,"KYNSEY RD, COLOMBO 08",Western,11.Colombo,Colombo,Borella,1.1AB,provincial
+58,PRESBYTEERIAN GIRL'S SCHOOL,"REGENT ST, COLOMBO 10",Western,11.Colombo,Colombo,Borella,2.1C,provincial
+59,RATHNAWALI B.M.V.,"PARK AVENUE, COLOMBO 08",Western,11.Colombo,Colombo,Borella,2.1C,provincial
+61,ALL SAINTS' B.M.V.,"ANANDA RAJAKARUNA MW, COLOMBO 10",Western,11.Colombo,Colombo,Borella,2.1C,provincial
+62,VELUWANA COLLEGE,COLOMBO-09,Western,11.Colombo,Colombo,Borella,1.1AB,provincial
+63,SRI SANGHAMITHTHA B.V.,"62, ANANDA RAJAKARUNA MW, COLOMBO 10",Western,11.Colombo,Colombo,Borella,4.Type3,provincial
+64,COLOMBO ASOKA V.,COLOMBO 10,Western,11.Colombo,Colombo,Borella,1.1AB,provincial
+65,C.W.W.KANNANGARA V.,"DR. DENISTER DE SILVA MW, COLOMBO 08",Western,11.Colombo,Colombo,Borella,1.1AB,provincial
+67,NARAHENPITA SUJATHA B.V.,"NARAHENPITA, COLOMBO 05",Western,11.Colombo,Colombo,Colombo South,1.1AB,provincial
+68,ARETHUSA V.,"DAYA RD, COLOMBO 06",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+70,MAHAMATHYA V.,"POLHENGODA, COLOMBO 05",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+71,SRI SADDHARMODAYA M.V.,"POORWARAMA RD, KIRULAPONE, COLOMBO 05",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+72,S.W.R.D. BANDARANAYAKE VIDYALAYA,"GOTHAMI RD, COLOMBO 08",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+73,THIMBIRIGASYAYA VIDYATHILAKA V.,"THIMBIRIGASYAYA, COLOMBO 05",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+76,DUDLEY SENANAYAKA V.,"PARK RD, COLOMBO 05",Western,11.Colombo,Colombo,Colombo South,2.1C,provincial
+82,ST. ANTHONY'S B.M.V.,"ST. ANTHONY'S MW, COLOMBO 03",Western,11.Colombo,Colombo,Colombo South,2.1C,provincial
+83,WELLAWATTA ST. CLARE'S B.M.V.,"1ST CHAPEL LANE, COLOMBO 06",Western,11.Colombo,Colombo,Colombo South,1.1AB,provincial
+84,BAMBALAPITIYA LINDSEY B.V.,"GALLE RD, COLOMBO 03",Western,11.Colombo,Colombo,Colombo South,1.1AB,provincial
+87,ST. MARY'S B.M.V.,"ALWIS PLACE, COLOMBO 03",Western,11.Colombo,Colombo,Colombo South,2.1C,provincial
+88,ST. MICHAEL'S COLLEGE,"KOLLUPITYA, COLOMBO 03",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+90,ST. MARY'S SINHALA MIXED VIDYALAYA,"R.A.DE MEL MW, COLOMBO 04",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+93,"S.DE.S. JAYASINGHE CENTRAL COLLEGE, DEHIWALA","ANAGARIKA DHARMAPALA MW, KARAGAMPITIYA, DEHIWELA",Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,provincial
+94,NUGEGODA ST. JOHN'S COLLEGE,"HIGHLEVEL RD, NUGEGODA",Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,provincial
+96,DEHIWALA HOLY FAMILY CONVENT,"100, GALLE RD, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,provincial
+97,KALUBOWILA BUDDHAGHOSHA M.V.,"KALUBOWILA, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,3.Type2,provincial
+99,NUGEGODA ST. JOSEPH'S B.V.,"HIGH LEVEL RD, NUGEGODA",Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,provincial
+100,DEHIWALA ST. MARY'S COLLEGE,"ATAPATTU MW, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,3.Type2,provincial
+102,DEHIWALA METHODIST VIDYALAYA,"ANAGARIKA DARMAPALA MW, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+103,KARAGAMPITIYA VIJAYA V.,KARAGAMPITIYA DEHIWALA,Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+104,SUBODHA MODEL JUNIOR SCHOOL,"SUBODHARAMA RD, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,3.Type2,provincial
+110,MOUNT LAVINIA BUDDHIST GIRLS' COLLEGE,"STATION RD, MOUNT LAVINIA",Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,provincial
+111,MOUNT LAVINIA GIRLS' HIGH SCHOOL,"74, HOTEL RD, MOUNT LAVINIA",Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,provincial
+112,RATMALANA SRI DHARMARAMA V.,"DHARMARAMA RD, RATMALANA",Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+113,KOTHALAWALAPURA M.V.,RATMALANA,Western,11.Colombo,Piliyandala,Dehiwala,2.1C,provincial
+116,SHASTHRANANDA M.V.,"BROADWAY, KAWDANA, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,2.1C,provincial
+117,CHRIST CHURCH COLLEGE,"AUBURN PLACE, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+118,ST. ANTHONY'S JUNIOR SCHOOL,"ST.ANTHONY'S RD, MT. LAVINIA",Western,11.Colombo,Piliyandala,Dehiwala,3.Type2,provincial
+119,MOUNT LAVINIA LALITH ATHULATHMUDALI COLLEGE,"HENA RD, MOUNT LAVINIA",Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,provincial
+120,RATHMALANA SRI ATHTHADASSI VIDYALAYA,"JAYASUMANARAMA RD, RATHMALANA",Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+121,RATHMALANA SRI GNANENDRA V.,"SRI GNANENDRA RD, RATHMALANA",Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+122,RATHMALANA ROMAN CATHOLIC SCHOOL,"ST. RITA'S RD, RATHMALANA",Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+123,KANDAWALA NAVODYA V.,"KANDAWALA RD, RATHMALANA",Western,11.Colombo,Piliyandala,Dehiwala,2.1C,provincial
+124,ATTIDIYA MODEL PRIMARY SCHOOL,"ATTIDIYA, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+125,KAVIDHAJA V.,RATHMALANA,Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+126,SRI PUNYAKAMI VIDYALAYA,"GNANATHILAKA RD, MOUNT LAVINIA",Western,11.Colombo,Piliyandala,Dehiwala,3.Type2,provincial
+127,DHARMODAYA V.,"STATION RD, MT. LAVINIA",Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+130,SEDAWATTA SIDDHARTHA CENTRAL COLLEGE,WELLAMPITIYA,Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,1.1AB,provincial
+132,MULLERIYAWA SRI RAHULA MAHA VIDYALAYA,MULLERIYAWA NEW TOWN,Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,2.1C,provincial
+133,TERRENCE N DE SILVA MAHA VIDYALAYA,KOLONNAWA,Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,3.Type2,provincial
+134,GOTHATUWA MAHA VIDYALAYA,"GOTHATUWA, ANGODA",Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,3.Type2,provincial
+135,AMBATHALE TIKIRI KUMARA VIDYALAYA,MULLERIYAWA NEW TOWN,Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,4.Type3,provincial
+136,AMBATHALE SAMUDRADEVI BALIKA VIDYALAYA,MULLERIYAWA NEW TOWN,Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,2.1C,provincial
+137,KUDABUTHGAMUWA DHARMAPALA MAHA VIDYALAYA,"PASAL PATUMAGA, MULLERIYAWA NEW TOWN",Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,4.Type3,provincial
+138,KUDABUTHGAMUWA SOMADEVI BALIKA VIDYALAYA,"KUDABUTHGAMUWA, ANGODA",Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,3.Type2,provincial
+139,KOTUWILA GAMINI VIDYALAYA,"KOTUWILA, WELLAMPITIYA",Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,3.Type2,provincial
+140,KOLONNAWA ST. JOSEPH COLLEGE,"KOLONNAWA, WELLAMPITIYA",Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,3.Type2,provincial
+142,VIDYAWARDANA VIDYALAYA,"WELLAMPITIYA, KOLONNAWA",Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,4.Type3,provincial
+145,"DHARMAVIJAYA VIDYALAYA, WELLAMPITIYA",WELLAMPITIYA,Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,3.Type2,provincial
+146,TIBET S. MAHINDA VIDYALAYA,"WENNAWATTA, WELLAMPITIYA",Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,4.Type3,provincial
+147,HENRY OLCOTT MAHA VIDYALAYA,"SALAMULLA, KOLONNAWA",Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,2.1C,provincial
+149,KOTTE ANANDA BALIKA MAHA VIDYALAYA,"PAGODA RD, KOTTE",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,1.1AB,provincial
+151,NUGEGODA SAMUDRADEVI BALIKA VIDYALAYA,NUGEGODA,Western,11.Colombo,Sri Jayawardenapura,Nugegoda,1.1AB,provincial
+154,KOTTE ST. THOMAS COLLEGE,KOTTE,Western,11.Colombo,Sri Jayawardenapura,Nugegoda,2.1C,provincial
+156,SIRI PERAKUMBA VIDYALAYA,"OBESEKARAPURA, RAJAGIRIYA",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,3.Type2,provincial
+157,RAJAGIRIYA JANADHIPATHI BALIKA VIDYALAYA,"NAWALA, RAJAGIRIYA",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,1.1AB,provincial
+158,HEWAVITHARANA M.V.,"RAJAGIRIYA RD, RAJAGIRIYA",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,2.1C,provincial
+159,SRI REVATHA ROYAL COLLEGE,"GANGODAWILA, NUGEGODA",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,4.Type3,provincial
+160,"MAHINDA SPECIAL SCHOOL, MIRIHANA","OLD KOTTAWA RD, MIRIHANA, NUGEGODA",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,4.Type3,provincial
+161,PRESIDENT'S PRIMARY SCHOOL,"NAWALA, RAJAGIRIYA",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,4.Type3,provincial
+162,SRI SOBHITHA VIDYALAYA,"MORAGASMULLA, RAJAGIRIYA",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,4.Type3,provincial
+168,MORATU MAHA V.,MORATUWA,Western,11.Colombo,Piliyandala,Moratuwa,1.1AB,provincial
+169,DE SOYZA M.V.,"GALLE RD, KATUBEDDA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,2.1C,provincial
+170,SRI SUNANDOPANANDA NAVODYA M.V.,"EGODAUYANA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,2.1C,provincial
+171,DHAMMARATHANA V.,"INDIBEDDA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,4.Type3,provincial
+172,LAKSHAPATHIYA SHIKSHADANA V.,"LAKSHAPATHIYA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,4.Type3,provincial
+173,SRI RAHULA M.V.,"THELAWALA, MT. LAVINIA",Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+174,MORATUWA METHODIST HIGH SCHOOL,"PUWAKARAMBA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,2.1C,provincial
+176,KORALAWELLA ROMAN CATHOLIC VIDYALAYA,"VIDYALA MW, KORALAWEELLA, MOTATUWA",Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+177,JANAJAYA V.,MORATUWA,Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+178,MORATUWA ST. SEBASTIAN'S GIRL'S SCHOOL,MORATUWA,Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+179,ST. ANTHONY'S COLLEGE,"KADALANA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+180,MORATUMULLA LANKA SABHA V.,"MORATUMULLA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,4.Type3,provincial
+183,PODUJAYA V.,"ANGULANA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,4.Type3,provincial
+184,BODHIRAJA V.,"KATUBEDDA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,4.Type3,provincial
+185,MORATUWA WEERAPURAN APPU MODEL SCHOOL,MORATUWA,Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+186,RAWATAWATTA ROMAN CATHOLIC SCHOOL,MORATUWA,Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+187,RAWATHAWATTA METHODIST VIDYALAYA,"CHARLES PLACE, RAWATHAWATTA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+188,UYANA JUNIOR SCHOOL,"LUNAWA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+189,SALEENA VIDYALAYA,"KALDEMULLA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,4.Type3,provincial
+192,WILLORAWATTA GNANISSARA BUDDHIST VIDYALAYA,"WILLORAWATTA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+197,KATUKURUNDA ST. MARY'S COLLEGE,"KATUKURUNNDA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,4.Type3,provincial
+198,SRI SUNANDOPANANDA PRIMARY SCHOOL,"EGODAUYANA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,4.Type3,provincial
+199,SUGATHADHARMADHARA V.,"EGODAUYANA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,4.Type3,provincial
+200,EGODA UYANA JUNIOR SCHOOL,"EGODAUYANA, MORATUWA",Western,11.Colombo,Piliyandala,Moratuwa,3.Type2,provincial
+201,AL-HIDHAYA V.,"SRI SANGARAJA MW, COLOMBO 10",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+202,MARYAM BALIKA VIDYALAYA,"60,SIR JAMES PIERIS MW, COLOMBO 02",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+203,AL-NASSER VIDYALAYA,"61,ST.JOSEPH STREET, GRANDPASS, COLOMBO 14",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+205,DHARUSSALAAM M.V.,"281, JUMMAHMASJID RD, COLOMBO 10",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+206,T.B.JAYAH ZAHIRA V.,"24, SIR JAMES PEIRIS MW, COLOMBO 02",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+207,FATHIMA MUSLIM LADIES COLLEGE,"155,BANDARANAYAKA MW, COLOMBO 12",Western,11.Colombo,Colombo,Colombo Central,1.1AB,provincial
+208,DEMATAGODA KHAIRIYA B.V.,COLOMBO 09,Western,11.Colombo,Colombo,Colombo Central,1.1AB,provincial
+209,ST. SEBASTIAN T.M.V.,"108, BELMONT STREET, COLOMBO 12",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+211,AL-HIKMA V.,"65, ST.SEBASTIAN STREET, COLOMBO 12",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+212,MARADANA HINDU VIDYALAYA,"1/102, CAPTAIN'S GARDEN, COLOMBO 10",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+213,"ST. ANNE'S TAMIL BALIKA MAHA VIDYALAYA, COLOMBO 13","HILL STREET, COLOMBO 13",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+214,ST. ANTHONY'S ROMAN CATHOLIC BOYS M.V.,"VIVEKANANDA HILL, COLOMBO 13",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+215,KANAPATHY HINDU LADIES M.V.,"194, BANDARANAYAKA MW, COLOMBO 12",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+216,HOLY ROSARY TAMIL V.,"54, CHURCH STREET, COLOMBO 02",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+218,COLOMBO CENTRAL HINDU M.V.,"186, MAHA VIDYALAYA MW, COLOMBO 13",Western,11.Colombo,Colombo,Colombo Central,2.1C,provincial
+219,DR. BADIUDDIN MAHMUD COLLEGE,"19,GREEN LANE, COLOMBO 13",Western,11.Colombo,Colombo,Colombo Central,3.Type2,provincial
+220,SIR RAZIK FAREED MUSLIM V.,"ST.MARY'S RD, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,2.1C,provincial
+221,HAMZA MUSLIM V.,"MUTWAL MW, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,2.1C,provincial
+222,KALAIMAGAL TAMIL V.,"SIRIMAVO BANDARANAYAKA MW, COLOMBO 14",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+223,ST. ANTHONY'S TAMIL M.V.,"MAHAWATTA RD, COLOMBO 14",Western,11.Colombo,Colombo,Colombo North,2.1C,provincial
+224,KOTAHENA GOOD SHEPHERD B.M.V.,"WASALA RD,KOTAHENA, COLOMBO 13",Western,11.Colombo,Colombo,Colombo North,1.1AB,provincial
+225,MUTWAL HINDU COLLEGE,"MUTWALL MW, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,2.1C,provincial
+226,KOTAHENA METHODIST TAMIL V.,"PICKERINGS RD, COLOMBO 13",Western,11.Colombo,Colombo,Colombo North,3.Type2,provincial
+229,AL-HAKEEM VIDYALAYA,"57,BELMONT STREET, COLOMBO 12",Western,11.Colombo,Colombo,Colombo Central,4.Type3,provincial
+230,VIPULANANTHA TAMIL M.V.,"VELUWANA RD, DEMATAGODA, COLOMBO 09",Western,11.Colombo,Colombo,Borella,2.1C,provincial
+231,AL-HIJRA MUSLIM V.,"SRI DHAMMA MW, COLOMBO 10",Western,11.Colombo,Colombo,Borella,3.Type2,provincial
+232,DR. THANINAYAGAM TAMIL V.,"LESLEY RANAGALA MW,BORELLA, COLOMBO 08",Western,11.Colombo,Colombo,Borella,4.Type3,provincial
+234,KUMARAUTHAYAM TAMIL V.,"HIGH LEVEL RD,KIRULAPONE, COLOMBO 06",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+235,COLOMBO 06 RAMAKRISHNA VIDYALAYA,"PAMANKADA, COLOMBO 06",Western,11.Colombo,Colombo,Colombo South,2.1C,provincial
+238,COLOMBO 03 AL-AMEEN VIDYALAYA,"SIR MACAN MAKAR MW, COLOMBO 03",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+239,COLOMBO 04 ST. MARY'S TAMIL V.,"LAURIES RD, COLOMBO 04",Western,11.Colombo,Colombo,Colombo South,2.1C,provincial
+240,KOLLUPITIYA METHODIST GOVERNMENT TAMIL V.,"HUDSON RD, COLOMBO 03",Western,11.Colombo,Colombo,Colombo South,3.Type2,provincial
+242,NUGEGODA TAMIL M.V.,"STANLEY THILAKARATHNA MW, NUGEGODA",Western,11.Colombo,Piliyandala,Dehiwala,2.1C,provincial
+243,MEELAD MUSLIM V.,DEHIWALA,Western,11.Colombo,Piliyandala,Dehiwala,3.Type2,provincial
+244,DEHIWALA TAMIL M.V.,"33/3PRESBYTARIAN LANE, OFF STATION RD, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,2.1C,provincial
+245,SRI JAYAWARDHANAPURA HINDU VIDYALAYA,"OBESEKARAPURA, RAJAGIRIYA",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,2.1C,provincial
+246,RAJAGIRIYA ROMAN CATHOLIC TAMIL VIDYALAYA,"DHARMAPALA PLACE, RAJAGIRIYA",Western,11.Colombo,Sri Jayawardenapura,Nugegoda,3.Type2,provincial
+247,ARAFATH MUSLIM M.V.,EGODAUYANA MODARA MORATUWA,Western,11.Colombo,Piliyandala,Moratuwa,2.1C,provincial
+249,MALABE SRI RAHULA BALIKA MAHA VIDYALAYA,MALABE,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,1.1AB,provincial
+251,SRI SIDDHARTHA MAHA VIDYALAYA,"SCHOOL LANE, KALAPALUWAWA, RAJAGIRIYA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+252,THALAHENA M.V.,"THALAHENA, MALABE",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+254,SRI DEVAMITHTHA MAHA VIDYALAYA,DEDIGAMUWA,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+255,ATHURUGIRIYA MAHAMATHYA VIDYALAYA,ATHURUGIRIYA,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,1.1AB,provincial
+256,KOTHALAWALA MAHA VIDYALAYA,"KOTHALAWALA, KADUWELA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,2.1C,provincial
+257,KORATHOTA SRI SOMANANDA M.V.,"KORATHOTA, KADUWELA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,2.1C,provincial
+258,VIDYAWARDHANA MAHA VIDYALAYA,"THALANGAMAN SOUTH, BATHTHARAMULLA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,2.1C,provincial
+259,VIDYARAJA M.V.,HOKANDARA,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,2.1C,provincial
+260,WELIVITA ST. MARY'S MAHA VIDYALAYA,"WELIVITA, KADUWELA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+261,SRI INDRAJOTHI VIDYALAYA,"PANNIPIYA RD, BATHTHARAMULLA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+262,SRI YASODARA MAHA VIDYALAYA,MALABE,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,2.1C,provincial
+263,PHILIP THILAKAWARDANA V.,"NAWGAMUWA, RANALA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+264,SRI SEELALANKARA V.,"PAHALA BOMIRIYA, KADUWELA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+265,DEDIGAMUWA KANISHTA VIDYALAYA,"DEADIGAMUWA, RANALA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+266,ORUWALA K.V.,ATHURUGIRIYA,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+267,GUNASEKARA VIDYALAYA,ATHURUGIRIYA,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+268,HEWAGAMA KANISTA VIDYALAYA,"HEWAGAMA, KADUWELA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+269,THALANGAMA LANKA SABA KANISTA VIDYALAYA,BATHTHARAMULLA,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+270,SRI SUBODI KANISHTA VIDYALAYA,"THALANGAMA NORTH, BATHTHARAMULLA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+271,BOMIRIYA MUNIDASA KUMARATHUNGA V.,"BOMIRIYA, KADUWELA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+272,RANALA MODEL JUNIOR SCHOOL,RANALA,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+273,SIRI SUMANATHISSA P.S.,"KEKIRIWELA RD, NAWAGAMUWA, RANALA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+274,PORE JUNIOR SCHOOL,"PORE, ATHURUGIRIYA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+275,SRI SUDARSHANA VIDYALAYA,"BATAPOTHA, BATHTHARAMULLA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+276,RATHNA KANISHTA VIDYALAYA,"HOKANDAARA NORTH, HOKANDARA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+278,AVERIHENA VIDYALOKA KANISTA VIDYALAYA,"HOKANDARA SOUTH, HOKANDARA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,3.Type2,provincial
+280,IHALA BOMIRIYA KANISHTA VIDYALAYA,"IHALA BOMIRIYA, KADUWELA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,4.Type3,provincial
+281,M.D.H.JAYAWARDANA MAHA VIDYALAYA,"THALANGAMA NORTH, BATHTHARAMULLA",Western,11.Colombo,Sri Jayawardenapura,Kaduwela,2.1C,provincial
+282,MALABE BOY'S MODEL SCHOOL,MALABE,Western,11.Colombo,Sri Jayawardenapura,Kaduwela,1.1AB,provincial
+284,KOSGAMA M.V.,KOSGAMA,Western,11.Colombo,Homagama,Hanwella,1.1AB,provincial
+285,AVISSAWELLA ST. MARY'S COLLEGE,AVISSAWELLA,Western,11.Colombo,Homagama,Hanwella,2.1C,provincial
+286,KALUAGGALA ST. JOHN BOSCO'S COLLEGE,"KALUAGGALA, HANWELLA",Western,11.Colombo,Homagama,Hanwella,2.1C,provincial
+287,PUWAKPITIYA ROYAL MODEL P.S.,PUWAKPITIYA,Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+288,ESWATHTHA PANDUKABHAYA M.V.,"ESWATHTHA SOUTH, PUWAKPITIYA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+289,AKARAVITA MAHA VIDYALAYA,"AKARAVITA , KOSGAMA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+290,PAGNGNAGULA MAHA VIDYALAYA,"PAGNGNAGULA , THUMMODARA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+291,KAHAHENA BORALUGODA M.V.,"KAHAHENA, WAGA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+292,WAGA SRI RATHANASARA M.V.,THUMMODARA,Western,11.Colombo,Homagama,Padukka,2.1C,provincial
+294,ILUKOVITA KANISHTA VIDYALAYA,THUMMODARA,Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+296,WELIKANNA R.C.K.V.,"WELIKANNA, WAGA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+297,KALUAGGALA SRI SIDDHARTHA K.V.,"BORALUGODA, WAGA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+298,KADUGODA K.V.,"KADUGODA, WAGA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+299,KOSGAMA SUMEDHA VIDYALAYA,KOSGAMA,Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+301,KANAMPELLA K.V.,"KANAMPELLA, KOSGAMA",Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+302,AUTHAMBALAMA JUNIOR MODEL SCHOOL,"ALUTHAMBALAMA, KOSGAMA",Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+303,MANAKADA JUNIOR SCHOOL,PUWAKPITIYA,Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+304,ESWATHTHA SOUTH JUNIOR SCHOOL,"ESWATHTHASOUTH, PUWAKPITIYA",Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+305,PUWAKPITIYA SOUTH K.V.,PUWAKPITIYA,Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+306,PUWAKPITIYA ROMAN CATHOLIC PRIMARY SCHOOL,PUWAKPITIYA,Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+307,BOLLATHAWA K.V.,"BOLLATHAWA, KOSGAMA",Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+308,LAHIRUGAMA BUDDHIST K.V.,"LAHIRUGAMA, WAGA",Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+310,AVISSAWELLA JANADHIPATHI VIDYALAYA,"KUDAGAMA RD, AVISSAWELLA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+312,PUWAKPITIYA C.C. TAMIL M.V.,PUWAKPITIYA,Western,11.Colombo,Homagama,Hanwella,2.1C,provincial
+313,SALAWAWATHTHA TAMIL V.,HANWELLA,Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+314,SIRINIWASAWATTA TAMIL K.V.,WAGA,Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+315,WAGAWATHTHA TAMIL K.V.,THUMMODARA,Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+317,PADUKKA SIRI PIYARATHANA CENTRAL COLLEGE,PADUKKA,Western,11.Colombo,Homagama,Padukka,1.1AB,provincial
+318,PINNAWALA RAJAPOLA M.V.,"PINNAWALA, WAGA",Western,11.Colombo,Homagama,Padukka,2.1C,provincial
+319,BOPE RAJASINGHE M.V.,"BOPE, PADUKKA",Western,11.Colombo,Homagama,Padukka,1.1AB,provincial
+320,HANWELLA MAYADUNNA MAHA VIDYALAYA,HANWELLA,Western,11.Colombo,Homagama,Hanwella,2.1C,provincial
+321,MALAGALA MAHA VIDYALAYA,"MALAGALA, PADUKKA",Western,11.Colombo,Homagama,Padukka,3.Type2,provincial
+323,SIRI SUMANAJOTHI M.V.,"THUNNANA, HANWELLA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+324,PAHALA HANWELLA K.V.,HANWELLA,Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+325,PAHATHGAMA ROMAN CATHOLIC JUNIOR SCHOOL,"PAHATHGAMA, HANWELLA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+326,NIRIPOLA ROMAN CATHOLIC K.V.,HANWELLA,Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+327,DIDDENIYA K.V.,"DIDDENIYA, HANWELLA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+328,DAMBORA K.V.,"DAMBORA, THUMMODARA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+329,ANGAMPITIYA K.V.,"ANGAMPITIYA, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+330,UDAGAMA K.V.,"UDAGAMA, BOPE, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+331,SRI GNANAWIMALA K.V.,"WERAGALA, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+332,AMARASIRI PADMAPERUMA K.V.,"ARUKWATTA, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+333,ANGAMUWA K.V.,"ANGAMUWA, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+334,M.D.H. JAYAWARDHANA JUNIOR SCHOOL,"UDUMULLA, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+335,GALAGEDARA K.V.,"GALAGEDARA, PADUKKA",Western,11.Colombo,Homagama,Padukka,3.Type2,provincial
+336,MAWATHGAMA MODEL JUNIOR SCHOOL,"MAWATHGAMA, PADUKKA",Western,11.Colombo,Homagama,Hanwella,3.Type2,provincial
+337,GALAGEDARA MUSLIM VIDYALAYA,"GALAGEDARA, PADUKKA",Western,11.Colombo,Homagama,Padukka,2.1C,provincial
+339,MALIYADEWA MODEL K.V.,"PAHATHGAMA, HANWELLA",Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+340,KELIMADALA PRIMAY SCHOOL,"KELIMADALA, THUMMODARA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+341,BORALUWATHENNA K.V.,"WAGA SOUTH, THUMMODARA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+344,SIRI PIYARATHANA K.V.,PADUKKA,Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+345,PITUMPE K.V.,"PITUMPE, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+347,PADUKKA TAMIL VIDYALAYA,"PADUKKA ESTATE, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+349,HOMAGAMA CENTRAL COLLEGE,"COURT RD, H0MAGAMA",Western,11.Colombo,Homagama,Homagama,1.1AB,provincial
+350,"GAMANI JAYASURIYA VIDYALAYA, MEEGODA",MEEGODA,Western,11.Colombo,Homagama,Homagama,2.1C,provincial
+351,WETHARA M.V.,POLGASOWITA,Western,11.Colombo,Homagama,Homagama,1.1AB,provincial
+352,KIRIWATHTHUDUWA WIJAYAWARDANA MAHA VIDYALAYA,KIRIWATHTHUDUWA,Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+353,PITIPANA MAHA VIDYALAYA,PITIPANA NORTH,Western,11.Colombo,Homagama,Homagama,2.1C,provincial
+354,JALTHARA DAMSETH M.V.,"JALTHARA , HANWELLA",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+355,PANAGODA SRI PARAKRAMA MAHA VIDYALAYA,"PANAGODA , HOMAGAMA",Western,11.Colombo,Homagama,Homagama,2.1C,provincial
+356,MADOLUWAWA M.V.,"MADOLUWAWA, PADUKKA",Western,11.Colombo,Homagama,Padukka,3.Type2,provincial
+357,MULLEGAMA MAHA VIDYALAYA,"MULLEGAMA , HOMAGAMA",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+358,OLABODUWA ZOYSA MAHA VIDYALAYA,"KORALAIMA , GONAPOLA JUNCTION",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+359,MATTEGODA VIDYADEEPA MAHA VIDYALAYA,"MATTEGODA, PANNIPITIYA",Western,11.Colombo,Homagama,Homagama,2.1C,provincial
+360,DEEPANGODA SRI MEDANANDA MAHA VIDYALAYA,"BRAHMANAGAMA, PANNIPITIYA",Western,11.Colombo,Homagama,Homagama,2.1C,provincial
+361,MAGAMMANA MAHA VIDYALAYA,"MAGAMMANA, HOMAGAMA",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+362,WETHARA PRIMARY SCHOOL,POLGASOWITA,Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+363,SIYAMBALAGODA DHARMAPALA K.V.,"SIYAMBALAGODA , POLGASOVITA",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+364,PALAGAMA SIRI PARAKUM VIDYALAYA,POLGASOWITA,Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+365,KAHATHUDUWA W N PERERA KANISHTA VIDYALAYA,"KAHATHUDUWA , POLGASOWITA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+366,SIRIPATHI VIDYALAYA,"AMBALANGODA , POLGASOWITA",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+367,KIRIWATTUDUWA JAYATHILAKA K.V,KIRIWATHTHUDUWA,Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+370,DIYAGAMA JUNIOR SCHOOL,"DIYAGAMA, KIRIWATHTHUDUWA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+371,HOMAGAMA MAHA VIDYALAYA,"ATHURUGIRIYA RD, HOMAGAMA",Western,11.Colombo,Homagama,Homagama,2.1C,provincial
+372,MEEGODA BUDDHIST JUNIOR SCHOOL,"HIGHLEVEL RD, MEEGODA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+374,WATAREKA KANISHTA VIDYALAYA,"WATAREKA, PADUKKA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+375,PANALUWA K.V.,"WATAREKA, PADUKKA",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+376,BATAWALA KANISHTA VIDYALAYA,"BATAWALA, PADUKKA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+377,ARMY SCHOOL,"PANAGODA, HOMAGAMA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+378,DAMPE K.V.,"DAMPE, MEEGODA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+379,MEEGODA DHARMARAJA VIDYALAYA,MEEGODA,Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+380,LENAGALA JUNIOR SECONDARY SCHOOL,"LENAGALA, DEDIGAMUWA",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+381,HABARAKADA JUNIOR SCHOOL,"HABARAKADA, HOMAGAMA",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+382,DOLAHENA K.V.,KIRIWATHTUDUWA,Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+383,MAWATHGAMA JUNIOR SECONDARY SCHOOL,MAWATHGAMA,Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+384,PITIPANA JUNIOR SCHOOL,"PITIPANA NORTH , HOMAGAMA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+386,NIYADAGALA VIDYAKEERTHI K.V.,"HIRIPITIYA, PANNIPITIYA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+387,ARTIGALA JUNIOR SCHOOL,"ARTIGALA, HANWELLA",Western,11.Colombo,Homagama,Homagama,3.Type2,provincial
+388,SANGARAMA MADDUMA BANDARA JUNIOR SCHOOL,"SIDDHAMULLA , PILIYANDALA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+389,LIYANWALA ANANDA SAMARAKOON K.V.,"LIYANWALA, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+390,DEEPANGODA K.V.,"BRAHMANAGAMA, PANNIPITIYA",Western,11.Colombo,Homagama,Homagama,4.Type3,provincial
+391,GODAGAMA SUBHARATHI MAHAMATHYA MAHA VIDYALAYA,"GODAGAMA, HOMAGAMA",Western,11.Colombo,Homagama,Homagama,2.1C,provincial
+392,HOMAGAMA PRESIDENT'S COLLEGE,HOMAGAMA,Western,11.Colombo,Homagama,Homagama,2.1C,provincial
+395,MAHARAGAMA VIDYAKARA B.M.V.,MAHARAGAMA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,1.1AB,provincial
+396,KOTTAWA ANANDA M.V.,KOTTAWA PANNIPITIYA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,2.1C,provincial
+397,BUWANEKABA M.V.,MAHARAGAMA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,2.1C,provincial
+398,MAHARAGAMA CENTRAL COLLEGE,GAMMANA RD MAHARAGAMA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,1.1AB,provincial
+399,VIDYADANA M.V.,KOTTAWA PANNIPITIYA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,3.Type2,provincial
+401,SRI RAHULA M.V.,MADIWELA KOTTE,Western,11.Colombo,Sri Jayawardenapura,Maharagama,3.Type2,provincial
+402,THALAWATHUGODA PRIME MINISTER'S COLLEGE,KALALGODA PANNIPITIYA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,4.Type3,provincial
+403,RUKMALE M.V.,RUKMALE PANNIPITIYA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,3.Type2,provincial
+404,MAHAMAYA B.M.V.,"PEPILIYANA RD, NUGEGODA",Western,11.Colombo,Sri Jayawardenapura,Maharagama,1.1AB,provincial
+405,BAUDDHA VIDYALAYA,"TEMPLE RD, MAHARAGAMA",Western,11.Colombo,Sri Jayawardenapura,Maharagama,4.Type3,provincial
+406,DEPANAMA DHARMAPALA K.V.,"TEMPLE RD, DEPANAMA",Western,11.Colombo,Sri Jayawardenapura,Maharagama,4.Type3,provincial
+407,STANLEY THILAKARATHNE VIDYALAYA,"SHALAWA RD, MIRIHANA, NUGEGODA",Western,11.Colombo,Sri Jayawardenapura,Maharagama,4.Type3,provincial
+408,UDAHAMULLA SIDDHARTHA M.V.,THALAPATHPITIYA NUGEGODA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,3.Type2,provincial
+409,"WIJAYAGOSHA VIDYALAYA, MALAPALLA",MALAPALLA PANNIPITIYA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,4.Type3,provincial
+410,KOTTAWA DHARMAPALA M.V.,KOTTAWA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,1.1AB,provincial
+411,KOTTAWA NORTH DHARMAPALA M.V.,"HOKANDARA RD, PANNIPITIYA",Western,11.Colombo,Sri Jayawardenapura,Maharagama,2.1C,provincial
+414,DHARMASHOKA K.V.,MAHARAGAMA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,4.Type3,provincial
+417,MAHARAGAMA PRESIDENT'S COLLEGE,MAHARAGAMA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,1.1AB,provincial
+419,DHARMARAJA M.V.,"MAMPE, PILIYANDALA",Western,11.Colombo,Piliyandala,Kesbewa,2.1C,provincial
+420,KESBEWA DHARMASENA ATTYGALA B.V.,KESBEWA,Western,11.Colombo,Piliyandala,Kesbewa,1.1AB,provincial
+421,PHILIP ATTYGALLE M.V.,MADAPATHA,Western,11.Colombo,Piliyandala,Kesbewa,2.1C,provincial
+422,BORALASGAMUWA M.V.,BORALASGAMUA,Western,11.Colombo,Piliyandala,Kesbewa,2.1C,provincial
+423,SUNETHRADEVI M.V.,"PEPILIYANA, BORALESGAMUWA",Western,11.Colombo,Piliyandala,Kesbewa,3.Type2,provincial
+426,VIDYALOKA M.V.,"AREWWALA, PANNIPITIYA",Western,11.Colombo,Piliyandala,Kesbewa,2.1C,provincial
+429,BOKUNDARA MAHINDA V.,"BOKUNDARA, PILIYANDALA",Western,11.Colombo,Piliyandala,Kesbewa,3.Type2,provincial
+430,DELTHARA JUNIOR SCHOOL,"DELTHARA, PILIYANDALA",Western,11.Colombo,Piliyandala,Kesbewa,3.Type2,provincial
+431,MAKULUDUWA NEW MODEL SCHOOL,"MAKULUDUWA, PILIYANDALA",Western,11.Colombo,Piliyandala,Kesbewa,3.Type2,provincial
+432,ANANDA SAMARAKOON VIDYALAYA,"WEWALA, PILIYANDALA",Western,11.Colombo,Piliyandala,Kesbewa,3.Type2,provincial
+433,BATUWANDARA JUNIOR SCHOOL,"BATUWANDARA, MADAPATHA",Western,11.Colombo,Piliyandala,Kesbewa,3.Type2,provincial
+434,KAHAPOLA SRI PANNANANDA V.,"KAHAPOLA, MADAPATHA",Western,11.Colombo,Piliyandala,Kesbewa,3.Type2,provincial
+435,DAMPE JUNIOR SCHOOL,"DAMPE, MADAPATHA",Western,11.Colombo,Piliyandala,Kesbewa,4.Type3,provincial
+436,MAKANDANA SRI SUDARSHANA MODELSCHOOL,"MAKANDANA, MADAPATHA",Western,11.Colombo,Piliyandala,Kesbewa,2.1C,provincial
+437,RATHTHANAPITIYA ANANDA NEW MODEL SCHOOL,"RATHTHANAPITIYA, BORALESGAMUWA",Western,11.Colombo,Piliyandala,Kesbewa,3.Type2,provincial
+438,BORALESGAMUWA MODEL NO 01 PRIMARY SCHOOL,"WERAHERA, BORALESGAMUWA",Western,11.Colombo,Piliyandala,Kesbewa,4.Type3,provincial
+440,ARAWWALA EAST DHARMAPALA M.V.,PANNAPATIYA,Western,11.Colombo,Piliyandala,Kesbewa,2.1C,provincial
+441,PILIYANDALA NO 01 K.V.,PILIYANDALA,Western,11.Colombo,Piliyandala,Kesbewa,4.Type3,provincial
+442,PILIYANDALA SOMAWEERA CHANDRASIRI VIDYALAYA,PILIYANDALA,Western,11.Colombo,Piliyandala,Kesbewa,4.Type3,provincial
+443,PILIYANDALA SIR JOHN KOTHALAWALA M.V.,"KOLAMUNA, PILIYANDALA",Western,11.Colombo,Piliyandala,Kesbewa,2.1C,provincial
+444,MAMPE JUNIOR SCHOOL,"MAMAPE, PILIYANDALA",Western,11.Colombo,Piliyandala,Kesbewa,4.Type3,provincial
+445,HEDIGAMA SRI SUDARSHANA K.V.,PILIYANDALA,Western,11.Colombo,Piliyandala,Kesbewa,4.Type3,provincial
+447,SUNETHRADEVI BALIKA V.,"PEPILIYANA, BORALESGAMUWA",Western,11.Colombo,Piliyandala,Kesbewa,4.Type3,provincial
+449,HERMANN GMEINER SCHOOL,"05, PILIYANDALA",Western,11.Colombo,Piliyandala,Kesbewa,1.1AB,provincial
+450,SRI CHANDRARATHNA MANAWASINGHE M.V.,MAHARAGAMA,Western,11.Colombo,Sri Jayawardenapura,Maharagama,3.Type2,provincial
+451,RATMALANA HINDU COLLEGE,RATMALANA,Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,provincial
+452,PROF.EDIRIWEERA SARACHCHANDRA VIDYALAYA,"HIMBUTANA, MULLERIYAWA",Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,3.Type2,provincial
+456,BOPE RAJASINGHE PRIMARY SCHOOL,"BOPE, PADUKKA",Western,11.Colombo,Homagama,Padukka,4.Type3,provincial
+461,PUWAKPITIYA PRIMARY TAMIL V.,PUWAKPITIYA,Western,11.Colombo,Homagama,Hanwella,4.Type3,provincial
+462,ROYAL P.V.,"PRIYADARSHANARAMA RD, DEHIWALA",Western,11.Colombo,Piliyandala,Dehiwala,4.Type3,provincial
+463,BORALESGAMUMA MODEL PRIMARY SCHOOL,ABERATHNA MW BORALESGAMUWA,Western,11.Colombo,Piliyandala,Kesbewa,4.Type3,provincial
+465,MODARA ANANDA P.V.,"PAGNANANDA MW, COLOMBO 15",Western,11.Colombo,Colombo,Colombo North,4.Type3,provincial
+1002,WATTALA ST. ANNES B.M.V.,WATTALA,Western,12.Gampaha,Kelaniya,Wattala,1.1AB,provincial
+1003,PAMUNUGAMA M.V.,"BOPITIYA, PAMUNUGAMA",Western,12.Gampaha,Negombo,Ja-Ela,2.1C,provincial
+1004,MATHTHUMAGALA KARUNARATHNA BUDDHIST M.V.,"MATHTHUMAGALA, RAGAMA",Western,12.Gampaha,Kelaniya,Wattala,1.1AB,provincial
+1005,PAMUNUGAMA GONSALVEZ M.V.,PAMUNUGAMA,Western,12.Gampaha,Negombo,Ja-Ela,2.1C,provincial
+1006,NAYAKAKANDA GOOD SHEPERED B.M.V.,"NAYAKAKANDA, HENDALA, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,1.1AB,provincial
+1007,KERAWALAPITIYA VIDYALOKA M.V.,KERAWALAPITIYA WATTALA,Western,12.Gampaha,Kelaniya,Wattala,2.1C,provincial
+1008,ST. MARY'S M.V.,USWETAKEIYAWA,Western,12.Gampaha,Negombo,Ja-Ela,2.1C,provincial
+1009,"DHARMASHOKA VIDYALAYA, HEENKENDA",HEENKENDA RAGAMA,Western,12.Gampaha,Kelaniya,Wattala,2.1C,provincial
+1010,NAYAKAKANDA ARCHBISHOPS M.V.,"NAKKANDA, HANDALA, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,2.1C,provincial
+1011,THELAGAPATHA SRI RATHANAPALA M.V.,"THELAGAPATHA RD, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,3.Type2,provincial
+1012,ELPITIWALA CHANDRAWANSHA J.S.,"ELPITIWALA, RAGAMA",Western,12.Gampaha,Kelaniya,Wattala,3.Type2,provincial
+1013,ST. MARY'S COLLEGE,"MABOLA, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,3.Type2,provincial
+1014,WELIKADAMULLA SRI SIDDHARTHA K.V.,"MABOLE, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,3.Type2,provincial
+1016,DIKOVITA SHATHRALOKA V.,"HANDALA, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,3.Type2,provincial
+1018,ST. LAZARAS P.V.,"KURUKULAWA, RAGAMA",Western,12.Gampaha,Kelaniya,Wattala,4.Type3,provincial
+1019,DELATHURA J.S.V.,DELATHURA JA ELA,Western,12.Gampaha,Negombo,Ja-Ela,3.Type2,provincial
+1021,MATHTHUMAGALA R.C.V.,"MATHTHUMAGALA, RAGAMA",Western,12.Gampaha,Kelaniya,Wattala,3.Type2,provincial
+1024,ST. JOSEPH P.V.,"KERAWALAPITIYA, HANDALA, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,4.Type3,provincial
+1026,KRISTHURAJA MAHA VIDYALAYA,"HEKITTHA, WATTHALA",Western,12.Gampaha,Kelaniya,Wattala,2.1C,provincial
+1027,PASYALA M.V.,"KANDY RD, PASYALA",Western,12.Gampaha,Minuwangoda,Meerigama,1.1AB,provincial
+1029,KANDANGAMUWA M.V.,MIRIGAMA,Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1030,KEENADENIYA M.V.,AMBEPUSSA,Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1031,DANOWITA SRI SIDDHARTHA M.V.,"KANDY RD, DANOWITA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1032,PALLEWELA M.V.,PALLEWELA,Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1033,HAPITIGAMA M.V.,"HAPITIGAMA, KAL ELIYA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1034,MIRIGAMA BANDARANAYAKA M.V.,MIRIGAMA,Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1035,WEWELDENIYA M.V.,WEWELDENIYA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1036,KUMBALOLUWA LANKESHWARA KANISHTA VIDYALAYA,"KUMBALOLUWA, VEYANGODA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1037,GANEGODA RAJASINGHE M.V.,"BOKALAGAMA, MEERIGAMA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1038,DELWALA SRIMATH OLCOTT M.V.,"DELWALA, KITHALAWALANA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1039,BORUKGAMUWA P.V.,"BORUKGAMUWA, PALLEWELA",Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1040,KALELIYA SIRI VIDYAKEERTHI K.V.,KALELIYA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1041,KAHANDAWA SIRIDAMMAPALA P.V.,"KAHANDAWA, MIRIGAMA",Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1042,MIRIGAMA DUDLEY SENANAYAKE M.V.,MIRIGAMA,Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1043,GASPE P.V.,BANDURAGODA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1044,GIRIULLA MAHINDA P.V.,LOLUWAGODA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1045,THAWALAMPITIYA M.V.,MIRIGAMA,Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1046,DUMUNNE GEDARA K.V.,KAL-ELIYA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1047,DEBAHARA K.V.,"DEBAHARA, NITTAMBUWA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1048,BALATHAWA SRI VIMALAVANSAHA K.V.,AMBEPUSSA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1049,BOKALAGAMA P.V.,BOKALAGAMA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1050,BOTHALE K.V.,AMBEPUSSA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1051,MADURUPITIYA P.V.,LOLUWAGODA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1052,MEEVITIYA P.V.,"MEEVITIYA, ELLAKKALA",Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1053,WADURAWA K.V.,"WADURAWA, VEYANGODA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1054,WEERASURIYAKANDA K.V.,"WEERASURIYAKANDA, PASYALA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1055,HALUGAMA BUDDHIST K.V.,"PAMUNUWATHTHA, MIRIGAMA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1056,SRI DEVARAKSHITHA MODLE P.V.,"WALBOLANA, PALLEWELA",Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1057,BATALEEYA K.V.,PASYALA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1058,SIRI DHAMMANANDA P.V.,"IMBULANWALA, MIRIGAMA",Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1060,MALIGATHANNA K.V.,"MALIGATHANNA, VEYANOGDA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1061,D.D.SENANAYAKA PRIMARY SCHOOL,MUDDARAGAMA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1062,RADAWADUNNA SIRI MIHINDU M.V.,RADAWADUNNA,Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1063,LOLUWAGODA K.V.,LOLUWAGODA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1064,HANDURUMULLA K.V.,MIRIGAMA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1065,HENEPOLA VIDYALOKA VIDYALAYA,"PAMUNUWATHTHA, MIRIGAMA",Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1067,KUREEKOTUWA K.V.,VEYANGODA,Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1068,KANNANGARA P.V.,"THILINAGAMA, MIRIGAMA",Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1069,ELLALAMULLA P.V.,"ELLALAMULLA, PASYALA",Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1072,KANDANGAMUWA P.V.,LOLUWAGODA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1073,KAPPETIWALANA SIRI SUGATHORASA P.V.,BANDURAGODA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1074,KEENADENIYA P.V.,"KEENADENIYA, AMBEPUSSA",Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1076,PASYALA JANADIPATHI ADARSHA P.V.,PASYALA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1077,"SRI SUBODHI P.V., MADABAWITA","MADABAWITA, DANOWITA",Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1080,HALUGAMA DHARMAPALA P.V.,MIRIGAMA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1081,WEWALDENIYA SRI VIDYAKARA P.V.,WEWALDENIYA,Western,12.Gampaha,Minuwangoda,Meerigama,4.Type3,provincial
+1085,ALAWALA M.V.,"ALAWALA, VEYANGODA",Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1086,URAPOLA M.M.V.,URAPOLA,Western,12.Gampaha,Gampaha,Attanagalla,1.1AB,provincial
+1087,ELLAKKALA M.V.,ELLAKKALA,Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1088,KALAGEDIHENA MAHA VIDYALAYA,KALAGEDIHENA,Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1089,PANNILA SRI ANANDA NAHIMI M.V.,RUGGAHAVILA,Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1090,KITHTHAMMAHARA M.V.,NITTAMBUWA,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1091,KURUWAMULLA M.V.,WATHURUGAMA,Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1092,NITTAMBUWA BUDDHIST MAHA VIDYALAYA,NITTABUWA,Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1093,PITIYEGEDARA M.V.,BEMMULLA,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1094,VEYANGODA JANADIPATHI M.V.,VEYANGODA,Western,12.Gampaha,Gampaha,Attanagalla,1.1AB,provincial
+1095,VEYANGODA ST. MARY'S M.V.,VEYANGODA,Western,12.Gampaha,Gampaha,Attanagalla,1.1AB,provincial
+1096,MAGALEGODA P.V.,VEYANGODA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1097,SIR BARON JAYATHILAKA K.V.,UDATHUTHTHIRIPITIYA,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1098,UDUGHAWALPOLA EKABADDHA K.V.,RUGGHAWILA,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1100,SRI INDRASARA P.V.,"UDAMMITA, VEYANGODA",Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1101,ELUWAPITIYA K.V.,VEYANGODA,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1102,OGODAPOLA K.V.,"OGODAPOLA, KAHATOWITA",Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1103,KURAWALANA K.V.,KAHATOWITA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1104,SRI NISSANKA K.V.,"KOSKADAWALA, YAKKALA",Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1105,GODAGAMA P.V.,G0DAGAM ELLAKKALA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1106,THIHARIYA MAYURAPADA K.V.,"THIHARIYA, KALAGEDIHENA",Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1107,DADAGAMUWA K.V.,"DADAGAMUWA, VEYANGODA",Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1108,NIKAHETIKANDA K.V.,"NIKAHETIKANDA, VEYANGODA",Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1109,THALGASMOTE KASSAPA P.V.,VEYANGODA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1110,BOPAGAMA K.V.,"BOPAGAMA, VEYANGODA",Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1111,MATHALANA K.V.,"MATHALANA, NITTABUWA",Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1112,YATIYANA K.V.,NITTAMBUWA,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1113,RATHAMBALE K.V.,"RATHAMBALE, URAPOLA",Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1114,SRI WALAGAMBA K.V.,"SAPUGASTANNE RD, KALAGEDIHENA",Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1115,WELIKADAMULLA K.V.,ATHTHANAGALL,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1116,WEERANGULA K.V.,"WEERANGULA, YAKKALA",Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1117,NITTABUWA ROMAN CATHOLIC KANISHTA VIDYALAYA,NITTAMBUWA,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1118,SRI PAGNGNGNATHISSA K.V.,ATTANAGALLA,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1119,VEYANGODA VIDYALOKA M.V.,"PATHTHALAGEDARA, VEYANGODA",Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1120,URAPOLA P.V.,URAPOLA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1121,ASHOKA P.V.,KALAGEDIHENA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1123,GORAKADENIYA P.V.,UDATHUTHTHIRIPITIYA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1124,PITIYEGEDARA P.V.,BEMMULLA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1127,YATAWAKA P.V.,"YATAWAKA, NIKAHETIKANDA",Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1128,VEYANGODA P.V.,VEYANGODA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1129,HIRIRPITIYA P.V.,VEYANGODA,Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1130,RANPOKUNAGAMA M.V.,"RANPOKUNAGAMA, NITTAMBUWA",Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1132,YAKKALA ANURA M.M.V.,YAKKALA,Western,12.Gampaha,Gampaha,Gampaha,1.1AB,provincial
+1133,AMBARALUWA M.V.,AMBARALUWA WELIWERIYA,Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1134,RAJASINGHE M.V.,IMBULGODA,Western,12.Gampaha,Gampaha,Gampaha,1.1AB,provincial
+1135,SRI SEELANANDA M.V.,"KOSSINNA, GANEMULLA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1138,GAMPAHA YASODARA DEVI B.M.V.,GAMPAHA,Western,12.Gampaha,Gampaha,Gampaha,1.1AB,provincial
+1139,GAMPAHA SRI SIDDHARTHA KUMARA M.V.,"SRI VIJAYA SRI MW, GAMPAHA",Western,12.Gampaha,Gampaha,Gampaha,2.1C,provincial
+1140,GALAHITIYAWA HEMAMALI M.V.,GALAHITIYAWA GANEMULLA,Western,12.Gampaha,Gampaha,Gampaha,2.1C,provincial
+1141,SIRI SEEWALI M.V.,NEDUNGAMUWA,Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1142,SIRIPARAKUMBA M.V.,PARAKANDENIYA,Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1143,SRI SWARNAPALI M.V.,"PAHALAYAGODA, GANEMULLA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1144,SRI VIJAYA M.V.,"BULUGAHAGODA, GANEMULLA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1145,BOLLATHA DHARMAPALA M.V.,"BOLLATHA, GANEMULLA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1146,VIDYAKARA M.V.,"MABIMA, MAKEVITA",Western,12.Gampaha,Gampaha,Gampaha,1.1AB,provincial
+1147,YAKKALA SRI CHANDRAJOTHI M.V.,YAKKALA,Western,12.Gampaha,Gampaha,Gampaha,1.1AB,provincial
+1148,MADDUMA BANDARA M.V.,WELIVERIYA,Western,12.Gampaha,Gampaha,Gampaha,2.1C,provincial
+1149,HENARATHGODA KEPPETIPOLA M.V.,MUDUNGODA,Western,12.Gampaha,Gampaha,Gampaha,2.1C,provincial
+1150,KUMARADASA K.V.,"AMUNUGODA, IMBULGODA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1151,"ANURA MODEL P.V., YAKKALA",YAKKALA,Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1153,EMBARALUWA MIHINDU K.V.,WELIWERIYA,Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1154,VIJITHA K.V.,"INDIGOLLA, GAMPAHA.",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1155,SUNETHRA DEVI K.V.,"PAHALA IMBULGODA, IMBULGODA",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1156,VIHARAMAHADEVI K.V.,"PAHALA IMBULGODA, IMBULGODA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1157,SUJATHA MODEL K.V.,"IHALA IMBULGODA, IMBULGODA",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1158,LUMBINI K.V.,"IHALA YAGODA, GAMPAHA.",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1160,KARANEKAMULLA GAMINI K.V.,BEMMULLA,Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1161,GEMUNU K.V.,"KIRINDIWITA, GAMPAHA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1162,SRI SUMANGALA P.V.,KUDABOLLATHA GANEMULLA,Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1163,SIRI SEELARATHANA P.V.,GANEMULLA,Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1164,THIBBOTUGODA GAMINI K.V.,"THIBBOTUGODA, GANEMULLA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1165,MAYADUNNA P.V.,"PARAKANDENIYA, IMBULGODA",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1167,GAMPAHA PARAKCRAMA M.V.,"BANDARAWATTA, GAMPAHA",Western,12.Gampaha,Gampaha,Gampaha,2.1C,provincial
+1168,GAJABA K.V.,"CHURCH RD, GAMPAHA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1169,SRI RAHULA K.V.,MUDUNGODA,Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1171,PANDUKABAYA P.V.,"MAKEWITA, JAELA.",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1172,MABIMA VIDYAKARA P.V.,"MABIMA, MAKEWITA.",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1173,JINARATHANA P.V.,"MAHATHTHUWA, YAKKALA",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1174,SENARATH K.V.,"MIDELLAWITA, GANEMULLA",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1176,WIMALADHARMASURIYA K.V.,"MORAGODA, GAMPAHA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1177,BODHIRAJA K.V.,"RATHUPASWALA, MUDUNGODA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1178,MADDUMA BANDARA K.V.,WELIWERIYA,Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1179,"DHARMAPALA P.V., WELIKADA","WELIKADA, MAKEVITA",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1180,GAMPAHA GOTHAMI K.V.,"VISHAKA RD, GAMPAHA",Western,12.Gampaha,Gampaha,Gampaha,3.Type2,provincial
+1181,HORAGOLLA SRILANKA P.V.,"HORAGOLLA, GANEMULLA",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1182,SRIBODHI P.V.,"SRIBODHI RD, GAMPAHA.",Western,12.Gampaha,Gampaha,Gampaha,4.Type3,provincial
+1184,KADAWATHA M.M.V.,KADAWATHA,Western,12.Gampaha,Kelaniya,Mahara,1.1AB,provincial
+1185,UDUPILA WEERA VIJAYABA M.V.,DELGODA,Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1186,HOLY FAMIL B.M.V.,KIRIMATIYAGARA KADAWATHA,Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1188,KIRILLAWALA CENTRAL COLLEGE,"KIRILLAWALA, KADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,1.1AB,provincial
+1189,BUTHPITIYA M.V.,BUTHPITIYA,Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1190,AMBAGASPITIYA M.V.,AMBAGASPITIYA,Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1191,BATEPOLA MAHA VIDYALAYA,"BATEPOLA, WATHURAGAMA",Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1192,KANDALIYADDAPALUWA JAYAKODY M.V.,"KANDALIYADDAPALUWA, GANEMULLA",Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1193,VIDYASADHAKA M.V.,"GONGITHOTA, WATTALA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1194,S.K.K.SOORIARACHCHI SECONDRY SCHOOL,GONAHENA KADAWATHA,Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1195,DHARMARAJA M.V.,"MAHARANUGEGODA, RAGAMA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1196,WEBODA MAHA VIDYALAYA,"WEBODA SOUTH, WEBODA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1197,WATTALA ST. SEBASTIANS M.V.,"EDERAMULLA, WATTALA",Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1198,SIRI SIDUHATH K.V.,ETIKEHELGALLA WELIWERIYA,Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1199,KADAWATHA VIDYALOKA VIDYALAYA,"IHALA KARAGAHAMUNA, KADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1200,MAHABODHI P.V.,"RAGAMA RD, KADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1201,KADAWATHA ROMAN CATHOLIC K.V.,"IHALAKARAGAHAMUNA, KADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1202,DHRMADHARSHI P.V.,IHALAKARAGAHAMUNA KADAWATHA,Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1203,KAHATANA K.V.,"KAHATANA, HENEGAMA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1204,KIRIMETIYAGARA ROMAN CATHOLIC BOYS SCHOOL,"KIRIMETIYAGARA, KADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1205,VIDYACHANDRA K.V.,"DALUPITIYA, MAHARA, KADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1207,SRI SANGAMITHTHA M.V.,"NELIGAMA, RAGAMA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1208,WEBODA NORTH VIDYADEEPA M.V.,"WEBODA NORTH, WEBODA",Western,12.Gampaha,Kelaniya,Mahara,2.1C,provincial
+1209,VIDYARTHA K.V.,"WILIMBULA, HENEGAMA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1210,HENEGAMA MAHABODHI K.V.,HENEGAMA,Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1212,KIRIKITHTHA JAYABODHI K.V.,"KIRIKITHTHA, WELIVERIYA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1213,SIYANE NEELAMMAHARA P.V.,"NEELAMMAHARA, BUTHPITIYA",Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1214,UDUPILA P.V.,"UDUPILA, DELGODA",Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1215,VIDYARAJA P.V.,KIBULGODA YAKKALA,Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1216,SRI RAHULA VIDYALAYA,"ENDERAMULLA, WATTHALA",Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1217,S.K.K.SOORIARACHCHI P.V.,"GONAHENA, KADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1218,DALUPITIYA P.V.,"MAHARA, KADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1219,BUTHPITIYA P.V.,BUTHPITIYA,Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1221,WELIPILLEWA PRIMARY SCHOOL,GANEMULLA,Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1222,SIWRALUMULLA P.V.,NEDUNGAMUWA,Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1223,URUWALA K.V.,BUTHPITIYA,Western,12.Gampaha,Kelaniya,Mahara,3.Type2,provincial
+1225,SOORIYA PRADEEPA P.V.,SOORIYAPALUWA KADAWATHA,Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1226,KIRINDIWELA M.M.V.,KIRINDIWELA,Western,12.Gampaha,Gampaha,Dompe (Weke),1.1AB,provincial
+1227,DEKATANA PADMAWATHI M.M.V.,DEKATANA,Western,12.Gampaha,Gampaha,Dompe (Weke),1.1AB,provincial
+1229,RADAWANA MAHAGAMASEKARA M.V.,"THUNMANHANDIYA, RADAWANA",Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,provincial
+1230,MANDAWALA M.V.,MANDAWALA,Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,provincial
+1231,DHARMARAJA M.V.,"DANGALLA, PEPILIYAWALA",Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,provincial
+1232,OVITIGAMA BODHIRAJA M.V.,"OVITIGAMA, PUGODA",Western,12.Gampaha,Gampaha,Dompe (Weke),1.1AB,provincial
+1233,BANDARANAYAKA M.V.,WERAHERA PAPILIYAWALA,Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,provincial
+1234,SIRI PARAKUMBA M.V.,LUNUGAMA,Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,provincial
+1235,MALWANA M.V.,MALWANA,Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1236,DOMPE M.V.,DOMPE,Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,provincial
+1237,WATHURUGAMA M.V.,WATHURUGAMA,Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,provincial
+1238,MEDDEGAMA M.V.,"MEDDEGAMA, KIRINDIWELA",Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1239,WANARATHANA M.V.,DEMALAGAMA,Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1240,PINGAMUWA M.V.,"PINGAMUWA, KIRINDIWELA",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1241,HISWELLA K.V.,"HISWELLA, KIRIDIWELA",Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1242,MARYLAND K.V.,"MARYLAND, WATHURUGAMA",Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1243,SRI JINANANDA P.V.,"BOGAHAWATHTHA, KIRINDIWELA",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1244,ANURAGODA K.V.,"ANURAGODA, PEPILIYAWALA",Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1246,KERAGALA SANGARAJA M.V.,"KERAGALA, HENEGAMA",Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1247,SRI RAHULA P.V.,WANALUWAWA,Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1249,PALPITA K.V.,MANDAWALA,Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1250,PEPILIYAWALA K.V.,PEPILIYAWALA,Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1251,MEETHIRIGALA K.V.,MEETHIRIGALA,Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1252,TITHTHAPATHTHARA K.V.,TITHTHAPATHTHARA,Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1253,HOLLY CROOS M.V.,"THARALA, PUGODA",Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1254,GIRIDARA SRIBODHI K.V.,GIRIDARA KAPUGODA.,Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1255,GURUWALA P.V.,"GURUWALA, DOMPE",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1256,INDOLAMULL K.V.,"INDOLAMULLA, DOMPE",Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1257,KIMBULWILAWATHTHA M.V.,DOMPE,Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1258,SIDDHARTHA MODEL P.V.,"IDDAMALDENIYA, DOMPE",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1259,PALUGAMA K.V.,"PALUGAMA, DOMPE",Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1260,SIYANE MODEL P.V.,"WELGAMA, DOMPE",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1261,KIRINDIWELA M.V.,KIRINDIWELA,Western,12.Gampaha,Gampaha,Dompe (Weke),3.Type2,provincial
+1262,BANDARANAYAKAPURA P.V.,"MAILAWALANA, KIRINDIWELA",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1263,KUTTIWILA K.V.,"THALGASWATHTHA, KIRINDIWELA",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1265,MAHINDA P.V.,MANDAWALA,Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1267,NAKANDAPOLA P.V.,"NAKANDAPOLA, HENEGAMA",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1272,OVITIGAMA P.V.,"OVITIGAMA, PUGODA",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1273,KALUKONDAYAWA P.V.,MALWANA,Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1274,DOMPE P.V.,"GANEGODA, DOMPE",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1278,DARANAGAMA M.V.,SIYAMBALAPE,Western,12.Gampaha,Kelaniya,Biyagama,1.1AB,provincial
+1280,HEIYANTHUDUWA SANGAMITHTHA MAHA VIDYALAYA,HEIYANTHUDUWA,Western,12.Gampaha,Kelaniya,Biyagama,2.1C,provincial
+1281,KANDEWATHTHE SIRISUMANA V.,SIYAMBALAPE,Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1283,HEIYANTHUDUWA MAHINDA M.V.,HEIYANTHUDUWA,Western,12.Gampaha,Kelaniya,Biyagama,2.1C,provincial
+1284,SRI PEMANANDA M.V.,"IHALA BIYANWILA, KADAWATHA",Western,12.Gampaha,Kelaniya,Biyagama,3.Type2,provincial
+1285,SAPUGASKANDA M.V.,SAPUGASKANDA MAKOLA,Western,12.Gampaha,Kelaniya,Biyagama,1.1AB,provincial
+1286,PAMUNUWILA M.V.,"PAMUNUWILA, GONAWALA",Western,12.Gampaha,Kelaniya,Biyagama,2.1C,provincial
+1287,KELANITHISSA V.,GONAWALA,Western,12.Gampaha,Kelaniya,Biyagama,3.Type2,provincial
+1288,KADAWATHA BUDDHIST P.V.,"SHRAMADANA RD, KADAWATHA",Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1289,KADAWATHA MAHAMAYA BALIKA M.V.,"PAHALA BIYANWILA, KADAWATHA",Western,12.Gampaha,Kelaniya,Biyagama,1.1AB,provincial
+1290,BAPTIST P.V.,KADAWATHA,Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1291,SAPUGASKANDA SOBITHA P.V.,SAPUGASKANDA MAKOLA,Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1292,KANDUBODA NALANDA M.V.,KANDUBODA DELGODA,Western,12.Gampaha,Kelaniya,Biyagama,3.Type2,provincial
+1293,BIYAGAMA M.M.V.,BIYAGAMA,Western,12.Gampaha,Kelaniya,Biyagama,1.1AB,provincial
+1294,BIYAGAMA PRIMARY SCHOOL,BIYAGAMA,Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1295,BOLLEGALA M.V.,"GONAWALA, KELANIYA",Western,12.Gampaha,Kelaniya,Biyagama,2.1C,provincial
+1296,ANANDA K.V.,"YABARALUWA, MALWANA",Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1297,SUBHASHIE RAJAKEEYA M.V.,"KARAMBUGAS HANDIYA, MALWANA",Western,12.Gampaha,Kelaniya,Biyagama,3.Type2,provincial
+1298,YATIHENA K.V.,"YATIHENA, MALWANA",Western,12.Gampaha,Kelaniya,Biyagama,3.Type2,provincial
+1299,ASOKA P.V.,DELGODA,Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1302,KELANIYA ST. PAUL'S BALIKA M.V.,"WARAGODA, KELANIYA",Western,12.Gampaha,Kelaniya,Kelaniya,1.1AB,provincial
+1303,SRI SUMANGALA M.V.,ERIYAWETIYA KELANIYA,Western,12.Gampaha,Kelaniya,Kelaniya,1.1AB,provincial
+1304,WEDAMULLA MAHA VIDYALAYA,"THORANA JUNCTION, KELANIYA",Western,12.Gampaha,Kelaniya,Kelaniya,3.Type2,provincial
+1305,HUNUPITIYA BANDARANAYAKA M.V.,"HUNUPITIYA, WATTALA",Western,12.Gampaha,Kelaniya,Kelaniya,2.1C,provincial
+1306,KELANI M.V.,"SINHARAMULLA, KELANIYA",Western,12.Gampaha,Kelaniya,Kelaniya,2.1C,provincial
+1307,KELANIYA ST. FRANCIS M.V.,"DALUGAMA , KELANIYA",Western,12.Gampaha,Kelaniya,Kelaniya,2.1C,provincial
+1308,KIRIBATHGODA D.A.RAJAPAKSHA V.,KIRIBATHGODA,Western,12.Gampaha,Kelaniya,Kelaniya,3.Type2,provincial
+1309,KOHALWILA CHANDRARATHANA M.V.,KOHALWILA KELANIYA,Western,12.Gampaha,Kelaniya,Kelaniya,3.Type2,provincial
+1310,PILAPITIYA PRESIDENT'S COLLEGE,"PILAPITIYA, KELANIYA",Western,12.Gampaha,Kelaniya,Kelaniya,2.1C,provincial
+1311,KADAWATHA PRESIDENT'S COLLEGE,"MAHARA, KADAWATHA",Western,12.Gampaha,Kelaniya,Kelaniya,2.1C,provincial
+1312,NAGASENA M.V.,WANAWASALA KELANIYA,Western,12.Gampaha,Kelaniya,Kelaniya,3.Type2,provincial
+1315,KELANIYA HELENA WIJAYAWARDHANA B.M.V.,"SINHARAMULLA, KELANIYA",Western,12.Gampaha,Kelaniya,Kelaniya,2.1C,provincial
+1316,HUNUPITIYA DHARMAPALA BUDDHIST P.V.,"HUNUPITIYA, WATTALA",Western,12.Gampaha,Kelaniya,Kelaniya,4.Type3,provincial
+1317,YASHODARA PRIMARY SCHOOL,"DALUGAMA, KELANIYA",Western,12.Gampaha,Kelaniya,Kelaniya,4.Type3,provincial
+1318,DIPPITIGODA R.C.P.V.,"DIPPITIGODA, KELANIYA",Western,12.Gampaha,Kelaniya,Kelaniya,4.Type3,provincial
+1320,DESHAMANYA H.K.DARMADASA M.V.,"PASAL MW, PELIYAGODA",Western,12.Gampaha,Kelaniya,Kelaniya,2.1C,provincial
+1321,PELIYAGODA R.C.P.V.,PELIYAGODA KELANIYA,Western,12.Gampaha,Kelaniya,Kelaniya,4.Type3,provincial
+1322,DUTUGAMUNU M.V.,"DUTUGAMUNU MW, PELIYAGODA.",Western,12.Gampaha,Kelaniya,Kelaniya,3.Type2,provincial
+1325,WATTALA AL-ASHRAFF M.V.,"MABOLA, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,2.1C,provincial
+1326,"ROMANU CATHOLIC TAMIL P.V., WATTALA","NEGAMBO RD, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,4.Type3,provincial
+1327,ALIGARH M.V.,KALELIYA,Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1328,BABUSSALAM M.V.,"NAMBULUWA, PASAYALA",Western,12.Gampaha,Minuwangoda,Meerigama,2.1C,provincial
+1329,AL-HASSEN K.V.,WEWELDENIYA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1330,KALAGEDIHENA AL-AZHAR M.M.V.,"WARANA RD, THIHARIYA, KALAGEDIHENA",Western,12.Gampaha,Gampaha,Attanagalla,1.1AB,provincial
+1331,AL-BADRIYA M.V.,KAHATOWITA,Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1332,ARAFA M.V.,"UDUGODA, RUGGAHAWILA",Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1333,MUSLIM B.M.V.,KAHATOWITA,Western,12.Gampaha,Gampaha,Attanagalla,2.1C,provincial
+1334,KUMARIMULLA MUSLIM M.V.,"KUMARIMULLA, PUGODA",Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,provincial
+1335,AL-MUSTHAFA M.V.,"YATIHENA, MALWANA",Western,12.Gampaha,Kelaniya,Biyagama,2.1C,provincial
+1337,WATTALA ZAHIRA M.V.,"HUNUPITIYA, WATTALA",Western,12.Gampaha,Kelaniya,Kelaniya,2.1C,provincial
+1338,WELEGODA MUSLIM K.V.,WELEGODA WATTALA,Western,12.Gampaha,Kelaniya,Kelaniya,3.Type2,provincial
+1339,ELLALAMULLA ZAHIRA MUSLIM V.,PASYALA,Western,12.Gampaha,Minuwangoda,Meerigama,3.Type2,provincial
+1342,NEGOMBO ST. MARY'S M.V.,"MAIN STREET, NEGOMBO",Western,12.Gampaha,Negombo,Negombo,1.1AB,provincial
+1343,KOCHCHIKADE CHRIST KING COLLEGE,KOCHCHIKADE,Western,12.Gampaha,Negombo,Negombo,2.1C,provincial
+1344,NEGOMBO ST. PETER'S M.V.,NEGOMBO.,Western,12.Gampaha,Negombo,Negombo,1.1AB,provincial
+1345,NEGOMBO ST. ANN'S M.V.,"KURANA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,2.1C,provincial
+1346,PITIPANA M.V.,"MEDA PITIPANA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,2.1C,provincial
+1347,KEPUNGODA ST. ANTHONY'S J.S.V.,"KEPUNGODA, PAMUNUGAMA",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1349,THALAHENA M.V.,"THALAHENA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1350,THILLANDUWA J.S.V.,"ST. JOSHEP STREET, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1352,DALUPOTHA M.V.,"DALUPOTHA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,2.1C,provincial
+1354,DUNGALPITIYA J.S.V.,"DUNGALPITIYA, THALAHENA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1355,ST. ANNE'S M.V.,"DALUWAKOTUWA, KOCHCHIKADE.",Western,12.Gampaha,Negombo,Negombo,2.1C,provincial
+1356,ST. ANNE'S P.V.,"DALUWAKOTUWA, KOCHCHIKADE.",Western,12.Gampaha,Negombo,Negombo,4.Type3,provincial
+1357,BASIYAWATTA ST. PETER'S KANISHTA V.,"BASIYAWATTA, THALAHENA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1358,BOLWALANA NIMALA MARIA M.V.,"BOLWALANA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,2.1C,provincial
+1359,NEGOMBO ST. SEBASTIAN'S M.V.,"SEA STREET, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,2.1C,provincial
+1360,NEGOMBO VIDYALANKARA M.V.,"TEMPLE RD, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,2.1C,provincial
+1361,NEGOMBO ST. JOSHEP'S J.S.V.,"MAIN STREET, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1362,NEGOMBO OUR LADY OF MIRACLE M.V.,"ST.JOSHEP STREET, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,2.1C,provincial
+1363,DUWANA SINHALA MIXED VIDYALAYA,"DUWANA, KOCHCHIKADE.",Western,12.Gampaha,Negombo,Negombo,4.Type3,provincial
+1364,ETHTHUKALA ST. SYLVESTER SINHALA MIXED VIDYALAYA,"ETHTHUKALA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1365,PALANGATHURAYA SINHALA MIXED K.V.,"PALANGATHURAYA, KOCHCHIKADE",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1366,DUWA J.S.V.,"DUWA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1367,PALLANSENA R.C.P.V.,"PALLANSENA, KOCHCHIKADE.",Western,12.Gampaha,Negombo,Negombo,4.Type3,provincial
+1369,MANKULIYA ST. ANTHONY'S VIDYALAYA,"MANKULIYA, NEGOMBO.",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1370,NEGOMBO ST. NICHOLA'S SINHALA V.,NEGOMBO,Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1371,KUDAPADUWA SINHALA MIXED V.,"LUWIS PLACE, KUDAPADUWA",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1372,KATTUWA ST. FRANCIS SALES J.S.V.,"KATTUWA, NEGOMBO",Western,12.Gampaha,Negombo,Negombo,3.Type2,provincial
+1373,AMANDOLUWA M.V.,"AMANDOLUWA, SEEDUWA",Western,12.Gampaha,Negombo,Katana,2.1C,provincial
+1374,ANDIAMBALAMA M.V.,ANDIAMBALAMA,Western,12.Gampaha,Negombo,Katana,1.1AB,provincial
+1375,VIDYALOKA M.V.,"KATANA WEST, KATANA",Western,12.Gampaha,Negombo,Katana,2.1C,provincial
+1376,KATUNAYAKE M.V.,KATUNAYAKE,Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1377,KATUWAPITIYA ST. SEBASTIAN M.V.,"KATUWAPITIYA, NEGOMBO",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1378,THIMBIRIGASKATUWA MUDALIDU DAVID MENDIS M.V.,THIMBIRIGASKATUWA,Western,12.Gampaha,Negombo,Katana,1.1AB,provincial
+1380,SEEDUWA DAVISAMARA M.V.,SEEDUWA,Western,12.Gampaha,Negombo,Katana,1.1AB,provincial
+1381,DHAMMALOKA M.V.,"HEENATIYANA, MINUWANGODA",Western,12.Gampaha,Negombo,Katana,2.1C,provincial
+1382,AMBALANMULLA SRI JOTHIRATHANA J.S.V.,"AMBALANMULLA, SEEDUWA",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1383,ALAWATHUPITIYA J.S.V.,"ALAWATHUPITIYA , SEEDUWA",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1384,ANDIAMBALAMA BUDDHIST P.V.,ANDIAMBALAMA,Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1385,ETHGALA ROMAN CATHOLIC K.V.,ETHGALA KOCHCHIKADE,Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1387,MARIYA RAJINIE J.S.V.,KATANA,Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1388,KADAWALA ST. JOSEPHS J.S.V.,"KADAWALA, KATANA",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1389,KATUNAYAKA R.C.M.V.,KATUNAYAKA,Western,12.Gampaha,Negombo,Katana,2.1C,provincial
+1390,SRI LANKA AIR FORCE KANISHTA VIDYALAYA,KATUNAYAKE,Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1391,KADIRANA K.V.,DEMANHANDIYA,Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1392,KIMBULAPITIYA R.C.P.V.,"KIMBULAPITIYA , NEGOMBO",Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1393,SRI MEDHANKARA MODEL P.V.,KIMBULAPITIYA,Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1394,KUSWALA P.V.,"KUSWALA, RADDOLUGAMA",Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1395,KOTUGODA R.C.P.V.,KOTUGODA,Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1396,KONDAGAMULLA J.S.V.,DEMANHANDIYA,Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1400,ABAYARAJA P.V.,"DEWAMOTTAWA, ANDIAMBALAMA",Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1401,PEELLAWATHTHA DAVID DE SILVA J.S.V.,"PEELLAWATHTHA, YATIYANA, MINUWANGODA",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1402,ST. JOHN THE BAPTIST M.V.,"BAMBUKULIYA, KOCHCHIKADE",Western,12.Gampaha,Negombo,Katana,2.1C,provincial
+1403,BANDARAWATHTHA ST. MARYS J.S.V.,"BANDARAWATHTHA, SEEDUWA",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1404,SRI VIJAYA K.V.,"KALUWARIPPUWA, WEST KATANA",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1406,MIRISWATTA P.V.,DEMANHANDIYA,Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1407,MURUTHANA K.V.,"MURUTHANA, KOCHCHIKADE",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1408,BANDARANAYAKE J.S.V.,"MUKALANGAMUWA, SEEDUWA",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1409,WALANA LAKSHMIE J.S.V.,WALANA KATUNAYAKA,Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1410,SRI RATHANASARA P.V.,"WALPOLA, ANDIAMBALAMA.",Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1411,WELIHENA SINHALA MIXD K.V.,KOCHCHIKADE,Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1412,SEEDUWA METHODIST P.V.,SEEDUWA,Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1413,AMANDOLUWA R.C.P.V.,"AMANDOLUWA, SEEDUWA",Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1414,ANDIAMBALAMA R.C.P.V.,ANDIAMBALAMA,Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1417,SEEDUWA R.C.P.V.,SEEDUWA,Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1418,THOPPUWA ST. PHILIP NERI'S K.V.,KOCHCHIKADE,Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1419,RADDOLUGAMA P.V,RADDOLUGAMA,Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1420,JEYARAJ FERNANDOPULLE M.V.,KIMBULAPITIYA,Western,12.Gampaha,Negombo,Katana,2.1C,provincial
+1421,HUNUMULLA M.V.,HUNUMULLA,Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1422,KUDAGAMMANA M.V.,WALPITA,Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1423,KARUNARATHNA BUDDHIST MAHA VIDYALAY,KOTADENIYAWA,Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1424,DIVULAPITIYA SRI GNANODAYA M.M.V.,DIVULAPITIYA,Western,12.Gampaha,Minuwangoda,Divulapitiya,1.1AB,provincial
+1425,DOROWWA M.V.,"DIVULDENIYA VIA, MIRIGAMA",Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1426,NAWANA M.V.,NAWANA,Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1427,BANDURAGODA DHARMASHOKA M.V.,BANDURAGODA,Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1428,MELLAWAGEDARA ANAGARIKA DHARMAPALA MAHA VIDYALAYA,MELLAWAGEDARA,Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1429,ULLALAPOLA P.V.,DIVULAPITIYA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1431,DIYAGAMPALA P.V.,KOTADENIYAWA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1432,BALAGALLA P.V.,DIVULAPITIYA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1433,PATHIGODA P.V.,BADALGAMA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1434,KALUAGGALA P.V.,KALUAGGALA VIA MIRIGAMA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1435,MELLAWAGEDARA R.C.P.V.,MELLAWAGEDARA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1436,MANINGAMUWA SIRIWARDHANA P.V.,MELLAWAGEDARA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1437,SRI SARANATISSA K.V.,BADALGAMA,Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1438,HALPE EKANAYAKA K.V.,MEERIGAMA,Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1439,HANGAWATHTHA RAJAGIRI P.V.,BANDURAGODA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1440,KITHULWALA MUNIDASA KUMARATHUNGA K.V.,KITHULWALA MIRIGAMA VIA,Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1442,KEHELELLA RANASINGHA P.V.,BADALGAMA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1443,PINNAKELEWATTA P.V.,DIVULAPITIYA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1444,HEERALUGEDARA SRIPALI P.V.,KOTADENIYAWA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1445,HAPUGAHAGAMA SARDHATISSA SAKALASOORIYA MODAL P.V.,DIVULAPITIYA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1446,DELWAGURA MALIYADEWA P.V.,DELWAGURA VIA MIRIGAMA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1447,MADITHIYAWALA P.V.,BANDURAGODA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1448,HUNUMULLA C.W.W.KANNANGARA MADYA VIDYALAYA,HUNUMULLA,Western,12.Gampaha,Minuwangoda,Divulapitiya,1.1AB,provincial
+1449,ALUTHEPOLA WALAGAMBA M.V.,WEGOWWA,Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1450,IHALA MADAMPELLA RANASINGHE M.V.,"IHALA MADAMPELLA VIA, MIRIGAMA",Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1451,KATUWELLEGAMA NAVODYA M.V.,KATUWELLEGAMA,Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1452,"SIRI SIDUHATH M.V., AKARAGAMA",AKARAGAMA,Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1454,DUNAGAHA RANASINGHA M.V.,DUNAGAHA,Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1455,POPE PAUL THE 6TH M.V.,"HALPE, KATANA",Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1456,WERAGODAMULLA M.V.,HORAMPELLA,Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1457,AKARAGAMA GUNADASA K.V.,AKARAGAMA VIA MEERIGAMA,Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1458,ASSENNAWATTA P.V.,DIVULAPITIYA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1459,ANDIMALLA P.V.,KATANA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1460,INDURAGARA SIRI PERAKUM P.V.,DUNAGAHA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1462,KADAWALA RANASINGHE P.V.,DUNAGAHA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1463,KEHELELLA RAHULA P.V.,"KEHELELLA SOUTH, HUNUMULLA",Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1464,KOONGODAMULLA ST. ANTHONY'S K.V.,KATANA,Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1465,DAGONNA RANASINGHE P.V.,"DAGONNA VIA, NEGOMBO",Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1466,DAGONNA METHODIST P.V.,"DAGONNA VIA, NEGOMBO",Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1467,DAGONNA R.C.P.V.,"DAGONNA VIA, NEGOMBO",Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1468,DAGONNA WIMALANANDA P.V.,"NEGOMBO RD, DAGONNA",Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1469,DIVULAPITIYA SRI GNANAWASA M.V.,DIVULAPITIYA,Western,12.Gampaha,Minuwangoda,Divulapitiya,2.1C,provincial
+1470,KALUWARIPPUWA EAST P.V.,KATANA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1471,PALLIYAPITIYA RANASINGHE P.V.,DUNAGAHA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1473,PAHALA MADAMPELLA K.V.,KATANA,Western,12.Gampaha,Minuwangoda,Divulapitiya,3.Type2,provincial
+1474,BATEPOLA R.C. P.V.,DUNAGAHA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1475,MARANDAGAHAMULA ANANDA P.V.,MARANDAGAHAMULA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1476,HENPITAGEDARA GNANASEEHA P.V.,MERANDAGAHAMULA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1477,HORAGASMULLA P.V.,DIVULAPITIYA,Western,12.Gampaha,Minuwangoda,Divulapitiya,4.Type3,provincial
+1479,MINUWANGODA NALANDA BALIKA M.M.V.,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,1.1AB,provincial
+1480,NILPANAGODA MAHA VIDYALAYA,NILPANAGODA WEGOWWA MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1481,MABODALA M.V.,MABODALA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1482,HORAMPELLA SEELAWIMALA M.V.,HORAMPELLA,Western,12.Gampaha,Minuwangoda,Minuwangoda,2.1C,provincial
+1483,YATIYANA M.V.,"YATIYANA , MINUWANGODA",Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1484,KOPIWATHTHA K.V.,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1485,POLWATHTHA SRI RATHANASARA M.V.,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1486,YATAGAMA P.V.,"YATAGAMA, ESSALLA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1487,YATIYANA R.C.K.V.,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1488,WATINAPAHA BUDDHIST PRIMARY SCHOOL,WATINAPAHA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1490,WEGOWWA K.V.,WEGOWWA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1491,VITHANAMULLA K.V.,DIVULAPIYIYA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1492,KAMARAGODA R.C.J.S.,"KAMARAGODA, DEVELAPOLA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1495,HORAMPELLA P.V.,"HORAMPELLA, MINUWANGODA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1496,ARANGAWA SRI DHAMMARAMA P.V.,HORAMPELLA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1497,OPATHA SRI GUNANANDA P.V.,"OPATHA, KOTUGODA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1498,KALAHUGODA MADAWALA COMBIND JUNIOR SCHOOL,"KALAHUGODA, MINUWANGOD",Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1499,GALLOLUWA R.C.P.V.,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1500,WATINAPAHA R.C.P.S.,WATINAPAHA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1501,MINUWANGODA PRESIDENT'S COLLEGE,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,1.1AB,provincial
+1503,SRI RAHULA M.V.,KOTUGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,2.1C,provincial
+1504,DEVELAPOLA ANANDA M.V.,DEWELAPOLA,Western,12.Gampaha,Minuwangoda,Minuwangoda,1.1AB,provincial
+1505,VIGODA M.V.,"VIGODA, BEMMULLA",Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1507,THAMMITA M.V.,MAKEWITA,Western,12.Gampaha,Minuwangoda,Minuwangoda,2.1C,provincial
+1508,BURULLAPITIYA M.V.,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,2.1C,provincial
+1509,KORASE RANASINGHA M.V.,UDUGAMPOLA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1510,KALAWANA SENANAYAKA K.V.,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1511,WELIYA SRI SUGATHAPALA P.V.,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1512,WEEDIYAWATHTHA SENARATH K.V.,UDUGAMPOLA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1513,PETHIYAGODA BUDDHIST JUNIOR SCHOOL,"PETHIYAGODA, GAMPAHA",Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1514,BALABOWA K.V.,"BALABOWA, DEWALAPOLA",Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1515,MARAPOLA M.V.,VEYANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,2.1C,provincial
+1516,SRI RATHANAJOTHI VIDYALAYA,UDUGAMPOLA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1517,ASGIRIYA SUDARSHANA K.V.,GAMPAHA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1518,ASGIRIYA JUNIOR MIXED SCHOOL,"ASDIRIYA WEST, GAMPAHA",Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1519,UGGALBODA P.V.,GMPAHA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1520,NEDAGAMUWA JUNIOR M.S.,KOTUGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1521,SIYAMBALAPITIYA P.V.,MAKEVITA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1524,MADELGAMUWA P.V.,"MADELGAMUWA, GAMPAHA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1526,GANIHIMULLA P.V.,"GANIHIMULLA, DEVALAPOLA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1527,GOIGAMA NAGARAMA P.V.,"GOIGAMA, UDUGAMPOLA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1528,UDUGAMPOLA P.V.,UDUGAMPOLA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1530,PETHIYAGODA METHODIST K.V.,"PETHIYAGODA, GAMPAHA",Western,12.Gampaha,Minuwangoda,Minuwangoda,3.Type2,provincial
+1533,YAGODAMULLA P.V.,"YAGODAMULLA, KOTUGODA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1534,UDUGAMPOLA R.C.P.S.,UDUGAMPOLA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1535,ASGIRI WALPOLA P.V.,"ASGIRIWALPOLA, UDUGAMPOLA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1536,UDAMMITA DR. KULASINGHE M.V.,"UDAMMITA, KOTUGODA",Western,12.Gampaha,Negombo,Katana,2.1C,provincial
+1537,KANDANA ST. SEBASTIAN'S BALIKA M.V.,KANDANA,Western,12.Gampaha,Negombo,Ja-Ela,1.1AB,provincial
+1538,JA-ELA NIMALA MARIYA BALIKA M.V.,"THUDELLA, JA-ELA",Western,12.Gampaha,Negombo,Ja-Ela,1.1AB,provincial
+1540,KANDANA ST. SEBASTIAN'S M.V.,KANDANA,Western,12.Gampaha,Negombo,Ja-Ela,1.1AB,provincial
+1541,JA-ELA ST. MARY'S M.V.,JA-ELA,Western,12.Gampaha,Negombo,Ja-Ela,2.1C,provincial
+1542,ST. JOHN THE BAPTIST M.V.,"NAGODA, KANDANA",Western,12.Gampaha,Negombo,Ja-Ela,2.1C,provincial
+1543,JINARAJA M.V.,"NIWANDAMA, JA-ELA",Western,12.Gampaha,Negombo,Ja-Ela,1.1AB,provincial
+1544,BATUWATTA M.V.,"BATUWATTA, RAGAMA",Western,12.Gampaha,Negombo,Ja-Ela,1.1AB,provincial
+1545,ST. XAVIER M.V.,"WEWALA, JA-ELA",Western,12.Gampaha,Negombo,Ja-Ela,1.1AB,provincial
+1546,SIDDHARTHA P.V.,BATAGAMA NORTH JAELA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1547,EKALA G.B. SENANAYAKA MAHA VIDYALAYA,EKALA,Western,12.Gampaha,Negombo,Ja-Ela,2.1C,provincial
+1548,KANUWANA ST. JOSEPH'S J.S.V.,"KANUWANA, JA ELA",Western,12.Gampaha,Negombo,Ja-Ela,3.Type2,provincial
+1549,KUDAHAKAPOLA PAGNGNAWASA J.S.V.,"KUDAHAKAPOLA, JA ELA",Western,12.Gampaha,Negombo,Ja-Ela,3.Type2,provincial
+1550,JA ELA JAYANTHI J.S.V.,JA ELA,Western,12.Gampaha,Negombo,Ja-Ela,3.Type2,provincial
+1551,DHARMASHOKA M.V.,BATAGAMA SOUTH KANDANA,Western,12.Gampaha,Negombo,Ja-Ela,2.1C,provincial
+1552,LANKA SABHA V.,DANDUGAMA JA ELA,Western,12.Gampaha,Negombo,Ja-Ela,3.Type2,provincial
+1553,HOLY ROSARY VIDYALAYA,DEHIYAGATHGA JA ELA,Western,12.Gampaha,Negombo,Ja-Ela,3.Type2,provincial
+1554,KARUNARATHNA M.V.,NARANGODAPALUWA BATUWATTA,Western,12.Gampaha,Negombo,Ja-Ela,2.1C,provincial
+1555,PERALANDA ST. JOSEPH'S J.S.V.,"PERALANDA, RAGAMA",Western,12.Gampaha,Negombo,Ja-Ela,3.Type2,provincial
+1556,SIRIWARDHANA P.V.,POLPITUMUKALANA KANDANA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1557,BATAGAMA NORTH J.S.V.,"BATAGAMA, NORTH JA ELA",Western,12.Gampaha,Negombo,Ja-Ela,3.Type2,provincial
+1558,DHARMARAJA P.V.,MEDDEGODA GANEMULLA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1559,YAKKADUWA P.V.,YAKKADUWA JA ELA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1560,WALPOLA DHARMARATHANA J.S.V.,"WALPOLA, RAGAMA",Western,12.Gampaha,Negombo,Ja-Ela,3.Type2,provincial
+1561,ST. MARY'S MODEL SCHOOL,HAPUGODA KADANA,Western,12.Gampaha,Negombo,Ja-Ela,2.1C,provincial
+1562,BASILICA M.V.,"KADAWATHA RD, RAGAMA",Western,12.Gampaha,Negombo,Ja-Ela,1.1AB,provincial
+1564,SRI DHARMARAKSHITHA P.V.,"IHALAGAMA, RAGAMA",Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1566,KADANA ST. SEBASTIAN'S GIRLS P.V.,KADANA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1567,KALAELIYA P.V.,KALAELIYA JA ELA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1569,RAHULA P.V.,NARANGODAPALUWA BATUWATTA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1570,BATAGAMA NORTH R C P.V.,BATAGAMA NORTH JA ELA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1571,BATUWATTA P.V.,BATUWATTA RAGAMA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1572,NIWANDAMA R C P.V.,NIWANDAMA JA ELA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1573,BASILICA P.V.,RAGAMA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1574,WEWALA P.V.,WEWALA JAELA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1575,NEGOMBO AL-HILAL M.V.,"PERIYAMULLA, NEGOMBO",Western,12.Gampaha,Negombo,Negombo,1.1AB,provincial
+1576,NEGOMBO WIJERATNAM HINDU CENTRAL COLLEGE,"134, SEA STREET, NEGOMBO",Western,12.Gampaha,Negombo,Negombo,1.1AB,provincial
+1578,KOCHCHIKADE AL-FALAH M.V.,"PORUTHOTA, KOCHCHIKADE",Western,12.Gampaha,Negombo,Negombo,1.1AB,provincial
+1583,THOPPU R.C.TAMIL M.V.,"THOPPU, KOCHCHIKADE",Western,12.Gampaha,Negombo,Katana,2.1C,provincial
+1584,WELIHENA R.C.TAMIL V.,"WELIHENA, KOCHCHIKADE",Western,12.Gampaha,Negombo,Katana,3.Type2,provincial
+1585,AL-AMAN MUSLIM M.V.,"GALLOLUWA, MINUWANGODA",Western,12.Gampaha,Minuwangoda,Minuwangoda,2.1C,provincial
+1587,ORCHARD WATTA MUSLIM KANISHTA VIDYALAYA,NITTABUWA,Western,12.Gampaha,Gampaha,Attanagalla,3.Type2,provincial
+1588,DON BOSCO VIDYALAYA,"PALLIYAWTTA, HANDALA, WATTALA",Western,12.Gampaha,Kelaniya,Wattala,3.Type2,provincial
+1589,KIRIDIWELA SANGAMITHTHA B.M.V.,KIRIDIWELA,Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,provincial
+1590,MAKOLA VISHAKA B.M.V.,MAKOLA,Western,12.Gampaha,Kelaniya,Biyagama,1.1AB,provincial
+1591,DEKATANA P.V.,"ALBERT GUNARATHNA MW, DEKATANA",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1593,GAMPAHA THAKSHILA M.V.,"SRI BODHI RD, GAMPAHA",Western,12.Gampaha,Gampaha,Gampaha,1.1AB,provincial
+1594,MANDAWALA P.V.,MANDAWALA,Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1595,ST. ANNE'S BALIKA PRIMARY SCHOOL,WATTALA,Western,12.Gampaha,Kelaniya,Wattala,4.Type3,provincial
+1596,DARANAGAMA RAJASINGHA P.V.,"KAMMALWATHTHA, DELGODA",Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1597,ANANDA P.V.,"PALLEGAMA, PEPILIYAWALA",Western,12.Gampaha,Gampaha,Dompe (Weke),4.Type3,provincial
+1598,NELUMWESSA P.V.,"RANMUTHUGALA , GADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1599,AL.MAHAMOOD K.V.,ULAHITIWALA MALWANA,Western,12.Gampaha,Kelaniya,Biyagama,2.1C,provincial
+1600,AL-MUBARAK P.V.,MALWANA,Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1601,DHARUSSALAM P.V.,"THIHARIYA, KALAGEDIHENA",Western,12.Gampaha,Gampaha,Attanagalla,4.Type3,provincial
+1602,KIRILLAWALA PRIMARY SCHOOL,"KIRILLAWALA, KADAWATHA",Western,12.Gampaha,Kelaniya,Mahara,4.Type3,provincial
+1603,DESHAMANYA H.K.DARMADASA P.V.,PELIYAGODA,Western,12.Gampaha,Kelaniya,Kelaniya,4.Type3,provincial
+1604,HEENKENDA P.V.,"HORAPE, RAGAMA",Western,12.Gampaha,Kelaniya,Wattala,4.Type3,provincial
+1605,SRI SUMANGALA P.V.,"ERIYAWATIYA, KELANIYA",Western,12.Gampaha,Kelaniya,Kelaniya,4.Type3,provincial
+1607,MINUWANGODA REGGIE RANATHUNGA P.V.,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1608,DHARANAGAMA P.V.,"DHARANAGAMA, SIYAMBALEPE, DELGODA",Western,12.Gampaha,Kelaniya,Biyagama,4.Type3,provincial
+1609,KARUNARATHNA BUDDISHT P.V.,MATHTUMAGALA RAGAMA,Western,12.Gampaha,Kelaniya,Wattala,4.Type3,provincial
+1610,JINARAJA P.V.,NIWANDAMA JA ELA,Western,12.Gampaha,Negombo,Ja-Ela,4.Type3,provincial
+1611,KOTUGODA SRI RAHULA P.V.,KOTUGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+1612,SRI PANGNANANADA P.V.,"RADDOLUWA, SEEDUWA",Western,12.Gampaha,Negombo,Katana,4.Type3,provincial
+1613,REGGIE RANATHUNGA SCIENCE COLLEGE,MINUWANGODA,Western,12.Gampaha,Minuwangoda,Minuwangoda,1.1AB,provincial
+1614,MARAPOLA P.V.,"WALPITAMULLA, DEVALAPOLA",Western,12.Gampaha,Minuwangoda,Minuwangoda,4.Type3,provincial
+2002,PANADURA BALIKA M.V.,PANADURA,Western,13.Kalutara,Kalutara,Panadura,1.1AB,provincial
+2006,NALLURUWA SIRI SEEVALI K.V.,"NALLURUWA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2007,WALANA MAHANAMA M.V.,"WALANA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,1.1AB,provincial
+2008,SARIKKAMULLA SRI THAKSALA M.V.,"SARIKKAMULLA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,2.1C,provincial
+2009,PANADURA ST. ANTHONY'S BOYS M.V.,PANADURA,Western,13.Kalutara,Kalutara,Panadura,2.1C,provincial
+2010,PANADURA ST. ANTHONY'S GIRLS SCHOOL,PANADURA,Western,13.Kalutara,Kalutara,Panadura,2.1C,provincial
+2011,HORETHUDUWA SRI CHANDRASEKARA M.V.,"HORETHUDUWA, KESELWATHTHA",Western,13.Kalutara,Kalutara,Panadura,2.1C,provincial
+2012,PANADURA BAUDDHALOKA M.V.,"WEKADA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,2.1C,provincial
+2013,WADDUWA ST. MARY'S M.V.,"CONVENT RD, WADDUWA",Western,13.Kalutara,Kalutara,Panadura,2.1C,provincial
+2014,PINWATTA P.V.,"PINWATTA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2015,WADDUWA DHARMAPALA VIDYALAYA,WADDUWA,Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2016,JERAMIYAS DIAS K.V.,"WEERAMAN RD, PANADURA",Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2017,KURUPPUMULLA PRARAKKAMA P.V.,"KURUPPPUMULLA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2018,KESELWATHTHA SRI JINADARMADANA V.,"KESELWATHTHA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2019,SISU VIRU VIDYALAYA,"GORAKANA, KESELWATHTHA",Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2020,THANTHIRIMULLA P.V.,"THANTHIRIMULLA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2021,THALPITIYA P.V.,"THALPITIYA, WADDUWA",Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2022,UPADYA M.V.,PANADURA,Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2023,DIBBEDDA GUNAWARDHANA P.V.,"DIBBEDA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2025,BEKKEGAMA P.V.,"BEKKEGAMA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2026,MADAWILGODA SRI GNANANDA K.V.,"THALPITIYA NORTH, WADDUWA",Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2028,MOLLIGODA P.V.,"MOLLEGODA, WADDUWA",Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2030,RATHWATHTH DIYAMANTHI JUBILEE VIDYALAYA,"JUBLEE RD, WALANA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2032,WADDUWA B.V.,WADDUWA,Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2033,WERAGAMA VIDYALAYA,WADDUWA,Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2034,PANADURA ROYAL COLLEGE,PANADURA,Western,13.Kalutara,Kalutara,Panadura,1.1AB,provincial
+2036,METHODIST P.V.,PANADURA,Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2037,SARIKKALIMULLA R.C.P.V.,"KESELWATHTHA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2039,PANADURA AGAMETHI BALIKA M.V.,PANADURA,Western,13.Kalutara,Kalutara,Panadura,1.1AB,provincial
+2041,WEVITA MAITHREE M.V.,"WEVITA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,1.1AB,provincial
+2042,ALUBOMULLA S.MAHINDA M.V.,ALUBOMULLA,Western,13.Kalutara,Horana,Bandaragama,2.1C,provincial
+2043,SRI SARALANKARA M.V.,"KIDELPITIYA, WELMILLA JUNCTION",Western,13.Kalutara,Horana,Bandaragama,2.1C,provincial
+2044,DOMBAGODA SEELARATHANA M.V.,"DOMBAGODA, HORANA",Western,13.Kalutara,Horana,Bandaragama,2.1C,provincial
+2045,PARAGASTHOTA VIDYALOKA M.V.,PARAGASTHOTA,Western,13.Kalutara,Horana,Bandaragama,2.1C,provincial
+2046,PATHAHAWATHTHA SRI SWARNAJOTHI K.V.,"RAIGAMA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,2.1C,provincial
+2047,MALLAMULLA M.V.,MALAMULLA PANADURA,Western,13.Kalutara,Kalutara,Panadura,2.1C,provincial
+2048,MILLANIYA SRI DEWARAKSHITHA M.V.,MILLANIYA,Western,13.Kalutara,Horana,Bandaragama,2.1C,provincial
+2049,LABUGAMA VIJITHA K.V.,"LABUGAMA, HALTHOTA",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2050,ARUGGODA SRI PARAKKRAMA M.V.,"ARUGGODA, ALUBOMULLA",Western,13.Kalutara,Horana,Bandaragama,2.1C,provincial
+2051,UDUWARA K.V.,"UDUWARA, GALPATHA",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2052,KAMBURUGODA P.V.,"KAMBURUGODA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2054,GALPATHA K.V.,"GALPATHA, KALUTARA",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2055,KIMMANTHUDAWA SRI SUMANAJOTHI P.V.,"KIMMANTHUDAWA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2056,GUNGAMUWA K.V.,"BELLANTHUDAWA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2057,THALAHITIYA K.V.,"THALAHITIYA JUNCTION, KALUTARA",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2058,PATHAKADA K.V.,"PATHAKADA, GALPATHA",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2059,PELPOLA K.V.,GALPATHA,Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2060,BATAGODA P.V.,"BATAGODA, GALAPATHA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2061,SETHNADEE P.V.,"BOLGODA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2062,MAHAWILA M.V.,"MAHGAWILA, PANADURA",Western,13.Kalutara,Horana,Bandaragama,2.1C,provincial
+2063,YATAWARA SHI GNANAWIMALA K.V.,"YATAWARA, JUNCTTON, KALUTARA SOUTH",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2064,RAMUKKANA VIDYALOKA K.V.,"RAMUKKANA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2065,LOKAPILA LAKSHMI P.V.,"WEEDAGAMA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2066,HALTHOTA K.V.,HALTHOTA,Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2067,HIRANA PRIMARY SCHOOL,HIRANA PANADURA,Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2068,WANDURAMULLA SRI RAHULA K.V.,"WANDURAMULLA, PANADURA",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2069,WALGAMA SRI SADDHATHISSA M.V.,"WALGAMA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,2.1C,provincial
+2070,WELIKALA TAXILA P.V.,"WELIKALA, POKUNUVITA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2071,GALTHUDE DHAMMAKIRTHI P.V.,"GLTHUDE, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2072,WEEDAGAMA P.V.,"WEEDAGAMA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2073,"VIDYARAJA K.V., VENIVELPITIYA",HALTHOTA,Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2074,ALUTHGAMA P.V.,"WELMILA JUNCTION, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2077,KATAGODA P.V.,"KATAGODA, MILLANIYA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2079,IBULAHENA P.V.,"PARAGASTHOTA, HORANA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2080,MAHABELLANA P.V.,ALUBOMULLA,Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2081,MAHABELLANA SAMARANAYAKA P.V.,"MAHABELLANA, ALLUBOMULLA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2082,RERUKANA SAMARANAYAKAPURA P.V.,"RERUKANA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2084,INGIRIYA GAMINI M.M.V.,INGIRIYA,Western,13.Kalutara,Horana,Horana,1.1AB,provincial
+2086,OLABODUWA SRI SUMANGALA M.V.,"OLABODUWA, GONAPOLA JUNCTION",Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2087,PALANNORUWA M.M.V.,"PALANNORUWA, GONAPOLA JUNCTION",Western,13.Kalutara,Horana,Horana,1.1AB,provincial
+2088,MAPUTUGALA M.V.,PORUWADHANDA,Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2089,MILLEWA M.V.,"MILLEWA, HORANA",Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2090,MEEWANAPALANA M.V.,"MEEWANAPALANA, HORANA",Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2091,HORANA SRI MEDHANKARA M.V.,"PADUKKA RD, HORANA",Western,13.Kalutara,Horana,Horana,1.1AB,provincial
+2092,SAGARAPALANSOORIYA M.V.,HANDAPANGODA,Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2093,HORANA DON PEDRICK M.V.,HORANA,Western,13.Kalutara,Horana,Horana,1.1AB,provincial
+2094,WEEDIYAGODA K.V.,BANDARAGAMA,Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2095,SIRIMEWAN K.V.,POKUNUWITA,Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2096,UDUWA K.V.,"UDUWA SOUTH, KUDA UDUWA, HORANA",Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2097,URUGALA SRI DHARMALOKA K.V.,"URUGALA, INGIRIYA",Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2098,KANDANAPITIYA P.V.,"BOPE, PADUKKA.",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2099,KULUPANA TAXILA P.V.,"KULUPANA, POKUNUWITA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2100,GURUGODA K.V.,"KIRIGALAHENA, HORANA",Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2101,THALAGALA P.V.,"THALAGALA, GONAPALA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2102,NAMBAPANA K.V.,"NAMBAPANA, INGIRIYA",Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2103,KALUPAHANA K.V.,PORUWADANDA,Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2104,P.M.PERERA K.V.,"BATUWITA, GONAPOLA JUNCTION",Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2105,MORAGAHAHENA M.V.,"MORAGAHAHENA, MILLAWA",Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2106,MANANA SRI GNANARATHANA K.V.,PORUWADANDA,Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2107,KANANVILA SRI SUGATHAPALA K.V.,"KANANVILA, HORANA",Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2108,HANDUPELPOLA K.V.,"KUDAUDUWA, HORANA",Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2109,HANDAPANGODA M.V.,HADAPANGODA,Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2111,ISIPATHANA P.V.,"ARAKAWILA, HADAPANGODA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2112,KABALLAGODA K.V.,"KABALLAGODA, HORANA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2114,KAKULALIYA P.V.,INGIRIYA,Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2115,KUMBUKA EAST P.V.,"KUMBUKA EAST, GONAPOLA JUNCTION",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2116,KITIGAMGODA SRI SUBHARATHI P.V.,"KTIGAMGODA, PADUKKA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2117,KURANA P.V.,"KURANA, HANDAPANGODA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2118,GATAKOSGAHAHENA DHARMASHOKA P.V.,HANDAPANGODA,Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2119,HORANA TAXILA M.V.,HORANA,Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2120,SRI SRIDDHARTHA K.V.,"WEWA RD, PORUWADANDA",Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2121,WEERAMADDUMA BANDARA P.V.,"THALAGALA WEST, GONAPOLA JUNCION",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2123,BATUGAMPALA P.V.,"BATUGAMPALA, HANDAPANGODA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2124,MILLEWA P.V.,MILLEWA,Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2125,MENERIGAMA P.V.,HANDAPANGODA,Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2127,INGIRIYA SRI SUMANAJOTHI P.V.,INGIRIYA,Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2128,HEGALLA P.V.,"MAHENA, HORANA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2129,RAIGAMWATHTHA PARAKRAMABAHU P.V.,"MAHA INGIRIYA, INGIRIYA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2131,HORANA PRAJAPATHI B.M.V.,"DICKHENAPURA, HORANA",Western,13.Kalutara,Horana,Horana,1.1AB,provincial
+2132,WAWULAGALA P.V.,"MUNAGAMA, HORANA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2134,UDAWELA SRI PIYARATHANA M.V.,"UDAWELA, AGALAWATTA",Western,13.Kalutara,Matugama,Agalawatta,2.1C,provincial
+2135,KUDALIGAMA M.V.,"KUDALIGAMA, NEBODA",Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2136,GOVINNA M.V.,GOVINNA,Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2137,NAHALLA SRI REWATHA M.V.,"NAHALLA, NEBODA",Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2138,POLEGODA M.V.,"POLEGODA, MAHAGAMA",Western,13.Kalutara,Horana,Bulathsinhala,1.1AB,provincial
+2139,MADURAWALA M.V.,ANGURUWATHOTA,Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2140,REMUNA M.V.,"REMUNA, ANGURUWATOTA",Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2141,DEEPALOKA M.V.,"WARAKAGODA, NEBODA",Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2142,AMARA GEDARA K.V.,"AMARAGEDARA, BULATHSINGHALA",Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2143,ILIMBA GAMINI K.V.,"ILIMBA, HORANA",Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2145,OMATTA K.V.,"OMATTA, AGALAWATTA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2146,OMATTA JANAPADA K.V.,MAHAGAMA,Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2147,KANDANA P.V.,"KANDANA, HORANA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2148,KESELHENAWA P.V.,"DOMBADODA, HORANA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2149,KOBAWAKA P.V.,"KOBAWAKA, GOVINNA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2150,SRI GUNARATHANA K.V.,"GIRIKOLA, AGALAWATTA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2151,GIRIKOLA GAMUNU K.V.,AGALAWATTA,Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2152,DELMELLA K.V.,"DELMALLA, BULATHSINHALA",Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2153,DEVAMULLA P.V.,GOVINNA,Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2154,DIWALAKADA K.V.,"DIWALAKADA, BULATHSINGHALA",Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2155,DEEYAKADUWA WIDYARTHA K.V.,"DEEYAKADUWA, MAHAGAMA",Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2156,PARAGODA KITHULAGODA K.V.,"PARAGODA, BULATHSINHALA",Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2157,"VIHARTHA P.V., PIMBURA","PIMBURA, AGALAWATTA",Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2158,BULATHSINGHALA P.V.,BULATHSINGHALA,Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2159,BOTHALEGAMA M.V.,BOTHALEGAMA,Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2160,MAHAGAMA P.V.,MAHAGAMA,Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2161,MAHAYALA SIRISUMANA P.V.,"MAHAYALA, ANUGURUWATHOTA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2162,"DHARMAPALA M.V., MOLKAWA",MOLKAWA,Western,13.Kalutara,Matugama,Agalawatta,2.1C,provincial
+2163,YATAGAMPITIYA K.V.,"YATAGAMPITIYA, BULATHSINHALA",Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2164,RATIYALA SRI P.V.,"RATIYALA, GOVINNA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2165,BELLAPITIYA P.V.,"BELLAPITIYA, HORANA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2166,WELGAMA K.V.,MAHAGAMA,Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2167,WEHERAWATTA P.V.,"WEHERAWATTA, ANGURUWATOTA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2168,HALWATHURA K.V.,"HALWATHURA, BULATHSINHALA",Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2171,SRI RAHULA P.V.,"KIRIMETIWALAKADA, KOBAWAKA, GOVINNA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2172,GALLAPPAHALA P.V.,"GALLAPPAHALA, MAHAGAMA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2173,GOVINNA P.V.,GOVINNA,Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2174,NIGGAHA P.V.,"NIGGAHA, BULATHSINHALA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2175,PAHALA KARANNAGODA P.V.,"WARAKAGODA, NEBODA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2176,SRI SARANANDA P.V.,"PAHALA NARAGALA, GOVINNA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2182,OVITIGALA M.V.,MATUGAMA,Western,13.Kalutara,Matugama,Matugama,2.1C,provincial
+2183,DODANGODA M.V.,DODANGODA,Western,13.Kalutara,Kalutara,Dodangoda,2.1C,provincial
+2184,NAVUTHTHUDUWA M.V.,NAVUTHTHUDUWA,Western,13.Kalutara,Matugama,Matugama,2.1C,provincial
+2185,BOLOSSAGAMA M.V.,BOLOSSAGOMA,Western,13.Kalutara,Kalutara,Dodangoda,2.1C,provincial
+2186,BOMBUWALA SRI DHARMALOKA M.V.,BOMBUWALA KALUTHARA SOUTH,Western,13.Kalutara,Kalutara,Dodangoda,1.1AB,provincial
+2188,WALAGEDARA M.V.,"GALMATHTHA, WALAGEDARA",Western,13.Kalutara,Matugama,Matugama,1.1AB,provincial
+2189,MATUGAMA ST. MARY'S M.V.,MATUGAMA,Western,13.Kalutara,Matugama,Matugama,1.1AB,provincial
+2190,DHARMARAJA K.V.,"PANTHIYA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2191,HORAWALA M.V.,"HORAWALA, WELIPENNA",Western,13.Kalutara,Matugama,Matugama,2.1C,provincial
+2192,ADIKARIGODA K.V.,ADIKARIGODA KALUTARA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2193,ALUTHGAMGODA K.V.,"ALUTHGAMGODA, NAVUTHTHUDUWA",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2194,ANDAWALA K.V.,"MEEGAMA, DHARGA TOWN",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2195,ELADUWA K.V.,HALKADAWILA PAYAGALA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2196,IDDAGODA P.V.,"IDDAGODA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2197,SARALANKARA THISSA K.V.,"INDIGASTHUDUWA, DHARGA TOWN",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2198,KATUGAHAHENA K.V.,"KATUGAHAHENA, NAVUTHTHUDUWA",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2199,KATUWALAGODA K.V.,WELIPENNA,Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2200,KEERANTHIDIYA K.V.,"NAVUTHTHUDUWA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2201,DODANGODA PRESIDENT'S COLLEGE,"GANG-IMA, DODANGODA",Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2202,KOHOLANA K.V.,KOHOLANA KULUTARA SOUTH,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2205,GAMAGODA P.V.,GAMAGODA KALUTARA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2206,GURUDOLA P.V.,"GURUDOLA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2207,TUDUGALA WIMALASARA K.V.,DODAMGODA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2208,THEBUWANA K.V.,THEBUWANA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2209,NARAWILA P.V.,"NARAWILA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2210,NEHINNA K.V.,DODANGODA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2211,NEBODA M.V.,NEBODA,Western,13.Kalutara,Kalutara,Dodangoda,2.1C,provincial
+2212,PANTHIYA M.V.,"PANTHIYA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,2.1C,provincial
+2213,PELAPITIYAGODA KUSALAGHANA K.V.,TEBUWANA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2215,BONDUPITIYA K.V.,"MEEGAMA, DHARGA TOWN",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2216,BOPITIYA K.V.,"BOPOTIYA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2217,MEEGAMA K.V.,"MEEGAMA, DHARGA TOWN",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2218,YATADOLA K.V.,NAVUTHTHUDUWA,Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2219,LEWWANDUWA P.V.,"LEWWANDUWA, WELIPENNA",Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2220,WELIPENNA SINHALA K.V.,WELIPENNA,Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2221,WELLATHA K.V.,NEBODA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2222,SRI SARANATHISSA K.V.,"YATADOLAWATHTHA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2224,D.D. ATHULATHMUDALI K.V.,MATUGAMA,Western,13.Kalutara,Matugama,Matugama,3.Type2,provincial
+2227,OVITIGALA P.V.,"OVITIGALA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2228,KAJUDUWA P.V.,"KAJUDUWA, DODANGODA",Western,13.Kalutara,Kalutara,Dodangoda,4.Type3,provincial
+2229,DHAMMANANDA P.V.,"BADUGAMA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2230,BOMBUWALA SRI DHARMALOKA P.V.,MANKADA BOMBUWALA,Western,13.Kalutara,Kalutara,Dodangoda,4.Type3,provincial
+2233,WADUGAMA SADANANDA P.V.,DODANGODA,Western,13.Kalutara,Kalutara,Dodangoda,4.Type3,provincial
+2234,SIRINIWASA P.V.,WALAGEDARA,Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2237,DEVAGODA P.V.,"MEEGAMA, DHARGA TOWN",Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2239,GALLENIYAKANDA P.V.,MATUGAMA,Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2244,KATUKURUNDA R.C.M.V.,"KATUKURUNDA, KALUTARA",Western,13.Kalutara,Kalutara,Kalutara,2.1C,provincial
+2245,KALUTARA GNANODAYA M.V.,"GNANODAYA MW, KALUTARA SOUTH",Western,13.Kalutara,Kalutara,Kalutara,1.1AB,provincial
+2246,DIYAGAMA M.V.,"DIYAGAMA, GALPATHA",Western,13.Kalutara,Kalutara,Kalutara,2.1C,provincial
+2247,POTHUPITIYA M.V.,"POTHUPITIYA, WADDUWA",Western,13.Kalutara,Kalutara,Kalutara,2.1C,provincial
+2248,UGGALBODA M.V.,"UGGALBODA, KALUTARA",Western,13.Kalutara,Kalutara,Kalutara,2.1C,provincial
+2249,KUDAHEENATIYANGALA SIRI SEEVALEE K.V.,"DUWA TEMPLE RD, KALUTARA SOUTH",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2250,KATUKURUNDA DHARMAPALA M.V.,"KATUKURUNDA, KALUTARA",Western,13.Kalutara,Kalutara,Kalutara,1.1AB,provincial
+2251,NAGODA M.V.,"NAGODA, KALUTARA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2252,PANAPITIYA AGAMETHI K.V.,"PANAPITIYA, WASKADUWA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2253,KALUTARA ST. JOHN'S M.V.,KALUTARA SOUTH,Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2255,ETHANAMADALA K.V.,"ETHANAMADALA, KALUTARA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2256,KATUKURUNDA BUDDHIST K.V.,"KATUKURUNDA, KALUTARA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2257,KALAPUGAMA MEDHANANDA V.,"KALAPUGAMA, MORONTHUDUWA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2258,KALAMULLA R.C.K.V.,"KALAMULLA, KALUTARA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2260,GONADUWA K.V.,"MAHA GONADUWA, MORONTHUDUWA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2262,DELDUWA K.V.,"DELDUWA, WADDUWA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2263,DESHASTHRA BALIKA V.,"STATION RD, KALUTARA NORTH",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2264,NAGODA GALLASSA P.V.,DODANGODA,Western,13.Kalutara,Kalutara,Kalutara,4.Type3,provincial
+2267,POHADDARAMULLA K.V.,"POHADDARAMULLA, WADDUWA",Western,13.Kalutara,Kalutara,Kalutara,4.Type3,provincial
+2268,SRI DEVANANDA K.V.,"BOTHUWAWATTA, KALUTARA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2269,MUSAEUS K.V.,KALUTARA,Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2270,MORONTHUDUWA DHAMMANANDA M.V.,MORONTHUDUWA,Western,13.Kalutara,Kalutara,Kalutara,1.1AB,provincial
+2271,MAWALA K.V.,"MAWALA, WADDUWA",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2272,RAJAGURU SRI SUBHUTHI M.V.,WASKADUWA,Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2273,VELAPURA M.V.,KALUTARA SOUTH,Western,13.Kalutara,Kalutara,Kalutara,2.1C,provincial
+2274,SUGATHA K.V.,"GALLE RD, KALUTARA NORTH",Western,13.Kalutara,Kalutara,Kalutara,3.Type2,provincial
+2275,SRI SUNANDA P.V.,"BANDARAGAMA RD, WASKADUWA",Western,13.Kalutara,Kalutara,Kalutara,4.Type3,provincial
+2277,ALUTHGAMA SANGAMITTA BALIKA M.V.,"WELIPENNA RD, ALUTHGAMA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2278,DIYALAGODA MAHA VIDYALAYA,"DIYALAGODA, MAGGONA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2279,DHARGA TOWN SRI GNANISSARA MAHA VIDYALAYA,"NAKANDALAGODA, DHARGA TOWN",Western,13.Kalutara,Kalutara,Beruwala,1.1AB,provincial
+2280,PAYAGALA BANDARANAYAKA M.V.,PAYAGALA,Western,13.Kalutara,Kalutara,Beruwala,2.1C,provincial
+2281,POTHUWILA NAVODYA VIDYALAYA,POTHUWILA PAYAGALA,Western,13.Kalutara,Kalutara,Beruwala,1.1AB,provincial
+2283,KALUWAMODARA K.V.,KALUWAMODARA ALUTHGAMA,Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2284,KALAWILA KANISHTA VIDYALAYA,KALAWILA BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2285,KOSHENA KANISHTA VIDYALAYA,PAMBE PAYAGALA,Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2286,PAYAGALA SAMUDRADEVI BALIKA VIDYALAYA,PINIDIYAMULLA PAYAGALA,Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2287,PADAGODA MAHA VIDYALAYA,PADAGODA BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,2.1C,provincial
+2288,PALAYANGODA KANISHTA VIDYALAYA,"PALAYANGODA, PAYAGALA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2289,MALEWANA SRI PAGNGNANANDA V.,"BADANAGODA, KALAWILA, BERUWALA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2291,BERUWALA ARIYAWANSHA MAHA VIDYALAYA,"ARIYAWANSHA MW, BERUWALA",Western,13.Kalutara,Kalutara,Beruwala,2.1C,provincial
+2292,BERUWALA BUDDHIST JUNIOR SCHOOL,"TEMPLE RD, BERUWALA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2293,BERUWALA ROMAN CATHOLIC JUNIOR SCHOOL,POLKOTUWA BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2295,MAHAGAMMEDDA PRIMARY SCHOOL,MAHAGAMMEDDA PAYAGALA,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2296,MALEGODA K.V.,MALEGODA PAYAGALA,Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2297,SRI SAMBUDDARAJA KANISHTA VIDYALAYA,MAGGONA,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2298,MAGGONA ST. MARY'S VIDYALAYA,"REV.FR.MERCERLIN JAYAKODI MW, MAGGONA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2300,SANTHA VISENTHI VIDYALAYA,"DIYALAGODA, MAGGONA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2301,MAGALKANDA BAUDDA K.V.,"MAGALKANNDA, MAGGONA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2302,MUNHENA KANISHTA VIDYALAYA,"MUNHENA, MAGGONA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2303,MORAGALLA JUNIOR SCHOOL,"MORAGALLA, BERUWALA",Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2304,WALATHARA KANISHTA VIDYALAYA,WALATHARA BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2305,HALKANDAWILA MAHA VIDYALAYA,"HALKANDAWILA, PAYAGALA",Western,13.Kalutara,Kalutara,Beruwala,2.1C,provincial
+2306,KARANDAGODA P.V.,KARANDAGODA BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2309,BERUWALA PRIMARY SCHOOL,BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2310,DUWEGODA PRIMARY SCHOOL,DUWEGODA HALKANDAWILA,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2311,PATHIRAJAGODA PRIMARY SCHOOL,PATHIRAJAGODA DARGA TOWN,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2312,MAGALKANDA METHODIST COLLEGE,"MAGALKANDA, MAGGONA",Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2313,WARAPITIYA K.V.,WARAPITIYA DHARGA TOWN,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2315,WERAGALA SRI DEWAMITHTHA P.V.,WERAGALA PAYAGALA,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2316,HALAWAKANDA P.V.,HALAWAKANDA BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2317,HIRIGALGODALLA P.V.,HIRIGALGODALLA PAYAGALA,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2319,MASSALA PRIMARY SCHOOL,MASSALA BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2320,AGALAWATTA MIHINDU M.M.V.,AGALAWATTA,Western,13.Kalutara,Matugama,Agalawatta,1.1AB,provincial
+2321,ATALE M.V.,GURULUBEDDA,Western,13.Kalutara,Matugama,Palindanuwara,2.1C,provincial
+2322,KAMBURAWALA M.V.,"KAMBURAWALA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,1.1AB,provincial
+2323,BELLANA M.V.,BELLANA,Western,13.Kalutara,Matugama,Agalawatta,2.1C,provincial
+2324,WEEDIYABANDARA M.V.,MORAPITIYA,Western,13.Kalutara,Matugama,Palindanuwara,2.1C,provincial
+2325,PELENDA K.V.,PELENDA,Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2326,KAPUGEDARA K.V.,"KAPUGEDARA, MOLKAWA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2327,KELINKANDA K.V.,"KELINKANDA, AGALAWATTA",Western,13.Kalutara,Matugama,Palindanuwara,3.Type2,provincial
+2328,KOSGULANA K.V.,"KOSGULANA, MOLKAWA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2329,GURULUBEDDA P.V.,GURULUBEDDA,Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2330,DAPILIGODA P.V.,AGALAWATTA,Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2331,BADURALIYA K.V.,BADURALIYA,Western,13.Kalutara,Matugama,Palindanuwara,2.1C,provincial
+2332,MAGURA P.V.,"MAGURA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2333,MIDALANA P.V.,"MIDALANA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2334,MINIKANDALA P.V.,MORAPITIYA,Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2335,MULATIYANA P.V.,AGALAWATTA,Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2336,"SRI MEDANKARA K.V., YATIYANA","YATIYANA, AGALAWATTA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2337,YAKUPITIYA SRI CHANDAVIMALA P.V.,BELLANA,Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2338,PAGNGNASENA K.V.,"LATHPANDURA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2339,SRI SIDDHARTHA K.V.,"LATHPANDURA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2340,HEDIGALLE SRI VIPULASIRI K.V.,"HEDIGALLA, GURULUBEDDA",Western,13.Kalutara,Matugama,Palindanuwara,3.Type2,provincial
+2341,HEDIGALLA JANAPADA M.V.,"HEDIGALLA JANAPADAYA, BADURALIYA.",Western,13.Kalutara,Matugama,Palindanuwara,2.1C,provincial
+2342,AMBEGODA P.V.,"AMBEGODA, MORAPITIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2343,ELABODA P.V.,"ELABODA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2344,INGURUDALUWA K.V.,"HEDIGALLA JANAPADAYA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,3.Type2,provincial
+2345,ILUKPOTHA K.V.,"ILUKPOTHA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2347,DIGANNA P.V.,"DIGANNA, MORAPITIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2348,BOLLUNNA P.V.,"HEDIGALLA COLONY, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2349,MIDALANA JANAPADA P.V.,MORAPITIYA,Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2350,WALAKADA P.V.,"WALAKADA, MOLKAWA",Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2351,WATHURANA SRI SARASWATHI P.V.,"WATHURANA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2352,HANDAGIRIKANDA P.V.,AGALAWATTA,Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2353,HALDOLA SRI JINAWANSHA P.V.,"HALDOLA, BELLANA",Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2354,MALIYADEWA P.V.,"MARAGAHADENIYA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2355,KELINKANDA JANAPADAYA P.V.,"KELINKANDA, AGALAWATTA",Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2356,THAWANA P.V.,MORAPITIYA,Western,13.Kalutara,Matugama,Palindanuwara,4.Type3,provincial
+2357,MEEGAHATHENNA MERIL KARIYAWASAM M.M.V.,MEEGAHATHENNA,Western,13.Kalutara,Matugama,Walallawita,1.1AB,provincial
+2359,WALALLAWITA M.V.,WALALLAWITA,Western,13.Kalutara,Matugama,Walallawita,2.1C,provincial
+2360,KEVITIYAGALA M.V.,"KEVITIYAGALA, POLGAMPALA",Western,13.Kalutara,Matugama,Agalawatta,2.1C,provincial
+2361,GAMMANA K.V.,"GAMMANA, YAGIRALA",Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2362,PAREIGAMA K.V.,PAREIGAMA,Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2363,PELAWATTA M.V.,"PELAWATTA, VIA MATHUGAMA",Western,13.Kalutara,Matugama,Walallawita,2.1C,provincial
+2364,HALAWALA C.W.W.KANNANGARA K.V.,HALAWALA VIA MATHUGAMA,Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2365,NORTH ITTAPANA SRI SARANANKARA P.V.,ITTAPANA,Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2366,IHALA HEWESSA K.V.,"IHALA HEWESSA, PITIGALA",Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2367,UDUGAMA K.V.,YAGIRALA,Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2368,URAGODA P.V.,"URAGODA, WELIPENNA",Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2369,KURUPITA K.V.,POLGAMPOLA,Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2370,KITHULGODA K.V.,"KITULGODA, AGALAWATTA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2371,DODAMPAPITIYA P.V.,DODAMPAPITIYA UTHUMGAMA MATHUGAMA,Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2372,GULAWITA P.V.,"GULAWITA SOUTH, WALALLAWITA",Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2373,S.A. WELGAMA K.V.,"DIYAPATHTHUGAMA, POLGAMPOLA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2375,PANNILA P.V.,"PANNILA, VIA MATHUGAMA",Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2376,GULANAWATTA K.V.,"PELAWATTA TEA PROJECT, MATHUGAMA",Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2377,BOTHALAWA K.V.,MEEGAHATHENNA,Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2378,MAHAKALUPAHANA K.V.,"MAHAKALUPAHANA, MATHUGAMA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2379,MAGURUMASWILA K.V.,"MAGURUMASWILA, WALALLAWITA",Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2380,MAKALANDAWA K.V.,"MAKALANDAWA, WALALLAVITA VIA, MATHUGAMA",Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2381,MIRISWATTA M.V.,MIRISWATTA PELAWATTA,Western,13.Kalutara,Matugama,Walallawita,2.1C,provincial
+2383,LIHINIYAWA K.V.,LIHINIYAWA MEEGAHATHENNA,Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2384,HEWESSA K.V.,PAHALA HEWESSA,Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2385,RATHMALE K.V.,"RATHMALE, POLGAMPALA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2386,THINIYAWALA M.V.,"THINIYAWALA VIA, MATHUGAMA",Western,13.Kalutara,Matugama,Agalawatta,2.1C,provincial
+2392,WEERAKANDA P.V.,"WEERAKANDA, PELAWATTA",Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2393,MEEGAHATHENNA P.V.,MEEGAHATHENNA,Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2394,MORAGALA SIRI SUNANDA P.V.,"MORAGALA, MEEGAHATHENNA",Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2395,RANEPURAGODA P.V.,RANEPURAGODA PAHALA HEWESSA,Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2398,HALAWALKELE P.V.,HALAWALKELE MEEGATHENNA,Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2400,THALPEDIWALA P.V.,"THALPEDIWALA, MEEGAHATHENNA",Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2401,PUSSAWALA P.V.,PUSSAWALA PELAWATTA,Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2402,YATTAPATHA K.V.,"10 MILE POST, YATTAPATHA",Western,13.Kalutara,Matugama,Walallawita,3.Type2,provincial
+2403,KARAPAGALA P.V.,"KARAPAGALA, YAGIRALA",Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2404,DIKHENA K.V.,"HEDIGALLA COLONY, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,3.Type2,provincial
+2407,DHARGA TOWN ZAHIRA MAHA VIDYALAYA,DHARGA TOWN,Western,13.Kalutara,Kalutara,Beruwala,1.1AB,provincial
+2408,BERUWALA NALEEM HAJIAR LADIES COLLEGE,"CHINA FORT, BERUWALA",Western,13.Kalutara,Kalutara,Beruwala,1.1AB,provincial
+2409,BERUWALA AL-FASIYATHUL NASRIYA MUSILM BALIKA M.V.,"MARADANA RD, MARADANA, BERUWALA",Western,13.Kalutara,Kalutara,Beruwala,2.1C,provincial
+2410,AL-HASANIYA M.V.,"INDIRILIGODA, MAGGONA",Western,13.Kalutara,Kalutara,Beruwala,2.1C,provincial
+2411,BERUWALA ZAM REFAI HAJIAR MAHA VIDYALAYA,MALIGAHENA BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,1.1AB,provincial
+2412,KALUTARA MUSLIM M.M.V.,"51, MOSQUE RD, KALUTARA SOUTH",Western,13.Kalutara,Kalutara,Kalutara,1.1AB,provincial
+2413,KALUTARA MUSLIM BALIKA M.V.,"MOOR STREET, KALUTARA",Western,13.Kalutara,Kalutara,Kalutara,1.1AB,provincial
+2414,I L M SAMSUDEEN VIDYALAYA,MADDONA BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial
+2415,VEYANGALLA MUSLIM M.V.,"VEYANGALLA, AGALAWATTA",Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2417,MILLAKANDE T M.V.,BULATHSINGHALA,Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2418,DHARGA TOWN AL-HAMBRA MAHA VIDYALAYA,DHARGA TOWN,Western,13.Kalutara,Kalutara,Beruwala,1.1AB,provincial
+2419,MILLEWA TAMIL P.V.,"MILLEWA ESTATE, MILLEWA",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2420,EDURANGALA TAMIL K.V.,INGIRIYA,Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2421,HORANA TAMIL M.V.,HORANA,Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2422,PERTH TAMIL P.V.,PORUWADANDA,Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2423,RAIGAM SARASWATHI TAMIL K.V.,INGIRIYA,Western,13.Kalutara,Horana,Horana,3.Type2,provincial
+2424,FROCESTER TAMIL P.V.,GOVINNA,Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2425,GIKIYANAKANDA TAMIL K.V.,"GIKIYANAKANDA, NEBODA",Western,13.Kalutara,Horana,Bulathsinhala,3.Type2,provincial
+2426,KOBOWELA TAMIL P.V.,"DENIKADA, GOVINNA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2428,KUDAGANGA TAMIL K.V.,MAHAGAMA,Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2429,S.TAMIL FRANCIS TAMIL P.V.,"GALAHENA, BULATHSINGHALA",Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2430,VIPULANANDA TAMIL VIDYALAYA,INGIRIYA,Western,13.Kalutara,Horana,Horana,2.1C,provincial
+2431,PANADURA AL-FAHRIYA CENTRAL COLLEGE,THOTAWATHA PANADURA,Western,13.Kalutara,Kalutara,Panadura,1.1AB,provincial
+2432,PANADURA JEELAN CENTRAL COLLEGE,HENAMULLA PANADUARA,Western,13.Kalutara,Kalutara,Panadura,1.1AB,provincial
+2433,ILMA MUSLIM VIDYALAYA,AMBALANDUWA PANADURA,Western,13.Kalutara,Kalutara,Panadura,3.Type2,provincial
+2434,ALAVIYA MUSLIM MAHA VIDYALAYA,ELUWILA PANADURA,Western,13.Kalutara,Kalutara,Panadura,2.1C,provincial
+2435,HORETHUDUWA MUSLIM VIDYALAYA,"GALLE RD, HORETHUDUWA KESELWATTHA, PANADURA",Western,13.Kalutara,Kalutara,Panadura,2.1C,provincial
+2436,BANDARAGAMA AL-GAZZALY M.M.V.,"ATULUGAMA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,1.1AB,provincial
+2437,NEUCHATAL TAMIL K.V.,NEBODA,Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2438,DIKHENA TAMIL K.V.,GALPATHA,Western,13.Kalutara,Horana,Bandaragama,3.Type2,provincial
+2440,WELIPENNA RAHMANIYA M.V.,WELIPENNA,Western,13.Kalutara,Matugama,Matugama,2.1C,provincial
+2441,CULLODEN NAVODYA TAMIL MAHA VIDYALAYA,NEBODA,Western,13.Kalutara,Kalutara,Dodangoda,2.1C,provincial
+2442,SIRIKANDURA TAMIL P.V.,MATUGAMA,Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2443,AMBETENNA TAMIL P.V.,MATUGAMA,Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2444,ANNASIGALA TAMIL P.V.,"NAVUTHTHUDUWA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2445,BHARADI TAMIL MAHA VIDYALAYA,ARAPOLAKANDE TEBUWANA,Western,13.Kalutara,Kalutara,Dodangoda,2.1C,provincial
+2446,ELADUWA TAMIL VIDYALAYA,MATUGAMA,Western,13.Kalutara,Kalutara,Dodangoda,4.Type3,provincial
+2447,GODAHENA TAMIL VIDYALAYAM,DODANGODA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2448,MADDEGEDARA TAMIL P.V.,NAVUTHTHUDUWA,Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2449,MALABODA TAMIL V.,DODAMGODA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2450,PALLEGODA TAMIL P.V.,NAVUTHTHUDUWA,Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2452,KALAIMAGAL M.V.,"YATADOLA, MATUGAMA",Western,13.Kalutara,Matugama,Matugama,2.1C,provincial
+2453,VOGAN TAMIL P.V.,MATUGAMA,Western,13.Kalutara,Matugama,Matugama,4.Type3,provincial
+2454,PELENDA TAMIL V.,BADURALIYA,Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2455,VIVEKANANDA TAMIL K.V.,"MARAGAHADENIYA, BADURALIYA",Western,13.Kalutara,Matugama,Palindanuwara,3.Type2,provincial
+2456,PELENDA MUSLIM K.V.,"PELENDA, AGALAWATTA",Western,13.Kalutara,Matugama,Agalawatta,3.Type2,provincial
+2457,GALEWATTA TAMIL P.V.,AGALAWATTA,Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2458,PIMBURA TAMIL P.V.,AGALAWATTA,Western,13.Kalutara,Matugama,Agalawatta,4.Type3,provincial
+2459,DALKEITH TAMIL K.V.,BADURALIYA,Western,13.Kalutara,Matugama,Palindanuwara,3.Type2,provincial
+2460,MIRISWATTA TAMIL V.,ITTAPANA,Western,13.Kalutara,Matugama,Walallawita,4.Type3,provincial
+2462,SRI RAMAKRISHNA K.V.,BADURALIYA,Western,13.Kalutara,Matugama,Palindanuwara,3.Type2,provincial
+2463,PAYAGALA HINDU COLLEGE,DODANGODA,Western,13.Kalutara,Kalutara,Dodangoda,3.Type2,provincial
+2464,MIRISHENA TAMIL P.V.,BULATHSINGHALA,Western,13.Kalutara,Horana,Bulathsinhala,4.Type3,provincial
+2465,HALWATHURA TAMIL M.V.,BULATHSINHALA,Western,13.Kalutara,Horana,Bulathsinhala,2.1C,provincial
+2468,MATUGAMA E.W. ADIKARAM M.V.,MATUGAMA,Western,13.Kalutara,Matugama,Matugama,2.1C,provincial
+2469,GURULUGOMI M.V.,"KUMARATHUNGA MW, KALUTARA NORTH",Western,13.Kalutara,Kalutara,Kalutara,1.1AB,provincial
+2473,WADDUWA CENTRAL PRIMARY SCHOOL,"WIJAYA RD, MOLLIGODA",Western,13.Kalutara,Kalutara,Panadura,4.Type3,provincial
+2475,DHARGA TOWN ZAHIRA PRIMARY SCHOOL,"ZAHIRA COLLEGE RD, DHARGA TOWN",Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2476,RAJAGURU SRI SUBHUTHI P.V.,WASKADUWA,Western,13.Kalutara,Kalutara,Kalutara,4.Type3,provincial
+2477,BANDARAGAMA ALGAZZALY P.V.,"ATULUGAMA, BANDARAGAMA",Western,13.Kalutara,Horana,Bandaragama,4.Type3,provincial
+2478,PALANNORUWA P.V.,"PALANNORUWA, GONAPALA JUNCTION",Western,13.Kalutara,Horana,Horana,4.Type3,provincial
+2479,GNANISSARA PRIMARY SCHOOL,"NAKANDALAGODA, DHRARGA TOWN",Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2481,CHINAFORT PRIMARY SCHOOL,"PANNILA RD, CHINA FORT, BERUWALA",Western,13.Kalutara,Kalutara,Beruwala,4.Type3,provincial
+2482,AL-FASIYATHUL NASRIYA BOYS COLLEGE,BERUWALA,Western,13.Kalutara,Kalutara,Beruwala,3.Type2,provincial

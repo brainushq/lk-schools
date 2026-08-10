@@ -1,0 +1,790 @@
+census_no,school_name,school_address,province,district,zone,education_division,school_type,category
+15149,RANKETHGAMA.P.V.,"RANKETHGAMA, SIRIPURA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+15151,SIRIPURA CENTRAL COLLEGE,"SIRIPURA, POLONNARUWA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,1.1AB,provincial
+15154,MEDAGAMPITIYA P.V.,"MEDAGAMPITIYA, SIRIPURA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+15155,NAWAPALLEGAMA K.V.,PALLEGAMA SIRIPURA,North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,3.Type2,provincial
+15158,PIHITIWAWA K.V.,"PIHITIWAWA, NUWARAGALA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,3.Type2,provincial
+15159,MEEWATHPURA P.V.,"MEEWATHPURA, SIRIPURA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+15160,NUWARAGALA M.V.,"NUWARAGALA, POLONNARUWA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,2.1C,provincial
+15357,WEHERAGALA M.V.,"RUHUNUGAMA, ARALAGANWILA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,1.1AB,provincial
+15358,NIKAWATHALANDA M.V.,"MAHAWANAWELA, DEHIATHTHAKANDIYA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,2.1C,provincial
+15359,KAJUWATHTHA P.V.,"KAJUWATHTHA, RUHUNUGAMA, ARALAGANWILA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+15360,ULPATHWEWA P.V.,"ULPATHWEWA, RUHUNUGAMA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+15365,KEKULUWELA K.V.,KEKULUWELA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,3.Type2,provincial
+15367,IHALA YAKKURE K.V.,"IHALA YAKKURE, NUWARAGALA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,3.Type2,provincial
+15369,GALELIYA P.V.,"RUHUNUGAMA, ARALAGANWILA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+15370,SANDAGALATENNA P.V.,"MAHAWANAWELA, DEHIATHTHAKANDIYA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+15371,WEERALANDA P.V.,"WEERALANDA, RUHUNUGAMA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+15378,MUDUNKADAWALA P.V.,SIRIPUARA,North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+15386,RATHMALKANDIYA P.V.,"RATHMALKANDIYA, SIRIPURA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+15387,KANICHCHIGALA P.V.,"KANICHCHIGALA, RUHUNUGAMA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+15402,MALDENIYA P.V.,"KEKULUWELA, ARALAGANWILA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+15403,SALASUMGAMA P.V.,"DOLAKANDA, DEHIATHTHAKANDIYA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+19002,RAMBEWA CENTRAL COLLEGE,RAMBEWA.,North Central,71.Anuradhapura,Anuradhapura,Rambewa,1.1AB,provincial
+19003,KENDE KALLANCHIYA VIDYALAYA,KALLANCHIYA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,2.1C,provincial
+19004,VIJAYARAJA M.V.,"PIHIMBIYAGOLLEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,2.1C,provincial
+19005,MEDAWACHCHIYA ISIPATHANA M.V.,"POONEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,1.1AB,provincial
+19006,KIRIGALWEWA MAHA VIDYALAYA,MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,2.1C,provincial
+19007,KONAKUMBUKWEWA VIDYALAYA,"KENEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,3.Type2,provincial
+19008,ANGUNOCHCHIYA VIDYALAYA,"ANGUNOCHCHIYA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19009,SRI SOBHITHA MAHA VIDYALAYA,"KADAWATHGAMA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,2.1C,provincial
+19010,KENDAWA MAHA VIDYALAYA,"KENDEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,2.1C,provincial
+19011,SIRIDHAMMA VIDYALAYA,"KIDAWARANKULAMA, POONEWA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19012,THAMMENNA ELAWAKA VIDYALAYA,NERIYAKULAMA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19013,THAMBALAGOLLEWA VIDYALAYA,"PIHIBIYAGOLLEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19014,NABADAGASWEWA VIDYALAYA,RAMBEWA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19015,PALUGOLLEWA VIDYALAYA,PALUGOLLEWA POONEWA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19016,PAHALA GALKANDEGAMA VIDYALAYA,POONEWA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19017,PAHALARATHMALGAHAWEWA VIDYALAYA,"WAHAMALGOLLEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,3.Type2,provincial
+19018,PULELIYA VIDYALAYA,MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19019,MAHADIVULWEWA VIDYALAYA,"MAHADIVULWEWA, ETAWEERAGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19020,YAKAWEWA VIDYALAYA,"YAKAWEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19021,WALPOLA VIDYALAYA,MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19022,SANGILIKANDARAWA VIDYALAYA,MEDEWACHCHIYA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,2.1C,provincial
+19023,EHALA THAMMENNAWA VIDYALAYA,"EHALA THAMMENNAWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19024,URAPEENUWEWA VIDYALAYA,URAPEENUWEWA PIHIMBIYAGOLLEWA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19025,KAPIRIGGAMA VIDYALAYA,KAPIRIGGAMA KALLANCHIYA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19026,DARMADEEPA PRIMARY VIDYALAYA,"KARAPIKKADA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19027,KARAMBANKULAMA VIDYALAYA,"KIRIGALWEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19028,KENDANEKATUNUWEWA VIDYALAYA,KENDENEKATUNUWEWA KAHATAGASDIGILIYA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19029,GAMINIWEWA VIDYALAYA,GAMINIWEWA MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19030,THAMMENNAKULAMA VIDYALAYA,NERIYAKULAMA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19032,THULAWELLIYA VIDYALAYA,MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19033,DIVIYAUDABANDAWEWA VIDYALAYA,DIVIYAUDABANDAWEWA RAMBEWA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19035,PALLANKULAMA VIDYALAYA,RAMBEWA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19036,MAHAKUMBUKGOLLEWA VIDYALAYA,POONEWA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19037,MAHAKOONGASKADA VIDYALAYA,POONEWA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19038,WIRALMURIPPUWA VIDYALAYA,"WIRALMURIPPUWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19039,SIYABALAGASWEWA WELEWA VIDYALAYA,WELEWA KENDEWA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19040,KENDEA AMBAGAHAWEWA VIDYALAYA,PIHIMBIYAGOLLEWA MEDAWACHCHIYA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19041,ISSINBASSAGALA VIDYALAYA,MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19042,LINDAWEWA SIDDHARTHA VIDYALAYA,"LINDAWEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19043,KOONAKUBUKGOLLEWA VIDYALAYA,"KOONAKUBUKGOLLEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19045,KEBITHIGOLLEWA CENTRAL COLLEGE,KEBITHIGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,1.1AB,provincial
+19046,ETAMBAGASKADA VIDYALAYA,ETANBAGASKADA ETAWEERAGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19047,KIDAGALEGAMA VIDYALAYA,MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19048,GALLALLEGAMA VIDYALAYA,KIRIGALWEWA MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19049,PUHUDIULA VIDYALAYA,"PUHUDIULA, ETAWEERAGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19050,ETHAKADA MAHA VIDYALAYA,ETAWEERAGOLLEWA MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,2.1C,provincial
+19052,GONUHADDENAWA VIDYALAYA,"GONUHADDENAWA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,3.Type2,provincial
+19053,THITTAGONEWA MAHA VIDYALAYA,THITTAGONEWA KEBITHIGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,3.Type2,provincial
+19054,BANDARA ULPOTHA VIDYALAYA,"KALAWEDIULPOTHA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,3.Type2,provincial
+19055,HALMILLAWETIYA VIDYALAYA,"HALMILLEWETIYA, KEBITHIGOLLEWA.",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,3.Type2,provincial
+19056,HERATHHALMILLEWA VIDYALAYA,"HERATHHALMILLEWA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19057,MAHA KASHSHAPA P.V.,ETAWEERAGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19059,KOONGOLLEWA VIDYALAYA,"ETAWEERAGOLLEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19060,PARANAHALMILLEWA VIDYALAYA,"PARANAHALMILLEWA , ETAWEERAGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19063,ELAPATHWEWA VIDYALAYA,"ELAPATHWEWA, KALAWEDIULPATHA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19064,INDIGOLLEWA YAKAWEWA VIDYALAYA,"HALMILLAWETIYA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19065,KUNCHUTTUWA VIDYALAYA,"KUNCHUTTUWA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19067,THIBIRIWEWA VIDYALAYA,"THIBIRIWEWA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19069,KIRIMATIYAWA VIDYALAYA,"KLIRIMATIYAWA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19070,DHARMASHOKA VIDYALAYA,ETAWEERAGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19071,MAHANETIYAWA VIDYALAYA,KEBITHIGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,3.Type2,provincial
+19072,MADAWEWA VIDYALAYA,"MADEWAWA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19073,GALAWEWA RAMBAKEPUWEWA VIDYALAYA,"THITHTHAGONEWA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19074,HANDAGALA VIDYALAYA,"HADAGALA, RATHMALGAHAWEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19075,HIRALLUGAMA VIDYALAYA,"HIRALLUGAMA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19078,PADAVI - PARAKRAMAPURA MAHA VIDYALAYA,PADAVI - PARAKRAMAPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,2.1C,provincial
+19079,BUDDHANGALA CENTRAL COLLEGE,PADAVI - PARACKRAMPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,1.1AB,provincial
+19080,ALIWANGUWA MAHA VIDYALAYA,PADAVI SRIPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,2.1C,provincial
+19081,PADAVI MAHASEN MAHA VIDYALAYA,PADAVIYA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,2.1C,provincial
+19082,ALUTHHALMILLEWA VIDYALAYA,BOGAHAWEWA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,3.Type2,provincial
+19083,PARACKRAMAPURA MODEL PRIMARY SCHOOL,PADAVI PARACKRAMAPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,4.Type3,provincial
+19084,PADAVI RUWANPURA MAHA VIDYALAYA,BOGAHAWEWA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,2.1C,provincial
+19085,PADAVI E YAYA 05 VIDYALAYA,MAHASENPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,3.Type2,provincial
+19086,PADAVI PIYAWARA 4 ANURA VIDYALAYA,PADAVI PARACKRAMAPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,4.Type3,provincial
+19087,"DHARMAPALA VIDYALAYA, BALAYA WEWA","BALAYA WEWA, BOGAHAWEWA",North Central,71.Anuradhapura,Kebithigollewa,Padaviya,3.Type2,provincial
+19088,PADAVI D10 MAITHRI VIDYALAYA,PADAVI-MAITHRIPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,3.Type2,provincial
+19089,PADAVI C YAYA VIDYALAYA,PADAVI-PARACKRAMAPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,3.Type2,provincial
+19090,WAHALKADA D2 VIDYALAYA,"D2 WAHALKADA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19091,KAHATAGOLLEWA VIDYALAYA,"KAHATAGOLLEWA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,3.Type2,provincial
+19092,WAHALKADA HEMAMALI MAHA VIDYALAYA,"D-04, WAHALKADA, KEBITHIGOLLEWA.",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,2.1C,provincial
+19094,DALUGGALA VIDYALAYA,MAHASENPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,3.Type2,provincial
+19095,WAHALKADA D-05 VIDYALAYA,"WAHALKADA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19102,KAHATAGASDIGILIYA MADYA MAHA VIDYALAYA,KAHTATAGASDIGILIYA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,1.1AB,provincial
+19103,RATHMALGAHAWEWA MAHA VIDYALAYA,RATHMALGAHAWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,3.Type2,provincial
+19104,HOROWPOTHANA RUWANWELI CENTRAL COLLEGE,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,1.1AB,provincial
+19105,AMBAGASWEWA ASOKA JAYANTHI VIDYALAYA,KAPUGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19106,IHALA DIYULWEWA VIDYALAYA,"IHALA DIYULWEWA, KAPUGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19107,ELAWISSAGODA VIDYALAYA,MORAKEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19108,KAKULBENDIDIGILYA VIDYALAYA,"WALAHAWIDDAWEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19109,KATUWARAGALAWEWA VIDYALAYA,"KATUWARAGALAWEWA, HOROVPOTHANA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19110,KAPUGOLLEWA MAHA VIDYALAYA,KAPUGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,2.1C,provincial
+19111,KALPE RALAPANAWA VIDYALAYA,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19113,DIGANHALMILLAWE VIDYALAYA,"DIGANHALMILLEWA, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,3.Type2,provincial
+19115,DIYAMAILAGASWEWA VIDYALAYA,MAHAPOTHANA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,3.Type2,provincial
+19116,NABADAWEWA VIDYALAYA,PRANGIYAWADIYA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19117,NAYAKAPUWEWA V.,NAYAKAPUWEWA KAHATAGASDIGILIYA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19118,NAMBAKADA VIDYALAYA,"PARANGIYAWADIYA, HOROWPOTHANA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19119,PARANGIYAWADIYA VIDYALAYA,"PARANGIYAWADIYA, HOROWPOTHANA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19120,PAHALA KANHIDIGAMA V.,KAHATAGASDIGILIYA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19121,PAHALAKUDAPATTIYA M.V.,KAHATAGASDIGILIYA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,2.1C,provincial
+19122,MARADANMADUWA VIDYALAYA,KAPUGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19123,MAHAKUMBUKWEWA VIDYALAYA,RATHMALGAHAWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19124,MAHAGALKANDEGAMA VIDYALAYA,"MAHAGALKANDEGAMA, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19125,MAHAPOTHANA DUTUWEWA VIDYALAYA,"DUTUWEWA, KAPUGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19126,MORAKEWA VIDYALAYA,MORAKEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19127,MORAWEWA VIDYALAYA,HOROVPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19128,KALPE ANANDA SAGARA VIDYALAYA,MORAGAHAGIDGILIYA MORAKEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19129,RASNAKAWEWA VIDYALAYA,WALAHAWIDDAWEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19131,WALAHAVIDDAWEWA VIDYALAYA,"WALAHAVIDDAWEWA, RATHMALGAHAWEWA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19132,WAGOLLAKADA JAYANTHI VIDYALAYA,"WAGOLLAKADA, KAPUGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19133,WELIMUVAPOTHANA VIDYALAYA,"WELIMUWAPOTHANA, HOROVPOTHANA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19134,HETTIYAWA VIDYALAYA,"HETTIYAWA, MAHAPOTHANA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19135,MEEGAHADIGILIYA VIDYALAYA,"MEEGAHADIGILIYA, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19137,PULIYANKADAWALA VIDYALAYA,KAHATAGASDIGILIYA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19139,SUHADAGAMA VIDYALAYA,"SUHADAGAMA, HOROVPOTHANA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19141,THAMARAWEWA VIDYALAYA,"KAPUGOLLEWA, HOROWPOTHANA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19142,GALENBINDUNUWEWA CENTRAL COLLEGE,GALENBINDUNUWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,1.1AB,provincial
+19143,DUTUWEWA MAHA VIDYALAYA,"DUTUWEWA, GALENBIDUNUWEWA.",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19144,NIKAWEWA ANURA MAHA VIDYALAYA,HURULU NIKAWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19145,PANDULA MAHA VIDYALAYA,PANDARALLAWA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,2.1C,provincial
+19146,PADIKARAMADUWA MAHA VIDYALAYA,"PADIKARAMADUWA, GALENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19147,YAKALLA MAHA VIDYALAYA,"YAKELLA, MEGODAWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19148,HURULUWEWA WAM IWURA M.V.,MEGODAWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19149,MAHAGASWEWA MAHA VIDYALAYA,GETALAWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19150,KURUNNANKULAMA THAKSHILA M.V.,"KURUNNANKULAMA, GALENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19151,ALUTH DIWULWEWA VIDYALAYA,"GETALAWA, GALENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19152,PALLUGOLLAGAMA M.V.,GETALAWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19153,KOONWEWA SIDDHARTHA VIDYALAYA,"KOONWEWA, MAHAPOTHANA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,3.Type2,provincial
+19154,UPULDENIYA VIDYALAYA,UPULDENIYA ANURADHAPURA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19155,ULPATHGAMA VIDYALAYA,GALENBIDUNUWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19156,HURULU MEEGAHAPATTIYA VIDYALAYA,MEGODAWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19157,DEKETHIPOTHANA VIDYALAYA,MAHAPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19158,SIYAMBALEWA VIDYALAYA,"SIYAMBALEWA, MAILAGASWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19159,KOHOMBAGASKADA VIDYALAYA,"KOHOMBAGASKADA, MAHAPOTHANA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19160,ALIYAWETUNUWEWA PRIMARY SCHOOL,"ILUPPUKANNIYA, MEGODAWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19161,AMBAGAHAWEWA VIDYALAYA,"AMBAGAHAWEWA, MEMENNAWELA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19162,ILUKWEWA VIDYALAYA,"ILUKWEWA, GALENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19163,UDDIYANKULA NIKAWEWA VIDYALAYA,"UDDIYANKULAMA NIKAWEWA, GALENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19164,KIMBULPETIYAWA VIDYALAYA,MAHAPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19165,KUMBUKGOLLAWA VIDYALAYA,"KUMBUKGOLLAWA, MAHAPOTHANA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19166,KOKKEBE SRI ROHINI VIDYALAYA,"KOKKEBE, MAHAPOTHANA.",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19170,MATABUWA PALUGOLLAGAMA VIDYALAYA,MEGODAWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19171,DEWAMITHTHA VIDYALAYA,"MEEMINNAWALA, MWWMINNAWALA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,3.Type2,provincial
+19172,RAMBEWA MAHAPOTHANA V.,RAMBEWA MAHAPOTHANA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19173,WAHAGAHAPUWEWA VIDYALAYA,"PULIYANKADAWALA, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19174,HIMBUTUGOLLEWA VIDYALAYA,"UPULDENIYA ,GALENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19175,GOOMARANKALLA YAYA 05 VIDYALAYA,GALENBINDUNUWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19178,ANURADHAPURA ST. JOSEPH'S COLLEGE,ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,1.1AB,provincial
+19179,KALUVILA SENA MAHA VIDYALAYA,HIDOGAMA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,1.1AB,provincial
+19180,RAATHMALE THISSA MAHA VIDYALAYA,SHRAWASTHIPURA ANURADAPURA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,3.Type2,provincial
+19181,PRESIDENT'S COLLEGE,"WANNITHAMMENNAWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,1.1AB,provincial
+19182,ANURADHAPURA WALISINGHE HARISHCHANDRA VIDYALAYA,ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,1.1AB,provincial
+19183,ALUTHWEWA KUMARA MAHA VIDYALAYA,SRAWASTHIPURA ANURADAPURA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,2.1C,provincial
+19184,ANURADHAPURA K.B.RATHNAYAKA MAHA VIDYALAYA,"BUDDHAGAYA MW, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,2.1C,provincial
+19185,KUDANELUBEWA GAMUNU MAHA VIDYALAYA,HIDOGAMA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,2.1C,provincial
+19186,KIRALOGAMA SUBODHI MAHA VIDYALAYA,KIRALOGAMA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,2.1C,provincial
+19187,KAMMALAKKULAMA V.,MIHINTHALE,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,3.Type2,provincial
+19188,KALATHTEWA MAHA VIDYALAYA,"KURUNDANKULAMA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,2.1C,provincial
+19189,KEERIKKULAMA VIDYALAYA,KEERIKKULAMA GALKULAMA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,4.Type3,provincial
+19190,KURUNDANKULAMA V.,MIHINTALE,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,3.Type2,provincial
+19191,THAMMENNAPURA VIDYALAYA,GNANIKULAMA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,3.Type2,provincial
+19192,THURUVILA VIDYALAYA,THURUVILA HIDOGAMA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,4.Type3,provincial
+19193,DIWULWEWA VIDYALAYA,DDIWULWEWA HIDOGAMA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,3.Type2,provincial
+19194,NELUMKANNIYA VIDYALAYA,"NELUMKANNIYA ,GALKULAMA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,4.Type3,provincial
+19195,POTHANEGAMA VIDYALAYA,POTHANEGAMA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,3.Type2,provincial
+19196,SUCHARIYHAGAMA VIDYALAYA,SUCHARITHAGAMA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,3.Type2,provincial
+19197,MADAWALAGAMA PRIMARY SCHOOL,HIDOGAMA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,4.Type3,provincial
+19198,MAHANELUBEWA VIDYALAYA,MAHANELUBEWA HIDOGAMA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,4.Type3,provincial
+19200,MAHAWANNAMMADUWA VIDYALAYA,MAHAWANNAMMADUWA GALKULAMA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,3.Type2,provincial
+19201,KATAKALE VIDYALAYA,"KATAKALE, KIRALOGAMA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19202,YAHALEGAMA VIDYALAYA,GHANIKKULAMA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,4.Type3,provincial
+19203,VIJAYAPURA DHAMMATHILAKA VIDYALAYA,WIJAYAPURA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,4.Type3,provincial
+19204,ANURADHAPURA D.S. SENANAYAKA MODLE PRIMARY SCHOOL,ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,4.Type3,provincial
+19206,THAMMANNAWA WELUSUMANA M.V.,SEEPPUKULAMA,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,2.1C,provincial
+19207,MAHAKANADARAWA LEFT BANK YAYA 2 M.V.,LEFT BANK RAMBEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,2.1C,provincial
+19208,ELLAWEWA VIDYALAYA,"ELLAWEWA, RANPATHVILA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19210,KUKULEWA DEEGHABHAYA VIDYAKLAYA,"KUKULEWA, SEEPUKULAMA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,3.Type2,provincial
+19211,KANADARA NEKATUNUWEWA VIDYALAYA,"NEKUTUNUWEWA, SEEPUKULAMA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19212,KANADARA RATHMALE VIDYALAYA,UPULDENIYA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,3.Type2,provincial
+19214,MAHAKANADARAWA LEFT BANK YAYA 01 VIDYALAYA,"MAHAKANADARAWA, MIHINTHALE",North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,4.Type3,provincial
+19215,RANPATHVILA MAHA VIDYALAYA,RANPATHVILA KAHATAGASDIGILIYA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,2.1C,provincial
+19216,ANDARAGOLLEWA VIDYALAYA,"ANDARAGOLLEWA, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19217,UKKULANKULAMA V.,"UKKULANKULAMA, MIHINTHALE",North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,4.Type3,provincial
+19218,KENDA ROTAWEWA VIDYALAYA,ROTAWEWA SEEPPUKULAMA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19219,GOONAPATIYAWA VIDYALAYA,KUDAGAMA SEEPPUKULAMA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19220,GINIKATUWEWA VIDYALAYA,"GINIKATUWEWA, RAMBEWA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19221,PALUGASWEWA KUNURAGAMA VIDYALAYA,KUNURAGAMA SEEPPUKULAMA,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,4.Type3,provincial
+19222,WERUPPANKULAMA V.,"WERUPPANKULAMA, SEEPPUKULAMA",North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,4.Type3,provincial
+19223,SIYAMBALAGASWEWA V.,"SIYABALAGASWEWA, SEEPPUKULAMA",North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,4.Type3,provincial
+19224,ANURADHAPURA NIWATHTHAKACHETHIYA MAHA VIDYALAYA,ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,1.1AB,provincial
+19225,ANURADHAPURA MAHINDA MODEL PRIMARY SCHOOL,ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,4.Type3,provincial
+19226,ELAYAPATHTHUWA MAHA VIDYALAYA,"ELAYAPATHTHUWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,2.1C,provincial
+19227,ETHDATHKALLA RAHULA VIDYALAYA,ETHDATHKALLA PEMADUWA,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,3.Type2,provincial
+19228,ILANDAGAHAWEWA M.V.,ELAYAPATHTHUWA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19230,KATUKALIYAWA VIDYADEEPA VIDYALAYA,"GALKADAWALA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19232,KENDE RATHMALE VIYALAYA,PARASANGASWEWA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,3.Type2,provincial
+19233,KARUKKANKULAMA VIJAYABA MAHA VIDYALAYA,"GALKADAWALA, ANURADAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,2.1C,provincial
+19234,GALKADAWALA VIDYALAYA,"GALKADAWALA, ANURADAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,4.Type3,provincial
+19235,GALPOTHTHEGAMA VIDYALAYA,"GALKADAWALA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19236,SRI DEWAMITHTHA PRIMARY SCHOOL,"GONEWA, RAMBEWA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19237,SRI WIMALGANA MAHA VIDYALAYA,THANTHIRIMALE ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,2.1C,provincial
+19238,THAMBIYAWA DARAMAPALA VIDYALAYA,THAMBIYAWA THANTHIRIMALE,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,2.1C,provincial
+19239,THIBBATUWAGAMA VIDYALAYA,"TIBBATUWAGAMA, MAHABULANKULAMA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,4.Type3,provincial
+19240,PARASANGASWEWA VIDYALAYA,"PARASANGASWEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19241,PANIYANKADAWALA MAHA VIDYALAYA,"PAMIYANKADAWALA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,2.1C,provincial
+19242,PUSIYANKULAMA MAHA VIDYALAYA,"ELAYAPATHTHUWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,2.1C,provincial
+19243,PERIMIYANKULAMA ASHOKA MAHA VIDYALAYA,"PERIMIYANKULAMA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,2.1C,provincial
+19244,SIRI DEEPANANDA P.V.,"PULIYANKULAMA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,4.Type3,provincial
+19245,PUWARASANKULAMA VIDYALAYA,"PUWARASANKULAMA, PANIYANKADAWALA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19246,PANDUKABAYAPURA VIDYALAYA,PANDUKABAYAPURA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,3.Type2,provincial
+19247,BILLEWA VIDYALAYA,NELUMKANNIYA V,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,3.Type2,provincial
+19248,MAHABODHI VIDYALAYA,"SANGAMITTA MW, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,4.Type3,provincial
+19249,MAHAMANKADAWALA VIDYALAYA,"ELAYAPATHTHUWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19250,MAHABULANKULAMA MAHA VIDYALAYA,"MAHABULANKULAMA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,2.1C,provincial
+19251,MAHAWILACHCHIYA SIDDARTHA VIDYALAYA,PEMADUWA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,1.1AB,provincial
+19252,SALIYAMALA VIDYALAYA,MANNAR JUNTION PEMADUWA,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,2.1C,provincial
+19253,THAKSHILA MAHA VIDYALAYA,BOGAS JUNCTION,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,2.1C,provincial
+19254,MAHAVILACHCHIYA GAMINI VIDYALAYA,TRACK 03 MAHAEILACHCHIYA,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,3.Type2,provincial
+19255,MANKADAWALA MAHA VIDYALAYA,"SALIYAPURA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,2.1C,provincial
+19256,MAHA AHETUWEWA VIDYALAYA,"ELAYAPATHTHUWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19257,MANINGAMUWA VIDYALAYA,ELAYAPATHTHUWA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,4.Type3,provincial
+19258,SADAMALGAMA VIDYALAYA,SADAMALGAMA RAMBEWA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19260,VIHARAPALUGAMA VIDYARAJA VIDYALAYA,"VIHARAPALUGAMA, ANURADAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19261,VIHARA BULANKULAMA VIDYALAYA,"VIHARA PALUGAMA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19262,SIRISAGABO VIDYALAYA,WANNIHELABEWA ELAYAPATHTHUWA,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,4.Type3,provincial
+19263,DHARMA PRADEEPA VIDYALAYA,"GAMBIRIGASWEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19264,SALIYAPURA VIDYALAYA,"SALIYAPURA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19265,SIYABALAGASWEWA MEDAGAMA VIDYALAYA,MEDAGAMA PARASANGASWEWA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,3.Type2,provincial
+19266,HALAMBAGASWEWA VIDYALAYA,GAMBIRIGASWEWA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19267,DIGANEGAMA VIDYALAYA,"DIGANEGAMA, ELAYAPATHTHUWA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19268,OYAMADUWA VIDYALAYA,"OYMADUWA, ELEYAPATHTHUWA",North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,3.Type2,provincial
+19269,ADMPANE SUDHARSHANA MAHA VIDYALAYA,ADAMPANE NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,3.Type2,provincial
+19270,VIDYALOKA MAHA VIDYALAYA,AMBAGAHWEWA RANORAWA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,3.Type2,provincial
+19272,IHALAKEDITHOKKUWA VIDYALAYA,PAHALAHALMILLAWEWA NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+19273,OTTAPPUWA VIDYALAYA,GALADIWULWEWA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,3.Type2,provincial
+19274,KATUPATHWEWA VIDYALAYA,KATUPATHWEWA PAHALAMARAGAHAWEWA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+19275,KADURUPITIYA ASHOKAMALA VIDYALAYA,KADURUOITIYA DUNUMADALAWA,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,3.Type2,provincial
+19276,KUKULKATUWA VIDYALAYA,KUKULKATUWA RANORAWA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+19277,GALADIVULWEWA SRI SUMANGALA VIDYALAYA,GALAWEWA GALADIULWEWA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,2.1C,provincial
+19278,THALGASWEWA VIDYARAVINDA VIDYALAYA,THALGASWEWA NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+19279,VIDYADEEPA MAHA VIDYALAYA,NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,2.1C,provincial
+19280,DUNUMADALAWA VIDYALAYA,DUNUMADALAWA NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,3.Type2,provincial
+19281,NOCHCHIYAGAMA VIDYADARASHA MAHA VIDYALAYA,NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,1.1AB,provincial
+19282,PAHALA MARAGAHAWEWA VIDYARTHA MAHA VIDYALAYA,PAHALA MARAGAHAWEWA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,2.1C,provincial
+19283,PAHALA WETIYAWA VIDYALAYA,NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,3.Type2,provincial
+19284,SRI DUTUGEMUNU MAHA VIDYALAYA,PAHALA HALMILLAWEWA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,2.1C,provincial
+19285,VIDUARUNA M.V.,RANORAWA NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,2.1C,provincial
+19286,RANORAWA PRIMARY SCHOOL,RANORAWA NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+19287,RALAPANAWA VIDYALAYA,"SINHARAGAMA, NOCHCHIYAGAMA",North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+19288,RALAPANAWA JANAPADA VIDYALAYA,NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,3.Type2,provincial
+19289,LINDAWEWA VIDYALAYA,NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+19290,HORUWILA VIDYALAYA,WILPATHTHU ROAD HORUWILA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,3.Type2,provincial
+19293,IPALOGAMA VIDYALAYA,UDUNUWARA JANAPADAYA NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,3.Type2,provincial
+19294,SARAKKUGALA VIDYALAYA,PAHALAHALMIIAWEWA NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+19295,KAGAMA YAYA 09 MAHA VIDYALAYA,"YAYA 9, KATTIYAWA, EPPAWALA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,2.1C,provincial
+19297,THALAWA M.V.,THALAWA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,1.1AB,provincial
+19298,RAJANGANAYA YAYA 05 MAHA VIDYALAYA,RAJANGANAYA,North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,1.1AB,provincial
+19299,RAJANGANAYA YAYA 10 M.V.,YAYA 10 GAMUNUPURA,North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,1.1AB,provincial
+19300,RAJANGANYA YAYA 13-14 MAHASEN MAHA VIDYALAYA,RAJANGANA JUNCTION KALAOYA,North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,1.1AB,provincial
+19301,KAGAMA TRACT SIX DUTUGAMUNU M.V.,TRACT SIX KATIYAWA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19302,SENAPURA MAHA VIDYALAYA,SENAPURA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,2.1C,provincial
+19303,ANGAMUWA YAYA 06 MAHA VIDYALAYA,"RAJANGANAYA YAYA 06, ANGAMUWA",North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,2.1C,provincial
+19304,ALUTHWEWA GALMADUWA VIDYALAYA,MAHAILUPPALLAMA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19305,IHALA HALMILLEWA M.V.,"IHALAHALMILLEWA, EPPAWALA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,2.1C,provincial
+19307,KATIYAWA YAYA 10 VIDYALAYA,"YAYA 10, KATIYAWA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19308,KATIYAWA YAYA 01 VIDYALAYA,"YAYA 01, KATIYAWA, EPPAWALA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19310,KARAGAHAWEWA VIDYALAYA,"KARAGAHAWEWA, THALAWA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19311,KELEDIULWEWA VIDYALAYA,MAHAILUPPALLAMA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19312,KUDAGAMA VIDYALAYA,KUDAGAMA THAMBUTHTHEGAMA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,3.Type2,provincial
+19313,THAMMANNAGAMA ALUTHWEWA VIDYALAYA,MAHAILUPPALLAMA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19314,TALAWA NABADAWEWA VIDYALAYA,"TALAWA NABADAWEWA, THALAWA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19315,SRI SUMANGALA MAHA VIDYALAYA,NABADAWEWA ENDAGALA EPPAWALA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,2.1C,provincial
+19316,NALLACHCHIYA VIDYALAYA,NALLACHCHIYA THAMBUTHTHEGAMA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,3.Type2,provincial
+19317,PAINDIKULAMA PANDUKABHAYA VIDYALAYA,MALWANEGAMA THALAWA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,3.Type2,provincial
+19318,PAHALATHALAWA VIDYALAYA,PAHALATHALAWA THALAWA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19319,POTHIYAGAMA MAITHREE VIDYALAYA,PAHALAGAMA THAMBUTHTHEGAMA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,2.1C,provincial
+19320,MAHAILLUPPALLAMA V.,MAHAILLUPPALLAMA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,2.1C,provincial
+19321,MAHABELLANKADAWALA MAHA VIDYALAYA,MALWANEGAMA TALAWA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,2.1C,provincial
+19322,RAJANGANAYA YAYA 01 CHILD FRIEND SCHOOL,"YAYA 01, RAJANGANYA (SOUTH BANK)",North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,4.Type3,provincial
+19323,RAJANGANYA YAYA 04 PRIMARY SCHOOL,RAJANGANYA,North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,4.Type3,provincial
+19324,RAJANGANAYA YAYA 08 SRI RAHULA VIDYALAYA,ANGAMUWA,North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,3.Type2,provincial
+19325,RAJANGANAYA YAYA 15 VIDYALAYA,"YAYA 15, PAHALAMARAGAHAWEWA",North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,3.Type2,provincial
+19326,SIRIMAPURA MAHA VIDYALAYA,"SIRIMAPURA, THAMBUTHTHEGAMA",North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,2.1C,provincial
+19327,SOLAMA VIDYALAYA,"PAHALAGAMA, THAMBUTHTHEGAMA",North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,3.Type2,provincial
+19328,HIRIGOLLEGAMA VIDYALAYA,"HIRIGOLLEGAMA, THALAWA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19329,DELNGAMA VIDYALAYA,DELNEGAMA KIRALOGAMA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,3.Type2,provincial
+19330,THELHIRIYAWA VIDYALAYA,THELHIRIYAWA THAMBUTHTHEGAMA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,3.Type2,provincial
+19331,SRI PARAKUM PRIMARY SCHOOL,"IHALAHALMILLEWA, EPPAWALA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19332,GALWADUWAGAMA VIDYALAYA,EPPAWALA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19333,GURUGAMA VIDYALAYA,GURUGAMA THAMBUTHTHEGAMA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,4.Type3,provincial
+19334,THAMBUTHTHEGAMA MODEL PRIMARY SCHOOL,KURUNEGALA ROAD THAMBUTHTHEGAMA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,4.Type3,provincial
+19335,MUDUNEGAMA M.V.,MUDUNEGAMA TALAWA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,2.1C,provincial
+19336,GALNEWA M.M.V.,GALNEWA,North Central,71.Anuradhapura,Thambuttegama,Galnewa,1.1AB,provincial
+19337,KAGAMA DATHUSENA M.V.,KAGMA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,2.1C,provincial
+19338,NEGAMPAHA MAHA VIDYALAYA,NEGAMPAHA,North Central,71.Anuradhapura,Thambuttegama,Galnewa,2.1C,provincial
+19339,VIJITHAPURA MAHA V.,VIJITHAPURA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,2.1C,provincial
+19340,KALANKUTTIYA M.V.,KALANKUTTIYA,North Central,71.Anuradhapura,Thambuttegama,Galnewa,2.1C,provincial
+19341,IHALABULNEWA V.,BULNEWA,North Central,71.Anuradhapura,Thambuttegama,Galnewa,3.Type2,provincial
+19343,KATHTHARAGAMA P.V.,"KATHTHARAGAMA, GALNEWA",North Central,71.Anuradhapura,Thambuttegama,Galnewa,4.Type3,provincial
+19344,KANDULUGAMUWA VIDYALAYA,"KANDULUGAMUWA, NEGAMPAHA",North Central,71.Anuradhapura,Thambuttegama,Galnewa,3.Type2,provincial
+19345,GALNEWA P.V.,GALNEWA,North Central,71.Anuradhapura,Thambuttegama,Galnewa,4.Type3,provincial
+19346,NEGAMA SIRISUMANA VIDYALAYA,NEGAMPAHA,North Central,71.Anuradhapura,Thambuttegama,Galnewa,3.Type2,provincial
+19347,NELUMPATHGAMA P.V.,"SIYABALEWA, NEGAMPAHA",North Central,71.Anuradhapura,Thambuttegama,Galnewa,4.Type3,provincial
+19348,PALUGASWEWA GAMINI VIDYALAYA,VIJITHAPURA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,4.Type3,provincial
+19349,KALANKUTTIYA PRAIMARI SCHOOL,"KALANKUTTIYA, GALNEWA",North Central,71.Anuradhapura,Thambuttegama,Galnewa,4.Type3,provincial
+19350,MAKULEWA MAHA VIDYALAYA,HURIGASWEWA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,2.1C,provincial
+19352,WALAWEGAMA V.,VIJITHAPURA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,4.Type3,provincial
+19353,WALASWEWA PRAIMARI SCHOOL,"WALASWEWA, NEGAMPAHA",North Central,71.Anuradhapura,Thambuttegama,Galnewa,4.Type3,provincial
+19354,HANDUNGAMA VIDYALAYA,"SIRIMAGAMA, AUKANA",North Central,71.Anuradhapura,Thambuttegama,Galnewa,4.Type3,provincial
+19355,HABARAWATTHA WETAKOLUWAGAMA VIDYALAYA,NEGAMPAHA,North Central,71.Anuradhapura,Thambuttegama,Galnewa,4.Type3,provincial
+19356,HALMILLEWA SIRI SEEWALI MAHA VIDYALAYA,SENAPURA,North Central,71.Anuradhapura,Thambuttegama,Galnewa,2.1C,provincial
+19357,HURIGASWEWA VIDYALAYA,MEEGALEWA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,3.Type2,provincial
+19358,USGALA P.V.,"USGALA, HALMILLEWA, GALNEWA",North Central,71.Anuradhapura,Thambuttegama,Galnewa,4.Type3,provincial
+19359,THALAKOLAWEWA JAYAMAWATHA PRIMARY SCHOOL,HURIGASWEWA,North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,4.Type3,provincial
+19360,MAWATHTHEGAMA P.V.,KALANKUTTIYA,North Central,71.Anuradhapura,Thambuttegama,Galnewa,4.Type3,provincial
+19362,IPALOGAMA GANTHIRIYAGAMA M.V.,"GANTHIRIYAGAM, IPALOGAMA.",North Central,71.Anuradhapura,Kekirawa,Ipalogama,1.1AB,provincial
+19363,MARADANKADAWALA SRI RAHULA M.V,MARADANKADAWALA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,2.1C,provincial
+19364,WALAGAMBAHUWA M.V.,"WALAGAMBAHUWA, MARADANKADAWALA.",North Central,71.Anuradhapura,Kekirawa,Thirappane,2.1C,provincial
+19365,PERIYAKULAMA M.V.,MARADANKADAWALA.,North Central,71.Anuradhapura,Kekirawa,Thirappane,2.1C,provincial
+19366,KARABEWA M.V.,RAMBEWEWA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,2.1C,provincial
+19367,ST. ANTHONY'S M.V.,"ALAGOLLEWA, MURIYAKADAWALA.",North Central,71.Anuradhapura,Kekirawa,Thirappane,2.1C,provincial
+19368,NARANGALLEGAMA V.,"NARANGALLEGAMA, SENAPURA",North Central,71.Anuradhapura,Kekirawa,Ipalogama,3.Type2,provincial
+19369,PAYINDIKULAMA V.,"PAYINDIKULAMA, WALAGAMBAHUWA.",North Central,71.Anuradhapura,Kekirawa,Thirappane,3.Type2,provincial
+19370,MAMINIYAWA VIDYALAYA,"MAMINIYAWA, MARADANKADWALA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19371,MANEWA VIDYALAYA,IPALOGAMA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,4.Type3,provincial
+19372,MURIYAKADAWALA MAITHREE VIDYALAYA,GALENBIDUNUWEWA,North Central,71.Anuradhapura,Kekirawa,Thirappane,4.Type3,provincial
+19373,KALEAMUNUKOLE VIDYALAYA,"KALEAMUNUKOLE, EPPAWALA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19374,NALLAMUDAWA VIDYALAYA,"NALLAMUDAWA, EPPAWALA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19376,"DHARMALOKA VIDYALAYA, MAWATHAWEWA","MAWATHAWEWA, EPPAWALA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,3.Type2,provincial
+19377,AMUNICHCHIYA VIDYALAYA,"AMUNICHCHIYA, MURIYAKADAWALA.",North Central,71.Anuradhapura,Kekirawa,Thirappane,4.Type3,provincial
+19379,ALUTH GATHIRIYAGAMA V.,KAGAMA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,4.Type3,provincial
+19381,KUDA KANUMULLA VIDYALAYA,THIRAPPANE,North Central,71.Anuradhapura,Kekirawa,Thirappane,4.Type3,provincial
+19382,GAMINI HALMILLEWA V.,IPPOLOGAMA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,4.Type3,provincial
+19383,PETHISRAMBEWA VIDYALAYA,"PETHISRAMBEWA, MARADANKADAWALA.",North Central,71.Anuradhapura,Kekirawa,Thirappane,4.Type3,provincial
+19384,PAHALA WEMBUWA V.,IPOLOGAMA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,4.Type3,provincial
+19385,PULIYANKULAMA VIDYALAYA,"PULIYANKULAMA, MARADANKADWALA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19388,MAMINIYA RABAWA VIDYALAYA,GANEWALPOLA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19391,UTTIMADUWA V.,UTTIMADUWA.,North Central,71.Anuradhapura,Kekirawa,Thirappane,4.Type3,provincial
+19393,ORUKMANKULAMA VIDYALAYA,UTTIMADUWA,North Central,71.Anuradhapura,Kekirawa,Thirappane,4.Type3,provincial
+19394,KATTAMURICHCHANA M.V.,MARADANKADAWALA,North Central,71.Anuradhapura,Kekirawa,Thirappane,3.Type2,provincial
+19395,KUTTIKULAMA SIRI SEELAWANSHA M.V.,"KUTTIKULAMA, SIWALAKULAMA.",North Central,71.Anuradhapura,Kekirawa,Thirappane,2.1C,provincial
+19396,KAHAPATHVILAGAMA V.,"KAHAPATHVILAGAMA, UTTIMADUWA",North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,3.Type2,provincial
+19397,GALKULAMA DHAMMADINNA M.V.,GALKULAMA,North Central,71.Anuradhapura,Kekirawa,Thirappane,2.1C,provincial
+19398,MAHANAMA M.V.,THIRAPPANE,North Central,71.Anuradhapura,Kekirawa,Thirappane,1.1AB,provincial
+19399,THODAMADUWA VIDYALAYA,"THODAMADUWA, SIWALAKULAMA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19400,THAMMENNAGAMA VIDYALAYA,"THAMMENNAGAMA, MAILAGASWEWA.",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19401,DAMBAGOLLEWA VIDYALAYA,SIWALAKULAMA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19403,NACHCHADOOWA SINHALA MAHA VIYALAYA,NACHCHADUWA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,2.1C,provincial
+19404,NATIYAGAMA V.,IHALAGAMA MIHINTALE,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,4.Type3,provincial
+19405,PAYIRIMADUWA VIDYALAYA,"PAYIRIMADUWA, SIWALAKULAMA",North Central,71.Anuradhapura,Kekirawa,Thirappane,3.Type2,provincial
+19406,PAHALA HALMILLEWA V.,SIWALAKULAMA,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,3.Type2,provincial
+19407,PARAKUMMURIYAKADAWALA VIDYALAYA,SIWALAKULAMA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19408,PUNCHIKULAMA VIDYALAYA,"PUNCHIKULAMA, THIRAPPANE.",North Central,71.Anuradhapura,Kekirawa,Thirappane,3.Type2,provincial
+19409,MARADANKALLA SHI BODHI VIDYALAYA,"MARADANKALLA, MIHINTHALE",North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,3.Type2,provincial
+19410,MAILAGASWEWA VIDYALAYA,"MAILAGASWEWA, GALENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19411,SRI SARANANDA VIDYALAYA,"MANANKATTIYA, MEGODAWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19412,MAWATHAWEWA DHARMARAJA VIDYALAYA,"MAWATHAWEWA, MILAGASWEWA.",North Central,71.Anuradhapura,Kekirawa,Thirappane,4.Type3,provincial
+19413,PATHIRAJA THENNAKOON MODEL PRIMARY SCHOOL,MIHINTHALE,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,4.Type3,provincial
+19414,MIHINTHALE M.V.,MIHINTHALE,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,1.1AB,provincial
+19415,MEEWELLEWA VIDYALAYA,MARADANKADAWALA,North Central,71.Anuradhapura,Kekirawa,Thirappane,3.Type2,provincial
+19416,LABUNORUWA PANDUKABHAYA M.V.,MARADANKADAWALA.,North Central,71.Anuradhapura,Kekirawa,Thirappane,2.1C,provincial
+19417,WEMBUWEWA VIDYALAYA,WEMBUWEWA SIVALAKULAMA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19418,WELLARAGAMA V.,"MARADANKALLA, MIHINTHALE",North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,4.Type3,provincial
+19419,SIWALAKULAMA SEEWALI MAHA VIDYALAYA,SIWALAKULAMA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19420,SELESTHIMADUWA VIDYALAYA,NACHCHADOOWA,North Central,71.Anuradhapura,Kekirawa,Thirappane,3.Type2,provincial
+19421,ETHUNGAMA GEMUNU M.V.,"ETHUNGAMA, THIRAPPANE",North Central,71.Anuradhapura,Kekirawa,Thirappane,2.1C,provincial
+19422,ANDIYAGALA NAWODYA V.,ANDIYAGALA,North Central,71.Anuradhapura,Kekirawa,Palagala,2.1C,provincial
+19423,UPULWEHERA P.V.,"MANERUWA, NEGAMPAHA",North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19424,IHALA KAGAMA V.,MARADANKADAWALA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,4.Type3,provincial
+19425,OLUKARADA VIDYALAYA,"OLUKARADAGAMA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,2.1C,provincial
+19426,KANDALAMA PALLEGAMA M.V.,KITHULHITIYAWA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,2.1C,provincial
+19427,KARAWILAGALA VIDYALAYA,"KARAWILAGALA, PALAGALA",North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19428,KALUARCHCHIYAGAMA V.,"HINUGURUWEWA, ADIYAGALA",North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19430,KEKIRAWA MODEL P.S.,"RAILWAY TOWN, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19431,KIRIDIWATH P.V.,"KIRIDIWATHTHA, PALAGALA",North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19432,KITHULHITIYWA V.,"KITHULHITIYAWA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19433,GALKIRIYAGAMA PRIMARY SCHOOL,GALKIRIYAGAMA,North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19434,THELADINNANINWEWA V.,"DABULUHALMILLAWEWA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Palagala,3.Type2,provincial
+19435,THELABIYAGAMA VIDYALAYA,"THELABIYAGAMA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19436,PARAWAHAGAMA V.,"PARAWAHAGAMA, ADIYAGAL",North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19437,PALAGALA M.V.,PLAGALA,North Central,71.Anuradhapura,Kekirawa,Palagala,2.1C,provincial
+19438,PALLEKAGGAMA V.,MARADANKADAWALA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,4.Type3,provincial
+19439,PELBADIYAWE P.V.,"PELBADIYAWA, ADIYAGALA",North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19440,BUDUGEHINNA M.V.,"BUDUGEHINNA, DEVAGUWA",North Central,71.Anuradhapura,Kekirawa,Palagala,2.1C,provincial
+19441,MANGALAPURA V.,VIJITHAPURA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19442,MADATUGAMA SRI REWATHA M.V.,MADATUGAMA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,1.1AB,provincial
+19443,MANERUWA.M.V.,"MANERUWA, NAGAMPHA",North Central,71.Anuradhapura,Kekirawa,Palagala,3.Type2,provincial
+19444,MURUNGAHITIKADA VIDYALAYA,"MURUGAHITIKANDA, MADATUGAMA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,3.Type2,provincial
+19445,MUDAPERUMAGAMA VIDYALAYA,KEKIRAWA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19446,MOROTHTHEGAMA P.V.,DEWAHUWA,North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19447,MORAGOLLAGAMA PRIMARY SCHOOL,"MAHA ELAGAMUWA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19448,RANAWA P.V.,"RANAWA, GALKIRIYAGAMA",North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19449,RAMADEGALA VIDYALAYA,"RAMADEGALA, KITHULHITIYAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19451,DHAMBULU HALMILLAWEWA MODLE M.V.,"DABULUHALMILAWA, KEKEIRAWA",North Central,71.Anuradhapura,Kekirawa,Palagala,2.1C,provincial
+19452,HEVENTHANNEGAMA V.,MADATUGAMA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19453,HIRIPITIYAGAMA P.V.,IPPALOGAMA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,4.Type3,provincial
+19454,KEKIRAWA BASTIAN SILVA M.V.,KEKIRAWA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,2.1C,provincial
+19455,DABEVATANA VIDYALAYA,GALKIRIYAGAMA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19456,GALKIRIYAGAMA M.M.V.,GALKIRIYAGAMA,North Central,71.Anuradhapura,Kekirawa,Palagala,1.1AB,provincial
+19458,PALUGASWEWA VIDYALAYA,"HABARANA ROAD, PALUGASWEWA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,2.1C,provincial
+19459,HABARANA SECONDARY SCHOOL,"POLONNARUWA ROAD, HABARANA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,2.1C,provincial
+19460,EMBULGASWEWA VIDYALAYA,"EMBULGASWEWA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19461,KALUEBE VIDYALAYA,MEGODAWEWA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19462,KELEWA SUMANA VIDYALAYA,"BELLANKADAWALA, PALUGASWEWA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,3.Type2,provincial
+19463,KIRMETIYAWA GAMINI VIDYALAYA,KIRIMETIYAWA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19464,KUMBUKWEWA NEMALSIRI VIDYALAYA,"KUMBUKWEWA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19465,KUMBUKWEWA PRIMARY SCHOOL,"KUMBUKWEWA, HABARANA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,4.Type3,provincial
+19466,KORASAGALLA VIDYALAYA,"KORASAGALLA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19467,GALAPITAGALA VIDYALAYA,GANEWALPOLA,North Central,71.Anuradhapura,Kekirawa,Palugaswewa,3.Type2,provincial
+19468,DEMUNNEWA VIDYALAYA,PALUGASWEWA,North Central,71.Anuradhapura,Kekirawa,Palugaswewa,4.Type3,provincial
+19469,NAWAKKULMA VIDYALAYA,"NAWAKKULAMA, MEGODAWEWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19470,PUWAKPITIYA PRIMARY SCHOOL,"PUWAKPITIYA, HABARANA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,4.Type3,provincial
+19471,PUSDIULWEWA VIDYALAYA,"ASIRIGAMA, NAMALPURA, GALENBIDUNUWEWA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,3.Type2,provincial
+19472,BENDIWEWA VIDYALAYA,"BENDIWEWA, MEGODAWEWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19473,MADAWALA VIDYALAYA,"NAMALPURA, GALENBIDUNUWEWA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,3.Type2,provincial
+19474,MAHAELAGAMUWA P.V.,"MAHAELAGAMUWA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19475,MAHA MEEGASWEWA VIDYALAYA,"NAMALPURA, GALENBIDUNUWEWA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,4.Type3,provincial
+19476,MAHA RABAWEWAVIDYALAYA,"MAHARABAWEWA, PADIKARAMADUWA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,4.Type3,provincial
+19477,MATAMBUWAWA MAHA DIVULWEWA VIDYALAYA,"NAMALPURA, GALENBIDUNUWEWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19478,MATABUWA HALMILLEWA VIDYALAYA,"NAMALPURA, GALENBINDUNUWEWA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,4.Type3,provincial
+19479,MEDAGAMA V.,"MEDAGAMA, KEKIRAWA.",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19481,MORAGODA V.,"MORAGODA, MEGODAWEWA.",North Central,71.Anuradhapura,Kekirawa,Kekirawa,3.Type2,provincial
+19482,RATHMALKANDA V.,KEKIRAWA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19483,WERUNKULAMA V.,"WERUNKULAMA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19484,WERAGALA VIDYALAYA,"WERAGALA, PALUGASWEWA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,4.Type3,provincial
+19485,SENADIRIYAGAMA VIDYALAYA,PALUGASWEWA,North Central,71.Anuradhapura,Kekirawa,Palugaswewa,4.Type3,provincial
+19486,HIRIWADUNNA PRIMARY SCHOOL,"HIRIWADUNNA, HABARANA",North Central,71.Anuradhapura,Kekirawa,Palugaswewa,4.Type3,provincial
+19488,VIVEKANANDA TAMIL MAHA VIDYALAYA,BANDARANAYAKA MW ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,2.1C,provincial
+19489,KANADARA KATUKELIYAWA MUSLIM M.V.,"KANADARA KATUKELIYAWA, IHALAGAMA, MIHINTALE",North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,2.1C,provincial
+19490,AL-MADEENA VIDYALAYA,KUDANELUBEWA HIDOGAMA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,3.Type2,provincial
+19491,KATIYAWA AL-AZAD MUSLIM VIDYALAYA,"TRACK-07, KATIYAWA",North Central,71.Anuradhapura,Kekirawa,Ipalogama,3.Type2,provincial
+19492,KALAWEWA MUSLIM V.,"KALAWEWA, VIJITHAPURA",North Central,71.Anuradhapura,Kekirawa,Ipalogama,1.1AB,provincial
+19493,NAGAMA MUSLIM V.,"NAGAMA, NAGAMPAHA",North Central,71.Anuradhapura,Kekirawa,Palagala,2.1C,provincial
+19494,ALAHAPPERUMAGAMA MUSLIM V.,VIJITHAPURA,North Central,71.Anuradhapura,Kekirawa,Ipalogama,3.Type2,provincial
+19495,UDANIDIGAMA AL MINA MAHA VIDYALAYA,MADATUGAMA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,2.1C,provincial
+19496,KATUKELIYAWA M.V.,PUBBOGAMA,North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19497,BAPTIST MISSION TAMIL SCHOOL,"THALAWA ROAD, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,3.Type2,provincial
+19498,NELLEYAGAMA MUSLIM V.,"NELLIYAGAMA, PALAGALA",North Central,71.Anuradhapura,Kekirawa,Palagala,2.1C,provincial
+19499,KEKIRAWA MUSLIM MAHA VIDYALAYA,KEKIRAWA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,2.1C,provincial
+19500,BANDARAPOTHANA MUSLIM VIDYALAYA,"BANDARAPOTHANA, PUBBOGAMA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,4.Type3,provincial
+19501,BALALUWEWA MUSLIM V.,"BALALUWEWA, PALAGALA",North Central,71.Anuradhapura,Kekirawa,Palagala,2.1C,provincial
+19502,HORAPOLA MUSLIM VIDYALAYA,"HORAPOLA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,3.Type2,provincial
+19503,MADATUGAMA MUSLIM VIDYALAYA,"ANDIYAGALA ROAD, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,3.Type2,provincial
+19504,IHALAPULIYANKULAMA MUSLIM VIDYALAYA,MARADANKADAWALA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,3.Type2,provincial
+19505,KALLANCHIYAGAMA ARAFA M.V.,"KALLANCHIYAGAMA, KAGAMA, 50282",North Central,71.Anuradhapura,Kekirawa,Ipalogama,2.1C,provincial
+19506,KOLLANKUTTYGAMA MUSLIM VIDYALAYA,"KOLLANKUTTYGAMA, MARADANKADAWALA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,3.Type2,provincial
+19507,GANEWALPOLA MUSLIM MAHA VIDYALAYA,"GANEWALPOLA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,2.1C,provincial
+19508,NACHCHADUWA MUSLIM MAHA VIDYALAYA,NEW TOWN NACHCHADUWA ANURADAPURA,North Central,71.Anuradhapura,Anuradhapura,Nachchaduwa,2.1C,provincial
+19509,BAMUNUGAMA MUSLIM VIDYALAYA,"UTHTHUPITIYA, MURIYAKADAWALA.",North Central,71.Anuradhapura,Kekirawa,Thirappane,2.1C,provincial
+19510,AL-AMEEN MUSLIM VIDYALAYA,MARADANKADAWALA,North Central,71.Anuradhapura,Kekirawa,Kekirawa,3.Type2,provincial
+19511,MIHINTHALE MUSLIM V.,MIHINTHALE,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,3.Type2,provincial
+19512,DEMATTEGAMA MUSLIM VIDYALAYA,THIRAPPANE,North Central,71.Anuradhapura,Kekirawa,Thirappane,3.Type2,provincial
+19513,KADADUGAMA JAYA MUSLIM MAHA VIDYALAYA,"KADANTUGAMA, PUBBOGAMA",North Central,71.Anuradhapura,Kekirawa,Kekirawa,1.1AB,provincial
+19514,KAHATAGASDIGILIYA MUSLIM MAHA VIDYALAYA,UPULDENIYA ROAD KAHATAGASDIGILIYA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,1.1AB,provincial
+19516,EITHALWETUNUWEWA MUSLIM MAHA VIDYALAYA,"EITHALWETUNUWEWA, MAHAPOTHANA, KAHATAGASDIGILIYA.",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,2.1C,provincial
+19517,KADAWATH RATHMALE MUSLIM VIDYALAYA,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19518,THIMBIRIYATHTHAWALA MUSLIM VIDYALAYA,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19519,NIKAWEWA MUSLIM VIDYALAYA,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19520,NELUGOLLAKADA MUSLIM VIDYALAYA,RATHMALGAHAWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19521,PATHTHEWA MUSLIM VIDYALAYA,KAPUGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19522,THAHIRA MUSLIM VIDYALAYA,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19523,WALAHAWIDDAWEWA MUSLIM VIDYALAYA,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19524,WEERACHCHOLAI MUSLIM VIDYALAYA,KAPUGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,2.1C,provincial
+19525,HETTUWEWA MUSLIM VIDYALAYA,"HETTUWEWA, MAHAPOTHANA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19526,BADIUDDIN MAHAMUD MAHA VIDYALAYA,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,1.1AB,provincial
+19527,AL-MASS MAHA VIDYALAYA,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,2.1C,provincial
+19528,WELIGOLLEWA MUSLIM VIDYALAYA,"WELIGILLEWA, MUKKIRIYAWA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,3.Type2,provincial
+19529,GOMARANKALLA MUSLIM VIDYALAYA,"GOMARANKALLA, GELENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,2.1C,provincial
+19530,MUKIRIYAWA MUSLIM MAHA VIDYALAYA,"MUKIRIYAWA, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,2.1C,provincial
+19531,THURUKKARAGAMA MUSLIM VIDYALAYA,"THURUKKARAGAMA, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,2.1C,provincial
+19532,DAHANAKWEWA MUSLIM VIDYALAYA,"DAHANAKWEWA, MUKIRIYAWA, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19533,AL-AKSHA MUSLIM VIDYALAYA,"DUNUMADALAWA, GALENBIDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,3.Type2,provincial
+19534,AN NOOR M.V.,"IKKIRIGOLLEWA, WAHAMALGOLLEWA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,1.1AB,provincial
+19535,THALGAHAWEWA MUSLIM VIDYALAYA,"THALGAHAWEWA, RAMBEWA, ANURADAPURA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,3.Type2,provincial
+19536,AL-MANAR MUSLIM VIDYALAYA,MUSLIM HALMILLEWA POONEWA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19537,AL-AKSHA MUSLIM VIDYALAYA,MAHASIYAMBALAGASKADA NERIYAKULAMA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19538,MEDAWACHCHIYA AL-MADEENA M.V.,MEDAWACHCHIYA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,2.1C,provincial
+19539,ALLAWEWA VIDYALAYA,"ALLAWEWA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,3.Type2,provincial
+19540,MUSLIM ATTAWEERAWEWA VIDYALAYA,KEBITHIGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,3.Type2,provincial
+19541,MANARUL ULOOM MAHA VIDYALAYA,"GAMBIRIGASWEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,2.1C,provincial
+19542,ALUTHGAMA DHARUSSALAM MUSLIM VIDHYALAYA,"ALUTHGAMA, GAMBIRIGASWEWA.",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,4.Type3,provincial
+19543,AL-HIQMA MUSLIM VIDYALAYA,UDUMBUGALA NERIYAKULAMA,North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,3.Type2,provincial
+19544,KIVULEKADA MUSLIM VIDYALAYA,"GAMBIRIGASWEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,4.Type3,provincial
+19545,IHALAKOTIYAWA MUSLIM VIDYALAYA,PARASANGASWEWA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19546,NOCHCHIYAGAMA AL-HIKMA MUSLIM MAHA VIDYALAYA,NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,2.1C,provincial
+19547,ASIRIGAMA MUSLIM VIDYALAYA,"ASIRIGAMA, GAMBIRIGASWEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19548,KOVILBENDAWEWA MUSLIM VIDYALAYA,"PARASANGASWEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,3.Type2,provincial
+19549,SUDARSHANABODHI VIDYALAYA,THARIYANKULAMA KURUNDANKULAMA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,4.Type3,provincial
+19550,DEWANAMPIYATHISSA MAHA VIDYALAYA,"THISAWEWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,2.1C,provincial
+19551,KIBULWEWA ANANDA VIDYALAYA,KIBULAWEWA THANTHIRIMALE,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,4.Type3,provincial
+19552,THALAWA THIRAPPANE VIDYALAYA,THIRAPPANE THALAWA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19553,MEEGASSEGAMA ANANDODAYA VIDYALAYA,"KIRALOGAMA, EPPAWALA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19555,MUDALINDU RATHNAYAKA VIDYALAYA,"MEKICHCHAWA, SEEPPUKULAMA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19556,AIYATHIGEWEWA VIDYALAYA,"AIYATHIGEWEWA, KEBITHIGOLLEWA.",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19557,KOONKETIYAWA VIDYALAYA,BOGAHAWEWA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,4.Type3,provincial
+19559,AN-NOOR MUSLIM VIDYALAYA,"ANAOLANDEWA, KAPUGILLEWA, HOROVPOTHANA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,3.Type2,provincial
+19560,GALKANDEWA MUSLIM VIDYALAYA,"PARANGIYAWADIYA, HOROVPOTHANA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19562,BELLANKADAWALA VIDYALAYA,"PADAVI ROAD, BOGAHAWAWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19563,PAHALA USGOLLEWA VIDYALAYA,"PAHALAUSGOLLEWA, KEBITHIGOLLEWA.",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19564,SANDIGAWEWA VIDYALAYA,"RANPATHVILA, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19565,KALUGALA V.,"BAMBARAGASWEWA,",North Central,71.Anuradhapura,Kekirawa,Palagala,3.Type2,provincial
+19566,ASHOKA VIDYALAYA,MAHASIYABALAGASWEWA ELAYAPATHTHUWA,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,4.Type3,provincial
+19568,KANUGAHAWEWA VIDYALAYA,"HALMILLAWETIYA, KEBITHIGOLLEWA",North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19569,KUDARATHMALE VIDYALAYA,BOGAHAWEWA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,4.Type3,provincial
+19570,DIKWANNAGAMA V.,"DIKWANAGAMA, GALKIRIYAGAMA",North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19571,ANKATAWA V.,"DABULUHALMILAWA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Palagala,4.Type3,provincial
+19572,RATHMALWETIYA PRIMARY SCHOOL,RATHMALWETIYA HURULUNIKAWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19573,THEPPANKULAMA VIDYALAYA,"SALIYAPURA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19575,WAHAMALGOLLWEWA MAHASEN VIDYALAYA,WAHAMALGOLLEWA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,4.Type3,provincial
+19576,KIWLEKADA PRIMARY SCHOOL,"GETALAWA, GALENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19577,KATARAMPURA VIDYALAYA,"HURULUGAMA, DUTUWEWA, GALENBINDUNUWEWA.",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19578,MAHAKANADARAWA DHARMAPALA VIDYALAYA,DAKUNUIWURA YAYA 01 RAMBEWA,North Central,71.Anuradhapura,Anuradhapura,Rambewa,3.Type2,provincial
+19579,GALAHITIYAGAMA VIDYALAYA,KAPUGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19580,BODHIRAJA PRAIMARY SCHOOL,KALUNDEGAMA THAMBUTTEGAMA,North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,4.Type3,provincial
+19581,NOCHCHIYAGAMA BANDARANAYAKA MODEL PRIMARY SCHOOL,NOCHCHIYAGAMA,North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+19582,GALENBINDUNUWEWA KANISHTA VIDYALAYA,GALENBINDUNUWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19583,HABARATHTHAWALA V.,"DABULUHALMILAWA, KEKIRAWA",North Central,71.Anuradhapura,Kekirawa,Palagala,3.Type2,provincial
+19584,SALAMBAPURA MUSLIM VIDYALAYA,"RATHMALGAHAWEWA RD, SALAMBAPURA, RAMBEWA",North Central,71.Anuradhapura,Anuradhapura,Rambewa,3.Type2,provincial
+19585,KEBITHIGOLLEWA MODEL PRIMARY SCHOOL,KEBITHIGOLLEWA,North Central,71.Anuradhapura,Kebithigollewa,Kebithigollewa,4.Type3,provincial
+19587,BUDDHANGALA PRIMARY SCHOOL,PADAVI PARACKRAMAPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,4.Type3,provincial
+19588,RANAJAYAPURA M.V.,"RANAJAYAPURA, IPOLOGAMA.",North Central,71.Anuradhapura,Kekirawa,Ipalogama,2.1C,provincial
+19589,LUMBINI MODLE P.S.,HOROVPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19590,ALUTH DENNAWA ANNOR MUSLIM VIDYALAYA,"ALUTHDENNAWA, KAGAMA",North Central,71.Anuradhapura,Kekirawa,Ipalogama,3.Type2,provincial
+19591,PANASARA PRIMARY SCHOOL,"NAEAHAGURANKETHA, THALAWA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19592,THALAWA MODEL PRIMARY SCHOOL,THALAWA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19593,KAHATAGASDIGILIYA MODEL PRIMARY SCHOOL,KAHATAGASDIGILIYA,North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19594,AL-HUDA PRIMARY SCHOOL,"KOONWEWA ROAD, KAHATAGASDIGILIYA",North Central,71.Anuradhapura,Galenbindunuwewa,Kahatagasdigiliya,4.Type3,provincial
+19595,MAHANAMA PRIMARY SCHOOL,"ALLISTHANAYA, THIRAPPANE.",North Central,71.Anuradhapura,Kekirawa,Thirappane,4.Type3,provincial
+19597,YAKKALLA PRIMARY SCHOOL,"YAKKLLA, MEGODAWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19598,SEEWALI MODEL PRIMARY SCHOOL,"PEMADUWA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,4.Type3,provincial
+19599,HOROVPOTHANA MUSLIM PRIMARY SCHOOL,HOROWPOTHANA,North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19600,EPPAWALA SRI RAHULA PRIMARY SCHOOL,EPPAWALA,North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19601,DEVANAMPIYATISSA PURA AL-AZHAR MUSLIM PRIMARY SCHOOL,"DEVANAMPIYATISSAPURA, ANURADHAPURA",North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha Central,3.Type2,provincial
+19602,KAPUGOLLEWA PRIMARY SCHOOL,"KAPUGOLLEWA, HOROVPOTHANA",North Central,71.Anuradhapura,Kebithigollewa,Horowpothana,4.Type3,provincial
+19603,MAITHREEPALA SENANAYAKA PRIMARY SCHOOL,"MANNAR ROAD, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19604,PADAVI MAHASEN PRIMARY SCHOOL,PADAVIYA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,4.Type3,provincial
+19605,LABUNORUWA PRIMARY SCHOOL,"LABUNORUWA, MARADANKADAWALA.",North Central,71.Anuradhapura,Kekirawa,Thirappane,4.Type3,provincial
+19606,DUTUWEWA PRIMARY SCHOOL,DUTUWEWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19607,NIKAWEWA PRIMARY SCHOOL,"HURULU NIKAWEWA, GALENBINDUNUWEWA",North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19608,UDDIYANKULAMA V.,LABUNORUWA,North Central,71.Anuradhapura,Galenbindunuwewa,Galenbindunuwewa,4.Type3,provincial
+19609,RAJANGANAYA YAYA 10 PRIMARY SCHOOL,"GEMUNUPURA, PAHALAMARAGAHAWEWA",North Central,71.Anuradhapura,Thambuttegama,Rajanganaya,4.Type3,provincial
+19610,SRI RAHULA VIDYALAYA,"POONEWA, MEDAWACHCHIYA",North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,4.Type3,provincial
+19612,Helambawewa SHILPALOKA PRIMARY SCHOOL,"420, HALABAWEWA, THALAWA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19613,ABHAYARAJA PRIMARY SCHOOL,PADAVI-SRIPURA,North Central,71.Anuradhapura,Kebithigollewa,Padaviya,4.Type3,provincial
+19614,SRI DHARMALANKARA PRIMARY SCHOOL,WANNITHAMMENNAWA ANURADHAPURA,North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,4.Type3,provincial
+19615,IHALAAHALMILLEWA PRIMARY SCHOOL,"IHALAHALMILLEWA, EPPAWALA",North Central,71.Anuradhapura,Thambuttegama,Thalawa,4.Type3,provincial
+19616,THAMBIYAWA DHARMAPALA PRIMARY SCHOOL,THAMBIYAWA THANTHIRIMALE,North Central,71.Anuradhapura,Anuradhapura,Mahawilachchiya,4.Type3,provincial
+19617,THAMMENNAWA WELUSUMANA P.V.,SEEPPUKULAMA,North Central,71.Anuradhapura,Galenbindunuwewa,Mihintale,4.Type3,provincial
+19618,PAHALA HALMIIEWA SRI DUTUGEMUNU PRIMARY SCHOOL,"PAHALA HALMILLAWEWA, NOCHCHIYAGAMA",North Central,71.Anuradhapura,Anuradhapura,Nochchiyagama,4.Type3,provincial
+20003,NAGALAKANDA M.V.,MINNERIYA,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,2.1C,provincial
+20004,GIRITHALEGAMA M.V.,GIRITHALE,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,1.1AB,provincial
+20005,UNAGALAWEHERA M.V.,"UNAGALAWEHERA, HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20006,YODHAELA M.V.,"YODHAELA, HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20007,YATIYALPOTHANA P.S.,"YATITALPOTHANA, KAUDULLA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20008,KUMARAGAMA ANURA P.V.,"KUMARAGAMA , HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20009,SIRIKETHA P.S.,"SIRIKETHA , HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20010,VIDYALOKA MODEL PRIMARY SCHOOL,"JAYAPURA, HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20011,HINGURAKGODA RAJARATA M.V.,HINGURAKGODA,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,1.1AB,provincial
+20012,HINGURAKGODA P.S.,HINGURAKGODA,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20013,HINGURAKA PRIMARY SCHOOL,"HINGURAKA , HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20014,HATHAMUNA PRIMARY SCHOOL,"HATHAMUNA , HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20015,GIRITHALE JANAPADA PRIMARY SCHOOL,GIRITHALE,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20016,JAYANTHI GURUKULA P.S.,GIRITHALE,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20017,THAMBALAWEWA P.S.,"THAMBALAWEWA , JAYANTHIPURA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20018,JAYANTHIPURA JUNIOR SCHOOL,JAYANTHIPURA,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20019,NAGAPOKUNA K.V.,"NAGAPOKUNA, JAYANTHIPURA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20020,CHANDANAPOKUNA P.S.,"UNAGALAWEHERA , POLONNARUWA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20021,SINHALA ROTAWEWA K.V.,"GALOYA JUNCTION, ROTAWEWA, HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20022,GALOYA HANDIYA K.V.,GALOYA HANDIYA,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20023,ILUKWEWA K.V.,"MAHASENGAMA, SIGIRIYA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20024,ALUTHOYA K.V.,"SINGHAGAMA, HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20025,HATHARESKOTUWA K.V.,GALOYA JUNCTION,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20026,THIMBIRIGASEWEWA P.S.,"JAYASENGAMA, HABARANA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20027,MORAGASWEWA M.V.,"MORAGASWEWA, HABARANA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20028,GUNAWARDANAPURA P.S.,"SUDUKANDA, NIKAWEWA, JAYANTHIPURA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20029,C.P.PURA PRIMARY SCHOOL,"C.P.PURA, MINNERIYA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20030,DIYASENPURA MAHA VIDYALAYA,DIYASENPURA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,2.1C,provincial
+20031,GALAMUNA MAHA VIDYALAYA,GALAMUNA,North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,1.1AB,provincial
+20032,HINGURAKDAMANA MAHA VIDYALAYA,"HINGURAKDAMANA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,2.1C,provincial
+20033,KAUDULLA M.V.,"KAUDULLA, HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,2.1C,provincial
+20034,LANKAPURA MAHA VIDYALAYA,THALPOTHA,North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,2.1C,provincial
+20037,VIJITHA M.M.V.,BOP 400 PULASTHIGAMA,North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,1.1AB,provincial
+20038,ABHAYAPURA M.V.,"PULASTHIGAMA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,3.Type2,provincial
+20039,AMBAGASWEWA M.V.,"MAHA AMBAGASWEWA, MEDIRIGIRIYA",North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,2.1C,provincial
+20040,BISOBANDARA KANISHTA VIDYALAYA,BISOBANDARA MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,3.Type2,provincial
+20041,KEGALUGAMA KANISHTA VIDYALAYA,PULASTHIGAMA,North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,3.Type2,provincial
+20042,BEBEYAWA PRIMARY SCHOOL,BEBIYAWEWA MEEGASWEWA MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20043,GEMNUNUPURA P.V.,"P.O.B.317, THALPOTHA, POLONNAURUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,4.Type3,provincial
+20044,JAYANTHI KANISHTA VIDYALAYA,"BOP317, THALPOTHA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,3.Type2,provincial
+20045,KAWUDULUWEWA MAHINDA M.V.,"2 STEP, NEW TOWN, MEDIRIGIRIYA",North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,1.1AB,provincial
+20046,VIJAYAPURA V.,"VIJAYAPURA, DIYASENPURA",North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,2.1C,provincial
+20047,MAYURAPADA K.V.,"YAYA 08, MAHATHALAKOLAWEWA, MEDIRIGIRIYA",North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,3.Type2,provincial
+20048,KAHABILIYAWA PRIMARY SCHOOL,DIYASENPURA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20049,KUSUMPOKUNA PRIMARY SCHOOL,KUSUMPOKUNA DIVULANKADAWALA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20050,KIRIMATIYA K.V.,GALAMUNA,North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,3.Type2,provincial
+20052,MANDALAGIRIYA M.V.,MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,2.1C,provincial
+20053,MEEGASWEWA K.V.,"MEEGASWEWA, MEDIRIGIRIYA",North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,3.Type2,provincial
+20054,YUDAGANAWA PRIMARY SCHOOL,YUDAGANAWA HINGURAKGODA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20055,PAHALA AMBAGASWEWA SRI RAHULA KANISHTA VIDYALAYA,TRACK09 AMBAGASWEWA MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,3.Type2,provincial
+20056,PATUNUGAMA P.V.,"PATUNUGAMA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,4.Type3,provincial
+20057,PERAKUMPURA PRIMARY SCHOOL,PERAKUMPURA MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20058,RATHANASARA VIDYALAYA,"BOP 316, THALPOTHA, LANKAPURA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,3.Type2,provincial
+20059,SANSUNGAMA PRIMARY SCHOOL,KAUDULLA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20060,SOMAWATHI P.V.,"JAYABIMA, SUNGAVILA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,4.Type3,provincial
+20061,WADIGAWEWA PRIMARY SCHOOL,WADIGAWEWA MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20062,WEERAPURA K.V.,"WEERAPURA,THAMBALA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,3.Type2,provincial
+20063,KOHOMBADAMANA KANISHTA VIDYALAYA,KOHOMBADAMANA DIYASENPURA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,3.Type2,provincial
+20064,THALAKOLAWEWA JUNIOR SCHOOL,MAHATHALAKOLAWEWA THALAKOLAWEWA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20065,GURUGODELLA P.V.,GURUGODELLA MAHATHALAKOLEWEWA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20066,BISOBANDARAGAMA KANISHTA VIDYALAYA,KAUDULUWEWA 2STEP MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20067,DAMSOPURA PRIMARY SCHOOL,MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20068,SIYABALAGASHANDIYA PRIMARY SCHOOL,KAWDULUWEWA STAGE2NEW TOWN MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20070,ALUTHWEWA MAHA VIDYALAYA,ALUTHWEWA,North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,3.Type2,provincial
+20071,KADURUWELA NAGARA MAHA VIDYALAYA,"KADURUWELA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,3.Type2,provincial
+20072,PALUGASDAMANA MAHA VIDYALAYA,"PALUGASDAMANA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,1.1AB,provincial
+20074,SHANTHI MAHA VIDYALAYA,SHANTHIPURA UNAGALAVEHERA POLONNARUWA,North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,2.1C,provincial
+20075,PALUGASDAMANA SEWAMUKTHA KANDAVURA MAHA VIDYALAYA,"PALUGASDAMANA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,1.1AB,provincial
+20076,VIJAYARAJA M.V.,"KALINGA ELA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,2.1C,provincial
+20077,PARAKRAMA SAMUDRAYA MAHA VIDYALAYA,PARAKRAMA SAMUDRAYA POLONNARUWA,North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,2.1C,provincial
+20078,AMBANGANGA DAKUNU ELA P.V.,"PARAKRAMASAMUDRAYA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20080,KANDAURA P.V.,"KALINGA ELA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20081,KADAWALAWEWA K.V.,"KADAWALAWEWA, JAYANTHIPURA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,3.Type2,provincial
+20082,KALAHAGALA P.V.,"KALAHGALA, PARAKRAMASAMUDRAYA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20083,GALTHAMBARAWA P.V.,"GALTHAMBARAWA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20084,NIKAWEWA GAMINI P.V.,"JAYANTHIPURA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20085,BENDIWEWA M.V.,"BENDIWEWA, JAYANTHIPURA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,1.1AB,provincial
+20086,LAKSHAUAYANA K.V.,LAKSHAUYANA POLONNARUWA,North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,3.Type2,provincial
+20087,WEWETHANNA THAKSHILA P.V.,"WEWETHANNA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20088,WIJAYABAHUPURA P.V.,"WIAJAYABAHUPURA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20090,SINGHAPURA P.V.,"SINGHAPURA, WIJAYABAHUPURA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20091,SINGHARAJAPURA K.V.,"ONEGAMA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,3.Type2,provincial
+20092,POLONNARUWA SEEWALI KANISHTA VIDYALAYA,"4 TH CANEL, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,2.1C,provincial
+20093,ETHUMALPITIYA P.V.,"LAKSHAUYANA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20094,PALUGASDAMANA EAST K.V.,"PALUGASDAMANA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20097,MONARATHENNA P.V.,"MONARATHNNA, WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20098,MADURANGALA P.V.,"MADURANAGALA, SEWANAPITIYA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20099,SADUNPITIYA P.V.,NAWASENAPURA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20101,ALUTHWEWA P.V.,ALUTHWEWA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20102,MANAMPITIYA SINHALA M.V.,MANAMPITIYA,North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,2.1C,provincial
+20104,ALAWAKUMBURA M.V.,PIMBURATHTHEWA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,2.1C,provincial
+20105,VIJAYAPARAKKRAMA K.V.,"BANDANAGALA, KALUKALE, POLONNARUWA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,3.Type2,provincial
+20106,KADWATHAMADUWA DHARMAPALA K.V.,"MENIKDENIYA, WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,3.Type2,provincial
+20107,SRI SEELALANKARA VID.,ELLEWEWA POLONNARUWA,North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20108,GINIDAMANA P.V.,"KOLAKANAWALIYA, MAHAWEWA, SEWANAPITIYA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20109,MALIYADEWA P.V.,"DALUKANA, KUDAWEWA, POLONNARUWA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20110,VIDYDARSHA  M.V,"MAGULDAMANA, PALATIYAWA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,2.1C,provincial
+20111,MADURUOYA M.V.,DIULDAMANA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,2.1C,provincial
+20112,LEELARATHNA WIJESINGHA M.V.,HANSAYAPALAMA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,2.1C,provincial
+20114,KANDEGAMA K.V.,KANDEGAMA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,3.Type2,provincial
+20115,DAMMINNA M.V.,DAMMINNA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,2.1C,provincial
+20116,NIDANWALA P.V.,"NIDANWALA, DAMMINNA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20117,IHALAWEWA P.V.,DAMMINNA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20118,BANDANAGALA K.V.,"BANDANAGALA, KALUKALE",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,3.Type2,provincial
+20119,MAHADAMANA P.V.,"MAHADAMANA, ELLEWEWA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20120,IHALA ALLEWAWA K.V.,"ELLEWAWA, POLONNARUWA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20121,PELETIYAWA K.V.,"PELETIYAWA, POLONNARUWA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,3.Type2,provincial
+20122,KANDAKADUWA P.V.,"KANDAKADUWA, MAHAWELI SINHAPURA, WELIKANADA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20123,NISSHANKAMALLAPURA P.V.,"EAST MANAMPITIYA, MANAMPITIYA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20126,MAHAWEWA P.V.,"MAHAWEWA, MANAPITIYA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20128,PAHALA YAKKURE K.V.,"PAHALA YAKKURE, NUWARAGALA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,3.Type2,provincial
+20129,KASHYAPA M.V.,"DIMBULAGALA, SIRIPURA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,2.1C,provincial
+20130,ELLEWEW.M.V.,"ELLEWEWA, POLONNARUWA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,2.1C,provincial
+20131,SEWANAPITIYA M.V.,SEWANAPITIYA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,1.1AB,provincial
+20132,NELUMWEWA M.V.,NELUMWEWA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,2.1C,provincial
+20133,DAMMINNA P.V.,DAMMINNA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20134,MENIKWELA P.V.,"MENIKWELA, SEWAPITIYA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20135,KUDAWEWA P.V.,"KUDAWEWA, DALIKANA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20136,WEHERAGAMA P.V.,"WEHERAGAMA, DEWAGALA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20137,MEDAGAMA M.V.,"MEDAGAMA, DEWAGALA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,2.1C,provincial
+20138,MAHAULPATHA P.V.,"MAHAULPATHA, KASHYAPAPURA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20139,BIMPOKUNA P.V.,"BIMPOKUNA, KASHYAPAPURA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20140,SUSIRIGAMA P.V.,SUSIRIGAMA WELIKANDA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20141,BOGASWEWA M.V.,"BOGASWEWA, KASYAPAPURA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,2.1C,provincial
+20142,MILLANA P.V.,"NAWA MILLANA, DIMBULAGALA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20143,PAHALA ELLEWAWA P.V.,"PAHALA ELLEWAWA, ELLEWAWA, POLONNARUWA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20144,GALTHALAWA P.V.,"GALTHALAWA, DEWAGALA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20145,ALUTHOYA GAMINI P.V.,"ALUTHOYA, PIMBURATHTHAWA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20146,NAWAGINIDAMANA M.V.,"GINIDAMANA, NELUMWEWA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,2.1C,provincial
+20148,WEERANA P.V.,"KASHAYAPAPURA, WEERANA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20149,RUHUNAKETHA P.V.,RUHUNAKETHA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20150,MAGULPOKUNA P.V.,MAGULPOKUNA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20152,DEWAGAMA P.V.,HANSAYAPALAMA ARALAGANWILA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20153,MALVILA P.V.,"MALVILA,NAWA MHASENPURA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20155,AL-HILAL CENTRAL COLLEGE,THAMBALA POLONNARUWA,North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,1.1AB,provincial
+20156,AL-AZHAR MAHA VIDYALAYA,GALLELLA POLONNARUWA,North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,2.1C,provincial
+20157,DIVULANA AL-AKSHA MAHA VIDYASLAYA,DIUVKLA POLONNARUWA.,North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,2.1C,provincial
+20158,AZ-SAFA MUSLIM MAHA VIDYALAYA,"PUDOOR, KALINGA ELA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,2.1C,provincial
+20159,SUNGAVILA MUSLIM MAHA VIDYALAYA,JAYAPURA SUNGAVILA,North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,2.1C,provincial
+20160,MANAMPITIYA TAMIL M.V.,MANAMPITIYA,North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,2.1C,provincial
+20161,MUTHUGALA TAMIL K.V.,MUTUGALA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,3.Type2,provincial
+20162,KATUWANVILA MUSLIM M.V.,"KATUWAVILA, NAWASEPURA,",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,2.1C,provincial
+20163,AL-MINA MUSLIM MAHA VIDYALAYA,"MANIKKAMPITIYA, KADURUWELA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,2.1C,provincial
+20164,AN-NOOR MUSLIM MAHA VIDYALAYA,"PALLIYAGODELLA, MEDIRIGIRIYA",North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,2.1C,provincial
+20165,ONEGAMA MUSLIM K.V.,"MUSLIMGAMA, ONEGAMA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,4.Type3,provincial
+20166,PANGURANA MUSLIM KANISHTA VIDYALAYA,PANGURANA MAHATHALAKOLAWEWA MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20167,NUGAGAHADAMANA MUSLIM K.V.,"NUGAGAHADAMANA, GIRITHALE",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,3.Type2,provincial
+20168,ALINCHIPOTHANA M.K.V.,"ATHUGALA, NAWASENAPURA,",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20169,THIRUKONAMADU MUSLIM M.V.,"KUDAPOKUNA, SINHAPURA, WELIKANADA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,2.1C,provincial
+20170,SORIWILA TAMIL K.V.,MANAMPITIYA,North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20171,HEWENPITIYA M.V.,KARAPOLA MUTHUGALA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,2.1C,provincial
+20172,AL-RIFAI MUSLIM MAHA VIDYALAYA,RIFAIPURA THAMBALA POLONNARUWA,North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,2.1C,provincial
+20173,SENAPURA AL-AMEEN MUSLIM M.V.,"NAWASENAPURA , WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,1.1AB,provincial
+20174,SARASWATHI TAMIL K.V.,"UNAWEWA, SWANAPITIYA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20175,ROTTAWEWA TAMIL K.V.,"KUDAPOKUNA, MAHAWELI SINGHEPURA, WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,3.Type2,provincial
+20177,ATTHANAKADAWALA MAHA VIDYALAYA,ATTHANAKADAWALA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,1.1AB,provincial
+20178,ATHARAGALLEWA M.V.,ATHARAGALLEWA VIA MATALE,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,2.1C,provincial
+20179,IRAHANDAKETUWEWA M.V.,DIYABEDUMA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,2.1C,provincial
+20180,HEGALA M.V.,KOTTAPITIYA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20181,ELAHARA KANISHTA VIDYALAYA,ELAHERA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20182,IHAKULUWEWA PRIMARY SCHOOL,DIYABEDUMA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20183,KUMARAELLA PRIMARY SCHOOL,ORUBENDISIYABALAWA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20184,KOOTTAPIYA KANISHATA VIDYALAYA,KOOTTAPITIYA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20185,KONDURUWAWA PRIMARY SCHOOL,DIYABEDUMA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20186,GANGEYAYA PRIMARY SCHOOL,KOTTAPITIYA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20187,NIKAPITIYA JUNIOR SCHOOL,KOTTAPITIYA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20188,JAYASIRIPURA KANISHTA VIDYALAYA,JAYASIRIPURA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20189,RADVIGEOYA VIDYALAYA,ATTHANAKADAWALA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20190,SIYAMBALAWA KANISTA VIDYALAYA,ORUBENDISIYAMBALAWA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20191,SINHALA KATUKELIYA PRIMARY SCHOOL,DIYABEDUMA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20192,GALMULLA K.V.,"GALMULLA, BAKAMUNA",North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20193,NAMALWEWA P.S.,DIYABEDUMA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20195,YAYA 26 MAHASEN PRIMARY SCHOOL,ATHTHANAKADAWALA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20196,SARUBIMA KANISHTA VIDYALAYA,"SARUBIMA, JAYASIRIPURA",North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20197,C.P.DE.SILVA PRIMARY SCHOOL,"DAMANAYAYA, BAKAMOONA",North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20198,KAHATAGAHAPITIYA K.V.,ATTANAKADAWALA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,3.Type2,provincial
+20199,POKUNUGALA PRIMARY SCHOOL,"506, POKUNUGALA, ATHTHNAKADAWALA",North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20200,BATUHENA PRIMARY SCHOOL,KOTTAPITIYA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20201,MADUDAMANA MORDEN PRIMARY SCHOOL,"MADUDAMANA, ATTHANAKADAWALA",North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20202,SIRIKANDUYAYA PRIMARY SCHOOL,"503, SIRIKANDUYAYA, KOTTAPITIYA",North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20203,KALINGAVILA K.V.,"KALINGAVILA, WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,3.Type2,provincial
+20204,MUTHUWELLA P.V.,"MUTHUWELLA, MAHAWELI SINGHEPURA, WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20205,ASELAPUARA M.V.,ASELAPURA WELIKANDA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,2.1C,provincial
+20206,NAMALGAMA P.V.,"NAMALGAMA, WELIKANADA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20207,SINHAPURA K.V.,"MAHAWELI SINHAPURA, WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,3.Type2,provincial
+20208,KIRIOYAGAMA PRIMARY SCHOOL,"KIRIOYAGAMA, ATARAGALLAWA",North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20212,MAITHIGAMA P.V.,"ASELAPURA, WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20214,VIHARAGAMA PRIMARY SCHOOL,VIHARAGAMA DIVULANKADAWALA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20215,UDARAGAMA PRIMARY SCHOOL,KAUDULUWEWA 2ND STAGE MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20216,SOORIYAGAMA P.S.,"SOORIYAGAMA, HABARANA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20218,DIGGALPURA PRIMARY SCHOOL,KAUDULUWEWA 2PIYAWARA MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20219,WELIKANDA CENTRL COLLEGE,WELIKNDA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,1.1AB,provincial
+20220,DIMBULANA P.V.,MAHAWELI SINHAPURA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20221,BAMUNAKOTUWA P.V.,"BAMUNAKOTUWA, ARALAGAWILA",North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20222,SOORIYAWEWA P.V.,"MAHAWELI SINHAPURA, WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20223,MAHASENPURA P.V.,"NAWA MAHASENPURA, WELIKANDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20224,MIRISHENA P.S.,"MIRISHENA, MEDIRIGIRIYA",North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20225,SRI INDARATHANA P.V.,"ONEGAMA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20226,NAGATHENNA P.V.,"NAWA MAHAWENPURA, WELIKNADA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20227,KURURUBEDDA P.V.,"NAWA MAHASENPURA, KRULUBEDDA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20228,KUMUDUPURA PRIMARY SCHOOL,MAHATHALAKOLAWEWA MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20229,SEWAPITIYA P.V.,SEWANAPIYA,North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20231,BAKAMOONA MAHASEN PRIMARY SCHOOL,BAKAMOONA,North Central,72.Polonnaruwa,Hingurakgoda,Elahera,4.Type3,provincial
+20232,VIJITHA P.V.,"PULASTHIGAMA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,4.Type3,provincial
+20234,MINNERIYA PRIMARY SCHOOL,"AKKARA 70, HINGURAKGODA",North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20235,VILAYAYA P.V.,ARALAGANWILA,North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,4.Type3,provincial
+20236,NOORANIYA MUSLIM P.V.,"NAWASENAPURA,",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20237,IQRAH MUSLIM P.S.,"NELUMPURA, SUNGAVILA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,4.Type3,provincial
+20238,METHMAHINDA P.V.,"MUDUNGAMA, SIRIPURA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20239,SUGALADEVI P.V.,"PALUDENIYA, SIRIPURA",North Central,72.Polonnaruwa,Dimbulagala,Dimbulagala,4.Type3,provincial
+20240,AL-MADEENA P.V.,"DEEVARAGAMA, THAMBALA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,4.Type3,provincial
+20241,POLONNARUWA ZAHIRA P.V.,"KADURUWELA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20242,C.W.W.KANNANGARA P.S.,MINNERIYA,North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,4.Type3,provincial
+20243,MEDIRIGIRIYA SIRIMAWO BANDARANAYAKA P.V.,MEDIRIGIRIYA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20244,LUMBINIYA P.V.,"NEWTOWN, WELIKANADA",North Central,72.Polonnaruwa,Dimbulagala,Welikanda,4.Type3,provincial
+20245,PRESIDENT'S PRIMARY SCHOOL,"PALUGASDAMANA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,4.Type3,provincial
+20246,SOMADEVI P.V.,"GALAMUNA, POLONNARUWA",North Central,72.Polonnaruwa,Polonnaruwa,Lankapura,4.Type3,provincial
+20248,WIJAYAPURA P.V.,WIJAYAPURA,North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial
+20249,MAHAWELI P.V.,"BISOPURA, MEDIRIGIRIYA",North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,4.Type3,provincial

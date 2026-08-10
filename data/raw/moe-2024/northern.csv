@@ -1,0 +1,946 @@
+census_no,school_name,school_address,province,district,zone,education_division,school_type,category
+9001,DELFT MAHA VIDYALAYAM,"WARD NO-10,DELFT.",Northern,41.Jaffna,Islands,Delft,2.1C,provincial
+9002,NAINATIVU MAHA VIDYALAYAM,WARD NO-05 NAINATIVU,Northern,41.Jaffna,Islands,Velanai,2.1C,provincial
+9003,PUNGUDUTIVU Central College,WARD NO 11 PUNGUDUTIVU,Northern,41.Jaffna,Islands,Velanai,2.1C,provincial
+9004,PUNKUDUTIVU SRI GANESA MAHA VIDYALAYAM,WARD 12 PUNGUDUTIVU,Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9005,PUNGUDUTIVU SRI SITHTHI VINAYAGAR MAHA VIDYALAYA,"WARD 5, PUNGUDUTIVU",Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9006,DELFT SAIVAPIRAGASA VIDYALAYAM,"WARD NO-04,DELFT",Northern,41.Jaffna,Islands,Delft,2.1C,provincial
+9007,NAINATIVU SRI GANESA KANISTA M.V.,"WARD NO.06, NAINATIVU, JAFFNA.",Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9009,PUNGUDUTIVU KAMALAMBIKAI KANISTA VIDYALAYAM,"WARD NO 8, PUNGUDUTIVU.",Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9010,PUNGUDUTIVU SRI SUBRAMANIYA MAHALIR VIDYALAYAM,WARD NO 01 PUNGUDUTIVU,Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9011,DELFT R.C LADIES COLLEGE,"WARD NO 09,",Northern,41.Jaffna,Islands,Delft,2.1C,provincial
+9012,DELFT MAVILITHTHURAI R.C.T.M.VIDYALAYAM,"WARD NO-13, DELFT,",Northern,41.Jaffna,Islands,Delft,4.Type3,provincial
+9013,DELFT SUBRAMANIYA VIDYALAYAM,"WARD NO-14, DELFT EAST, DELFT.",Northern,41.Jaffna,Islands,Delft,4.Type3,provincial
+9016,DELFT MANKAYATKARASI VIDYALAYAM,"WARD NO-01, DELFT.",Northern,41.Jaffna,Islands,Delft,4.Type3,provincial
+9017,DELFT SRISKANTHA VIDYALAYAM,"WARD NO-04, DELFT",Northern,41.Jaffna,Islands,Delft,4.Type3,provincial
+9018,DELFT SEEKIRIYANPALLAM G.T.M. VIDYALAYAM,"WARD NO-06, DELFT.",Northern,41.Jaffna,Islands,Delft,3.Type2,provincial
+9019,NAINATIVU SRI NAGAPOOSHANY VIDYALAYAM,WARD NO 02 NAINATIVU,Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9020,PUNGUDUTIVU WEST A.M.T.M.V.,"WARD NO.03, PUNGUDUTIVU.",Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9022,PUNGUDUTIVU RAJARAJESWARY TAMIL MIXED VIDYALAYAM,WARD NO 10 PUNGUDUTIVU,Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9026,PUNGUDUTIVU THIRUNAVUKARASU VIDYALAYAM,"URATHIVU, PUNGUDUTIVU.",Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9027,PUNGUDUTIVU ROMAN CATHOLIC TAMIL MIXED SCHOOL,WARD NO 2 PUNGUDUTIVU,Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9028,PUNGUDUTIVU DURAISUWAMY VIDYALAYAM,WARD NO 4 PUNGUDUTIVU,Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9029,VELANAI CENTRAL COLLEGE,"VELANAI WEST, VELANAI",Northern,41.Jaffna,Islands,Velanai,1.1AB,provincial
+9030,KAYTS ST. ANTONY'S COLLEGE,KAYTS,Northern,41.Jaffna,Islands,Kayts,1.1AB,provincial
+9031,MANDAITIVU MAHA VIDYALAYAM,"WARD NO -06, MANDAITIVU",Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9032,KARAMPON SANMUKANATHA MAHA VIDYALAYAM,KARAMPON WEST KAYTS,Northern,41.Jaffna,Islands,Kayts,3.Type2,provincial
+9033,VELANAI EAST MAHA VIDYALAYAM,"WARD N0 4, VELANAI",Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9034,KARAMPON LITTLE'S FLOWERS GIRLS MAHA VIDYALAYAM,KARAMPON KAYTS,Northern,41.Jaffna,Islands,Kayts,2.1C,provincial
+9035,ANALAITIVU SATHASIVA MAHA VIDYALAYAM,"WARD NO-5, ANALAITIVU",Northern,41.Jaffna,Islands,Kayts,3.Type2,provincial
+9036,NARANTHANAI R.C.M.VIDYALAYAM,NARANTHANAI CENTRE KAYTS,Northern,41.Jaffna,Islands,Kayts,3.Type2,provincial
+9037,SARAVANAI NAGESWARY MAHA VIDYALAYAM,SARAVANAI WEST VELANAI,Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9038,VELANAI SAIVAPRAGASA VIDYALAYAM,VELANAI,Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9039,VELANAI SARASWATHY VIDYALAYAM,VELANAI EAST,Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9040,KAYTS ST. MARY'S R.C GIRLS' VIDYALAYAM,"ST.MARYS LANE, KAYTS",Northern,41.Jaffna,Islands,Kayts,2.1C,provincial
+9041,ALLAIPIDDY PARASAKTHY VIDYALAYAM,WARD NO-2 ALLAIPIDDY,Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9042,VELANAI WEST NADARAJA VIDYALAYAM,VELANAI WEST VALANAI,Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9043,NARANTHANAI GANESHA VIDYALAYAM,NARANTHANAI NORTH KAYTS,Northern,41.Jaffna,Islands,Kayts,3.Type2,provincial
+9044,MANDAITIVU R.C. VIDYALAYAM,"WARD NO.05, MANDAITIVU.",Northern,41.Jaffna,Islands,Velanai,3.Type2,provincial
+9045,ANALAITIVU SOUTH G.T.M.S.,"WARD NO-01, ANALAITIVU SOUTH ANALAITIVU",Northern,41.Jaffna,Islands,Kayts,4.Type3,provincial
+9046,ANALAITIVU VADALOOR G.T.M.VIDYALAYAM,WARD.NO-04 ANALAITIVU,Northern,41.Jaffna,Islands,Kayts,4.Type3,provincial
+9047,SARAVANAI SINNAMADU R.C.T.M.SCHOOL,SARAVANAI WEST VELANAI,Northern,41.Jaffna,Islands,Kayts,4.Type3,provincial
+9048,VELANAI SOUTH IYANAR VIDYALAYAM,"VELANAISOUTH, THURAIYOOR, VELANAI.",Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9049,KAYTS R.C.T.BOYS SCHOOL,"HOSPITAL RD, KAYTS",Northern,41.Jaffna,Islands,Kayts,4.Type3,provincial
+9050,THAMBADDY G.T.M.VIDYALAYAM,"NARANTHANAI NORTH WEST, THAMBADDY, KAYTS",Northern,41.Jaffna,Islands,Kayts,3.Type2,provincial
+9052,MANKUMBAN GOVERMENT TAMIL MIXED SCHOOL,MANKUMBAN VELANAI,Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9053,SURUVIL R.C.T.M SCHOOL,SURUVIL SOUTH KAYTS,Northern,41.Jaffna,Islands,Kayts,4.Type3,provincial
+9054,PARUTHTHIYADAIPU KATHIRESHANANTHA VIDYALAYAM,PARUTHIYADAIPU KAYTS,Northern,41.Jaffna,Islands,Kayts,4.Type3,provincial
+9055,ALLAIPIDDY R.C.T.M.VIDYALAYAM,"WARD NO.02, ALLAIPIDDY.",Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9056,CHETTYPULAM G.T.M.SCHOOL,CHETTYPULAM VELANAI,Northern,41.Jaffna,Islands,Velanai,4.Type3,provincial
+9057,MELINCHIMUNAI R.C.T.M.SCHOOL,"MELINCHIMUNAI, KAYTS",Northern,41.Jaffna,Islands,Kayts,4.Type3,provincial
+9061,ELUVAITIVU MURUGAVEL VIDYALAYAM,WARD NO-02 ELUVAITIVU,Northern,41.Jaffna,Islands,Kayts,3.Type2,provincial
+9062,ELUVAITIVU R.C.T.M. SCHOOL,"WARD NO=0, ELUVAITIVU",Northern,41.Jaffna,Islands,Kayts,4.Type3,provincial
+9063,KARAINAGAR HINDU COLLEGE,VALANTHALAI KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,1.1AB,provincial
+9064,PANDATERUPPU GIRLS HIGH SCHOOL,PANDATERUPPU,Northern,41.Jaffna,Valikamam,Sandilipay,1.1AB,provincial
+9065,VADDU HINDU COLLEGE,SITHTHANKERNY,Northern,41.Jaffna,Valikamam,Chankanai,1.1AB,provincial
+9066,VICTORIA COLLEGE,"MAIN STREET, CHULIPURAM",Northern,41.Jaffna,Valikamam,Chankanai,1.1AB,provincial
+9067,PANDATERIPPU HINDU COLLEGE,PANDATERUPPU,Northern,41.Jaffna,Valikamam,Sandilipay,2.1C,provincial
+9068,KARAINAGAR YARLTON COLLEGE,"ALADY, KARAINAGAR",Northern,41.Jaffna,Islands,Karainagar,1.1AB,provincial
+9069,ARALY HINDU COLLEGE,ARALY,Northern,41.Jaffna,Valikamam,Chankanai,3.Type2,provincial
+9070,ARALY SARASWATHY MAHA VIDYALAYAM,ARALY SOUTH VADDUKODDAI,Northern,41.Jaffna,Valikamam,Chankanai,2.1C,provincial
+9071,CHANKANAI SIVAPRAGASA M.V.,"VALLAI RD RD, CHANKANAI",Northern,41.Jaffna,Valikamam,Chankanai,1.1AB,provincial
+9072,PANNAGAM MEIHANDAN M.V.,CHULIPURAM,Northern,41.Jaffna,Valikamam,Chankanai,2.1C,provincial
+9073,CHULLIPURAM NORTH ARUMUGAM VIDYALAYAM,CHULLIPURAM NORTH CHULLIPURAM,Northern,41.Jaffna,Valikamam,Chankanai,3.Type2,provincial
+9074,SUNTHARAMOORTHY NAYANAR VIDYALAYAM,KALAPOOMY KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,3.Type2,provincial
+9075,MOOLAI SAIVAPRAGASA VIDYALAYAM,MOOLAI CHULIPURAM,Northern,41.Jaffna,Valikamam,Chankanai,3.Type2,provincial
+9076,SILLALAI R.C.T.M.SCHOOL,SILLALAI PANDATERUPPU,Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9077,VADDU CENTRAL COLLEGE,VADDU SOUTH WEST VADDUKODDAI,Northern,41.Jaffna,Valikamam,Chankanai,2.1C,provincial
+9078,VADDU THIRUNAVUKKARASU VIDYALAYAM,"VADDU WEST, VADDUKODDAI",Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9079,VIJAVIL SAIVA VIDYALAYAM,KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,3.Type2,provincial
+9080,PANDATERUPPU JACINTHA R.C.T.M SCHOOL,"FATIMA RD, PANDATHERUPPU",Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9081,ARALY EAST A.M.T.M SCHOOL,ARALY EAST VADDUKODDAI,Northern,41.Jaffna,Valikamam,Chankanai,3.Type2,provincial
+9082,ARALY MURUGAMOORTHY VIDYASALAI,"ARALY CENTRE, VADDUKODDAI",Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9083,ARALY NORTH A.M.T.M SCHOOL,ARALY NORTH,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9084,ARALY VALLIYAMMAI MEMORIAL VIDYASALAI,ARALY WEST VADDUKODDAI,Northern,41.Jaffna,Valikamam,Chankanai,3.Type2,provincial
+9085,CHANKANAI STATION A.M.T.M.S.,"CHURCH RD, CHANKANAI",Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9086,CHANKANAI EAST VIGNESWARA VIDYASALAI,NITCHAMAM CHANKANAI,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9087,VADALIYADAIPPU SAIVAPIRAKASA VIDYASALAI,VADALIYADAIPPU PANDATERIPPU,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9088,CHULIPURAM AIKIYA SANGA SAIVA VIDYALAYAM,CHULIPURAM CENTRE,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9089,CHULIPURAM EAST A.M.T.M.S.,CHULIPURAM EAST CHULIPURAM,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9090,AYILI SIVAGNANOTHAYA VIDYALAYAM,KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,4.Type3,provincial
+9092,KARARI MEIHANDAN VIDYALAYAM,SIVAKAMY AMMAN KOVILADY KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,4.Type3,provincial
+9093,KARAI URI A.M.T.M VIDYALAYAM,URI KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,4.Type3,provincial
+9095,MOOLAI A.M.T.M SCHOOL,CHURCH LANE MOOLAI CHULIPURAM,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9097,PANNAKAM NORTH A.M.T.M SCHOOL,KALAIYADI PANDATERIPPU,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9098,PILAWATHAI A.M.T.M SCHOOL,VADDU NORTH SITHTHAN KENI,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9099,PIRANPATTU KALAIMAHAL VIDYALAYAM,"PIRANPATTU, PANDATERUPPU",Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9100,PONNALAI VARATHARAJAPERUMAL VIDYALAYAM,PONNALAI,Northern,41.Jaffna,Valikamam,Chankanai,3.Type2,provincial
+9101,SANGATATHAI SINNAMMAH VIDYASALAI,SANGARATHAI VADDUKODDAI,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9102,SANTHAI SITTAMPALAM VIDYASALAI,SANTHAI PANDATERUPPU,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9103,SITHANKERNY SRI GANESHA VIDYALAYAM,"KEERIMALAI RD, SITHANKENY",Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9104,THIRUVADINILAI.S.T.M.SCHOOL,CHULIPURAM,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9105,THOLPURAM A.M.T.M SCHOOL,THOLPURAM CENTER CHULIPURAM,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9106,THOLPURAM VICKNESWARA VIDYALAYAM,"THOLPURAM EAST, CHULIPURAM",Northern,41.Jaffna,Valikamam,Chankanai,3.Type2,provincial
+9107,THOPPUKADU MARAIGANA SAMPANTHA VIDYASALAI,THOPPUKADU KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,4.Type3,provincial
+9108,THUNAVI A.M.T.M.S.,"THUNAVI , VADDUKODDAI",Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9109,VADDU KARTHIKEYA VIDYALAYAM,VADDU SOUTH VADDUKKODDAI,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9110,VADDU SUBRAMANIYA VIDYASALAI,VADDU WEST VADDUKKODAI,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9111,VADDU WEST A.M.T.SCHOOL,VADDU SOUTH WEST VADDUKODDAI,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9112,VALANTHALAI NORTH A.M.T.M SCHOOL,SADAIYALI KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,4.Type3,provincial
+9113,"VALANTHALAI SOUTH A,M.T.M SCHOOL",MARUTHADY KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,4.Type3,provincial
+9114,VERAPPIDY SRI GANESHA VIDYALAYAM,VERAPPDY KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,4.Type3,provincial
+9115,KADDUPPULAM G.T.M.SCHOOL,KADDUPPULAM CHULIPURAM,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9116,ILAVALAI CONVENT M.V.,"ILAVALAI CONVENT M.V, ILAVALAI",Northern,41.Jaffna,Valikamam,Sandilipay,1.1AB,provincial
+9117,ST. HENRYS COLLEGE,ILAVALAI,Northern,41.Jaffna,Valikamam,Sandilipay,1.1AB,provincial
+9118,TELLIPALAI MAHAJANA COLLEGE,AMPANAI TELLIPALAI,Northern,41.Jaffna,Valikamam,Tellippalai,1.1AB,provincial
+9119,NADESWARA COLLEGE,KANKESANTHURAI,Northern,41.Jaffna,Valikamam,Tellippalai,1.1AB,provincial
+9120,UNION COLLEGE,TELLIPPALAI,Northern,41.Jaffna,Valikamam,Tellippalai,1.1AB,provincial
+9121,ALAVEDDY ARUNODAYA COLLEGE,"ALAVEDDY WEST, ALAVEDDY",Northern,41.Jaffna,Valikamam,Tellippalai,1.1AB,provincial
+9122,MALLAKAM MAHA VIDYALAYAM,MALLAKAM CENTRAL MALLAKAM,Northern,41.Jaffna,Valikamam,Tellippalai,2.1C,provincial
+9123,ILAVALAI MEIHANDAN MAHA VIDYALAYAM,ILAVALAI NORTH ILAVALAI,Northern,41.Jaffna,Valikamam,Tellippalai,2.1C,provincial
+9124,VEEMANKAMAM MAHA VIDYALAYAM,"MAVIDDAPUTAM , TELLIPPALAI",Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9126,MATHAKAL ST. JOSEPH MAHA VIDYALAYAM,"MAIN STREET, MATHAGAL",Northern,41.Jaffna,Valikamam,Sandilipay,2.1C,provincial
+9127,KADDUVANPULAM MAHA VIDYALAYAM,TELLIPPALAI,Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9128,KEERIMALAI NAGULESWARAM MAHA VIDYALAYAM,KANKESANTHURAI,Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9129,PON PARAMANANTHAR MAHA VIDYALAYAM,KURUMBASIDDY TELLIPALAI,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9130,MYLIDDY NORTH KALAIMAHAL MAHA VIDYALAYAM,KANKESANTHURAI,Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9131,ALAVEDDY ARUNASALAM VIDYALAYAM,ALAVDDY SOUTH ALAVEDDY,Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9132,ALAVEDDY SEENANKALADDY GNANODAYA VIDYALAYAM,MAHATHMA VEETHY ALAVEDDY NORTH ALAVEDDY,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9134,KOLLANKALADDY SAIVA TAMIL VIDYALAYAM,KOLLANKALADDY,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9135,KULAMANKAL R.C VIDYALAYAM,KULAMANKAL MALLAKAM,Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9136,MATHAGAL NUNASAI VIDYALAYAM,MATHAGAL WEST MATHAGAL,Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9137,MYLIDDY SOUTH GNANODAYA VIDYALAYAM,MYLIDDY,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9140,PANNALAI SIR KANAGASABI G.T.M.S.,SCHOOL LANE PANNALAI TELLIPALAI,Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9141,TELLIPPALAI SAIVAPIRAKASA VIDYASALAI,TELLIPPALAI EAST TELLIPPALAI,Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9142,PALALY NORTH G.T.M.S.,"PALALY NORTH,VAYAVILAN",Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9143,ALAVEDDY NORTH A.M.T.M SCHOOL,GANESHWARAM ALAVEDDY,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9144,ALAVEDDY SOUTH A.M.T.M.S.,ALAVEDDY SOUTH ALAVEDDY,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9145,ALAVEDDY SOUTH R.C.T.M SCHOOL,"ALAVEDDY WEST, ALAVEDDY",Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9146,ILAVALAI R.C.T BOYS' SCHOOL,ILAVALI,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9148,MALLAKAM VISHALADCHI VIDIYASALAI,"KANKESANTHURAI RD, MALLAKAM",Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9149,MAREESANKOODAL R.C.T.M SCHOOL,MAREESANKOODAL ILAVALAI JAFFNA,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9150,MAREESANKOODAL SUBRAMANIYA VIDYALAYAM,MAREESANKOODAL ILAVALAI,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9151,MATHAGAL ST. THOMAS R.C GIRLS SCHOOL,MATHAGAL,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9152,MATHAGAL VIGNESWARA VIDYALAYAM,MATHAGAL,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9153,MAVIDDAPURAM SOUTH A.M.T.M SCHOOL,MAVIDDAPURAM TELLIPALAI,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9155,PERIYAVILAN ROMAN CATHOLIC TAMIL MIXED SCHOOL,"PERIYAVILAN, ILAVALAI",Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9157,THAIYIDDY SIVAKURUNATHAR VIDYALAYAM,THAIYIDDY SOUTH KANKESANTHURAI,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9158,THAIYIDDY GANESHA VIDYASALAI,THAIYIDDY GANESHA VIDYASALAI KANKESANTHURAI,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9159,URANI KANISTA VIDYALAYAM,KANKESANTHURAI,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9160,VALITHOONDAL R.C.T.M. SCHOOL,KEERIMALAI KANGESANTHURAI,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9161,VARUTHTHALAIVILAN A.M.T.M.SCHOOL,"VARUTHTHALAIVILAN, TELIPPALAI",Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9163,DR.THANKAMMA APPAKUDDY KANISTA VIDYALAYAM,"COURTS RD , MALLAKAM",Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9164,NADESWARA KANISTA VIDYALAYAM,KANKESANTHURAI,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9165,THANTHAI CHELVA (THODAKKA NILAIPPALLI) P.V.,"K.K.S RD, TELLIPPALAI",Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9167,MARUTHANARMADAM RAMANATHAN COLLEGE,"K.K.S RD, MARUTHANARMADAM, CHUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,1.1AB,provincial
+9168,KANDARODAI SKANDAVAROTHAYA COLLEGE,"KANDARODAI, CHUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,1.1AB,provincial
+9169,MANIPAY LADIES COLLEGE,"YARL RD, MANIPAY",Northern,41.Jaffna,Valikamam,Sandilipay,1.1AB,provincial
+9170,ERLALAI MAHA VIDYALAYAM,ERLALAI CENTRE ERLALAI,Northern,41.Jaffna,Valikamam,Uduvil,2.1C,provincial
+9171,MANIPAY MEMORIAL ENGLISH SCHOOL,MANIPAY,Northern,41.Jaffna,Valikamam,Sandilipay,2.1C,provincial
+9172,MYLANI SAIVA M.V.,CHUNAKAM,Northern,41.Jaffna,Valikamam,Uduvil,3.Type2,provincial
+9173,INUVIL HINDU COLLEGE,"INUVIL , CHUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,2.1C,provincial
+9174,INUVIL CENTRAL COLLEGE,"K.K.S. RD, INUVIL, CUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,2.1C,provincial
+9175,NAVALY MAHA VIDYALAYAM,"NAVALY SOUTH, MANIPAY",Northern,41.Jaffna,Valikamam,Sandilipay,2.1C,provincial
+9176,SANDILIPAY HINDU COLLEGE,"SANDILIPAY CENTER, SANDILIPAY",Northern,41.Jaffna,Valikamam,Sandilipay,2.1C,provincial
+9177,UDUVIL MANNS MAHA VIDYALAYAM,UDUVIL CHUNNAKAM,Northern,41.Jaffna,Valikamam,Uduvil,3.Type2,provincial
+9178,KUPPILAN VIGNESWARA MAHA VIDYALAYAM,ERLALAI,Northern,41.Jaffna,Valikamam,Uduvil,3.Type2,provincial
+9179,ANAICODDAI BALASUBRAMANIYA VIDYALAYAM,"NAVALY RD, ANAICODDAI",Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9180,ANAICODDAI R.C.T.M.S.,"UYARAPULAM, ANAICODDAI",Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9181,ERLALAI SAIVA MAHAJANA VIDYALAYAM,ERLALAI EAST ERLALAI,Northern,41.Jaffna,Valikamam,Uduvil,3.Type2,provincial
+9182,MANIPAY ST. ANNE'S R.C.T.M.S.,MANIPAY,Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9183,SUTHUMALAI NORTH TAMIL MIXED VIDYALAYAM,"SUTHUMALAI NORTH, MANIPAY",Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9184,THAVADY HINDU TAMIL MIXED SCHOOL,THAVADY KOKUVIL,Northern,41.Jaffna,Valikamam,Uduvil,3.Type2,provincial
+9185,UDUVIL MURUGAMOORTHY VIDYASALAI,"SABAPATHY LANE, UDUVIL, CHUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,3.Type2,provincial
+9186,ERALALAI SRI MURUGAN VIDYALAYAM,"ERALALAI SOUTH, ERALALAI",Northern,41.Jaffna,Valikamam,Uduvil,3.Type2,provincial
+9187,SUTHUMALAI CHINTHMAYA BHARATHY VIDYALAYAM,"SUTHUMALAI , MANIPAY",Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9188,ANAIKODDAI A.M.T.M.SCHOOL,ANAIKODDAI,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9189,CHUNNAKAM NAGESWARY VIDYASALAI,CHUNNAKAM WEST,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9190,CHUNNAKAM R.C.T.M.S.,"DR.SUBRAMANIYAM RD, CHUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9191,EARLALAI NORTH A.M.T.M SCHOOL,EARLALAI NORTH EARLALAI,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9192,ERLALAI ST. ISIDOR R.C.T.M.S.,ERLALAI EAST ERLALAI,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9193,ERLALAI SOUTH A.M.T.M SCHOOL,CHUNNAKAM,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9194,EALALAI WEST SAIVA SANMARKKA VIDDYASALAI,EARLALAI WEST CHUNNAKAM,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9196,KADDUDAI SAIVA VIDYASALAI,MANIPAY,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9197,KANDERODAI TAMIL KANDIAH VIDYASALAI,"KANDERODAI , CHUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,3.Type2,provincial
+9198,KODDAIKADU G.T.M.S.,"SOORAWATHAI, CHUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9199,MANIPAY SOTHY VEMBADY VIDYASALAI,"JAFFNA RD, MANIPAY",Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9200,MANIPAY VIVEKANAND VIDYASALAI,MANIPAY,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9201,NAVALY ATTAGIRI SAIVA VIDYASALAI,NAVALY NORTH MANIPAY,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9202,NAVALI SOUTH A.M.T.M.SCHOOL,NAVALY SOUTH MANIPAY,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9203,NAVALY ST. PETERS R.C.T.M SCHOOL,"NAVALY EAST, MANIPAY",Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9204,NAVALY STATION A.M.T.M SCHOOL,"MUTHALIYAR, MAHEASAN RD, NAVALY NORTH, MANIPAY",Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9205,PUTHUMADAM R.C.T.M.S.,"UDUVIL SOUTH, MANIPAY",Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9206,SANDILIPAY G.T.M.S.,SANDILIPAY NORTH SANDILIPAY,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9207,SANDILIPAY NORTH T.M.S.,SANDILIPAY NORTH SANDILIPAY,Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9208,SANGUVELY GOVERNMENT TAMIL MIXED SCHOOL,SANGUVELY MANIPAY,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9209,SUTHUMALAI G.T.M.S.,SUTHUMALAI SOUTH MANIPAY,Northern,41.Jaffna,Valikamam,Sandilipay,4.Type3,provincial
+9210,CHUNNAKAM THIRUGNANA SAMPANTHAR VIDYASALAI,"KKS RD, CHUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9211,UDUVIL AMERICAN MISSION TAMIL MIXED SCHOOL,UDUVIL CHUNNAKAM,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9213,UDUVIL MALVATHAI R.C.T.M.S.,UDUVIL CHUNNAKAM,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9214,UDUVIL MANNS TAMIL MIXED SCHOOL,DIVISIONAL SECRETARIAT OFFICE LANE CHUNNAKAM,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9215,UYARAPPULAM GUNAPALAN VIDYALAYAM,UYARAPPULAM ANAIKKODDAI,Northern,41.Jaffna,Valikamam,Sandilipay,3.Type2,provincial
+9216,VAYAVILAN CENTRAL COLLEGE,VAYAVILAN,Northern,41.Jaffna,Valikamam,Tellippalai,1.1AB,provincial
+9217,ATCHUVELY CENTRAL COLLEGE,"ATCHUVELY, JAFFNA",Northern,41.Jaffna,Jaffna,Kopay,1.1AB,provincial
+9218,ATTIAR HINDU COLLEGE,"POINT PEDRO RD, NEERVELY",Northern,41.Jaffna,Jaffna,Kopay,2.1C,provincial
+9219,IDAIKKADU MAHA VIDYALAYAM,IDAIKKADU ATCHUVELY,Northern,41.Jaffna,Jaffna,Kopay,1.1AB,provincial
+9220,KOPAY CHRISTIAN COLLEGE,"KOPAY CENTER, KOPAY",Northern,41.Jaffna,Jaffna,Kopay,1.1AB,provincial
+9221,KOPAY MAHA VIDYALAYAM,"KONDAVIL RD, KOPAY",Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9222,PUNNALAIKKADDUVAN MAHA VIDYALAYAM,"PUNNALAIKKADDUVAN NORTH, CHUNNAKAM",Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9223,PUTTUR SRI SOMASKANDA COLLEGE,PUTTUR,Northern,41.Jaffna,Jaffna,Kopay,1.1AB,provincial
+9224,URUMPIRAI HINDU COLLEGE,"PALALY RD, URUMPIRAI",Northern,41.Jaffna,Jaffna,Kopay,1.1AB,provincial
+9225,ATCHELU SAIVAPRAGASA VIDYALAYAM,ATCHELU NEERVELY,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9226,ATCHUVELY SARASWATHY VIDYALAYAM,"ATCHUVELY SOUTH, ATCHUVELY",Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9227,ATCHUVELY ST. THERESA'S GIRLS' COLLEGE,"CHANKANAI RD, ATCHUVELY",Northern,41.Jaffna,Jaffna,Kopay,2.1C,provincial
+9228,AVARANGAL MAHAJANA VIDYALAYAM,"AVRANGAL, PUTTUR.",Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9229,AVARANGAL NADARAJA RAMALINGA VIDYALAYAM,PUTTUR,Northern,41.Jaffna,Jaffna,Kopay,2.1C,provincial
+9230,KOPAY SARAVANAPAVANANTHA VIDYALAYAM,KOPAY NORTH KOPAY,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9231,PUTHAKALADDY SRI VISHNU VIDYALAYAM,PUTTUR,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9232,UERELU GANESHA VIDIYASALAI,URELUWESTCHUNNAKAM,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9233,URUMPIRAI SAIVA TAMIL VIDYALAYAM,URUMPIRAI NORTH URUMPIRAI,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9234,VATHARAWATTAI VIGNESWARA VIDYALAYAM,VATHARAWATTAI PUTTUR,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9235,ATCHELU METHODIST MISSION TAMIL MIXED SCHOOL,ATCHELU NEERVELY,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9237,EVINAI GOVERNMENT TAMIL MIXED SCHOOL,EVINAI CHUNNAKAM,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9238,IRUPALAI C.C.T.M.S.,IRUPALAI EAST KOPAY,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9239,KATHIRIPPAY SUBRAMANIYA VIDYALAYAM,KATHIRIPPAY ATCHUVELY,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9240,KOPAY NAVALAR TAMIL VIDYALAYAM,"POINT PEDRO RD, KOPAY SOUTH",Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9242,KOPAY NORTH R.C.T.M.SCHOOL,"KOPAY NORTH, KOPAY",Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9243,KOPAY SOUTH ROMAN CATHOLIC MIXED SCHOOL,KOPAY SOUTH KOPAY,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9244,KOPAY SOUTH KANTHAVEL TAMIL MIXED SCHOOL,KOPAY SOUTH KOPAY,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9245,KUDDIYAPPULAM G.T.M SCHOOL,"KUDDIYAPPULAM, VAYAVILAN",Northern,41.Jaffna,Valikamam,Tellippalai,3.Type2,provincial
+9246,NAVAKKIRI A.M.T.M SCHOOL,"NAVAKKIRI,PUTTUR",Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9247,NEERVELY C.C.T.M.S.,NEERVELY NORTH NEERVELY,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9248,NEERVELY ROMAN CATHOLIC TAMIL MIXED SCHOOL,NEERVELY NORTH NEERVELY,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9250,OTTAKAPPULAM R.C.T.M.S.,VAYAVILAN,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9251,PATHAMENY RATNESWARY VIDYALAYAM,PATHAMENY ATCHUVELY,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9254,PUNNALAIKADUVAN SITHYVINAYAGAR VIDYALAYAM,PUNNALAIKADDUVAN SOUTH PUNNALAIKADDUVAN,Northern,41.Jaffna,Valikamam,Uduvil,3.Type2,provincial
+9255,PUNNALAIKADDUVAN H.T.M.S.,PUNNALAIKADDUVAN NORTH PUNNALAIKADDUVAN,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9256,PUTTUR M M T M SCHOOL,PUTTUR EAST PUTTUR,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9257,SIRUPPIDDY G.T.M.S.,SIRUPPIDDY WEST NEERVELY,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9258,SIRUPPIDDY HINDU TAMIL MIXED SCHOOL,SIRUPPIDDY SOUTH NEERVELY,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9259,THOPPU ARULNANTHY VIDYALAYAM,"THOPPU, ATCHUVELY",Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9261,URUMPIRAI SANDROTHAYA VIDYALAYAM,URUMPIRAI WEST URUMPIRAI,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9262,URUMPIRAI.R.C.T.M. SCHOOL,"URUMPIRAI.EAST, URUMPIRAI.",Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9263,VALALAI A M T M SCHOOL,VALALAI ATCHUVELY,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9264,VAYAVILAN SRI VELLUPPILLAI VIDYALAYAM,"PALALY RD, URUMPIRAI",Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9265,VAYAVILAN R.C.T.M.SCHOOL,VAYAVILAN,Northern,41.Jaffna,Valikamam,Tellippalai,4.Type3,provincial
+9267,PUTTUR MADIHE PANNASIHA VIDYALAYAM,PUTTUR EAST PUTTUR,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9268,KARANTHAN RAMUPPILLAI VIDYALAYAM,NEERVELY SOUTH NEERVELY,Northern,41.Jaffna,Jaffna,Kopay,3.Type2,provincial
+9270,UDUPPIDDY GIRLS COLLEGE,VALVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Karaveddy,1.1AB,provincial
+9271,CHITHAMBARA COLLEGE,VALVETITHURAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,1.1AB,provincial
+9272,UDUPPIDDY AMERICAN MISSION COLLEGE,VALVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Karaveddy,1.1AB,provincial
+9273,VIGNESWARA COLLEGE,KARAVEDDY,Northern,41.Jaffna,Vadamaradchi,Karaveddy,1.1AB,provincial
+9274,GNANASARIYAR COLLEGE,KARAVEDDY,Northern,41.Jaffna,Vadamaradchi,Karaveddy,2.1C,provincial
+9275,VATHIRY SACRED HEART COLLEGE,KARAVEDDY,Northern,41.Jaffna,Vadamaradchi,Karaveddy,3.Type2,provincial
+9276,THEVARAIYALI HINDU COLLEGE,KARAVEDDY,Northern,41.Jaffna,Vadamaradchi,Karaveddy,2.1C,provincial
+9277,VALVAI MAHALIR MAHA VIDYALAYAM,VALVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,2.1C,provincial
+9278,KARANAVAI MAHA VIDYALAYAM,KARAVEDDY,Northern,41.Jaffna,Vadamaradchi,Karaveddy,3.Type2,provincial
+9279,THONDAIMANARU VEERAGATHTHIPPILLAL M.V.,THONDAIMANARU,Northern,41.Jaffna,Vadamaradchi,Point Pedru,2.1C,provincial
+9280,IMAYANAN G.T.M.SCHOOL,VALVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Karaveddy,3.Type2,provincial
+9281,KADDAIVELY YARKKARU VINAYAKAR VIDYALAYAM,"KARAVEDDY EAST, KARAVEDDY.",Northern,41.Jaffna,Vadamaradchi,Karaveddy,3.Type2,provincial
+9282,KAMPARMALAI VIDYALAYAM,"CPMMANTHARAI, VALVETTITHURAI",Northern,41.Jaffna,Vadamaradchi,Karaveddy,3.Type2,provincial
+9284,KARANAVAI PONNAMPALAM VIDYALAYAM,KARAVEDDY,Northern,41.Jaffna,Vadamaradchi,Karaveddy,3.Type2,provincial
+9285,KARAVEDDY SRI NARATHA VIDYALAYAM,"KARAVEDDY WEST, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,3.Type2,provincial
+9286,POLIKANDY HINDU TAMIL MIXED SCHOOL,VALVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9287,VALVAI SIVAGURU VIDYASALAI,VALVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9288,VALVETTI HINDU TAMIL MIXED SCHOOL,"VALVETTY, VALVETTITHURAI",Northern,41.Jaffna,Vadamaradchi,Karaveddy,3.Type2,provincial
+9289,KADDAIVELY M.M.T.M.SCHOOL,KADDAIVELY,Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9290,KARANAVAI MANIYAKARAN THODDAM G.T.M.SCHOOL,"KARANAVAI SOUTH, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9292,KARANAVAI THAMOTHARA VIDYALAYAM,KARANAVAI NORTH WEST,Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9293,KARANAVAI VETHARANIYESWARA VIDYALAYAM,"KARANAVAI, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9294,KARAVEDDY EAST G.T.M.SCHOOL,"KARAVEDDY EAST, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9295,KARAVEDDY MANIKKAVASAGAR VIDYALAYAM,"KARAVEDDY CENTRE, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9296,KARAVEDDY SARASWATHY MAHALIR VIDYALAYAM,"MATHTHONI, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9298,KERUDAVIL HINDU TAMIL MIXED SCHOOL,THONDAIMANARU,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9299,KOTTAWATTAI A.M.T.M.S.,VALVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9300,NELLIADY M.M.T.M.SCHOOL,"NELLIADY NORTH, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9302,THUNNALAI KASINATHAR VIDYALAYAM,"THUNNALAI, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9303,THUNNALAI SOUTH G.T.M.SCHOOL,KARAVEDDY,Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9304,UDUPPIDDY SAIVAPRAGASA VIDYASALAI,VELVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9305,VALVAI A M T M SCHOOL,"POINT PEDRO RD, VALVETTITHURAI",Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9306,VALVAI ROMAN CATHALIC TAMIL MIXED SCHOOL,VALVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9307,VALVETTY VINAYAGAR VIDYALAYAM,VALVETTITHURAI,Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9308,ALVAI AMBAL VIDYALAYAM,ALVAI NORTH ALVAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9309,ALVAI SRI LANKA VIDYASALAI,ALVAI NORTH ALVAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9310,CHEMPIANPATTU G.T.M.SCHOOL,"CHEMPIANPATTU SOUTH, THALAIYADY",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,3.Type2,provincial
+9311,KALLADDY ROMAN CATHOLIC TAMIL MIXED SCHOOL,POINTPEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9312,KUDATHANAI G.T.M.SCHOOL,KUDATHANAI,Northern,41.Jaffna,Vadamaradchi,Maruthankerney,3.Type2,provincial
+9313,POINTPEDRO SITHIVINAYAGAR VIDYALAYAM,"V M RD, POINTPEDRO",Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9314,ST. THOMAS ROMAN CATHOLIC GIRLS SCHOOL,"4TH CROSS STREET, POINT PEDRO",Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9315,THALAIYADY R.C.T.M.SCHOOL,THALAIYADY,Northern,41.Jaffna,Vadamaradchi,Maruthankerney,4.Type3,provincial
+9316,THUMPALAI SIVAPRAGASA MAHA VIDYALAYAM,THUMPALAI POINTPEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,2.1C,provincial
+9317,THUNNALAI NORTH M M T M SCHOOL,THUNNALAI WEST KARAVEDDY,Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9318,AMPAN A.M.T.M.SCHOOL,"AMPAN, KUDATHANAI",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,2.1C,provincial
+9319,CHEMPIYANPATTU R.C.T.M.SCHOOL,"CHEMPIYANPATTU NORTH, THALAIYADI",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,4.Type3,provincial
+9320,KATCOVALAM METHODIST MISSION TAMIL MIXED SCHOOL,POINT PEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9321,KEVIL G.T.M.SCHOOL,MULLIYAN,Northern,41.Jaffna,Vadamaradchi,Maruthankerney,4.Type3,provincial
+9323,PUTTALAI MAHA VIDYALAYAM,PULOLY,Northern,41.Jaffna,Vadamaradchi,Point Pedru,2.1C,provincial
+9324,VADAMARADCHY HINDU GIRLS COLLEGE,POINTPEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,1.1AB,provincial
+9325,ALVAI SINNATHAMBY VIDYALAYAM,"ALVAI ESAT, ALVAI",Northern,41.Jaffna,Vadamaradchi,Karaveddy,3.Type2,provincial
+9326,MELAIPULOLY SAIVAPRAGASA VIDYALAYAM,VIYAPARIMOOLAI POINTPEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9327,PULOLY M.M.T.M.SCHOOL,PULOLY,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9328,ALVAI H.T.M.S.,ALVAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9330,THAMBASIDDY M.M.T.M.SCHOOL,POINTPEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9331,VATHIRY NORTH M.M.T.M.SCHOOL,ALVAI,Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9332,POINT PEDRO HARTLEY COLLEGE,POINT PEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,1.1AB,provincial
+9334,NAGARKOVIL MAHA VIDYALAYAM,NAGARKOVIL WEST NAGARKOVIL,Northern,41.Jaffna,Vadamaradchi,Maruthankerney,3.Type2,provincial
+9335,UDUTHURAI MAHA VIDYALAYAM,THALAIYADY,Northern,41.Jaffna,Vadamaradchi,Maruthankerney,1.1AB,provincial
+9336,VELAUTHAM MAHA VIDYALAYAM,POINT PEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,1.1AB,provincial
+9337,ALVAI NORTH R.C.T.M.SCHOOL,ALVAI,Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+9338,KUDATHANAI KARAIYOOR A.M.T.M.SCHOOL,"KUDATHANAI NORTH, KUDATHANAI",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,3.Type2,provincial
+9339,POTPATHY R.C.T.M.SCHOOL,KUDATHANAI,Northern,41.Jaffna,Vadamaradchi,Maruthankerney,3.Type2,provincial
+9340,MAMUNAI G.T.M.S.,"MAMUNAI, THALAYADY",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,4.Type3,provincial
+9341,MANATKADU R.C.T.M.S.,"MANATKADU, KUDATHTHANAI",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,2.1C,provincial
+9342,MARUTHENKERNEY HINDU T.M.S.,"VATHTHIT=RAYAN, THALAIYADY",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,3.Type2,provincial
+9343,MATHANAI M.M.T.M.S.,"MATHANAI, POINT PEDRO",Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9345,PULOLY EAST G.T.M.SCHOOL,POINTPEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9346,THICKAM SITHYVINAYAGAR VIDYALAYAM,"THICKAM, ALVAI",Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9348,VETTILAIKERNEY PARAMESWARA VIDYALAYAM,"VETTILAIKERNEY, MULIIYAN",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,3.Type2,provincial
+9349,KADDAIKADU R.C.T.M.S.,"KADDAIKADU, MULLIYAN",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,2.1C,provincial
+9350,VETTILAIKERNY R.C.T.M.S.,"VETTILAIKERNEY, MULLIYAN",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,4.Type3,provincial
+9351,ALIYAWALAI C.C.T.M.S,ALIYAWALAI,Northern,41.Jaffna,Vadamaradchi,Maruthankerney,2.1C,provincial
+9352,DRIEBERG COLLEGE,"A9 RD, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,1.1AB,provincial
+9354,CHAVAKACHCHERI LADIES COLLEGE,"POST OFFICE RD, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,1.1AB,provincial
+9355,CHANDRAPURA SKANDAVARODAYA MV,MADDUVIL CHAVAKACHCHERI,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,2.1C,provincial
+9356,MEESALAI VEERASINGAM CENTRAL COLLEGE,MEESALAI,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,1.1AB,provincial
+9357,NAVATKULY MAHA VIDYALAYAM,"KERATHEEVU RD, NAVATKULY, KAITHADY",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,2.1C,provincial
+9358,USAN RAMANATHAN MAHA VIDYALAYAM,USAN MIRUSUVIL,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,2.1C,provincial
+9359,VARANI CENTRAL COLLEGE,"KARAMPAIKURICHCHI, VARANI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,1.1AB,provincial
+9360,MEESALAI VIGNESWARA MAHA VIDYALAYAM,MEESALAI WEST MEESALAI,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,2.1C,provincial
+9361,KODIKAMAM THIRUNAVUKKARASU CENTRAL COLLEGE,"KACHAI RD, KODIKAMAM",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,1.1AB,provincial
+9362,KAITHADY MUTHUKUMARASAMY MAHA VIDYALAYAM,"KAITHADY SOUTH, KAITHADY",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,2.1C,provincial
+9363,ALLARAI GOVERNMENT TAMIL VIDYALAYAM,"ALLARAI,MEESALAI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9364,ELUTHUMADDUVAL SRI GANESHA VIDYALAYAM,"ELUTHUMADDUVAL SOUTH, ELUTHUMADDUVAL",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9365,KACHCHAI M.V.,"KACHCHAI, KODIKAMAM",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,2.1C,provincial
+9366,KAITHADY GURUSAMY VIDYALAYAM,KAITHADI NORTH KAITHADY,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9367,KAITHADY NUNAVIL G.T.M.S.,"KAITHADY NUNAVIL, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9368,KAITHADY VIGNESWARA VIDYALAYAM,KAITHADY SOUTHEAST KAITHADY,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9369,MADDUVIL CHANDRAMOULEESA VIDYALAYAM,MADDUVIL NORTH MADDUVIL CHAVAKACHCHERI,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9370,MADDUVIL KAMALASANY VIDYALAYAM,MADDUVIL EAST CHAVAKACHCHERI,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9371,MADDUVIL SOUTH A.M.T.M.S.,"MADDUVIL SOUTH, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9372,MADDUVIL SOUTH SARASWATHY VIDYALAYAM,"MADDUVIL SOUTH, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9373,MANTHUVIL SRI BARATJHY VIDYALAYAM,"MANTHUVIL EAST, KODIKAMAM",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9374,MARAVANPULO SAKALAKALAVALLI VIDYALAYAM,MARAVANPULO CHAVAKACHCHERI,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9375,MIRUSUVIL G.T.M.S.,MIRUSUVIL,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9377,SARASALAI SRI GANESHA VIDYALAYAM,"SARASALAI NORTH, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9378,IDAIKURICHCHI SRI SUBRAMANIYA VIDYALAYAM,"IDAIKURICHCHI, VARANI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9379,VIDATHALPALAI KAMALASANY VIDYALAYAM,"VIDATHALPALAI, MIRUSUVIL",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9380,CHAVAKACHCHERI R.C.T.M.S.,"KACHCHAI RD, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9382,ELUTHUMADDUVAL G.T.M.S.,"ELUTHUMADDUVAL NORTH, ELUTHUMADDUVAL",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9383,ERUTHIDAL G.T.M.S.,"NAVAPURAM, KAITHAFY EAST, KAITHADY",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9384,KAITHADY KALAIVANI VIDYALAYAM,"MANIPAY RD, KAITHADY WEST, KAITHADY",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9385,KAITHADY SETHUKAVALAR VIDYALAYAM,"KAITHADY CENTRE, KAITHADY",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9387,KALVAJAL SRI SHANMUGANANTHA VIDYALAYAM,KALVAJAL CHAVAKAQCHCHERI,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9388,KAITHADY NAVATKULI G.T.M.S.,"KAITHADI NAVATKULI SOUTH, KAITHADI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9389,KARAMPAI A.M.T.M.S.,"NAVATKADU, VARANI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9390,KARAMPAIKKURICHCHI G.T.M.S.,"KARAMPAIKKURICHCHI WEST, VARANY",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9391,KARAMPAKAM GOVERNMENT TAMIL MIXED SCHOOL,"KARAMPAKAM, MIRUSSUVIL",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9392,KETPELY G.T.M.S.,"KETPELY WEST, MIRUSUVIL",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9393,KOVILAKANDY MAHA LUXMY VIDYALAYAM,"KOVILAKANDY, KAITHADI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9394,KUDAMIYAN G.T.M.S.,KUDAMIYAN VARANY,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9395,MADDUVIL NORTH G.T.M.S.,"MADDUVIL NORTH, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9396,MADDUVIL SOUTH SANTHANAYAKI VIDYALAYAM,"MADDUVIL SOUTH, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9397,MANTHUVIL R.C.T.M.S.,"MANTHUVIL EAST, KODIKAMAM",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9399,MEESALAI KAMALAMPIKAI VIDYALAYAM,"MEESALAI SOUTH, MEESALAI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9400,NAVATKADU KANAPATHIPILLAI VIDYALAYAM,"VARANY IYATALAI, VARANY",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9401,NUNAVIL EAST AMIRTHAMPIKAI VIDYALAYAM,"NUNAVIL EAST, CHAVAKACHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9403,POKKADDY G.T.M.S.,"POKKADDY, KODIKAMAM",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9404,POKKADDY R.C.T.M.S.,MIRUSUVIL,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9408,MIRUSUVIL R.C.T.M.S.,"KANDY RD, MIRUSUVIL",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9409,CHAVAKACHCHERI SAKTHIYAMMAN T.M.S.,"KACHCHAI RD, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9410,THANANKILAPPU G.T.M.S.,THANANKILAPPU CHAVAKACHCHERI,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9411,VARANY NORTH SAIVAPIRAKASA VIDYALAYAM,"VARANY NORTH, VARANY",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9412,VARANY NORTH G.T.M.S.,VARANY,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9414,IYATTALAI A.M.T.M SCHOOL,"VARANY IYATTALAI, VARANY.",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9415,CANAGARATNAM MADYA MAHA VIDYALAYAM,"NAVALAR RD, ARIYALAI, JAFFNA",Northern,41.Jaffna,Jaffna,Nallur,1.1AB,provincial
+9417,JAFFNA HINDU LADIES' COLLEGE,"ARASADY RD, KANTHARMADAM, JAFFNA",Northern,41.Jaffna,Jaffna,Nallur,1.1AB,provincial
+9418,KOKUVIL HINDU COLLEGE,"K.K.S. ROAD, KOKUVIL EAST, KOKUVIL",Northern,41.Jaffna,Jaffna,Nallur,1.1AB,provincial
+9419,SENGUNTHA HINDU COLLEGE,"THIRUNELVELY EAST, JAFFNA.",Northern,41.Jaffna,Jaffna,Nallur,2.1C,provincial
+9420,MUTHUTHAMBY MAHA VIDYALAYAM,KALASALAI ROAD THIRUNELVELY,Northern,41.Jaffna,Jaffna,Nallur,2.1C,provincial
+9421,JAFFNA HINDU LADIES PRIMARY SCHOOL,ARASADY ROAD KANTHAIRMADAM JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9422,ARIYALAI SRIPARWATHY VIDYASALAI,KANDY ROAD ARIYALAI JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9423,KANTHARMADAM SAIVA PRAGASA VIDYALAYAM,ARASADY ROAD KANTHARMADAM JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9424,KOKUVIL SRI RAMAKRISHNA VIDYALAYAM,KOKUVIL EAST KOKUVIL,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9425,KOKUVIL EAST NAMAGAL VIDYALAYAM,POTPATHY VEETHY KOKUVIL EAST KOKUVIL,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9426,KOKUVIL SRI GNANAPANDITHA VIDYALAYAM,ADIYAPATHAM ROAD KOKUVIL WEST KOKUVIL,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9427,KONDAVIL HINDU COLLEGE,STATION ROAD KONDAVIL WEST KONDAVIL,Northern,41.Jaffna,Jaffna,Nallur,1.1AB,provincial
+9428,KONDAVIL RAMAKRISHNA MAHA VIDYALAYAM,KONDAVIL EAST KONDAVIL,Northern,41.Jaffna,Jaffna,Nallur,2.1C,provincial
+9429,NALLUR HINDU TAMIL GIRLS SCHOOL,TEMPLE ROAD NALLUR JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9430,NALLUR STATION C C T M SCHOOL,CHEMMANY ROAD NALLUR JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9431,NAYANMARKADDU MAHESWARY VIDYASALAI,NAYANMARKADDU JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9432,PERIYAPULAM M.V.,K.K.S.ROAD JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,2.1C,provincial
+9433,UYARAPULAM M.M.T.M.VIDYALAYAM,"UYARRAPULAM, ANNAIKODDAI",Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9434,ANAIPANTHY METHODIST MISSION VIDYALAYAM,"NAVALAR ROAD, ANAIPANTHY",Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9435,ARIYALAI EAST GOVT TAMIL MIXED SCHOOL,ARIYALAI EAST ARIYALAI,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9436,CHEDDITHERU METHODIST MISSION TAMIL MIXED SCHOOL,KILANNER LANE JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9438,KALADDY M.M.T.M.SCHOOL,"SIR PON RAMANATHAN ROAD, JAFFNA",Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9439,KALVIYANKADU HINDU TAMIL MIXED SCHOOL,"POINTPEDRO ROAD, KALVIYANKADU",Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9440,KOKUVIL STATION C.C.T.M.S.,K.K.S ROAD KOKUVIL,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9441,KOKUVIL WEST C.C.T.M SCHOOL,KULAPPIDDY VEETHY KOKUVIL WEST KOKUVIL JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9442,KONDAVIL C.C.T.M SCHOOL,"STATION ROAD, KONDAVIL",Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9443,KONDAVIL PARANCHSOTHY VIDYALAYAM,KONDAVIL NORTH KONDAVIL,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9444,KONDAVIL ROMAN CATHOLIC TAMIL MIXED SCHOOL,ST SEBESTIAR ROAD KONDAVIL ESAT KONDAVIL,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9446,NALLUR KASIPPILLAI VIDYALAYAM,"RAJA VEETHY, NALLUR, JAFFNA",Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9447,NALLUR ST. BENEDICT'S R.C VIDYALAYAM,KACHCHERI NALLUR ROAD JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9448,ELAYATHAMBY HINDU VIDYALAYAM,"MATHADY LANE VANNARPONNAI, JAFFNA",Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9449,THIRUNELVELY R.C.T.M.SCHOOL,THIRUNELVELY EAST THIRUNELVELY,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9450,PARAMESHWARA VIDYALAYAM,THIRUNELVELY,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9451,VAN SRI VAITHILINGAM VIDYALAYAM,MANIPPAI ROAD ARUKALMADADAM,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9452,JAFFNA HINDU PRIMARY SCHOOL,"224, KASTHURIYAR ROAD JAFFNA",Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9453,KOKUVIL HINDU PRIMARY SCHOOL,KOKUVIL EAST KOKUVIL,Northern,41.Jaffna,Jaffna,Nallur,4.Type3,provincial
+9454,POOMPUGAR GOVERMENT TAMIL MIXD SCHOOL,ARIYALAI EAST JAFFNA,Northern,41.Jaffna,Jaffna,Nallur,3.Type2,provincial
+9455,COLUMBUTHURAI HINDU MAHA VIDYALAYAM,COLUMBUTHURAI ROAD JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,2.1C,provincial
+9459,KADEJA LADIES COLLEGE,MUSLIM COLLEGE ROAD JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9460,OSMANIYA COLLEGE,"MUSLIM COLLEGE ROAD, JAFFNA",Northern,41.Jaffna,Jaffna,Jaffna,2.1C,provincial
+9461,SANMARKKA MAHA VIDYALAYAM,CLOCK TOWER ROAD JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,2.1C,provincial
+9462,ST. CHARLES' MAHA VIDYALAYAM,"MAINSTREET, JAFFNA",Northern,41.Jaffna,Jaffna,Jaffna,2.1C,provincial
+9463,ST. JAMES MAHA VDYALAYAM,GURUNAGAR JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9464,VAIDYESHWARA COLLEGE,"SIVAN NORTH STREET, JAFFNA",Northern,41.Jaffna,Jaffna,Jaffna,1.1AB,provincial
+9466,ST. JOSEPH'S VIDYALAYAM,SWAMIAR ROAD COLUMBUTHURAI JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9467,COLUMBUTHURAI THURAIYAPPAH VIDYALAYAM,"3RD CROSS STREET, COLOMBAGAM, JAFFNA",Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9468,KODDADY NAMASIVAYA VIDYALAYAM,HOSPITAL ROAD JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9469,NALLUR SOUTH SRI VIGNESWARA VIDYALAYAM,KACHCHERI NALLUR ROAD JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9470,NAVANTHURAI R.C VIDYALAYAM,NAVALAR ROAD NAVANTHURAI JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9471,PASSAIYOOR ST. ANTONY'S R.C. GIRLS VIDYALAYAM,"PASSAIYOOR, JAFFNA",Northern,41.Jaffna,Jaffna,Jaffna,2.1C,provincial
+9472,ST. JAMES GIRLS SCHOOL,MAIN STREET JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,2.1C,provincial
+9473,ST. MARYS R.C.T.M.S.,FOURTH CROSS STREET JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9475,ST. JOHN BOSCO'S VIDYALAYAM,"RACCA ROAD, JAFFNA",Northern,41.Jaffna,Jaffna,Jaffna,4.Type3,provincial
+9476,ST. ROCHE'S R.C VIDYALAYAM,"BEACH ROAD, THURUNAGAR, JAFFNA",Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9481,VANNAI NAVALAR MAHA VIDYALAYAM,NAVALAR ROAD VANNARPANNAI JAFFNA,Northern,41.Jaffna,Jaffna,Jaffna,3.Type2,provincial
+9482,VADAMARADCHY CENTRAL LADIES' COLLEGE,"VATHIRY, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,1.1AB,provincial
+9485,CHAVAKACHCHERI HINDU PRIMARY SCHOOL,"THAMOTHARAMPILLAI ROAD, CHAVAKACHCHERI",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9486,KODIKAMAM GOVERNMENT VIDYALAYAM,"KANDY ROAD, KODIKAMAM",Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,3.Type2,provincial
+9493,VIGNESWARA PRIMARY SCHOOL,"KARAVEDDY SOUTH, KARAVEDDY",Northern,41.Jaffna,Vadamaradchi,Karaveddy,4.Type3,provincial
+9494,SKANDAVARODAYA PRIMARY SCHOOL,KANTHARODAI CHUNNAKAM,Northern,41.Jaffna,Valikamam,Uduvil,4.Type3,provincial
+9495,SRI SOMASKANTHA HINDU PRIMARY SCHOOL,PUTTUR WEST PUTTUR,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9496,UDUTHURAI HINDU PRIMARY SCHOOL,"UDUTHURAI, THALAYADY",Northern,41.Jaffna,Vadamaradchi,Maruthankerney,4.Type3,provincial
+9497,KODIKAMAM THIRUNAVUKKARASU PRIMARY SCHOOL,KACHCHAI ROAD KODIKAMAM,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9498,VADAMARADCHY HINDU PRIMARY SCHOOL,POINTPEDRO,Northern,41.Jaffna,Vadamaradchi,Point Pedru,4.Type3,provincial
+9499,SUBRAMANIYA VIDYASALAI,KARAINAGAR,Northern,41.Jaffna,Islands,Karainagar,4.Type3,provincial
+9500,ATCHUVELY PRIMARY SCHOOL,ATCHUVELY NORTH ATCHUVELY,Northern,41.Jaffna,Jaffna,Kopay,4.Type3,provincial
+9501,MEESALAI VEERASINGAM PRIMART SCHOOL,MEESALAI NORTH MEESALAI,Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,4.Type3,provincial
+9502,THAVALAI SAIVATH THAMIL VIDYALAYAM,VADDU EAST VADDUKODDAI,Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9503,CHANKANI SIVAPRAGASA HINDU PRIMARY SCHOOL,"HOSPITAL ROAD, CHANKANI",Northern,41.Jaffna,Valikamam,Chankanai,4.Type3,provincial
+9504,PUNITHANAGAR TAMIL VIDYALAYAM,"PUNITHANAGAR, POINT PEDRO",Northern,41.Jaffna,Vadamaradchi,Point Pedru,3.Type2,provincial
+10002,KILINOCHCHI HINDU COLLEGE,"07,JEYANTHINAGAR KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,1.1AB,provincial
+10003,ST. THERESA'S GIRLS' COLLEGE,"KARADIPPOKKU, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,1.1AB,provincial
+10004,VADDAKKACHCHI CENTRAL COLLEGE,"VADDAKKACHCHI, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,1.1AB,provincial
+10005,RAMANATHAPURAM M.V.,RAMANATHAPURAM KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,1.1AB,provincial
+10006,AKKARAYAN MAHA VIDYALAYAM,AKKARAYANKULAM KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,1.1AB,provincial
+10007,URUTHIRAPURAM MAHA VIDYALAYAM,URUTHIRAPURAM KILLINOCHCHI,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,2.1C,provincial
+10008,VANNERIKULAM MAHA VIDYALAYAM,VANNERIKULAM KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,2.1C,provincial
+10009,IRANAITIVU R.C.T.M.S.,"VERAVIL, POONAKARY",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,3.Type2,provincial
+10010,KANAGAPURAM M.V.,KANAGAPURAM KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,2.1C,provincial
+10012,NACHCHIKUDA G.M.M.SCHOOL,"VINAYAKAPURAM, NACHCHIKUDA",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,3.Type2,provincial
+10013,RAMANATHAPURAM WEST G.T.M.SCHOOL,"VADDAKACHCHI, KILINOCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10014,VERAVIL HINDU MAHA VIDYALAYAM,VERAVIL.POONAKARY,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,2.1C,provincial
+10015,ST. FATIMA R.C.T.M SCHOOL,"D8, URUTHIRAPURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10016,THIRUVAIARU MAHA VIDYALAYAM,"THIRUVAIARU, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,2.1C,provincial
+10017,KILINOCHCHI MAHA VIDYALAYAM,WILSON ROAD KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,1.1AB,provincial
+10019,KONAVIL M.V.,"KONAVIL,KILINOCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,2.1C,provincial
+10020,CHEMPANKUNRU G.T.M.S.,"CHEMPAN KUNRU, POONAKARY",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,4.Type3,provincial
+10021,KARIYALAI NAGAPADUVAN NO 02 G.T.M.S.,"KARIYALAINAGAPADUVAN, PALLAVARAYAN KADDU",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,3.Type2,provincial
+10022,KARIYALAI NAAGAPADUVAAN NO 03 G.T.M.SCHOOL,"SOLAI PALLAVARAAJANKADDU, POONAKARY, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,4.Type3,provincial
+10023,KANAGAMBIKAIKULAM G.T.M.S.,"KANAKAMBIKAIKULAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10024,KIRANCHI G.T.M.SCHOOL,"SIVAPURAM, POONAKARY",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,3.Type2,provincial
+10025,KUMULAMUNAI G.T.M.S.,"KUMULAMUNAI, PALLAVARAJANKADDU",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,3.Type2,provincial
+10027,PANNAKKANDY HINDU TAMIL MIXED SCHOOL,D3 PANMANKKANDY KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10029,RAMANATHAPURAM EAST G.T.M.S,RAMANATHAPURAM KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,2.1C,provincial
+10030,SKANTHAPURAM NO 01 G.T.M SCHOOL,"SKANTHAPURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10031,SKANTHAPURAM NO 02 G.T.M SCHOOL,"SKANTHAPURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10032,SIVANAGAR G.T.M.S.,"SIVANAGAR, URUTHIRAPURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10033,VADDAKKACHCHI SOUTH G.T.M.S.,"VADDAKKACHCHI, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10034,VALAIPPADU R.C.T.M. SCHOOL,"VALAIPPADU, VERAVIL, POONAKARY",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,3.Type2,provincial
+10036,PUTHUMURIPPU VIGNESWARA VIDYALAYAM,"PUTHUMURIPPU, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10037,MURUGANANTHA COLLEGE,"MURASUMODAI, PARANTHAN",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,1.1AB,provincial
+10039,POONAKARY CENTRAL COLLEGE,POONAGARY,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,1.1AB,provincial
+10040,PARANTHAN HINDU MAHA VIDYALAYAM,KUMARAPURAM PARANTHAN,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,2.1C,provincial
+10041,IYAKKACHCHI MAHA VIDYALAYAM,"A9 ROAD, IYAKKACHCHI",Northern,45.Kilinochchi,Kilinochchi North,Pallai,2.1C,provincial
+10042,KALAVEDDETHIDAL NAGESWARA VIDYALAYAM,PULIYAMPOKKANAI PARANTHAN,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,3.Type2,provincial
+10043,KANDAWALAI M.V.,"MAIN STREET, KANDAWALAI, PARANTHAN",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,2.1C,provincial
+10044,MASAR G.T.M.S.,MASAR PALAI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,3.Type2,provincial
+10045,THARMAPURAM CENTRAL COLLEGE,THARUMAPURAM PARANTHAN,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,1.1AB,provincial
+10046,ALLIPPALAI C.C.T.M.S.,ALLIPPALAI PALLAI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,4.Type3,provincial
+10048,CHELLIYATIVU G.T.M.S.,SELVIPURAM POONAKARY,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,3.Type2,provincial
+10050,ELEPHANT PASS G.T.M.S.,"SIVAPURAM, PARANTHAN",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10051,GNANIMADAM G.T.M.S.,GNANIMADAM POONAGARY,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,3.Type2,provincial
+10052,KARUKKAITIVU MAHA VIDYALAYAM,"KARUKKAITIVU, POONAKARY",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,2.1C,provincial
+10054,KILALY R.C.T.M.SCHOOL,KILALY ELUTHUMADDUVAL,Northern,45.Kilinochchi,Kilinochchi North,Pallai,3.Type2,provincial
+10055,KOVILVAYAL C.C.T.M.S,KOVILVAYAL IYAKKACHCHI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,3.Type2,provincial
+10056,MADDUVILNADU G.T.M.S.,"MADDUVILNADU WEST , POONAKARY",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,4.Type3,provincial
+10057,MUKAMALAI R.C.T.M.S.,MUKAMALAI ELUTHUMADDUVAL KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,4.Type3,provincial
+10058,MUHAVIL G.T.M.SCHOOL,"MUHAVIL, IYAKKACHCHI",Northern,45.Kilinochchi,Kilinochchi North,Pallai,4.Type3,provincial
+10059,MURASUMODDAI G.T.M.S,"MURASUMODDAI, PARANTHAN",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10060,ST. ANTONY'S R.C. SCHOOL,2ND MILE POST MURASUMODDAI PARANTHAN,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10061,PALLAI R.C.T.M.S,PALLAI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,3.Type2,provincial
+10062,PARAMANKIRAI.G.T.M.SCHOOL,PARAMANKIRAI POONAKARY,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,4.Type3,provincial
+10063,PARANTHAN.G.T.M.S,PARANTHAN,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,3.Type2,provincial
+10064,POONAKARY NALLUR M.V.,NALLUR POONAKARY,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,2.1C,provincial
+10065,SAMIPULAM G.T.M.S.,"SAMIPULAM, NALLUR, POONAKARY",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,4.Type3,provincial
+10066,PERALAI CHURCH OF CEYLON TAMIL MIXED SCHOOL,PALLAI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,4.Type3,provincial
+10067,SORANPATTU GANESHA VIDYALAYAM,SORANPATTU PALAI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,3.Type2,provincial
+10068,KANNAKI AMMAN VIDYALAYAM,THADDUVANKODDY ELEPHANTPASS,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,3.Type2,provincial
+10070,THARMAKERNY G.T.M.S.,THARMAKERNY PALLAI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,3.Type2,provincial
+10071,THARUMAPURAM NO 01 G.T.M.S.,"THARUMAPURAM, PARANTHAN",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10072,UMAYALPURAM G.T.M.S,"ELEPHANTPASS, PALLAI",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10073,VEMBODUKERNY C.C.T.M.S,ITHTHAVIL PALLAI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,3.Type2,provincial
+10074,VINASIYODAI G.T.M.S.,GOWTHARIMUNAI POONAKARI,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,2.1C,provincial
+10075,PERIYAKULAM IYANAR VIDYALAYAM,PERIYAKULAM KANDAWALAI,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10076,PULIYAMPOKKANAI NAGENDRA VIDYALAYAM,"KANDAWALAI, PARANTHAN",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10077,JEYAPURAM.M.V.,PALLAVARAYANKADDU,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,2.1C,provincial
+10078,BARATHY VIDYALAYAM,"BARATHY PURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,1.1AB,provincial
+10079,ANAIVILUNTHANKILAM G.T.M SCHOOL,"VANNERIKULAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10080,OOTUPPULAM G.T.M SCHOOL,"KONAVIL, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10081,SIVAPATHA KALAIYAKAM G.T.M SCHOOL,"PONNAGAR NORTH, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10082,MYLVAGANAPURAM.G.T.M.S.,THARMAPURAM PARANTHAN,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10083,PUNNAINEERAVI G.T.M.S.,"PUNNAINEERAVI, VISUVAMADU",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,3.Type2,provincial
+10084,PIRAMANTHANARU MAHA VIDYALAYAM,PIRAMANTHANARU THARUMAPURAM PARANTHAN,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,2.1C,provincial
+10085,UNIONKULAM G.T.M.S.,UNIONKULAM AKKARAYAN,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10086,KANNAKAIPURAM G.T.M.S.,"KANNAKAIPURAM, SKANDAPURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10087,SELVANAGAR G.T.M SCHOOL,"SELVANAGAR, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10088,KALMADUNAGAR G.T.M.S.,KALMADUNAGAR KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10089,KADDAIKADU G.T.M.SCHOOL,THARMAPURAM PARANTHAN,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10090,KUMARASAMYPURAM.G.T.M.S,"THARUMAPURAM, PARANTHAN",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10091,KILINOCHCHI HINDU PRIMARY SCHOOL,"JEYANTHINAGAR, KILINOCHCHI.",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10092,PALLIKUDA VIDYALAYAM,KILINOCHCI POONAKARY,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,4.Type3,provincial
+10093,IYANARPURAM G.T.M SCHOOL,"VANNERIKULAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10094,SHANTHAPURAM KALAIMAHAL VIDYALAYAM,"AMPALNAGAR SANTHAPURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10095,ALAGAPURI VIDYALAYAM,ALAGAPURI RAMANATHAPURAM,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10096,THAMBIRASA VIDYALAYAM,THAMBIRASAPURAM ULAVANOOR THARUMAPURAM PARANTHAN,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10097,MUKKOMPAN MAHA VIDYALAYAM,MUKKOMPAN POONAKARY,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,2.1C,provincial
+10098,MAYAVANOOR VIDYALAYAM,"MAYAVANOOR, VADDAKKACHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10099,POONAGARY SRI VIGNESWARA VIDYALAYAM,4TH MAIL POST POONAGARY,Northern,45.Kilinochchi,Kilinochchi South,Poonakary,3.Type2,provincial
+10100,KALLARU TAMIL VIDYALAYAM,"KALLARU, THARUMAPURAM",Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,3.Type2,provincial
+10101,VIVEKANANTHA VIDYALAYAM,AMBALKULAM KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,3.Type2,provincial
+10102,KILINOCHCHI CENTRAL PRIMARY VIDYALAYAM,"A-9 ROAD, ANANDAPURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10103,AKKARAYAN PRIMARY VIDYALAYAM,"AKKARAYANKULAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10104,MURUGANANTHA PRIMARY SCHOOL,MURASUMODDAI PARANTHAN,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10105,MULANGAVIL PRIMARY SCHOOL,"VINAYAGAPURAM, MULANGAVIL, POONAGARY",Northern,45.Kilinochchi,Kilinochchi South,Poonakary,4.Type3,provincial
+10106,THIRUVALLUVAR VIDYALAYAM,"MALAYALAPURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10107,AMBIKAI VIDYALAYAM,KANNAKINAGAR VISWAMADU,Northern,45.Kilinochchi,Kilinochchi North,Kandawalai,4.Type3,provincial
+10108,ANNAI SARATHA DEVI VIDYALAYAM,MALAIYALAPURAM KILINOCHCHI,Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10109,PALLAI HINDU PRIMARY VIDYALAYAM.,PALLAI TOWN PALLAI,Northern,45.Kilinochchi,Kilinochchi North,Pallai,4.Type3,provincial
+10110,RAMAKIRISHNA VIDYALAYAM,"KIRUSHNAPURAM, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10111,VADDAKKACHCHI PRIMARY VIDYALAYAM,"CIVIC CENTRE, VADDAKKACHCHI, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+10112,KONAVIL GANDHI PRIMARY VIDYALAYAM,"KONAVIL, KILINOCHCHI",Northern,45.Kilinochchi,Kilinochchi South,Karachchi,4.Type3,provincial
+11004,PESALAI FATIMA MADHYA MAHA VIDYALAYAM,PESALAI,Northern,42.Mannar,Mannar,Mannar,1.1AB,provincial
+11005,ST ANNES COLLEGE,VANKALAI MANNAR,Northern,42.Mannar,Mannar,Nanattan,1.1AB,provincial
+11006,ILAHADIPPIDY R.C.T.M.S.,NANATTAN,Northern,42.Mannar,Mannar,Nanattan,3.Type2,provincial
+11007,UYILANKULAM R.C.T.M.S.,UYILANKULAM,Northern,42.Mannar,Mannar,Mannar,2.1C,provincial
+11008,UYIRTHARASANKULAM R.C.T.M.S.,UYIRTHARASANKULAM MURUNKAN,Northern,42.Mannar,Mannar,Mannar,3.Type2,provincial
+11009,THALAIMANNAR PIER G.T.M.S.,"THALAIMANNAR PIER, THALAIMANNAR",Northern,42.Mannar,Mannar,Mannar,1.1AB,provincial
+11010,THALVUPADHU ST. JOSEPH'S MAHA VIDYALAYAM,THALVUPADHU MANNAR,Northern,42.Mannar,Mannar,Mannar,2.1C,provincial
+11011,ST. LUCIA'S M.V.,"PALLIMUNAI, MANNAR",Northern,42.Mannar,Mannar,Mannar,2.1C,provincial
+11012,ST. MOTHER THERESA R.C.T.M.S.,THALVUPADU ROAD ELUTHOOR MANNAR,Northern,42.Mannar,Mannar,Mannar,3.Type2,provincial
+11013,OLAITHODUVAI R.C.T.M.S.,PESALAI MANNAR,Northern,42.Mannar,Mannar,Mannar,3.Type2,provincial
+11014,KADDUKKARAN KUDIYIRUPPU R.C.T.M.S.,KADDUKKARANKUDIYIRUPPU TALAIMANNNAR,Northern,42.Mannar,Mannar,Mannar,4.Type3,provincial
+11015,ST. LAWRENCE R.C.T.M.S.,"TALAIMANNAR WEST, TALAIMANNAR",Northern,42.Mannar,Mannar,Mannar,3.Type2,provincial
+11016,TALAIMANNAR PIER R.C.T.M.S.,"TALAIMANNAR PIER, TALAIMANNAR",Northern,42.Mannar,Mannar,Mannar,4.Type3,provincial
+11017,THULLUKUDIYIRUPPU R.C.T.M SCHOOL,THULLUKUDIYIRUPPU PESALAI,Northern,42.Mannar,Mannar,Mannar,3.Type2,provincial
+11018,NARUVILIKULAM G.T.M.S.,"NARUVILIKULAM , VANKALAI",Northern,42.Mannar,Mannar,Nanattan,3.Type2,provincial
+11019,NOCHCHIKULAM R.C.T.M.S.,UYILANKULAM MANNAR,Northern,42.Mannar,Mannar,Mannar,4.Type3,provincial
+11020,PUTHUKKAMAM G.T.M.S.,UYILANKULAM,Northern,42.Mannar,Mannar,Mannar,4.Type3,provincial
+11021,ST. MARYS GIRLS VIDYALAYAM,PESALAI,Northern,42.Mannar,Mannar,Mannar,4.Type3,provincial
+11022,VANCHIYANKULAM R.C.T.M SCHOOL,VANKALAI,Northern,42.Mannar,Mannar,Nanattan,3.Type2,provincial
+11024,ERUKKALAMPIDDY MUSLIM MADHYA MAHA VIDYALAYA,"ERUKKALAMPIDDY, MANNAR",Northern,42.Mannar,Mannar,Mannar,1.1AB,provincial
+11026,AL-MINA MAHA VIDYALAYA,THARAPURAM MANNAR,Northern,42.Mannar,Mannar,Mannar,2.1C,provincial
+11027,ERUKKALAMPIDDY MUSLIM MAHALIR MAHA VIDHYALAYAM,WARD NO 4 ERUKKALAMPIDDY,Northern,42.Mannar,Mannar,Mannar,2.1C,provincial
+11028,AL-HIRA MAHA VIDYALAYAM,"PUTHUKKUDIYIRPPU, ERUKKALAMPIDDY",Northern,42.Mannar,Mannar,Mannar,2.1C,provincial
+11029,KARISAL R.C.T.M.S.,"PERIYA KARISAL, PESALAI, MANNAR",Northern,42.Mannar,Mannar,Mannar,2.1C,provincial
+11030,ERUKKALAMPIDDY EAST G.M.M.S.,ERUKKALAMPIDDY 09 MANNAR,Northern,42.Mannar,Mannar,Mannar,4.Type3,provincial
+11031,SIRUTHOPPU R.C.T.M.S.,SIRUTHOPPU PESALAI,Northern,42.Mannar,Mannar,Mannar,4.Type3,provincial
+11032,TALAIMANNAR PIER G.M.M.S.,"TALAIMANNAR PIER, TALAIMANNAR",Northern,42.Mannar,Mannar,Mannar,3.Type2,provincial
+11033,NANATTAN M.V.,NANATTAN MANNAR,Northern,42.Mannar,Mannar,Nanattan,1.1AB,provincial
+11034,MURUNKAN CENTRAL COLLEGE,MURUNKAN,Northern,42.Mannar,Mannar,Nanattan,1.1AB,provincial
+11036,ARIPPU R.C.T.M SCHOOL,"MUTHTHARIPPUTHURAI, CHILAWATHURAI",Northern,42.Mannar,Mannar,Musali,2.1C,provincial
+11037,MARVILANKERNY R.C.T.M.S.,MURUNKAN,Northern,42.Mannar,Mannar,Nanattan,3.Type2,provincial
+11038,MULLIKULAM R.C.T.M.SCHOOL,"MULLIKULAM, MARICHCHIKADDY, MANNAR",Northern,42.Mannar,Mannar,Musali,3.Type2,provincial
+11039,"SIVARAJAH HINDU VID.,","MODDAIKADAI, ANATTAN, MANNAR",Northern,42.Mannar,Mannar,Nanattan,3.Type2,provincial
+11040,PANDARAWELI M.M.V.,PANDARAWELI CHILAWTHURAI MANNAR,Northern,42.Mannar,Mannar,Musali,2.1C,provincial
+11042,VEPPANKULAM M.M.V,P.P.POTKENY,Northern,42.Mannar,Mannar,Musali,2.1C,provincial
+11043,CHILAVATHURAI M.M.V,CHILAVATHURAI,Northern,42.Mannar,Mannar,Musali,2.1C,provincial
+11044,ST. SEBASTIAN ROMAN CATHOLIC TAMIL MIXED VIDYALAYAM,NANATTAN,Northern,42.Mannar,Mannar,Nanattan,3.Type2,provincial
+11045,PUTHUVELI G.M.M.S.,"RASOOLPUTHUVELI, NANATTAN",Northern,42.Mannar,Mannar,Nanattan,3.Type2,provincial
+11046,KAKKAIYANKULAM MUSLIM MAHA VIDYALAYAM,"KAKKAIYANKULAM, IRANAIILLUPPAIKULAM, VAVUNIYA",Northern,42.Mannar,Madhu,Madhu,1.1AB,provincial
+11047,ACHCHANKULAM G.T.M.S.,"ACHCHANKULAM , NANATTAN",Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11048,ALAWAKKAI G.T.M.S.,"ALAWAKKAI, MURUNKAN",Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11049,ISAMALAITHALVU R.C.T.M.S.,ISAIMALAITHALVU MURUNKAN,Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11050,KATKIDANTHAKULAM.R.C.T.M.SCHOOL,MURUNKAN,Northern,42.Mannar,Mannar,Nanattan,3.Type2,provincial
+11051,KOKKUPADAYAN R.C.T.M.S.,KOKKUPADAYAN,Northern,42.Mannar,Mannar,Musali,4.Type3,provincial
+11052,SIRUKKANDAL R.C.T.M.S.,"SIRUKKANDAL, MURUNKAN",Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11053,PARIKARIKANDAL G.T.M.SCHOOL,"PARIKARIKANDAL, MURUNKAN",Northern,42.Mannar,Mannar,Nanattan,2.1C,provincial
+11054,ST.LOURDS MAHA VIDYALAYAM,"PERIYAKUNCHUKULAM, MADHU ROAD",Northern,42.Mannar,Madhu,Madhu,2.1C,provincial
+11055,PERIYAMURIPPU G.T.M.S.,"PERIYAKUNCHUKULAM, MADHU ROAD",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11056,PONTHEEVUKANDAL R.C.T.M.S.,MURUNKAN,Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11057,MARUTHAMADU G.T.M.S.,P.P.POTKERNY,Northern,42.Mannar,Mannar,Musali,4.Type3,provincial
+11058,VALKAIPADDANKANDAL R.C.T.M.S.,MURUNKAN,Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11059,AHATHTHIMURIPPU.G.M.M.S.,"AHATHTHIMURIPPU, P.P.POTKERNY",Northern,42.Mannar,Mannar,Musali,4.Type3,provincial
+11060,KARADIKULLY G.M.M.S SCHOOL,KARADIKULLY MARICHUKATTY,Northern,42.Mannar,Mannar,Musali,3.Type2,provincial
+11061,KONDACHCHI.G.M.M.S.,"KONDACHCHI, CHILAVATHURAI, MANNAR",Northern,42.Mannar,Mannar,Musali,2.1C,provincial
+11062,PALAIKKULI G.M.M.S.,"PALAIKULI, MARICHIKKADDY, MANNAR.",Northern,42.Mannar,Mannar,Musali,3.Type2,provincial
+11063,PERIYA PULLACHI POTKERNY G.M.M.S.,"SILAWATHURAI ROAD, P.P.POTKERNY",Northern,42.Mannar,Mannar,Musali,3.Type2,provincial
+11064,ILANTHAIMODDAI G.M.M.S.,NANATTAN,Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11065,NOCHCHIKKULAM HIJRA G.M.M.S.,ARUVUKKUNRU - NANATTAN,Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11066,IRANAIILLUPPAIKULAM G.T.M.S.,"IRANAIILLUPPAIKULAM, VAVUNIYA",Northern,42.Mannar,Madhu,Madhu,2.1C,provincial
+11067,SINNAVALAYANKADDU G.T.M.S.,IRANAIILUPPAIKULAM,Northern,42.Mannar,Madhu,Madhu,3.Type2,provincial
+11068,VILATHIKULAM G.T.M.S.,"IRANAIILUPPAIKULAM, VAVUNIYA",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11069,ADAMPAN M.M.V.,ADAMPAN,Northern,42.Mannar,Madhu,Manthai West,1.1AB,provincial
+11070,ALIGAR M.V.,"VIDATHAL THEEVU, MANNAR",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11071,PERIYAMADHU M.V.,"PERIYAMADHU, MANNAR",Northern,42.Mannar,Madhu,Manthai West,2.1C,provincial
+11072,SINNAPANDIVIRICHCHAN G.T.M.S.,"SINNAPANDIVIRICHCHAN, MADHU CHURCH",Northern,42.Mannar,Madhu,Madhu,3.Type2,provincial
+11073,PERIYAPANDIVIRICHCHAN M.V.,"PERIYAPANDIVIRICHCHAN, MADHU",Northern,42.Mannar,Madhu,Madhu,1.1AB,provincial
+11074,ANDANKULAM R.C.T.M.S.,ANDANKULAM,Northern,42.Mannar,Madhu,Manthai West,2.1C,provincial
+11075,ILLUPPAIKADAVAI G.T.M.S.,"ILLUPPAIKADAVAI, MANNAR",Northern,42.Mannar,Madhu,Manthai West,1.1AB,provincial
+11076,KARUNKANDAL R.C.T.M.V.,"KATHTHANKULAM, VADDAKKANDAL",Northern,42.Mannar,Madhu,Manthai West,2.1C,provincial
+11077,THADCHANAMARUTHAMADHU M.V.,"THADCHANAMARUTHAMADHU, PALAMPIDDY",Northern,42.Mannar,Madhu,Madhu,2.1C,provincial
+11079,PARAPPANKANDAL R.C.T.M.S.,"PARAPPANKANDAL,UYILANKULAM",Northern,42.Mannar,Madhu,Manthai West,3.Type2,provincial
+11080,VADDAKKANDAL G.T.M.S.,"VADDAKKANDAL, MANNAR",Northern,42.Mannar,Madhu,Manthai West,3.Type2,provincial
+11081,THUYA JOSEPHVAZ M.V.,"VIDATHTHALTHEEVU, MANNAR",Northern,42.Mannar,Madhu,Manthai West,2.1C,provincial
+11082,KADDAYADAMPAN R.C.T.M.S.,"MADHU ROAD, MURUNKAN",Northern,42.Mannar,Madhu,Madhu,2.1C,provincial
+11083,THIRUKKETHEESWARAM HINDU BOARD T.M.S.,"CHERTHTHUKULAM, THIRUKKETHEESWARAM",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11084,ADAMPAN R.C.T.M.S.,"ST.MARY'S ROAD, ADAMPAN, MANNAR",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11086,KALLIYADY G.T.M.S.,"KALLIYADDY, ILLUPPAIKADAVAI",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11087,KOVIKULAM G.T.M.S.,"KOVILKULAM, VIDATHTHALTHEEVU",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11088,GOWRIAMBAL T.M.V.,"THIRUKKETHEESWARAM, MANNAR",Northern,42.Mannar,Mannar,Mannar,2.1C,provincial
+11089,THEVANPIDDY R.C.T.M.V.,"VELLANKULAM, MANNAR",Northern,42.Mannar,Madhu,Manthai West,2.1C,provincial
+11090,PARAPPUKADANTHAN.G.T.M.S.,"PARAPPUKADANTHAN, VADDAKKANDAL",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11091,PAPAMODDAI R.C.T.M.S.,"PAPPAMODDAI, THIRUKKETHESWARAM",Northern,42.Mannar,Madhu,Manthai West,3.Type2,provincial
+11093,PALAIKULY R.C.T.M.S.,"PALAIKULY, ADAMPAN",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11094,PALAIYADIPPUTHUKKULAM R.C.T.M.S.,"PALAIYADDIPUTHUKKULAM, VADDAKKANDAL",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11095,MARATHTHIKANNADDY R.C.T.M.S.,"KANNADDY, ADAMPAN",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11096,VELLANKULAM G.T.M.S.,"VELLANKULAM, MANNAR",Northern,42.Mannar,Madhu,Manthai West,3.Type2,provincial
+11097,MARUTHONDUVAN VELAKULAM G.M.M.S.,"PALLIVASAL PIDDI, AAANDANKULAM",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11099,SORNAPURI G.M.M.S.,"SORNAPURI, ADAMPAN",Northern,42.Mannar,Madhu,Manthai West,3.Type2,provincial
+11100,MINUKKAN G.M.M.S.,"MINUKKAN, THIRUKKETHESWARAM",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11101,KEERISUDDAN G.T.M.S.,"PALAMPIDDY, MADHU",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11103,THAMBAPANNI SINHALA VIDYALAYA,THAMBAPANNI,Northern,42.Mannar,Mannar,Musali,3.Type2,provincial
+11104,MADHU ROAD SINHALA M.V,MADHU,Northern,42.Mannar,Madhu,Madhu,3.Type2,provincial
+11105,KOORAI G.T.M.S.,"AATHTHIMODDAI, MANNAR",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11106,MULLIKULAM G.T.M.S.,IRANNAI ILLUPPAIKULAM,Northern,42.Mannar,Madhu,Madhu,3.Type2,provincial
+11107,MALIHAIPIDDY G.T.M.S.,"MALIHAIPIDDY, MURUNKAN",Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11108,CHEDDIYAR KADDAYADAMPAN G.T.M.S.,CHEDDIYAR KADDAYADAMPAN MURUNKAN,Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11109,MOONRAMPIDDY G.T.M.S.,"MOONRAMPIDDY, VELLANKULAM, MANNAR",Northern,42.Mannar,Madhu,Manthai West,3.Type2,provincial
+11116,THODDAVELI G.T.M.S.,"ERUKKALAMPIDDY, MANNAR",Northern,42.Mannar,Mannar,Mannar,2.1C,provincial
+11117,MADHUKKARAI G.T.M.S.,MADHUKKARAI NANATTAN,Northern,42.Mannar,Mannar,Nanattan,3.Type2,provincial
+11118,SANTHIPURAM G.T.M.S.,MANNAR,Northern,42.Mannar,Mannar,Mannar,4.Type3,provincial
+11119,SAVERIYARPURAM R.C.T.M SCHOOL,"SAVERIYARPURAM, CHILAWATHURAI",Northern,42.Mannar,Mannar,Musali,3.Type2,provincial
+11126,ST. ANNES PRIMARY SCHOOL,"VANKALAI, MANNAR",Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11127,MURUNKAN PRIMARY SCHOOL,MURUNKAN,Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11128,POONOCHCHIKULAM G.M.M.S.,"P.P.POTKERNEY, CHILAWATHURAI, MANNAR",Northern,42.Mannar,Mannar,Musali,4.Type3,provincial
+11130,PERIYAMADHU EAST G.M.M.S.,"PERIYAMADHU EAST, MANNAR",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11131,EACHCHLAWAKKAI G.T.M.S.,"EACHCHLAWAKKAI, PERIYAMADHU, MANNAR",Northern,42.Mannar,Madhu,Manthai West,3.Type2,provincial
+11132,ANTHONIYARPURAM G.T.M.S.,"ANTHONIYARPURAM, ILLUPPAIKKADAVAI, MANNAR",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11133,KAKKAYANKULAM GOVERNMENT MUSLIM TAMIL M.S.,"KAKKAYANKULAM, IRANAIILUPPAIKULAM, VAVUNIYA",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11134,AL-MADEENA G.M.T.M.S.,"MADEENANAGAR, IRANAIILUPPAIKULAM",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11135,PERIYAMADHU PRIMARY SCHOOL,"PERIYAMADHU, MANNAR",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11136,KOOLANKULAM .G.M.M.S.,"KOOLANKULAM, CHILAWATHURAI",Northern,42.Mannar,Mannar,Musali,4.Type3,provincial
+11137,KAYAKULY R.C.T.M.S.,"ST.JUDE NAGAR, KAYAKULY",Northern,42.Mannar,Mannar,Musali,4.Type3,provincial
+11138,PERIYAPANDIVIRICHCHAN PRIMARY SCHOOL,"PERIYAPANDIVIRICHCHAN, MADHU CHURCH",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11139,PANNAVEDDUVAN G.T.M.S.,"MADHU ROAD, MANNAR",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11140,NANATTAN PRIMARY SCHOOL,NANATTAN,Northern,42.Mannar,Mannar,Nanattan,4.Type3,provincial
+11141,AL-RIMSA G.M.M.S.,"PUTHUWELI, CHILAWATHURAI",Northern,42.Mannar,Mannar,Musali,4.Type3,provincial
+11142,CARMELNAGAR R.C.T.M.S.,SP POTKERNY P.P. POTKERNY,Northern,42.Mannar,Mannar,Musali,4.Type3,provincial
+11144,THEVANPIDDY PRIMARY SCHOOL,"THEVANPIDDY, VELLANKULAM",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+11145,IKRA PRIMARY SCHOOL,PICHCHAVANIFA NEDUNKULAM VEPPANKULAM,Northern,42.Mannar,Mannar,Musali,4.Type3,provincial
+11146,AL-JASSIM MAHA VIDYALAYAM,JASSIM CITY MARICHCHUKKADDY,Northern,42.Mannar,Mannar,Musali,2.1C,provincial
+11147,ZAHIRA G.M.M.S.,"ALAKKADDU, P.P.POTKERNY, MANNAR",Northern,42.Mannar,Mannar,Musali,3.Type2,provincial
+11148,"HUNAIS FAROOK G,M,M SCHOOL",HUNAIS NAGAR MARICHCHUKADDY,Northern,42.Mannar,Mannar,Musali,3.Type2,provincial
+11149,BATHIUDEEN. G.M.M.S.,VALLMALI/CHILAWATHURAI,Northern,42.Mannar,Mannar,Musali,3.Type2,provincial
+11151,ALAWDEEN G.M.M. SCHOOL,PERIYA KARISAL PESALAI,Northern,42.Mannar,Mannar,Mannar,4.Type3,provincial
+11153,THAMPANAIKULAM G.T.M.S.,"MALUVARAYARKADDAYADAMPAN, MADHU ROAD",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11154,POOMALARNTHAN PRIMARY SCHOOL,"SOTHINAGAR 2ND MILE POST, MADHU ROAD",Northern,42.Mannar,Madhu,Madhu,4.Type3,provincial
+11155,KANESAPURAM PRIMARY SCHOOL,"KANESAPURAM, VELLANKULAM, MANNAR",Northern,42.Mannar,Madhu,Manthai West,4.Type3,provincial
+12001,MULLAITIVU MAHA VIDYALAYAM,KARACHCHIKKUDIRUPPU MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,1.1AB,provincial
+12002,PUTHUKKUDIYIRUPPU CENTRAL COLLEGE,"WARD NO-01, PUTHUKKUDIYIRUPPU, MULLAITIVU",Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,1.1AB,provincial
+12004,THANNIROOTTU MUSLIM MAHA VIDYALAYAM,"NEERAVIPPIDDY EAST, MULLIYAWALAI,",Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,2.1C,provincial
+12005,CHEMMALAI MAHA VIDYALAYAM,ALAMPIL CHEMMALAI,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,1.1AB,provincial
+12006,AMPALAVANPOKKANAI M.V.,MULLIWAIKKAL MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,2.1C,provincial
+12007,KUMULAMUNAI M.V.,KUMULAMUNAI,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,1.1AB,provincial
+12008,MULLIWAIKKAL WEST JUNIOR HIGH VIDYALAYAM,MULLIWAIKKAL WEST MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12009,PUTHUKKUDIYIRUPPU R.C.T.V.,PUTHUKKUDIYIRUPPU MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12010,VATTAPPALAI M.V.,MULLIYAWALAI,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,2.1C,provincial
+12011,ALAMPIL ROMAN CATHOLIC MAHA VIDYALAYAM,ALAMPIL MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,2.1C,provincial
+12012,MULLAITIVU MUSLIM VIDYALAYAM,PWD ROAD VANNANKULAM MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12013,ALAIKALLUPPODDAKULAM G.T.M.SCHOOL,"PANDARAKKULAM, NEDUNKERNY",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12014,ANANTHAPURAM G.T.M.S.,WARD NO 06 ANANTHAPURAM PUTHUKKUDIYIRUPPU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12015,IRANAIPALAI R C M.V.,WARD NO 5 IRANAIPPALAI PUTHUKKUDIYIRUPPU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,2.1C,provincial
+12016,KALLAPPADU G.T.M.S.,KALLAPPADU NORTH MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12017,KEPPAPILAVU G.T.M.S.,KEPPAPULAVU MULLIYAWALAI MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12018,MAMADU PALAMPASI G.T.M.S.,"PALAMPASI, NEDUNKERNY",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12019,MATHALAN R.C.G.T.M.S.,MATHALAN MULLIVAIKKAL MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12020,MULLAITIVU ROMAN CATHOLIC TAMIL GIRLS' SCHOOL,"UNNAPPULAVU, MULLAITIVU",Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12021,MULLAITIVU H.B.T.M.S.,KARACHCHIKUDIYIRUPPU MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12022,MULLIYAWALAI TAMIL VIDYALAYAM,"WARD NO 2, MULIYAWALAI",Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12023,KALAIMAHAL VIDYALAYAM,"WORD NO.1, MULLIYAWALAI",Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12024,MULLIYAWALAI R.C.T.M.S.,WARD NO03 MULLIYAWALAI MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12025,PERIYAITHTHIMADU G.T.M.S.,"PERIYAITHTHIMADU, ODDUSUDDAN",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12026,SRISUBRAMANIYA VIDYASALAI,WARD NO 2 PUTHUKKUDIYIRUPPU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,4.Type3,provincial
+12027,CHILAWATHAI TAMIL V.,CHILAWATHAI MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12029,SUTHANTHIRAPIRAM TAMIL MAHAVIDYALAYAM,SUTHANTHIRAPURAM COLONY UDAIYARKADDU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,2.1C,provincial
+12030,THANDUVAN G.T.M.SCHOOL,"THANDUVAN, NEDUNKERNY",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,2.1C,provincial
+12031,THANNIYOOTHU C.C.T.M.S.,THANNIYOOTHU MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12032,THANNEEROOTU H.B.T.M.S.,THANNEERUTU MULLIYAWALAI,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12033,THANNIMURIPPU G.T.M.S.,POOTHANVAYAL MULLIYAWALAI MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12034,THEVIPURAM G T M SCHOOL,THEVIPURAM PUTHUKKUDIYIRUPPU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12035,UDAIYARKADDU MAHA VIDYALAYAM,UDIYARKADDU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,1.1AB,provincial
+12036,VALAIYANMADAM G.T.M.S.,VALAYANMADAM MULLIVAIKKAL MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12037,VEDDUVAIKKAL G.T.M.S.,VEDDUVAIKKAL MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12038,MULLIVAIKKAL EAST G.T.M.S.,MULLIVAIKKAL MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12040,OTHIYAMALAI G.T.M.SCHOOL,NEDUNKERNY,Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12041,VALLIPUNAM MAHAVIDYALAYAM,VALLIPURAM PUTHUKKUDIYIRUPPU MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,2.1C,provincial
+12042,VISWAMADU MAHA VIDYALAYAM,VISUVAMADU MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,1.1AB,provincial
+12043,BHARATHY MAHA VIDYALAYAM,"VALLUVARPURAM, VISUVAMADU",Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,2.1C,provincial
+12044,ARUMUKATHTHANKULAM G.T.M.S.,KUMULAMUNAI MULLIYAWALAI,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12045,KOMPAVIL VIGNESWARA VIDYALAYAM,KOMPAVIL PUTHUKKUDIYIRUPPU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12046,ODDUSUDDAN MAHA VIDYALAYAM,ODDUSUDDAN,Northern,44.Mullaitivu,Thunukkai,Oddusuddan,1.1AB,provincial
+12047,MANKULAM MAHA VIDYALAYAM,"A-9 ROAD, MANKULAM",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,1.1AB,provincial
+12049,YOGAPURAM MAHA VIDYALAYAM,YOGAPURAM,Northern,44.Mullaitivu,Thunukkai,Thunukkai,1.1AB,provincial
+12050,NADDANKANDAL G.T.M.SCHOOL,NADDANKANDAL,Northern,44.Mullaitivu,Thunukkai,Manthai East,3.Type2,provincial
+12051,PANDIYANKULAM MAHA VIDYALAYAM,"PANDIYANKULAM, NADDANKANDAL",Northern,44.Mullaitivu,Thunukkai,Manthai East,1.1AB,provincial
+12052,PALINAGAR MAHA VIDYALAYAM,"PALINAGAR, VAVUNIKKULAM",Northern,44.Mullaitivu,Thunukkai,Manthai East,1.1AB,provincial
+12053,KARIPPADDAMURIPPU G.T.M.S.,"KARIPPADDAMURIPPU, MANKULAM",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,3.Type2,provincial
+12054,OLUMADU TAMIL VIDYALAYAM,OLUMADU MANKULAM,Northern,44.Mullaitivu,Thunukkai,Oddusuddan,3.Type2,provincial
+12055,PANDARAVANNIYAN M.V.,ODDUSUDDAN,Northern,44.Mullaitivu,Thunukkai,Oddusuddan,2.1C,provincial
+12056,MUTHTHUIYANKADDU RIGHT BANK MAHA VIDYALAYAM,"MUTHTHUUVINAYAGAPURAM, ODDUSUDDAN",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,1.1AB,provincial
+12057,KOLLAVILANKULAM G.T.M.SCHOOL,"KOLLAVILANKULAM, VAVUNIKKULAM",Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12058,SIRADDIKULAM G.T..M.SCHOOL,NADDANKANDAL,Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12059,PANANKAMAM MOONRU MURIPPU G.T.M.SCHOOL,"PANANKAMAM, NADDANKANDAL",Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12061,MOONRUMURIPPU G.T.M.SCHOOL,"MOONRUMURIPPU, NADDANKANDAL",Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12062,VAVUNIKKULAM CENTRAL SULUSU G.T.M.SCHOOL,"SIVAPURAM, VAVUNIKKULAM",Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12063,VANNIVILANKULAM G.T.M.SCHOOL,"VANNIVILANKULAM, MANKULAM",Northern,44.Mullaitivu,Thunukkai,Manthai East,3.Type2,provincial
+12064,AMPAKAMAM.G.T.M.S.,"AMPAKAMAM, MANKULAM",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12065,KARUVELANKANDAL G.T.M SCHOOL,ODDUSUDDAN,Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12066,KATHALIYARSAMALANKULAM G.T.M SCHOOL,ODDUSUDDAN,Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12067,KOOLAMURIPPU G.T.M SCHOOL,KOOLAMURIPPU,Northern,44.Mullaitivu,Thunukkai,Oddusuddan,3.Type2,provincial
+12068,MUTHTHUIYANKADDU LEFT BANK G.T.M.SCHOOL,"MUTHTHUIYANKADDU LEFT BANK, ODDUSUDDAN",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,3.Type2,provincial
+12069,PULUMACHCHINATHAKULAM G.T.M.S.,"PULUMACHINATHAKULAM, MANKULAM",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12070,ODDUSUDDAN H.T.M.SCHOOL,"SIVANKOOVILADY, ODDUSUDDAN",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12071,PANIKKANKULAM G.T.M SCHOOL,"A9 ROAD, PANIKKANKULAM, MANKULAM",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12072,PERIYAPULIYANKULAM G.T.M.S.,MANKULAM,Northern,44.Mullaitivu,Thunukkai,Oddusuddan,3.Type2,provincial
+12073,KALVILAANKULAM MAHA VIDYALAYAM,"KALVILAN, THUNUKKAI",Northern,44.Mullaitivu,Thunukkai,Thunukkai,3.Type2,provincial
+12074,ALANKULAM G.T.M.S.,THUNUKKAI,Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+12075,ANINCHIYANKULAM TAMIL MIXED VIDYALAYAM,"ANINCHIYANKULAM, YOGAPURAM",Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+12077,PUTHTHUVEDDUVAN G.T.M.S.,"PUTHTHUVEDDUVAN, MANKULAM",Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+12078,THENIYANKULAM G.T.M.S.,THENIYANKULAM THUNUKKAI,Northern,44.Mullaitivu,Thunukkai,Thunukkai,3.Type2,provincial
+12079,THUNUKKAI G.T.M.S.,THUNUKKAI,Northern,44.Mullaitivu,Thunukkai,Thunukkai,3.Type2,provincial
+12080,UYILANKULAM G.T.M SCHOOL,THUNUKKAI,Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+12081,THIRUNAGAR TAMIL VIDYALAYAM,THIRUNAGAR YOGAPURAM,Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+12082,AMBALAPERUMALKULAM G.T.M SCHOOL,AKKARAYANKULAM,Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+12083,KODDAIKADIYAKULAM MAHA VIDYALAYAM,AKKARAYAN,Northern,44.Mullaitivu,Thunukkai,Thunukkai,2.1C,provincial
+12084,VINAYAGAPURAM G.T.M.SCHOOL,"VINAYAKAPURAM, THUNUKKAI",Northern,44.Mullaitivu,Thunukkai,Manthai East,3.Type2,provincial
+12085,MANNAKANDAL G.T.M.S.,"MANNAKANDAL , PUTHUKKUDIYIRUPPU",Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,4.Type3,provincial
+12086,THIRUMURIKANDY HINDU VIDYALAYAM,"THIRUMURIKANDY, MANKULAM",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,3.Type2,provincial
+12087,KOKILAI SINHALA V.,MULLATHIU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12088,KOKKUTHODUVAI M.V.,MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,2.1C,provincial
+12089,KOKKULAI G.T.M.S.,KOKKULAI WEST,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12091,KAIVELY KANESA VIDYALAYAM,"WARD NO.02, KAIVELY PUTHUKKUDIYIRUPPU",Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12092,KARUNADUKKERNY G.T.M.S.,KARUNADDUKKERNY KOKKILAI,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12093,VENAVIL SRIMURUGANANTHA VIDYALAYAM,WARD NO 1 VENAVIL PUTHUKKUDIYIRUPPU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12094,UDUPPUKKULAM TAMIL VIDYALAYAM,UPPUMAVELY MULLAITIVU,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,3.Type2,provincial
+12095,AROKKIYAPURAM TAMIL VIDYALAYAM,AROKKIYAPURAM AKKARAYANKULAM,Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+12096,THERANKANDAL G.T.M.S.,THERANKANDAL,Northern,44.Mullaitivu,Thunukkai,Thunukkai,3.Type2,provincial
+12097,AMATHIPURAM TAMIL VIDYALAYAM,AMATHIPURAM AKKARAYANKULAM,Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+12098,PONNAGAR TAMIL VIDYALAYAM,"PONNAGAR, NADDANKANDAL",Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12099,AMPALPURAM TAMIL VIDYALAYAM,"AMPALPURAM, VAVUNIKKULAM",Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12101,UNNAPPULAVU TAMIL VIDYALAYAM,"PONNAGAR, MULLIYAWALAI",Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12102,PALAIPPANI TAMIL VIDYALAYAM,"PALAIPPANI, MANKULAM",Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12103,MANTHUVIL ARASARATNAM VIDYALAYAM,"WARD NO 8,MANTHUVIL, PUTHUKKUDIYIRUPPU",Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12104,IYANKANKULAM M.V.,"IYANKANKULAM, PUTHTHUVEDDUVAN",Northern,44.Mullaitivu,Thunukkai,Thunukkai,2.1C,provincial
+12105,KURAVIL TAMIL VIDYALAYAM,"UDAYARKADDU SOUTH, UDAYARKADDU",Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12106,IRUDDUMADU TAMIL VIDYALAYAM,IRUDDUMADU UDAIYARKADDU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12107,THERAVIL TAMIL VIDYALAYAM,ILANGOPURAM THERAVIL VISUVAMADU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,3.Type2,provincial
+12108,NETHALIYARU TAMIL VIDYALAYAM,VISUVAMADU WEST VISUMADU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,4.Type3,provincial
+12109,SIVANAKAR TAMIL V.,PUTHUKKUDIYIRUPPU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,4.Type3,provincial
+12110,PERARU TAMIL VIDYALAYAM,"PERARU, ODDUSUDDAN",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12111,MURIPPU TAMIL VIDYALAYAM,MURIPPU MULLIYAWALAI,Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,4.Type3,provincial
+12112,PANDIYANKULAM PRIMARY SCHOOL,"PANDIYANKULAM, NADDANKANDAL",Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12113,MAYILVAGANAM TAMIL VIDYALAYAM,MALLAVI YOGAPURAM,Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+12114,ARUMUGAM VIDYALAYAM,VITHYAPURAM ODDUSUDDAN,Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12115,EASWARAN VIDYALAYAM,"SINNACHALAMPAN, ODDUSUDDAN",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12116,MUTHTHUVUNAYAGAR TAMIL VIDYALAYAM,"MUTHTHUVINAYAGAPURAM, MUTHTHUIYANKADDU",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12117,SANMUGARATNAM VIDYALAYAM,"NEW COLONY, MANKULAM.",Northern,44.Mullaitivu,Thunukkai,Oddusuddan,4.Type3,provincial
+12118,UDAIYARKADDU G.T.M.SCHOOL,UDAIYARKADDU SOUTH UDAIYARKADDU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,4.Type3,provincial
+12119,VISUVANATHAR PRIMARY SCHOOL,VISUVAMADU EAST VISUVAMADU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,4.Type3,provincial
+12120,KUMARASAMY VIDYALAYAM,"PALINAGAR, VAVUNIKULAM",Northern,44.Mullaitivu,Thunukkai,Manthai East,4.Type3,provincial
+12121,MOONKILARU PRIMARY SCHOOL,UDAYARKADDU SOUTH MOONKILARU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,4.Type3,provincial
+12122,PARANAGAMAWEWA SCHOOL,"GAJABAPURA, WELIOYA, ETHAWETUNUWEWA",Northern,44.Mullaitivu,Mullaitivu,Welioya,3.Type2,provincial
+12123,HELAMBAWEWA PRIMARY SCHOOL,"HELAMBAWEWA, WELIOYA",Northern,44.Mullaitivu,Mullaitivu,Welioya,4.Type3,provincial
+12124,THIMPILI PRIMARY SCHOOL,KARNANKUDIYIRUPPU THIMPILY PUTHUKKUDIYIRUPPU,Northern,44.Mullaitivu,Mullaitivu,Puthukkudiyiruppu,4.Type3,provincial
+12125,YOGAPURAM P.V.,"YOGAPURAM, MALLAVI",Northern,44.Mullaitivu,Thunukkai,Thunukkai,4.Type3,provincial
+13003,OMANTHAI CENTRAL COLLEGE,A9 ROAD OMANTHAI,Northern,43.Vavuniya,Vavuniya North,Omanthai,1.1AB,provincial
+13005,VAVUNIYA HINDU COLLEGE,KOVILPUTHUKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),2.1C,provincial
+13006,NELUKKULAM KALAIMAKAL MAHA VIDYALAYAM,"NELUKKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),1.1AB,provincial
+13007,VAVUNIYA VIPULANANTHA COLLEGE,"PANDARIKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),1.1AB,provincial
+13008,PERIYAKOMARASANKULAM MAHA VIDYALAYAM,PERIYAKOMARASANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),2.1C,provincial
+13009,PUTHUKKULAM M.V.,"SASTHIRIKOOLANKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya North,Omanthai,1.1AB,provincial
+13010,THANDIKULAM PIRAMANDU VIDYLAYAM,THANDIKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13011,CHURCH CEYLON TAMIL MIXED SCHOOL,KUDDIYIRUPPU VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),2.1C,provincial
+13012,SAIVAPRAGASA LADIES COLLEGE,VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),1.1AB,provincial
+13013,VELIKULAM JUNIOR HIGH SCHOOL,VELIKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13014,CHEMAMADU SHANMUGANANTHA VIDYALAYAM,"CHEMAMADUKKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya North,Omanthai,2.1C,provincial
+13015,NOCHCHIMODDAI JUNIOR SECONDARY VIDYALAYAM,"NOCHCHIMODDAI, OMANTHAI",Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13016,ASIKULAM G.T.M.S.,"ASIKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13017,KALMADU MAHA VIDYALAYAM,IRANAIILUPPAIKKULAM KALMADU,Northern,43.Vavuniya,Vavuniya North,Omanthai,2.1C,provincial
+13018,KATHTHARSINNAKULAM G.T.M.S.,KATHTHARSINNAKULAM,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13019,KARUNKALIKKULAM G.T.M.S.,KARUNKALIKKULAM MAMADU VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13020,KALNATTINAKULAM G.T.M.S.,KALNATTINAKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13021,KIDACHCHOORI KARUVEPANKULAM G.T.M.S.,"SAASTHIRIKOOLANKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13022,KOTHANDAR NOCHCHIKKULAM G.T.M.S.,KOTHANDAR NOCHCHIKKULAM SAASTHIRIKOOLANKULAM,Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13023,MARUKKARAMBALAI G.T.M.S.,"MARUKKARAMBALAI, VAVUNIYA",Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13024,MOONRUMURIPPU G.T.M.S.,KANDY ROAD VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13025,POONTHODDAM MAHA VIDYALAYAM,POONTHODDAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),2.1C,provincial
+13027,SAMALANKULAM G.T.M.S.,SAMALANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13028,THAVASIYAKULAM G.T.M.S.,SAASTHRIKOOLANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13029,KALMADU UNIT 11 G.M.M.S.,IRANAIILUPPAIKULAM,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13030,KANTHAPURAM VANI VIDYALAYAM,KANTHAPURAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),2.1C,provincial
+13033,MARUTHODAI G.T.M.S.,"MARUTHODAI, OMANTHAI",Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13034,NOCHCHIKULAM NO 01 J.S.V.,MARAIYADITHTHAKULAM OMANTHAI,Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13035,PUTHIYA SINNAKKULAM G.T.M.S.,"PUTHIYASINNAKKULAM, OMANTHAI",Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13036,PARANADDAKAL G.T.M.S.,OMANTHAI,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13037,KANAKARAYANKULAM MAHA VIDYALAYAM,KANAKARAYANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,1.1AB,provincial
+13038,NEDUNKERNY MAHA VIDYALAYAM,NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,1.1AB,provincial
+13039,MATHARPANIKKARMAHILANKULAM J.S.V.,"PALAMODDAI, OMANTHAI",Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13040,PULIYANKULAM HINDU COLLEGE,PULIYANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,2.1C,provincial
+13041,KULAVISUDDAN G.T.M.S.,KULAVISUDDAN NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,3.Type2,provincial
+13042,SINNAPOOVARASANKULAM VICKNESWARA MAHA VIDYALAYAM,SINNAPOOVARASANKULAM PULIYANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,2.1C,provincial
+13043,SINNADAMPAN BARATHY VIDYALAYAM,SINNADAMPAN NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,2.1C,provincial
+13044,MARAVILUPPAI G.T.M.S.,MARAVILUPPAI NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,3.Type2,provincial
+13045,PADDIKKUDIYIRUPPU G.T.M.S.,PADDIKKUDIYIRUPPU NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,3.Type2,provincial
+13048,KOVILKUNCHUKKULAM G.T.M.S.,PALAMODDAI VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13049,KONTHAKKARANKULAM G.T.M.S.,"KONTHAKKARANKULAM, OMANTHAI",Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13050,MARAIYADITHTHAKULAM G.T.M.S.,MARAIYADITHTHAKULAM OMANTHAI,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13051,MANNAKULAM G.T.M.S.,MANNAKULAM MANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13052,PANRIKKEITHAKULAM G.T.M.S.,"PANRIKKEITHAKULAM, OMANTHAI",Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13053,PALAMODDAI G.T.M.S.,PALAMODDAI VAVVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13054,PALAYAWADY G.T.M.S.,PALAYAWADY PULIYANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13057,VEDARMAHILANKULAM GTMS,"MAHILANKULAM, OMANTHAI",Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13058,AYILADY G.T.M.S.,AYILADY NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13059,ANANTHAPULIYANKULAM G.T.M.S.,ANANTHAPULIYANKULAM PULIYANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13060,KARAPPUKUTHTHI G.T.M.S.,KANAKARAYANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13061,KATKULAM G.T.M.S.,KATKULAM NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13063,MATHIYAMADU VIVEKANANTHA VIDYALAYAM,MATHIYAMADU PULIYANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,3.Type2,provincial
+13064,NAINAMADU G.T.M.S.,NAINAMADU NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13066,PERIYAMADU G.T.M.S.,PERIYAMADU NEDUNKENY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13067,NEDUNKERNY MARUTHODAI G.T.M.S.,"MARUTHODAI, NEDUNKERNY",Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13069,VELANKULAM G.T.M.S.,"VELANKULAM, NEDUNKERNY",Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13070,PADDADAIPIRINTHAKULAM G.T.M.S.,NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13071,OLUMADU TAMIL MAHA VIDYALAYAM,OLUMADU NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,2.1C,provincial
+13072,CHEDDIKULAM MAHA VIDYALAYAM,CHEDDIKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,1.1AB,provincial
+13073,PAVATKULAM GANESWARA MAHA VIDYALAYAM,"UNIT - 04, VARIKUDDIYOOR, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,2.1C,provincial
+13074,AL-AKSHA MAHA VIDYALAYAM,"SALAMBAIKULAM, POOVARASNKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),2.1C,provincial
+13075,PAVATKULAM M.V.,"UNIT-1, PAVATKULAM",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13076,PAVATKULAM STAGE 03 NO 09 JUNIOR HIGH VIDYALAYAM,ARASADIKKULAM CHEDDIKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13077,PERIYATHAMPANAI MAHA VIDYALAYAM,"PERIYATHAMPANAI, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13078,POOVARASANKULAM MAHA VIDYALAYAM,POOVARASANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),2.1C,provincial
+13079,ANDIYAPULIYANKULAM M.V.,ANDIYAPULIYANKULAM CHEDDIKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,2.1C,provincial
+13080,ALHAMIYA MAHA VIDYALAYAM,"MANKULAM, NERIYAKULAM",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,1.1AB,provincial
+13081,AL-IQBAL MAHA VIDYALAYAM,"SOODUVENTHAPULAVU, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,2.1C,provincial
+13082,AL-AMEEN MUSLIM M.V.,UNIT 2 PAVATKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,2.1C,provincial
+13083,CHEKKADIPULAVU G.T.M.SCHOOL,"PAMPAIMADU, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13084,KIRISTHOKULAM G.T.M.S.,KIRISTHOKULAM CHEDDIKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13085,ADAIKALA ANNAI VIDYALAYAM,NERIYAKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,3.Type2,provincial
+13086,EYANKARAVOOR G.T.M.SCHOOL,"POOVARASANKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13088,KOVILPULIYANKULAM MUTHTHAMIL VIDYALAYAM,IRANAIILUPPAIKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,2.1C,provincial
+13090,KURUKKALPUTHUKULAM G.T.M.S,"POOVARASANKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,3.Type2,provincial
+13091,MUHATHANKULAM G.T.M.SCHOOL,CHEDDIKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13092,MUTHALIYARKULAM R.C.T.M.S.,"MUTHALIYARKULAM, CHEDDIKULAM",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,3.Type2,provincial
+13094,PERIYANOCHCHIKKULAM R.C.T.M.S.,"NERIYAKULAM, VAVUNIYA.",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13096,PAVATKULAM KALAIMAKAL VIDYALAYAM,UNIT 6 VARIKUDDIYOOR VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13099,RAJENDRAMKULAM GOVERNMENT TAMIL MIXED SCHOOL,"RAJENDRAMKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13101,ARAFA VIDYALAYAM,"PULITHARITHTHAPULIYANKULAM,MANNAR ROAD, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),2.1C,provincial
+13102,DHARUL ULOOM MUSLIM VIDYALAYAM,"SINNACHCHIPPIKKULAM, NERIYAKULAM.",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,2.1C,provincial
+13103,AANAIVILUNTHAN MUSLIM MAHA VIDYALAYA,"AANAIVILUNTHAN, NERIYAKULAM",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13104,MADUKKULAM NAVAJOTHI VIDYALAYAM,POOVARASANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13106,KANDASAMINAGAR VIPULANANDA VIDYALAYAM,"VARIKUDDIYOOR, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13107,VEERAMANIKKANKULAM THIRUMAHAL VIDYALAYAM,"THUDDUWAAKAI, NERIYAKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13108,ANPUPURAM NAMAGAL VIDYALAYAM,CHEDDIKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13109,SIRISUMANA MAHA VIDYALAYA,"P/ULUKKULAMA, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),2.1C,provincial
+13112,AGRABODHI MAHA VIDYALAYA,"MAMADUVA,VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),2.1C,provincial
+13113,ALAGALLA VIDYALAYA,ALAGALLA VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),3.Type2,provincial
+13114,PARAKUM M.V.,"IRATPERIYAKULAMA, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),1.1AB,provincial
+13115,ATTABAGASKADA VIDYALAYA,ATTABAGASKADA VAVUNIYAVA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),3.Type2,provincial
+13116,MAHAKACHCHAKODIYA G.S.M SCHOOL,MAHAKACHCHAKODIYA VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13118,PALAYAORUVA VIDYALAYA,PAWAKKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13119,"DHARMAPALA VIDYALAYA, PERIYA ULUKKULAM","PERIYA ULUKKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),3.Type2,provincial
+13121,KALUKUNNAMMADUVA VIDYALAYA,KALUKUNNAMMADUVA VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13123,MAHAMAILAMKULA G.S.M SCHOOL,MAHAMAILANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13124,NEDUMKULAMA G.S.M SCHOOL,NEDUNKULAMA VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13126,ARUGAMPULELIYA VIDYALAYA,"ARUGAMPULELIYA, VAVUNIYAVA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13127,MOONDRIMURIPPU G.S.M SCHOOL,MOONDRIMURUPPU VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13128,MARADAMMADUVA GOVERNMENT SINHALA MIXED SCHOOL,MARADAMMADUVA NEERIYAKULAM VAVUNIYAVA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13129,KUDAKACHCHAKODIYA VIDYALAYA,KUDAKACHCHAKODIYA VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13130,NOCHCHIKULAM MUTHTHUMARY VIDYALAYAM,NOCHCHIKULAM PULIYANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13131,PERIYAKULAM G.T.M.S.,"PERIYAKULAM, KANAGARAYANKULAM",Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13132,ALANKULAM MURUGANANTHA VIDYALAYAM,"ALANKULAM, KANAGARAYANKULAM",Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13133,VIGGNANAKULAM NAVARATHTHENAM VIDYALAYAM,KANAGARAYANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13134,SELVAVINAYAKAR VIDYALAYAM,"SANNASI PARANTHAN, PULIYANKULAM",Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13135,KURISUDDAKULAM G.T.M.S.,KANAGARAYANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13136,SENAIPULAVU UMAIYAL VIDYALAYAM,SENAIPULAVU NEDUNKERNY,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13139,PRAMANANLANKULAM VIGNESVARA VIDYALAYAM,MANNAR ROAD PERIYATHAMPANAI,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13140,NEELIYAMOODDAI SARASWATHY VIDYALAYAM,POOVARASANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13141,GANESHAPURAM SHANMUKANANTHA VIDYALAYAM,MADHU ROAD VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,3.Type2,provincial
+13144,NITHTHIYANAGAR LOGESWARI VIDYALAYAM,POOVARASANKULAM VAVAUNIYA,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13145,MANIYAR KULAM VIDYANANTHA VIDYALAYAM,MANIYARKULAM POOVARASANKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13146,MUHATHANKULAM VIGNESWARA VIDYALAYAM,1ST FARM MUHATHANKULAM CHEDDIKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13147,KANKANKULAM SRISUBRAMANIYA VIDYALAYAM,"KANKANKULAM, CHEDDIKULAM",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13148,KATKARANKULAM ILANGO VIDYALAYAM,"KATKARANKULAM, KANTHINAGAR, CHEDDIKULAM.",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13150,VEERAPURAM MANIVASAGAR MAHA VIDYALAYAM,NERIYAKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,2.1C,provincial
+13151,ARUVITHODDAM SIVANANTHA VIDYALAYAM,MENICK FARM CHEDDIKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,3.Type2,provincial
+13152,VAVUNIYA POOSANIPIDDY THAYUMANAVAR VIDYALAYAM,"2ND FARM, CHEDDIKULAM",Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13153,KALLARU SRI SITHTHIVINAYAKAR VIDYALAYAM,THADDANKULAM CHEDDIKULAM,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13154,MAHARAMBAIKULAMG.T.M.SCHOOL,MAHARAMBAIKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13155,MADEENA VIDYALAYA,MATHEENA NAGAR MAHARAMBAIKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13156,THAMPANASOLAI KETHESWARA VIDYALAYAM,THAMPANAISOLAI VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13157,KARUMPANICHANKULAM G.T.M.S.,KARUMPANICHANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13158,THIRUGANANASAMPANTHAR VIDYALAYAM,SRIRAMAPURAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13159,ANNANAGAR PARAMESWARA VIDYALAYAM,ANNANAGAR VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13160,MURUGANOOR SARATHA VIDYALAYAM,MURUGANOOR VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13161,PARASAKTHY VIDYALAYAM,TKETKILLUPPAIKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13162,KOOMANKULAM SITHIVINAYAKAR VIDYALAYAM,KOOMANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13163,POOMPUKAR KANNAKI VIDYALAYAM,IRANAIILUPPAIKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13164,SUNTHARAPURAM G.T.M.S.,"SAASTHIRIKOOLANKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13165,GANESHAPURAM VINAYAGAR VIDYALAYAM,"MARUKARAMPALAI ROAD, KANESHAPURAM VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13166,KATPAKAPURAM G.T.M.S.,"PAMPAIMADU, VAVUNIYA`",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13167,ANANTHAKUMARASAMY VIDYALAYAM,PUTHIYAVELARSINNAKULAM OMANTHAI,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13170,VILATHTHIKKULAM SITHAMPARAM VIDYALAYAM,VILATHTHIKKULAM OMANTHAI,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13173,MANIKKA ILUPPAIKKULAM G.T.M.S.,MANIKKA ILUPPAIKKULAM OMANTHAI,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13174,PARATHIPURAM BARATHY VIDYALAYAM,BARATHIPURAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13175,SIVAPURAM PRIMARAY SCHOOL,4TH MILE POST MANNAR ROAD VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13176,THALIKKULAM.G.T.M.SCHOOL,"POOVARASANKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13177,VEERAMAMUNIVAR VIDYALAYAM,"ALAIKALLUPPODAKULAM, OMANTHAI",Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13178,SENGALPADAI THIRUKKUMARAN VIDYALAYAM,"IRANAI ILUPPAIKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13179,KOKWELIYA VIDYALAYA,KOKWELIYA VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+13181,PUTHUKKULAM PANDITHAMANI KANAPATHIPPILLAI VIDYALAYAM,"PUTHUKKULAM, KANAGARAYANKULAM",Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13182,KOLLAR PULIYANKULAM SRIRAMAKIRISHNA VIDYALAYAM,KOLLARPULIYANKULAM MANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13183,THANINAYAHAM ADIKALAR VIDYALAYAM,"RAMAR PULIYANKULAM, PULIYANKULAM",Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13184,KUNCHUKULAM PANDARAVANNIYAN VIDYALAYAM,KUNCHUKULAM MANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13186,SITHAMPARAPURAM SRI NAGARAJAH VIDYALAYAM,SITHAMPARAPURAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),3.Type2,provincial
+13187,SRIKIRISHNA VIDYALAYAM,"SINNATHTHAMBANAI, POOVARASANKULAM",Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13194,THIRUVALLUVAR VIDYALAYAM,"KADDAYARKULAM, SASTHIRIKOOLANKUAM",Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13195,THARANIKULAM GANESHA VIDYALAYAM,SASTHIRIKOOLANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,2.1C,provincial
+13196,BHARATHITHASAN VIDYALAYAM,"MARAVANKULAM, SASTHIRIKOOLANKULAM",Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13197,SUNTHARAPURAM SARASWATHY VIDYALAYAM,SAASDTHRIKOOLANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,3.Type2,provincial
+13198,PUTHUKKULAM JUNIOR SCHOOL,SASHTHIRIKOOLANKULAM,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13200,RISHAD BATHIUDEEN MUSLIM VIDYALAYAM,SOODUVENTHAPULAVU,Northern,43.Vavuniya,Vavuniya South,Vengalacheddikulam,4.Type3,provincial
+13201,SAIVAPRAGASA PRIMARY SCHOOL,"U.C.ROAD, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13202,KANAGARAYANKULAM PRIMARY VIDYALAYAM,KANAGARAYANKULAM,Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13203,BOGASWEWA VIDYALAYA,"BOGASWEWA, VAVUNIYA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),2.1C,provincial
+13204,POOVARASU PRIMARY SCHOOL,MANNAR ROAD POOVARASANKULAM,Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13205,PULIYANKULAM PRIMARY SCHOOL,"PULIYANKULAM, VAVUNIYA",Northern,43.Vavuniya,Vavuniya North,Nedunkerny,4.Type3,provincial
+13206,THARANIKKULAM PRIMARY SCHOOL,SASHTHIRIKOOLANKULAM VAVUNIYA,Northern,43.Vavuniya,Vavuniya North,Omanthai,4.Type3,provincial
+13207,AAYSHA VIDYALAYAM,"NEW SALAMBAIKKULAM, PAMBAIMADU, VAVUNIYA.",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),4.Type3,provincial
+13208,ROSHAN MAHANAMA VIDYALAYA,"WEHERATHANNA, BOGASVAVA",Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),4.Type3,provincial
+19098,ETHAWETUNUWEWA SCHOOL,"WELIOYA, ETHAWETUNUWEWA",Northern,44.Mullaitivu,Mullaitivu,Welioya,3.Type2,provincial
+19099,KIRIIBBANWEWA VIDYALAYA,"KIRIIBBANWEWA, WELIOYA",Northern,44.Mullaitivu,Mullaitivu,Welioya,2.1C,provincial
+19101,EHETUGASWEWA VIDYALAYA,"EHETUGASWEWA, WELIOYA",Northern,44.Mullaitivu,Mullaitivu,Welioya,2.1C,provincial
+19561,JANAKAPURA SCHOOL,"JANAKAPURA, WELIOYA",Northern,44.Mullaitivu,Mullaitivu,Welioya,4.Type3,provincial
+19596,KALYANIPURA SCHOOL,"KALYANIPURA, WELIOYA, ETHAWETUNUWEWA",Northern,44.Mullaitivu,Mullaitivu,Welioya,3.Type2,provincial

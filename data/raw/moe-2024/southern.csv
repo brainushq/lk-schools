@@ -1,0 +1,1031 @@
+census_no,school_name,school_address,province,district,zone,education_division,school_type,category
+6002,SIDDHARTHA CENTRAL COLLEGE,BALAPITIYA,Southern,31.Galle,Ambalangoda,Balapitiya,1.1AB,provincial
+6003,HEGALLA MAHA VIDYALAYA,"HEGALLA, KOSGODA",Southern,31.Galle,Ambalangoda,Balapitiya,2.1C,provincial
+6004,KANDEGODA MAHA VIDYALAYA,AMBALANGODA,Southern,31.Galle,Ambalangoda,Balapitiya,2.1C,provincial
+6005,AHUNGALLA RAJAPAKSHA MAHA VIDYALAYA,AHUNGALLA,Southern,31.Galle,Ambalangoda,Balapitiya,2.1C,provincial
+6006,SRIPATHI M.V.,WATHUGEDARA,Southern,31.Galle,Ambalangoda,Balapitiya,2.1C,provincial
+6008,AMPE K.V.,"AMPE, BALAPITIYA.",Southern,31.Galle,Ambalangoda,Balapitiya,3.Type2,provincial
+6009,BALAPITIYA KANISHTA VIDYALAYA,"GALLE RD, BALAPITIYA",Southern,31.Galle,Ambalangoda,Balapitiya,4.Type3,provincial
+6010,HEENATIYA K.V.,"HEENATIYA, BALAPITIYA",Southern,31.Galle,Ambalangoda,Balapitiya,3.Type2,provincial
+6011,KATUWILA KANISHTA VIDYALAYA,KATUWILA AHUNGALLA,Southern,31.Galle,Ambalangoda,Balapitiya,4.Type3,provincial
+6012,MADOOWA K.V.,MADOOWA BALAPITIYA,Southern,31.Galle,Ambalangoda,Balapitiya,3.Type2,provincial
+6013,PATHIRAJA MAHA VIDYALAYA,URAGASMANHANDIYA.,Southern,31.Galle,Ambalangoda,Balapitiya,3.Type2,provincial
+6014,RANDOMBA DAMNADA VIDYALAYA,AMBALANGODA,Southern,31.Galle,Ambalangoda,Balapitiya,3.Type2,provincial
+6015,SIRI ABHAYATISSA MAHA VIDYALAYA,"SEENIGODA, WATHUGEDARA.",Southern,31.Galle,Ambalangoda,Balapitiya,3.Type2,provincial
+6016,SIRI ABHAYA TISSA KANISHTA VIDYALAYA,WATHUGEDARA,Southern,31.Galle,Ambalangoda,Balapitiya,3.Type2,provincial
+6017,WATHURAWELA GAMINI K.V.,"WATHURAWELA, KOSGODA.",Southern,31.Galle,Ambalangoda,Balapitiya,3.Type2,provincial
+6018,SRI WIMALASARA K.V.,MAHAKARAWA BALAPITIYA,Southern,31.Galle,Ambalangoda,Balapitiya,4.Type3,provincial
+6019,AHUNGALLA NEW MODEL SCHOOL,"GALWEHERA, AHUNGALLA",Southern,31.Galle,Ambalangoda,Balapitiya,4.Type3,provincial
+6033,ALUTHWALA MAHA WIDYALAYA,ALUTHWALA,Southern,31.Galle,Ambalangoda,Ambalangoda,2.1C,provincial
+6034,BATAPOLA M.M.V.,BATAPOLA,Southern,31.Galle,Ambalangoda,Ambalangoda,1.1AB,provincial
+6037,GRAMANI M.V.,KALUWADUMULLA AMBALANGODA,Southern,31.Galle,Ambalangoda,Ambalangoda,2.1C,provincial
+6038,NINDANA M.V.,NINDANA BATAPOLA,Southern,31.Galle,Ambalangoda,Ambalangoda,2.1C,provincial
+6039,AMBALANGODA PRAJAPATHI GOTHAMI BALIKA M.V.,AMBALANGODA,Southern,31.Galle,Ambalangoda,Ambalangoda,1.1AB,provincial
+6040,GONAPINUWALA SARALANKARA M.V.,GONAPINUWALA,Southern,31.Galle,Ambalangoda,Ambalangoda,1.1AB,provincial
+6041,TELEKADA MAHA VIDYALAYA,GINIMALLAGAHA,Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6042,BERATHUDUWA K.V.,"BERATHUDUWA, GONAPINUWALA",Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6044,GINIMELLAGAHA K.V.,GINIMELLAGAHA,Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6046,SHASTHRALOKA K.V.,"KARUWALABEDDA, MEETIYAGODA.",Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6047,KIRALAGAHAWELA P.V.,"KIRALAGAHAWELA, MEETIYAGODA",Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6048,KIRIBATHAWILA K.V.,"DUNWATTHA, BADDEGAMA",Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6049,MAJUWANA K.V.,"MAJUWANA, KERADEWALA",Southern,31.Galle,Galle,Baddegama,4.Type3,provincial
+6050,POLWATTA SRI BUDDHADATHTHA MODEL SCHOOL,"POLAWATTA, AMBALANGODA",Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6051,WATHURAWILA DHARMAPALA K.V.,BATAPOLA,Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6052,SIRI ANOMADASSI K.V.,BATAPOLA,Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6055,DORALA K.V.,"DORALA, BATAPOLA.",Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6057,WOODLAND K.V.,GONAPINUWALA,Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6058,HALPATHOTA K.V.,"HALPATHOTA, BADDEGAMA",Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6059,SRI DARMALOKA K.V.,"HORAGAMPITA, GINIMELLAGAHA",Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6060,KAHATAPITIYA K.V.,BATAPOLA,Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6061,BATAPOLA SRI KALYANATHISSA K.V.,BATAPOLA,Southern,31.Galle,Ambalangoda,Ambalangoda,3.Type2,provincial
+6063,MEETIYAGODA K.V.,MEETIYAGODA,Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6064,PATHANA SAUBHAGYA P.V.,"PATHANA, HIKKADUWA",Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6065,RONNADUWA K.V.,MEETIYAGODA,Southern,31.Galle,Ambalangoda,Ambalangoda,3.Type2,provincial
+6067,AMBALANGODA P.DE S.KULARATHNA M.V.,AMBALANGODA,Southern,31.Galle,Ambalangoda,Ambalangoda,1.1AB,provincial
+6069,AMPEGAMA SRI NANDASARA M.V.,AMPEGAMA,Southern,31.Galle,Elpitiya,Welivitiya-Divithura,1.1AB,provincial
+6070,YATAGALA M.V.,"YATAGALA, URAGASMANHANDIYA",Southern,31.Galle,Elpitiya,Karandeniya,1.1AB,provincial
+6071,BANDULA SENADEERA M.V.,"KOSWATHUMANA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,2.1C,provincial
+6072,MADAKUMBURA MAHA VIDYALAYA,"MADAKUMBURA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,2.1C,provincial
+6073,SRI VIPULASARA M.V.,"MAGALA SOUTH, URAGASMANHANDIYA",Southern,31.Galle,Elpitiya,Karandeniya,2.1C,provincial
+6074,AGALIYA M.V.,AGALIYA,Southern,31.Galle,Elpitiya,Welivitiya-Divithura,3.Type2,provincial
+6075,ETHKANDURA SEEWALEE M.V.,ETHKANDURA,Southern,31.Galle,Elpitiya,Welivitiya-Divithura,2.1C,provincial
+6076,POLGAHAVILA DHARMARAJA M.V.,"POLGAHAVILA, AGALIYA",Southern,31.Galle,Elpitiya,Welivitiya-Divithura,3.Type2,provincial
+6077,REKADAHENA SRI DAMMADASSI M.V.,REKADAHENA KAHADUWA,Southern,31.Galle,Elpitiya,Welivitiya-Divithura,3.Type2,provincial
+6078,WELIVITIYA M.V.,UNANVITIYA,Southern,31.Galle,Elpitiya,Welivitiya-Divithura,3.Type2,provincial
+6079,DANGAHAWILA K.V.,"DANGAHAWILA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6080,DIVITHURA SRI DAMMATHILAKA M.V.,"DIVITHURA, ETHKANDURA",Southern,31.Galle,Elpitiya,Welivitiya-Divithura,2.1C,provincial
+6081,GALAHENKANDA M.V.,"WENIYARAWALA, BADDEGAMA",Southern,31.Galle,Elpitiya,Welivitiya-Divithura,3.Type2,provincial
+6082,GAM-IMA K.V.,"GAM-IMA, NAWADAGALA",Southern,31.Galle,Elpitiya,Karandeniya,3.Type2,provincial
+6083,GURUSINGHAGODA M.V.,"GURUSINGHAGODA, AMPEGAMA",Southern,31.Galle,Elpitiya,Welivitiya-Divithura,3.Type2,provincial
+6084,HIPANKANDA K.V.,"HIPANKANDA, NAWADAGALA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6085,KIRIPEDDA K.V.,"KIRIPEDDA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,3.Type2,provincial
+6086,ANURUDDA K.V.,KARANDENIYA,Southern,31.Galle,Elpitiya,Karandeniya,3.Type2,provincial
+6087,MAHAGODA K.V.,KARANDENIYA,Southern,31.Galle,Elpitiya,Karandeniya,3.Type2,provincial
+6088,MADDEWILA K.V.,"MADDEVILA, ETHKANDURA",Southern,31.Galle,Elpitiya,Welivitiya-Divithura,4.Type3,provincial
+6089,MAGALA SOUTHK.V.,KARANDENIYA,Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6090,THANABADDEGAMA ANAGARIKA DHARMAPALA VIDYALAYA,"THANABADDEGAMA, ETHKANDURA",Southern,31.Galle,Elpitiya,Welivitiya-Divithura,3.Type2,provincial
+6092,KEKIRISKANDA K.V.,"KEKIRSKANDA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6093,LENAGALPALATHA K.V.,"LENAGALPALATHA, URAGASMANHANDIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6094,THALGAHAWATHTHA K.V.,"THALGAHAWATHTHA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6095,WALEGURUKETIYA K.V.,"WALEGURUKETIYA, URAGASMANHANDIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6096,YATAGALA K.V.,"YATAGALA, URAGASMANHANDIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6098,SIR ATHER C CLARK MODEL SCHOOL,"AKURATIYA, BADDEGAMA",Southern,31.Galle,Elpitiya,Welivitiya-Divithura,3.Type2,provincial
+6099,BELIGASWELLA K.V.,"BELIGASWELLA, URAGASMANHANDIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6100,EGODAWELA K.V.,"EGODAWELA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6101,GALPOTHTHAWALA K.V.,"GALPOTHTHAWALA, URAGASMANHANDIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6102,KALUWALAGODA K.V.,"KALUWALAGODA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6103,KARANDENIYA K.V.,KARANDENIYA,Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6104,KOTAWELA K.V.,"KOTAWELA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6107,MULKETIYATHOTA K.V.,"MULKETIYATHOTA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6111,PATHAWELIVITIYA K.V.,UNANVITIYA,Southern,31.Galle,Elpitiya,Welivitiya-Divithura,4.Type3,provincial
+6112,UNAGASWELA K.V.,"UNAGASWELA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6113,YAKKATUWA K.V.,KARANDENIYA,Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6114,BATUKANATHTHA K.V.,"BATUKANATHTHA, URAGASMANHANDIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6115,RANDENIGAMA K.V.,"RANDENIGAMA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6117,ELAKAKA M.V.,ELAKAKA HABURUGALA,Southern,31.Galle,Elpitiya,Bentota,1.1AB,provincial
+6118,GONAGALA M.V.,GONAGALAPURA BENTHOTA,Southern,31.Galle,Elpitiya,Bentota,1.1AB,provincial
+6119,INDURUWA M.V.,INDURUWA,Southern,31.Galle,Elpitiya,Bentota,2.1C,provincial
+6120,MIRISWATHTHA M.V.,MIRISWATHTHA BENTHOTA,Southern,31.Galle,Elpitiya,Bentota,1.1AB,provincial
+6121,GALBADA ATHURUWALLA M.V.,GALBADA INDURUWA,Southern,31.Galle,Elpitiya,Bentota,3.Type2,provincial
+6122,RANTHOTUWILA M.V.,RANTHOTUWILA,Southern,31.Galle,Elpitiya,Bentota,2.1C,provincial
+6123,URAGAHA M.V.,MAHAURAGAHA URAGAHA,Southern,31.Galle,Elpitiya,Bentota,2.1C,provincial
+6124,BODHIMALUWA K.V.,BODHIMALUWA BENTHOTA,Southern,31.Galle,Elpitiya,Bentota,3.Type2,provincial
+6125,DEDDUWA M.V.,DEDDUWA HABURUGALA,Southern,31.Galle,Elpitiya,Bentota,4.Type3,provincial
+6126,"DHARMAPALA K.V., GOMATE","GOMATE, BENTHOTA",Southern,31.Galle,Elpitiya,Bentota,3.Type2,provincial
+6127,HORAWALA K.V.,HORAWALA HABURUGALA,Southern,31.Galle,Elpitiya,Bentota,4.Type3,provincial
+6128,GURUKANDA M.V.,INDURUWA,Southern,31.Galle,Elpitiya,Bentota,2.1C,provincial
+6129,KAIKAWALA SRI REWATHA K.V.,INDURUWA,Southern,31.Galle,Elpitiya,Bentota,3.Type2,provincial
+6130,MAHAWILA K.V.,MAHAWILA HABURUGALA,Southern,31.Galle,Elpitiya,Bentota,3.Type2,provincial
+6131,SRI DHARMARAMA K.V.,YATHRAMULLA BENTHOTA,Southern,31.Galle,Elpitiya,Bentota,4.Type3,provincial
+6135,HABURUGALA DHARMARAJA K.V.,HABURUGALA BENTHOTA,Southern,31.Galle,Elpitiya,Bentota,4.Type3,provincial
+6136,HIPANWATHTHA K.V.,URAGAHA,Southern,31.Galle,Elpitiya,Bentota,3.Type2,provincial
+6140,J.D.DHARMASENA K.V.,THUNDUWA HABURUGALA,Southern,31.Galle,Elpitiya,Bentota,4.Type3,provincial
+6142,AWITHTHAWA NALANDA M.V.,GANEGODA,Southern,31.Galle,Elpitiya,Elpitiya,2.1C,provincial
+6143,AMUGODA M.V.,AMUGODA,Southern,31.Galle,Elpitiya,Elpitiya,1.1AB,provincial
+6144,SRI SASANACHANDRA M.V.,ELLA ELPITIYA,Southern,31.Galle,Elpitiya,Elpitiya,3.Type2,provincial
+6145,KAHADUWA M.V.,KAHADUWA,Southern,31.Galle,Elpitiya,Elpitiya,1.1AB,provincial
+6146,INDIPALGODA M.V.,PITIGALA,Southern,31.Galle,Elpitiya,Elpitiya,2.1C,provincial
+6147,NAWADAGALA M.V.,NAWADAGALA,Southern,31.Galle,Elpitiya,Elpitiya,2.1C,provincial
+6148,OMATHTHA M.V.,GANEGODA,Southern,31.Galle,Elpitiya,Elpitiya,3.Type2,provincial
+6149,KURUDUGHA ST. MARYS M.V.,KURUDUGHA,Southern,31.Galle,Elpitiya,Elpitiya,2.1C,provincial
+6150,ELPITIYA ST. THERESA BALIKA M.V.,ELPITIYA,Southern,31.Galle,Elpitiya,Elpitiya,2.1C,provincial
+6152,DELPONA SRI GIRIMANANDA K.V.,PITIGALA,Southern,31.Galle,Elpitiya,Elpitiya,3.Type2,provincial
+6153,ELPITIYA BOGAHA PRIMARY SCHOOL,ELPITIYA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6154,ERAMULLA K.V.,ERAMULLA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6155,GANEGODA M.V.,GANEGODA,Southern,31.Galle,Elpitiya,Elpitiya,2.1C,provincial
+6157,KUDAGALA K.V.,KUDAGALA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6158,PITUWALA K.V.,PITUWALA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6159,THALAGASPE K.V.,THALAGASPE,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6160,WALLABAGALA K.V.,WALLABAGALA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6161,WATHURAWILA K.V.,KAHADUWA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6162,AMBANA K.V.,"AMBANA, KAHADUWA",Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6163,RATHANASIRI ROYAL COLLEGE,ELPITIYA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6164,SIRI PARAKUM P.V.,PITIGALA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6165,IGLATHALAWA K.V.,ELPITIYA,Southern,31.Galle,Elpitiya,Elpitiya,3.Type2,provincial
+6166,IGALA SARANANKARA K.V.,ELPITIYA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6167,IHALA OMATHTHA K.V.,GANEGODA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6170,METIWILIYA SRI MEDANANDA K.V.,PITIGALA,Southern,31.Galle,Elpitiya,Elpitiya,3.Type2,provincial
+6171,OMATHTHA K.V.,GANEGODA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6172,ST. THERESA K.V.,ELPITIYA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6174,KATANDOLA K.V.,THALAGASPE,Southern,31.Galle,Elpitiya,Elpitiya,3.Type2,provincial
+6176,AWITHTHAWA NALANDA K.V.,GANEGODA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6177,PINIKAHANA SIRINIWASA K.V.,PINIKAHAN,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6178,HALVITIGALA SHARIPUTHRA M.V.,MALGALLA THALANGALLA,Southern,31.Galle,Udugama,Thawalama,3.Type2,provincial
+6179,HINIDUMA MALLIKA M.V.,"HINIDUMA, GALLE",Southern,31.Galle,Udugama,Thawalama,2.1C,provincial
+6181,OPATHA M.V.,"OPATHA, GALLE",Southern,31.Galle,Udugama,Thawalama,2.1C,provincial
+6183,BATUWANGALA M.V.,BATUWANGALA NELUWA,Southern,31.Galle,Udugama,Thawalama,2.1C,provincial
+6184,DEWALEGAMA K.V.,DEWALEGAMA DELLAWA MORAWAKA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6185,HAPPITIYA K.V.,HAPPITIYA NELUWA,Southern,31.Galle,Udugama,Thawalama,3.Type2,provincial
+6186,KADIHINGALA M.V.,"PANNIMULLA, PANAGODA",Southern,31.Galle,Udugama,Thawalama,3.Type2,provincial
+6187,LANKAGAMA K.V.,"LANKAGAMA, DENIYAYA",Southern,31.Galle,Udugama,Thawalama,2.1C,provincial
+6188,LELWALA GIGUMMADUWA K.V.,LELWALA NELUWA,Southern,31.Galle,Udugama,Thawalama,3.Type2,provincial
+6189,MAWANANA SAUBHAGYA P.V.,MAWANANA NELUWA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6190,PANANGALA MAHABODHI M.V.,"PANANGALA, GALLE",Southern,31.Galle,Udugama,Thawalama,2.1C,provincial
+6191,THALANGALLA K.V.,MALGALLA THALANGALLA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6192,WEERAPANA K.V.,"WEERAPANA, OPATHA",Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6194,BATUWANGALA WEST K.V.,BATUWANGALA WEST NELUWA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6195,DAMMALA K.V.,DAMMALA HALVITIGALA COLANI GALLE,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6196,EPPALA K.V.,EPPALA PANANGALA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6197,GALLANDALA K.V.,GALLANDALA PANANGALA,Southern,31.Galle,Udugama,Thawalama,3.Type2,provincial
+6198,HALWITIGALA JANAPADA K.V.,HALWITIGALA JANAPADAYA GALLE,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6200,HABARAKADA JANAPADA K.V.,HABARAKADA THAWALAMA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6201,SANTHA ANANAES K.V.,HINIDUMA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6202,IHALA LELWALA K.V.,LELWALA NELUWA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6204,DELLAWA M.V.,"DELLAWA, MORAWAKA",Southern,31.Galle,Udugama,Thawalama,2.1C,provincial
+6205,MAVITA MODEL SCHOOL,"MAWITA, NELUWA",Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6206,MADAGAMA MODEL SCHOOL,"MADAGAMA, NELUWA",Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6207,MILLAWAK.V.,MILLAWA MORAWAKA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6208,OKADUHENA K.V.,SENANAYAKA MW OPATHA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6209,PANANGALA WEST K.V.,PANANGALA WEST PANANGALA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6210,WARUKANDENIYA K.V.,WARUKANDENIYA GALLE,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6211,WEERAPANA JANAPADA K.V.,WEERAPANA EAST OPATHA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6212,HABARAKADA DHARMAPALA K.V.,HABARAKADA THAWALAMA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6213,MANDALAPURA K.V.,"MANDALAPURA, NELUWA",Southern,31.Galle,Udugama,Thawalama,3.Type2,provincial
+6214,NIYAGAMA VIJITHA M.M.V.,"NIYAGAMA, THALGASWALA",Southern,31.Galle,Elpitiya,Niyagama,2.1C,provincial
+6215,HATHTHAKA M.V.,"HATHTHAKA, PITIGALA.",Southern,31.Galle,Elpitiya,Niyagama,2.1C,provincial
+6216,MAPALAGAMA CENTRAL COLLEGE,MAPALAGAMA,Southern,31.Galle,Udugama,Mapalagama,2.1C,provincial
+6217,NARANOVITA PORAWAGAMA M.V.,"NARANOVITA, PORAWAGAMA.",Southern,31.Galle,Elpitiya,Niyagama,3.Type2,provincial
+6220,PODDIWALA M.V.,"PODDIWALA, MATHTHAKA",Southern,31.Galle,Elpitiya,Niyagama,2.1C,provincial
+6221,UNANVITIYA SRI REWATHA M.V.,UNANVITIYA BADDEGAMA,Southern,31.Galle,Udugama,Mapalagama,2.1C,provincial
+6222,YATALAMATTA M.V.,YATALAMATTA,Southern,31.Galle,Udugama,Mapalagama,2.1C,provincial
+6223,MANAMPITA RATHANASARA M.V.,"MANAMPITA, MATHTHAKA",Southern,31.Galle,Elpitiya,Niyagama,3.Type2,provincial
+6224,WEIHENA SIRI GUNARATHANA M.V.,"WEIHENA, MATHTHAKA",Southern,31.Galle,Elpitiya,Niyagama,2.1C,provincial
+6225,GODAMUNA M.V.,"GODAMUNA, PITIGALA.",Southern,31.Galle,Elpitiya,Niyagama,3.Type2,provincial
+6227,BAMBARAWANA K.V.,"BAMBARAWANA, MATHTHAKA.",Southern,31.Galle,Elpitiya,Niyagama,3.Type2,provincial
+6228,GONALAGODA WIJAYABAHU K.V.,GAMMADDEGODA NAGODA GALLE,Southern,31.Galle,Udugama,Mapalagama,4.Type3,provincial
+6230,URALA K.V.,"URALA, WANDURAMBA.",Southern,31.Galle,Udugama,Mapalagama,3.Type2,provincial
+6231,UDAWELIVITI THALAWA M.V.,UDAWELIVITI THALAWA NAGODA GALLE,Southern,31.Galle,Udugama,Mapalagama,3.Type2,provincial
+6232,WATHTHAHENA SIRI SUCHARITHA K.V.,"WATHTHAHENA, TALGASWALA",Southern,31.Galle,Elpitiya,Niyagama,3.Type2,provincial
+6233,MAPALAGAMA SIRISUNANDA M.V.,ETHUMALE,Southern,31.Galle,Udugama,Mapalagama,2.1C,provincial
+6235,NARANOVITA SUMANASIRI M.V.,"NARANOVITA, PORAWAGAMA",Southern,31.Galle,Elpitiya,Niyagama,3.Type2,provincial
+6236,MALAMURA K.V.,MALAMURA MAPALAGAMA CENTRAL,Southern,31.Galle,Udugama,Mapalagama,4.Type3,provincial
+6237,BEMBADA K.V.,YATALAMATHTHA,Southern,31.Galle,Udugama,Mapalagama,4.Type3,provincial
+6239,SIRI PABANKARA K.V.,"HORANGALLA, TALGASWALA",Southern,31.Galle,Elpitiya,Niyagama,4.Type3,provincial
+6240,VIDYADARSHA K.V.,"PELAWATHTHA RD, PITIGALA",Southern,31.Galle,Elpitiya,Niyagama,3.Type2,provincial
+6241,KETAGODA.K.V.,UDUGAMA,Southern,31.Galle,Udugama,Mapalagama,4.Type3,provincial
+6242,KURUPANAWA K.V.,"KURUPANAWA, NAGODA",Southern,31.Galle,Udugama,Mapalagama,4.Type3,provincial
+6244,MARTHUPITIYA K.V.,"MARTHUPITIYA, MATHTHAKA",Southern,31.Galle,Elpitiya,Niyagama,4.Type3,provincial
+6247,NIYAGAMA K.V.,"NIYAGAMA, TALGASWALA",Southern,31.Galle,Elpitiya,Niyagama,4.Type3,provincial
+6248,NIYAGAMA VIJITHA SAUBHAGYA K.V.,"NIYAGAMA, THALGASWALA",Southern,31.Galle,Elpitiya,Niyagama,4.Type3,provincial
+6249,SRI PIYARATHANA K.V.,"PITIGALA NORTH, PITIGALA",Southern,31.Galle,Elpitiya,Niyagama,3.Type2,provincial
+6250,PORAWAGAMA K.V.,"KALAELITHOTA, PORAWAGAMA",Southern,31.Galle,Elpitiya,Niyagama,4.Type3,provincial
+6255,BALAGODA MAHA VIDYALAYA,PODDALA,Southern,31.Galle,Galle,Baddegama,2.1C,provincial
+6257,KEEMBIYA GAMINEE M.V.,"MEDAKEEMBIYA, GALLE",Southern,31.Galle,Galle,Baddegama,2.1C,provincial
+6260,SIRINIWASA MAHA VIDYALAYA,"PAHALA KEEBIYA, PODDALA",Southern,31.Galle,Galle,Baddegama,2.1C,provincial
+6261,SANDARAWALA SRI RATHNASARA MAHA VIDYALAYA,"SANDARAWALA, BADDEGAMA",Southern,31.Galle,Galle,Baddegama,2.1C,provincial
+6262,BADDEGAMA ST. ANTHONYS COLLEGE,BADDEGAMA,Southern,31.Galle,Galle,Baddegama,1.1AB,provincial
+6263,GANEGAMA NORTH PRIMARY SCHOOL,"GANEGAMA NORTH, BADDEGAMA",Southern,31.Galle,Galle,Baddegama,4.Type3,provincial
+6264,HEMMELIYA KANISHTA VIDYALAYA,"HEMMELIYA, BADDEGAMA",Southern,31.Galle,Galle,Baddegama,2.1C,provincial
+6265,LELWALA K.V.,"PAHALA LELWALA, WANDURAMBA.",Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6266,LELWALA WICKRAMASINGHA K.V.,"PAHALA LELWALA, WANDURAMBA",Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6268,MABOTUWANA K.V.,WANDURAMBA,Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6269,PITADENIYA M.V.,"GONAMULLA JUNCTION, GALLE",Southern,31.Galle,Galle,Baddegama,2.1C,provincial
+6270,THALAWA K.V.,"THALAWA, WANDURAMBA",Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6271,WELIDENIYA KANISHTA VIDYALAYA,"WELIDENIYA, WADURABA",Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6274,DOLAHENA K.V.,"UMANDOLA, MEDAKEEMBIYA, GALLE",Southern,31.Galle,Galle,Baddegama,3.Type2,provincial
+6282,KOTAGODA K.V.,"KOTAGODA, BADDEGAMA",Southern,31.Galle,Galle,Baddegama,4.Type3,provincial
+6283,WEIHENA KANISHTA VIDYALAYA,"WEIHENA, BADDEGAMA",Southern,31.Galle,Galle,Baddegama,4.Type3,provincial
+6284,PILAGODA KANISHTA VIDYALAYA,"PILAGODA, BADDEGAMA",Southern,31.Galle,Galle,Baddegama,4.Type3,provincial
+6286,UDUGAMA MAHA VIDYALAYA,UDUGAMA,Southern,31.Galle,Udugama,Mapalagama,1.1AB,provincial
+6287,POLPAGODA MAHA VIDYALAYA,YAKKALAMULLA,Southern,31.Galle,Udugama,Yakkalamulla,2.1C,provincial
+6288,MAGEDARA SECONDARY SCHOOL,"MAGEDARA, GALLE",Southern,31.Galle,Udugama,Yakkalamulla,1.1AB,provincial
+6289,THELLAMBURA DUTUGEMUNU M.V.,"TELLAMBURA, NAKIYADENIYA",Southern,31.Galle,Udugama,Yakkalamulla,1.1AB,provincial
+6290,GONADENIYA K.V.,GONADENIYA UDUGAMA,Southern,31.Galle,Udugama,Mapalagama,3.Type2,provincial
+6291,IHALA THELLAMBURA VIDYAKANTHI K.V.,"IHLA THELLAMBURA, NAKIYADENIYA",Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6292,KARAGODA DHARMARAJA K.V.,YAKKALAMULLA,Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6293,KOTTAWA KANISHTA VIDYALAYA,KOTTAWAGAMA,Southern,31.Galle,Udugama,Yakkalamulla,3.Type2,provincial
+6294,NABADAWA SRI SUMANGALA SAUBHAGYA V.,"NABADAWA, YAKKALAMULLA",Southern,31.Galle,Udugama,Yakkalamulla,2.1C,provincial
+6295,SRI DHAMMAWASA M.V.,NAKIYADENIYA,Southern,31.Galle,Udugama,Yakkalamulla,2.1C,provincial
+6296,NEUNGALA K.V.,"NEUNGALA, KOTTAWAGAMA",Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6297,SAMIMALE VIDYANANDA K.V.,UDUGAMA SOUTH-UDUGAMA,Southern,31.Galle,Udugama,Mapalagama,3.Type2,provincial
+6298,SRI DHARMALANKARA M.V.,"THALGAMPALA, GALLE",Southern,31.Galle,Udugama,Yakkalamulla,2.1C,provincial
+6299,UDALAMATTA M.V.,"UDALAMATTA, GALLE",Southern,31.Galle,Udugama,Mapalagama,2.1C,provincial
+6300,WALPOLA GUNATHILAKA K.V.,"WALPOLA, IMADUWA",Southern,31.Galle,Udugama,Yakkalamulla,3.Type2,provincial
+6301,ANNANDA VIJAYA VIDYALAYA,UDUGAMA EAST,Southern,31.Galle,Udugama,Mapalagama,3.Type2,provincial
+6303,ELLA IHALA DHARMODAYA K.V.,MAGEDARA,Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6305,KALUWALAGALA K.V.,"KALUWALAGALA, MAGEDARA, GALLE",Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6306,MINUWANDENIYA K.V.,KARAGODA,Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6307,NAWALA K.V.,"NAWALA, NAKIYADENIYA",Southern,31.Galle,Udugama,Yakkalamulla,3.Type2,provincial
+6308,SRI GUNANANDA K.V.,"ALUTHWATTA, NAKIYADENIYA.",Southern,31.Galle,Udugama,Mapalagama,3.Type2,provincial
+6309,THELLAMBURA VIJAYA K.V.,"THELLAMBURA, NAKIYADENIYA",Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6311,UDUWELLA SHASTHRODAYA K.V.,"UDUWELLA, MAGEDARA",Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6313,WATHOGALA K.V.,"WATHOGALA, YAKKALAMULLA.",Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6314,WATTAHENA K.V.,"WATTAHENA, NAKIYADENIYA",Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6315,UPPER HOMADOLA K.V.,"HOMADOLA, UDUGAMA",Southern,31.Galle,Udugama,Mapalagama,3.Type2,provincial
+6319,BODHIRAJA M.V.,THIRANAGAMA HIKKADUWA,Southern,31.Galle,Ambalangoda,Hikkaduwa,2.1C,provincial
+6320,HENNATHOTA VIDYAWARDANA M.V.,"HENNATHOTA, DODANDUWA",Southern,31.Galle,Ambalangoda,Hikkaduwa,2.1C,provincial
+6321,ROHANA VIDYALAYA,DHANNISSARA MW DODANDUWA,Southern,31.Galle,Ambalangoda,Hikkaduwa,2.1C,provincial
+6322,SRI DHAMMASARA PIYARATHANA SAUBHAGYA P.V.,DODANDUWA,Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6323,MAWADAWVILA MALIYADEVA M.V.,MAWADAVILA RATHGAMA,Southern,31.Galle,Ambalangoda,Hikkaduwa,3.Type2,provincial
+6324,GINTHOTA SRI MEDANKARA M.V.,PITIWELLA BOOSSA,Southern,31.Galle,Ambalangoda,Hikkaduwa,2.1C,provincial
+6325,MALIDUWA SHARIPUTHRA MAHA VIDYALAYA,"MALIDUWA, BOOSSA",Southern,31.Galle,Ambalangoda,Hikkaduwa,3.Type2,provincial
+6326,MAHAMAYA BALIKA VIDYALAYA,HIKKADUWA,Southern,31.Galle,Ambalangoda,Hikkaduwa,2.1C,provincial
+6328,BOOSA MAHA VIDYALAYA,"WELLABADA, BOOSSA",Southern,31.Galle,Ambalangoda,Hikkaduwa,3.Type2,provincial
+6329,HEGODA SOORIYA MODEL SCHOOL,"HEGODA, BOOSSA",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6330,SRI DEERANANDA MAHA VIDYALAYA,BOOSSA,Southern,31.Galle,Ambalangoda,Hikkaduwa,3.Type2,provincial
+6331,MALALANKARA K.V.,"KATUDAMPE, DODANDUWA",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6332,PATUWATHA LANKA SABA K.V.,DODANDUWA,Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6333,RANAPANADENIYA SRI DHARMADHARA K.V.,"RANAPANADENIYA, HIKKADUWA",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6334,THIRANAGAMA VIDYATHILAKA V.,"THIRANAGAMA, HIKKADUWA",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6335,IMBULAGODA K.V.,"IMBULAGODA, RATHGAMA",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6336,YASHODARA SANGAMITTHA PRIMARY SCHOOL,"MODARA PATUWATHA, DODANDUWA",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6337,GALKENINAWA THILAKA K.V.,BOOSSA,Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6340,MEDAWALA SRI VIJAYANANDA VIDYALAYA,MEDAWALA BOOSSA,Southern,31.Galle,Ambalangoda,Hikkaduwa,3.Type2,provincial
+6341,NALAGASDENIYA JAYANTHI MODEL SCHOOL,NALAGASDENIYA HIKKADUWA,Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6344,SIR ERNEST MODEL PRIMARY SCHOOL,RATHGAMA.,Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6345,RATHGAMA SIRISUMANA K.V.,"RATHGAMA JANCTION, RATHGAMA",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6347,MADAMPA MADYA MAHA VIDYALAYA,KULEEGODA,Southern,31.Galle,Ambalangoda,Hikkaduwa,1.1AB,provincial
+6348,WERAGODA VIJAYABA SECONDARY SCHOOL,MEEETIYAGODA,Southern,31.Galle,Ambalangoda,Hikkaduwa,1.1AB,provincial
+6349,SRI WIMALABUDDI M.V.,SEENIGAMA,Southern,31.Galle,Ambalangoda,Hikkaduwa,2.1C,provincial
+6350,PERELIYA SRI JINARATHANA M.V.,PERELIYA TELWATTA,Southern,31.Galle,Ambalangoda,Hikkaduwa,3.Type2,provincial
+6351,THOTAGAMUWA VIJAYABAHU VIDYALAYA,THOTAGAMUWA HIKKADUWA,Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6352,KULEEGODA SUMANA VIDYALAYA,"KULEEGODA, AMBALANNGODA",Southern,31.Galle,Ambalangoda,Hikkaduwa,3.Type2,provincial
+6353,RATHANASARA MAHA VIDYALAYA,"BATAPOLA RD, KAHAWA",Southern,31.Galle,Ambalangoda,Hikkaduwa,3.Type2,provincial
+6354,AKURALA K.V.,"AKURALA, KAHAWA.",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6355,KUMARA KASHYAPA K.V.,KULEEGODA,Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6357,KALUPE VISHAKA K.V.,"KALUPE, HIKKADUWA",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6358,GALAGODA COLONY KANITU VIDYALAYA,"GALAGODA,KULEEGODA.",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6360,MALAWENNA K.V.,MALAWENNA THELWATHTHA,Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6372,GALLE SACRED HEART CONVENT,KALUWELLA GALLE,Southern,31.Galle,Galle,Galle,1.1AB,provincial
+6374,JAYAWARDHANA VIDYALAYA,DANGEDERA GALLE,Southern,31.Galle,Galle,Galle,2.1C,provincial
+6375,ETHILIGODA SUDARSHI M.V.,GALLE,Southern,31.Galle,Galle,Galle,2.1C,provincial
+6376,GINTHOTA MAHA VIDYALAYA,GINTHOTA,Southern,31.Galle,Galle,Galle,1.1AB,provincial
+6377,PIYATHISSA MODEL SCHOOL,"KALEGANA, GALLE",Southern,31.Galle,Galle,Galle,3.Type2,provincial
+6378,GALLE OLCOTT MAHA VIDYALAYA,"WELIWATTA, GALLE",Southern,31.Galle,Galle,Galle,2.1C,provincial
+6379,PARAMANANDA SAUBHAGYA M.V.,GALWADUGODA GALLE,Southern,31.Galle,Galle,Galle,2.1C,provincial
+6380,GALLE SUDHARMA VIDYALAYA,MAGALLE GALLE,Southern,31.Galle,Galle,Galle,1.1AB,provincial
+6381,GALLE ALL SAINT VIDYALAYA,FORT GALLE,Southern,31.Galle,Galle,Galle,1.1AB,provincial
+6383,DADALLA B.T.S. COLLEGE,"DADALLA, GALLE",Southern,31.Galle,Galle,Galle,4.Type3,provincial
+6384,GINTOTA DHARMAPALA VIDYALAYA,GINTOTA,Southern,31.Galle,Galle,Galle,4.Type3,provincial
+6385,C W W KANNANGARA COLLEGE,MAHAMODARA GALLE,Southern,31.Galle,Galle,Galle,3.Type2,provincial
+6388,UKWATTA KANISHTA VIDYALAYA,UKWATTA GINTOTA,Southern,31.Galle,Galle,Galle,2.1C,provincial
+6394,NARAWALA MAHA VIDYALAYA,"NARAWALA, PODDALA.",Southern,31.Galle,Galle,Akmeemana,3.Type2,provincial
+6395,BATADUWA SRI RATHANAJOTHI M.V.,"BATADUWA, GALLE",Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6396,KALAHE SRI SUMANGALODAYA SECONDARY SCHOOL,"KALAHE, WANCHAWALA, GALLE",Southern,31.Galle,Galle,Akmeemana,1.1AB,provincial
+6397,PILANA VIDYARTHODAYA MAHA VIDYALAYA,"PILANA, WANCHAWALA",Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6398,IHALAGODA VIJAYA MAHA VIDYALAYA,AKMEEMANA,Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6399,GALLE DR.RICHARD PATHIRANA COLLEGE,"ULUVITIKE, GALLE",Southern,31.Galle,Galle,Akmeemana,1.1AB,provincial
+6400,KAPUHEMPALA NANDIMITHRA MAHA VIDYALAYA,"KAPUHEMPALA, AKMEEMANA",Southern,31.Galle,Galle,Akmeemana,3.Type2,provincial
+6401,THOTAGODA ATHTHA DASSI M.V.,"THOTAGODA, AKMEEMANA",Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6402,HAPUGALA MAHA VIDYALAYA,"WAKWELLA, GALLE",Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6403,MEEGODA SARWAMITRA PRIMARY SCHOOL,"MEEGODA, WANCHAWALA, GALLE",Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6404,KITHULAMPITIYA ANANDA M.V.,"KITHULAMPITIYA, GALLE",Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6405,HIYARE MAHA VIDYALAYA,HIYARE GALLE,Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6406,AKMEEMANA MAHAVIDYALAYA,AKMEEMANA,Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6407,YATAGALA MALCOM VIDYALAYA,YATAGALA UNAWATUNA,Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6408,PINNADUWA JAYANTHI M.V.,"PINNADUWA, WALAHANDUWA",Southern,31.Galle,Galle,Akmeemana,3.Type2,provincial
+6409,ANKOKKAWALA SRI SUMANGALA M.V.,"ANKOKKAWALA, GALLE",Southern,31.Galle,Galle,Akmeemana,3.Type2,provincial
+6410,OPATHA RAHULA PRIMARY SCHOOL,"OPATHA, ULUWITIKE",Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6411,PILANA THAKSHILA VIDYALAYA,WANCHAWALA,Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6412,HIYARE EAST VIDYALAYA,"HIYARE EAST, HIYARE, GALLE",Southern,31.Galle,Galle,Akmeemana,3.Type2,provincial
+6413,PANAGAMUWA AMARASINHA K.V.,PANAGAMUWA GALLE,Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6414,KALAHE GEMUNU PRIMARY SCHOOL,"KALAHE, WANCHAWALA",Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6415,NIYAGAMA VIDYADARA K.V.,"NIYAGAMA, AKMEEMANA",Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6416,IHALAGODA SUMANGALA MODEL SCHOOL,"IHALAGODA, AKMEEMANA",Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6418,KETENDOLA K.V.,"GONAMULLA JUNCTION, GALLE",Southern,31.Galle,Galle,Akmeemana,3.Type2,provincial
+6419,PEDINNORUWA SARANAPALA JAYANTHI P.V.,"PEDINNORUWA, WANCHAWALA",Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6420,THOTAGODA ATTADASSI K.V.,"AKMEEMANA, GALE",Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6422,IHALAGODA VIJAYA K.V.,"IHALAGODA, AKMEEMANA",Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6423,HAPUGALA PRIMARY SCHOOL,"HAPUGALA, WACKWELLA",Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6424,HINIDUMGODA VIJAYANANDA K.V.,ANANGODA,Southern,31.Galle,Galle,Akmeemana,3.Type2,provincial
+6425,SENAPALA SAMARASEKARA K.V.,WALAHANDUWA,Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+6428,WATARAKA SRI SOBITHA K.V.,"WATARAKA EAST, WATARAKA, GALLE",Southern,31.Galle,Galle,Akmeemana,3.Type2,provincial
+6432,DORAPE SECONDARY SCHOOL,DORAPE ANGULUGAHA,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6433,HAWPE MAHA VIDYALAYA,HAWPE IMADUWA,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6434,KAHANDA M.V.,"KAHANDA, ANGULUGAHA",Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6435,KATUKURUNDA DHARMIKA MAHA VIDYALAYA,KATUKURUNDA HABARADUWA,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6436,LANUMODARA VIJAYA MAHA VIDYALAYA,LANUMODARA HABARADUWA,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6437,ANGULUGAHA MAHA VIDYALAYA,ANGULUGAHA,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6438,HEENATIGALA SHARIPUTHRA SECONDRY SCHOOL,HEENATIGALA THALPE,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6439,MIHIRIPANNA DHAMMARATHANA MAHA VIDYALAYA,MIHIRIPANNA THALPE,Southern,31.Galle,Galle,Habaraduwa,3.Type2,provincial
+6440,UNAWATUNA MAHA VIDYALAYA,UNAWATUNA GALLE,Southern,31.Galle,Galle,Habaraduwa,1.1AB,provincial
+6441,WELLETHOTA SUGATHANANDA M.V.,WELLETHOTA-TALPE,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6442,BEDIPITA PRIMARY SCHOOL,ANGULUGAHA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6443,MARTIN WICKRAMASINGHE VIDYALAYA,"KOGGALA, HABARADUWA",Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6444,MAWELLA PRIMARY SCHOOL,MAWELLA AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6445,MEEPE AMATHAYANA PRIMARY SCHOOL,MEEPE HABARADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6446,WELIKONDA SRI JEEWANANDA PRIMARY SCHOOL,WELIKONDA ANGULUGAHA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6447,PEELLAGODA SRI SUMANAJOTHI PRIMARY SCHOOL,GANAHENA UNAWATUNA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6448,ABHAYADANA PRIMARY SCHOOL,HABARADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6450,HARUMALGODA EAST PRIMARY SCHOOL,HARUMALGODA HABARADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6451,HARUMALGODA WEST PRIMARY SCHOOL,HARUMALGODA WEST ANGULUGAHA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6453,PARAGODA SRI GUNARATHANA PRIMARY SCHOOL,PARAGODA IMADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6454,PRINCE GUNASEKARA PRIMARY SCHOOL,PITIDUWA HABARADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6456,WATHAWANA PRIMARY SCHOOL,PAGIRIHENA IMADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6458,AHANGAMA SHARIPUTHRA COLLEGE,AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6460,PANCHALIYA PRIMARY SCHOOL,DIKKUMBURA AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6461,DIKKUMBURA SRI SIDDHARTHA MAHA VIDYALAYA,"DIKKUMBURA, AHANGAMA",Southern,31.Galle,Galle,Habaraduwa,1.1AB,provincial
+6462,THITHTHAGALLA DOMBAGODA MAHA VIDYALAYA,THITHAGALLA AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6463,MAYAKADUWA SRI GUNANANDA PRIMARY SCHOOL,MAYAKADUWA IMADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6464,AHANGAMA ROHANA MAHA VIDYALAYA,AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,2.1C,provincial
+6465,ANDUGODA PRIMARY SCHOOL,DIKKUMBURA AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6467,KODAGODA SRI UPATISSA PRIMARY SCHOOL,KODAGODA IMADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6468,MALALGODAPITIYA SIRI SEEVALI PRIMARY SCHOOL,MALALGODAPITIYA DIKKUMBURA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6469,MEEGAHAGODA KANISHTA VIDYALAYA,MEEGAHAGODA AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,3.Type2,provincial
+6470,NAKANDA KUMARA PRIMARY SCHOOL,ROHITHA MW OLAGANDUWA AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6471,AHANGAMA GIMARA SENANAYAKA PRIMARY SCHOOL,AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6472,SRI SANGARATHANA PRIMARY SCHOOL,AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6473,THITHTHAGALLA ATANIKITHA K.V.,"THITHTHAGALLA, AHANGAMA",Southern,31.Galle,Galle,Habaraduwa,3.Type2,provincial
+6474,WELHENGODA SRI GUNARATHANA K.V.,"WELHENGODA, AHANGAMA",Southern,31.Galle,Galle,Habaraduwa,3.Type2,provincial
+6477,DIKKUBURA K.V.,"PANUGALGODA, DIKKUBURA, AHANGAMA",Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6479,SRI DHARMARAMA MODEL SCHOOL,MUNIDASA MW AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6480,GIHAN PATHIRANA PRIMARY SCHOOL,HORADUGODA IMADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6482,KATHALUWA G.V.S DE SILVA PRIMARY SCHOOL,"KATHALIWA, AHANGAMA",Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6484,KOMBALA PRIMARY SCHOOL,KOMBALA IMADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6485,PUSWELKADA PRIMARY SCHOOL,PUSWELKADA IMADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6487,THITHTHAGALLA ATHTHADASSI PRIMARY SCHOOL,THITHAGALLA AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6488,PELESSA SIRI WIMALASIRI VIDYALAYA,THITHAGALLA AHANGAMA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6489,WELITHARA MUSLIM MAHA VIDYALAYA,"GALLE RD, BALAPITIYA",Southern,31.Galle,Ambalangoda,Balapitiya,2.1C,provincial
+6490,SIR RAZIK FAREED M.V.,"PANAPITIYA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,3.Type2,provincial
+6491,DIVITHURA VIVEKANANDA TAMIL K.V.,ETHKANDURA,Southern,31.Galle,Elpitiya,Welivitiya-Divithura,2.1C,provincial
+6492,THUNDUWA MUSLIM M.V.,THUNDUWA HABURUGALA,Southern,31.Galle,Elpitiya,Bentota,2.1C,provincial
+6493,IGALKANDA TAMIL K.V.,ELPITIYA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6494,THALGASWALA TAMIL K.V.,THALGASWALA,Southern,31.Galle,Udugama,Mapalagama,3.Type2,provincial
+6495,THALANGAHA SARASWATHI TAMIL VIDYALAYA,"THALANGAHA ESTATE, NAKIYADENIYA.",Southern,31.Galle,Udugama,Yakkalamulla,2.1C,provincial
+6498,GALLE MUSLIM LADIES COLLEGE,KONG TREE RD GALLE,Southern,31.Galle,Galle,Galle,2.1C,provincial
+6499,USWATHUNHASANA M.V,"KATUGODA, GALLE",Southern,31.Galle,Galle,Galle,2.1C,provincial
+6500,DADALLA AL MUBARAK VIDYALAYA,"BOPE RD, DADALLA, GALLE",Southern,31.Galle,Galle,Galle,3.Type2,provincial
+6501,HIRIMBURA SULEYMANIYA VIDYALAYA,"HIRIMBURA CROSS RD, HIRIMBURA GALLE",Southern,31.Galle,Galle,Galle,2.1C,provincial
+6502,KANDEWATTA AL-MEERAN SAUBHAGYA K.V,"KANDEWATTA, GALLE",Southern,31.Galle,Galle,Galle,3.Type2,provincial
+6503,AL-HAJ A.R.M.THASSIM COLLEGE,3RD LANE KATUGODA GALLE,Southern,31.Galle,Galle,Galle,4.Type3,provincial
+6504,NAVINNA MUSLIM VIDYALAYA,"NAVINNA, ULUVITIKE",Southern,31.Galle,Galle,Akmeemana,2.1C,provincial
+6505,HALIWALA MUSLIM K.V,"HEYLEY RD, ANANGODA, GALLE",Southern,31.Galle,Galle,Akmeemana,3.Type2,provincial
+6506,MAMANADOLA K.V.,MAMANADOLA NAKIYADENIYA,Southern,31.Galle,Udugama,Mapalagama,3.Type2,provincial
+6507,AMPEGAMA PRIMARY SCHOOL,AMPEGAMA,Southern,31.Galle,Elpitiya,Welivitiya-Divithura,4.Type3,provincial
+6508,POLPELAKETIYA K.V.,"POLPELAKETIYA, THALGASWALA",Southern,31.Galle,Elpitiya,Niyagama,4.Type3,provincial
+6510,BAMBARAWANA USBIM JANAPADA K.V.,"BAMBARAWANA, MATHTHAKA",Southern,31.Galle,Elpitiya,Niyagama,4.Type3,provincial
+6512,AKKARAVISSA K.V.,PINKANDA DODANDUWA,Southern,31.Galle,Ambalangoda,Hikkaduwa,3.Type2,provincial
+6513,DENSIL KOBBEKADUWA K.V.,"YATAGALA, URAGASMANHANDIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6514,DIYAKITHULKANDA K.V.,THALGASWALA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6515,GALLE ANULADEVI BALIKA VIDYALAYA,GALLE,Southern,31.Galle,Galle,Galle,1.1AB,provincial
+6517,MAHINDA RAJAPAKSHA K.V.,"AMARAKEERTHIGAMA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6518,WEERAGODA VIJAYABA PRIMARY SCHOOL,"WEERAGODA, MEETIYAGODA",Southern,31.Galle,Ambalangoda,Hikkaduwa,4.Type3,provincial
+6519,UDUGAMA PRIMARY SCHOOL,UDUGAMA,Southern,31.Galle,Udugama,Mapalagama,4.Type3,provincial
+6520,SRI GUNANANDA PRIMARY SCHOOL,"MIGETTUWATHTHA, BALAPITIYA.",Southern,31.Galle,Ambalangoda,Balapitiya,4.Type3,provincial
+6521,IMADUWA NALANDA PRIMARY SCHOOL,IMADUWA,Southern,31.Galle,Galle,Habaraduwa,4.Type3,provincial
+6522,GANEGAMA ROMAN CATHOLIC SINHALA MIXED SCHOOL,"GANEGAMA EAST, BADDEGAMA",Southern,31.Galle,Galle,Baddegama,4.Type3,provincial
+6523,GANAPINUWALA PRIMARY SCHOOL,GONAPINUWALA,Southern,31.Galle,Ambalangoda,Ambalangoda,4.Type3,provincial
+6524,ELPITIYA PRIMARY SCHOOL,ELPITIYA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6525,AL-AKSHA PRIMARY SCHOOL,"H.K.EDMOND MW, GALLE",Southern,31.Galle,Galle,Galle,4.Type3,provincial
+6526,NAGODA PRIMARY SCHOOL,NAGODA GALLE,Southern,31.Galle,Udugama,Mapalagama,4.Type3,provincial
+6528,SUDARAKA PRIMARY SCHOOL,AMUGODA,Southern,31.Galle,Elpitiya,Elpitiya,4.Type3,provincial
+6531,KOBEIDUWA PRIMARY SCHOOL,MIRISWATHTHA BENTHOTA,Southern,31.Galle,Elpitiya,Bentota,4.Type3,provincial
+6532,THAWALAMA K.V.,THAWALAMA,Southern,31.Galle,Udugama,Thawalama,4.Type3,provincial
+6533,ROYAL MODEL PRIMAY SCHOOL,"MADAKUMBURA, KARANDENIYA",Southern,31.Galle,Elpitiya,Karandeniya,4.Type3,provincial
+6534,MAGEDARA PRIMARY SCHOOL,"MAGEDARA, GALLE",Southern,31.Galle,Udugama,Yakkalamulla,4.Type3,provincial
+6535,DR.RICHARD PATHIRANA SAUBHAGYA P.V,"ULUVITIKE, GALLE",Southern,31.Galle,Galle,Akmeemana,4.Type3,provincial
+7001,PITABEDDARA M.V.,PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,1.1AB,provincial
+7002,MEDHANANDA P.V.,KADURUWANA PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7003,HULANDAWA TAMIL M.V.,HULANDAWA PITABADDARA,Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7004,DEHIGASPA DUDLY SENANAYAKA M.V.,"DEHIGASPA, PITABADDARA",Southern,32.Matara,Deniyaya,Morawaka,2.1C,provincial
+7005,DEHIGASPA ANAGARIKA DHARMAPALA P.V.,DEHIGASPA PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7006,DIYADAWA P.V.,SIYABALAGODA EAST PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7007,SIYAMBALAGODA EAST M.V.,SIYAMBALAGODA EAST PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,2.1C,provincial
+7008,ELAMALDENIYA K.V.,ELAMALDENIYA PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7009,HATHTHOTUWA K.V.,HAWOWITA PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,3.Type2,provincial
+7010,SIYAMBALAGODA WEST K.V.,PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7012,DERANGALA SUMANA P.V.,KIRIWELKALE PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7013,DERANGALA M.V.,"III STEP, KIRIWELKALE, PITABEDDARA",Southern,32.Matara,Deniyaya,Morawaka,2.1C,provincial
+7014,THALAPEKUMBURA K.V.,THALAPEKUMBURA ALAPALADENIYA,Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7015,KUDAGALAHENA K.V.,GORAKAWELA PITABEDDARA,Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7016,DARANGALA K.V.,"1 STEP, DERANGALA, PITABEDDARA",Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7018,MORAWAKA K.V.,"MILLAALA ,MORAWAKA",Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7019,PORUPITIYA CHILD FRENDLY MODEL PRIMARY SCHOOL,WARALLA,Southern,32.Matara,Deniyaya,Kotapola,4.Type3,provincial
+7020,ALAPALADENIYA M.V.,"NELUWA RD, ALAPALADENIYA",Southern,32.Matara,Deniyaya,Morawaka,2.1C,provincial
+7021,EDADUKITHA K.V.,ALAPALADENIYA,Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7022,KALUBOVITIYANA M.V.,KALUBOWITIYANA,Southern,32.Matara,Deniyaya,Morawaka,2.1C,provincial
+7023,BANAGALA SEELARATHANA K.V.,"BANAGALA, OPATHA",Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7024,DANGALA K.V.,"DANGALA, ALAPALADENIYA",Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7025,RAMBUKANA KODIKARAGODA K.V.,"KODIKARAGODA,MORAWAKA",Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7026,KOSNILGODA P.V.,"KOSNILGODA, MORAWAKA",Southern,32.Matara,Deniyaya,Morawaka,4.Type3,provincial
+7027,MORAWAKA BAUDDHA MAHA VIDYALAYA,"WELIWA,MORAWAKA",Southern,32.Matara,Deniyaya,Morawaka,2.1C,provincial
+7028,PARAGALA K.V.,"PARAGALA,MORAWAKA",Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7030,MUGUNUMULLA K.V.,"MUGUNUMULLA,KOTAPOLA",Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7031,GODAKUMBURA K.V.,KOTAPOLA,Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7032,ILUKPITIYA K.V.,KOTAPOLA,Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7033,WARALLA M.D.YAPA M.V.,"DENIYAYA RD,WARALLA",Southern,32.Matara,Deniyaya,Kotapola,2.1C,provincial
+7034,YATIHORAGALA K.V.,"YATIHORAGALA,WARALLA",Southern,32.Matara,Deniyaya,Kotapola,4.Type3,provincial
+7035,UDAHORAGALA K.V.,"UDAHORAGALA,WARALLA",Southern,32.Matara,Deniyaya,Kotapola,4.Type3,provincial
+7036,OLAKUMBURA K.V.,"OLAKUMBURA, DENIYAYA",Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7037,PAHALA BATANDURA K.V.,"BATANDURA, DENIYAYA.",Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7038,THALAPALAKANDA K.V.,THALAPALAKANDA DENIYAYA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7039,KIRILIPANA K.V.,MORAGALA KIRILIPANA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7040,MOLOGGAMUWA K.V.,MORAGALA KIRILIPANA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7042,MEKILIYATHANNA K.V.,URUBOKKA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7043,KEERIPITIYA K.V.,KEERIPITIYA URUBOKKA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7044,DAMPAHALA K.V.,DAMPAHALA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7045,HULANKANDA K.V.,HULANKANDA DAMPAHALA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7046,GINNALIYA MAHA VIDYALAYA,GINNALIYA URUBOKKA,Southern,32.Matara,Deniyaya,Pasgoda,2.1C,provincial
+7047,ALAKOLADENIYA K.V.,URUBOKKA,Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7048,PUHUL HENA KANDA K.V.,BERALAPANATHARA,Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7049,PERCY ABEYWARDANA K.V.,PATTIGALA BERALAPANATHARA,Southern,32.Matara,Deniyaya,Pasgoda,2.1C,provincial
+7050,KETAWALA VIDYALAYA,BERALAPANATHARA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7051,BERALAPANATHARA M.V.,BERALAPANATHARA,Southern,32.Matara,Deniyaya,Pasgoda,2.1C,provincial
+7053,VILAYAYA K.V.,DAMPAHALA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7054,BENGAMUWA SECONDARY SCHOOL,BENGAMUWA,Southern,32.Matara,Deniyaya,Pasgoda,2.1C,provincial
+7057,DENIYAYA RAJAPAKSHA M.V.,"MAIN STREET, DENIYAYA",Southern,32.Matara,Deniyaya,Kotapola,2.1C,provincial
+7058,DENIYAYA ST. MATTEW'S B.M.V.,"RATHNAPURA RD, DENIYAYA",Southern,32.Matara,Deniyaya,Kotapola,2.1C,provincial
+7059,HANDFORD TAMIL SECONDARY SCHOOL,"HANDFORD,DENIYAYA",Southern,32.Matara,Deniyaya,Kotapola,2.1C,provincial
+7060,KIRIWELDOL K.V.,"KIRIWELDOLA,DENIYAYA",Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7061,KEERIWALAGAMA K.V.,"MEDERIPITIYA, DENIYAYA",Southern,32.Matara,Deniyaya,Kotapola,4.Type3,provincial
+7062,KANDILPANA K.V.,"BATAYAYA,DEIYAYA",Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7063,BEVERELEY TAMIL M.V.,"BEVERELEY GAMA,DEIYAYA",Southern,32.Matara,Deniyaya,Kotapola,2.1C,provincial
+7064,MEDERIPITIYA K.V.,"MEDERIPITIYA,DENIYAYA",Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7065,PALLEGAMA SECONDARY SCHOOL,"KOLAWENIGAMA,DENIYAYA",Southern,32.Matara,Deniyaya,Kotapola,2.1C,provincial
+7066,KOLAWENIGAMA M.V.,KOLAWENIGAM DENIYAYA,Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7067,VIHARAHENA K.V.,"VIHARAHENA,DENIYAYA",Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7068,ENASALWATT TAMIL K.V.,"VIHARAHENA,DENIYAYA",Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7069,ANINGKANDA TAMIL K.V.,DENIYAYA,Southern,32.Matara,Deniyaya,Kotapola,3.Type2,provincial
+7072,AKURUGODA K.V.,"AKURUGODA, SULTHANAGODA",Southern,32.Matara,Akuressa,Malimboda,3.Type2,provincial
+7073,AKURUGODA SENANI K.V.,THELIJJAWILA,Southern,32.Matara,Akuressa,Malimboda,3.Type2,provincial
+7074,THELIJJAWILA RAJAKEEYA M.V.,THELIJJAWILA,Southern,32.Matara,Akuressa,Malimboda,2.1C,provincial
+7075,HORAGODA M.V.,"HORAGODA,THELIJJAWILA",Southern,32.Matara,Akuressa,Malimboda,2.1C,provincial
+7076,AL-HUDHA MUSLIM K.V.,"HORAGODA, THELIJJAWILA",Southern,32.Matara,Akuressa,Malimboda,3.Type2,provincial
+7077,DAMPELLA M.V.,DAMPELLA THELIJJAWILA,Southern,32.Matara,Akuressa,Malimboda,3.Type2,provincial
+7078,DAMPELLA P.V.,DAMPELLA THELIJJAWILA,Southern,32.Matara,Akuressa,Malimboda,4.Type3,provincial
+7080,KARAGODA UYANGODA MAHA VIDYALAYA,"KARAGODA, UYANGODA",Southern,32.Matara,Mulatiyana,Kamburupitiya,2.1C,provincial
+7081,KARAGODA UYANGODA MODEL PRIMARY SCHOOL,"KARAGODA, UYANGODA",Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7082,HALLALA M.V.,"HALLALA,WELIGAMA",Southern,32.Matara,Akuressa,Welipitiya,2.1C,provincial
+7083,KOKMADUWA .K.V.,"KOKMADUWA,WELIGAMA",Southern,32.Matara,Akuressa,Welipitiya,3.Type2,provincial
+7084,PENETIYANA SADDHATISSA K.V.,PENETIYANA WELIGAMA,Southern,32.Matara,Akuressa,Welipitiya,4.Type3,provincial
+7086,WELLANA GUNATHILAKA K.V.,PENATIYANA WELIGAMA,Southern,32.Matara,Akuressa,Welipitiya,3.Type2,provincial
+7088,KADOLGALLA SAUBHAGYA VIDYALAYA,DENIPITIYA,Southern,32.Matara,Akuressa,Welipitiya,3.Type2,provincial
+7089,WATAGEDARAMULLA K.V.,DENIPITIYA,Southern,32.Matara,Akuressa,Welipitiya,3.Type2,provincial
+7090,AN-NOOR M.V.,KAPUWATTA DENIPITIYA WELIGAMA,Southern,32.Matara,Akuressa,Welipitiya,2.1C,provincial
+7091,ASSAFA K.V.,MADURAPURA DENIPITIYA WALIGAMA,Southern,32.Matara,Akuressa,Welipitiya,2.1C,provincial
+7092,UDUKAWA K.V.,UDUKAWA DENIPITIYA,Southern,32.Matara,Akuressa,Welipitiya,3.Type2,provincial
+7093,WELIPITIYA ZAHIRA M.V.,"WELIPITIYA, WELIGAMA",Southern,32.Matara,Akuressa,Welipitiya,2.1C,provincial
+7094,KANANKE SIRI PERAKUMBA CENTRAL COLLEGE,KANANKE BAZAAR KANANKE,Southern,32.Matara,Akuressa,Welipitiya,2.1C,provincial
+7096,KANANKE MODEL K.V.,KANANKE BAZAAR,Southern,32.Matara,Akuressa,Welipitiya,4.Type3,provincial
+7097,MAKULUWALAHENA K.V.,KANANKE BAZER KANANKE,Southern,32.Matara,Akuressa,Welipitiya,4.Type3,provincial
+7098,PUHULAHENA GEMUNU K.V.,KANANKE BAZAAR,Southern,32.Matara,Akuressa,Welipitiya,4.Type3,provincial
+7102,NIMALAWA K.V.,KANANKE BAZAR,Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7103,GALLALA K.V.,KANANKE BAZAR,Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7105,AKURESSA M.V.,AMALAGODA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7106,PAHURANWILA DHARMARAJA K.V.,"PARADUWA,AKURESSA'",Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7107,PARADUWA ADARSHA K.V.,"ELGIRIYA,THELIJJAWILA",Southern,32.Matara,Akuressa,Malimboda,3.Type2,provincial
+7108,HENEGAMA K.V.,"HENEGAMA,AKURESSA",Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7109,PARAGAHAWATTA SAMARAPALA K.V.,HENEGAMA AKURERSSA,Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7110,IMBULGODA SAUBHAGYA K.V.,"IMBULGODA, AKURESSA.",Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7112,PORAMBA VIDYALAYA,PORAMBA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7113,MALIDUWA M.V.,"MALIDUWA,AKURESSA",Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7114,MALIDUWA K.V.,MALIDUWA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7115,DEDIYAGALA K.V.,"DEDIYAGALA,MALIDUWA.",Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7116,EHALAPE VIDYARAJA M.V.,MALIDAWA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,1.1AB,provincial
+7117,DOLAMAWATHA K.V.,"MALIDUWA,AKURESSA'",Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7118,KOHUGODA K.V.,"MALIDUWA,AKURESSA.",Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7119,IHALA MALIDUWA K.V.,"MALIDUWA,AKURESSA'",Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7120,BOPITIYA SRI WIMALAWANSHA K.V.,MALIDUWA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7121,WELIKETIYA K.V.,WELIKETIYA MALIDUWA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7122,DIYALAPE K.V.,DIYALAPE AKURESSA,Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7123,MARABA MAHA VIDYALAYA,MARABA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7124,MARAMBA KANITU VIDYALAYA,MARANBA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7125,ELLAWELA K.V.,"MARAMBA ,AKURESSA.",Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7126,GANHELA K.V.,"GANHELA,AKURESSA.",Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7128,DIGANAHENA KANISTA VIDYALAYA,DIGANAHENA DEEGALA LENAMA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7129,LENAMA K.V.,"DEEGALA,LENAMA,PITABEDDARA",Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7130,GALHENA K.V.,"MARAMBA, AKURESSA",Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7131,GODAPITIYA K.V.,THIBBOTUWAWA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7132,BALAKAWALA K.V.,ATHAURALIYA,Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7133,KEERTHI WIJAYABA K.V.,AKURESSA.,Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7134,THALAHAGAMA K.V.,THALAHAGAMA MAKADURA,Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7135,SRI MEDHANKARA M.V.,"PORATHOTA,GODAPITIYA.",Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7136,WELIHENA K.V.,BOPAGODA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7137,BOPAGODA K.V.,BOPAGODA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7138,BOPAGODA SUGEESHWARA M.V.,BOPAGODA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,3.Type2,provincial
+7139,J.R.S.DE.ALMEDA.M.V.,URUMUTHTHA.AKURESSA,Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7141,ATHURALIYA M.V.,ATHURALIYA,Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7142,ATHURALIYA SRI VIJAYA K.V.,ATHURALIYA,Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7143,YAHAMULLA K.V.,"ATHURALIYA,AKURESSA",Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7144,WILPITA M.V.,WILPITA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7145,GODAPITIYA SADATH M.V.,GODAPITIYA AKURESSA,Southern,32.Matara,Akuressa,Akuressa,2.1C,provincial
+7147,KAMBURUPITIYA MAHA VIDYALAYA,KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,3.Type2,provincial
+7148,SAPUGODA SRI RATHANAPALA K.V.,SAPUGODA KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,3.Type2,provincial
+7149,GATHARA KANISHTA VIDYALAYA,GATHARA KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7150,GANETENNA UPARATHANA K.V.,NARANDENIYA KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7151,GODAWA KANISHTA VIDYALAYA,GODAWA KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7153,THUMBE K.V.,THUBE KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,3.Type2,provincial
+7154,OVITIGAMUWA MAHA VIDYALAYA,KARAPUTUGALA,Southern,32.Matara,Mulatiyana,Kamburupitiya,2.1C,provincial
+7155,ERIYATHOTA M.V.,"IRIYATHOTA,KAMBURUPITIYA.",Southern,32.Matara,Mulatiyana,Kamburupitiya,2.1C,provincial
+7156,BIBULAWELA KANITU VIDYALAYA,"BIBULAWELA, KARAGODA, UYANGODA",Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7157,UPALI WIJAYAWARDANA VIDYALAYA,LENABATUWA KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,3.Type2,provincial
+7158,IHALA VITIYALA SRI GUNARATHANA K.V.,KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7159,IHALA VITIYALA SOUTH K.V.,"KARAGODA, UYANGODA",Southern,32.Matara,Mulatiyana,Thihagoda,4.Type3,provincial
+7160,ULLALA MAHA VIDYALAYA,ULLALA KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,2.1C,provincial
+7161,SIRI PANNALANKARA VIDYALAYA,MAPALANA KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,3.Type2,provincial
+7163,THIHAGODA K.V.,THIHAGODA.,Southern,32.Matara,Mulatiyana,Thihagoda,4.Type3,provincial
+7164,KAPUDUWA K.V.,"KAPUDUWA,THIHAGODA",Southern,32.Matara,Mulatiyana,Thihagoda,4.Type3,provincial
+7165,KITHALAGAMA WEST M.V.,THIHAGODA,Southern,32.Matara,Mulatiyana,Thihagoda,2.1C,provincial
+7166,KITHALAGAMA EAST K.V.,THIHAGODA,Southern,32.Matara,Mulatiyana,Thihagoda,3.Type2,provincial
+7167,PALOLPITIYA M.V.,THIHAGODA,Southern,32.Matara,Mulatiyana,Thihagoda,3.Type2,provincial
+7168,PAHALAVITIYALA P.V.,THIHAGODA,Southern,32.Matara,Mulatiyana,Thihagoda,4.Type3,provincial
+7169,SIRI RATHANAJOTHI MAHA VIDYALAYA,AKURUGODA KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,2.1C,provincial
+7170,SUGATHAPALA GODAWATTA K.V.,KAHAGALA KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,3.Type2,provincial
+7172,BATUVITA P.V.,THIHAGODA,Southern,32.Matara,Mulatiyana,Thihagoda,4.Type3,provincial
+7173,YATIYANA M.V.,"YATIYANA, MATARA",Southern,32.Matara,Mulatiyana,Thihagoda,1.1AB,provincial
+7174,YATIYANA K.V.,YATIYANA.,Southern,32.Matara,Mulatiyana,Thihagoda,4.Type3,provincial
+7176,GALBADA SRI DEWANANDA K.V.,DEEYAGAHA,Southern,32.Matara,Mulatiyana,Thihagoda,3.Type2,provincial
+7177,APAREKKA M.V.,APAREKKA,Southern,32.Matara,Matara,Devinuwara,2.1C,provincial
+7178,UDA APAREKKA K.V.,"UDA APAREKKA ,APARAKKA.",Southern,32.Matara,Matara,Devinuwara,3.Type2,provincial
+7179,APAREKKA MODEL SCHOOL,APAREKKA,Southern,32.Matara,Matara,Devinuwara,4.Type3,provincial
+7180,UGGODA P.V.,YATIYANA.,Southern,32.Matara,Mulatiyana,Thihagoda,4.Type3,provincial
+7182,KIRINDA MODEL PRIMARY SCHOOL VIDYALAYA,KIRINDA PUHULWELLA,Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7183,MASMULLA K.V.,KAMBURUPITIYA,Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7184,AL MANAAR MAHA VIDYALAYA,KIRINDA PUHULWELLA,Southern,32.Matara,Mulatiyana,Kamburupitiya,2.1C,provincial
+7186,HETTIYAWALA WEST K.V.,HETTIYAWALA PUHULWELLA,Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7187,HETTIYAWALA EAST MAHA VIDYALAYA,KIRINDA PUHULWELLA,Southern,32.Matara,Mulatiyana,Kamburupitiya,2.1C,provincial
+7188,HEELLAKANDA P.V.,PUHULWELLA,Southern,32.Matara,Mulatiyana,Thihagoda,4.Type3,provincial
+7189,DAMMULLAGODA K.V.,PUHULWELLA,Southern,32.Matara,Mulatiyana,Kamburupitiya,3.Type2,provincial
+7190,WALAKANDA M.V.,PUHULWELLA,Southern,32.Matara,Mulatiyana,Thihagoda,3.Type2,provincial
+7192,DEWALAMULLA P.V.,PUHULWELLA,Southern,32.Matara,Mulatiyana,Kamburupitiya,4.Type3,provincial
+7193,HAKMANA METHODIST M.M.V.,HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,1.1AB,provincial
+7194,BUDDAJAYANTHI K.V.,"BELIATTA RD, HAKMANA",Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7196,VEPATHAIRA GUNASEKARA M.V.,HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7197,KEBILIYAPOLA K.V.,KEBILIYAPOLA HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7198,KEBILIYAPOLA SRI GUNARATHANA K.V.,KEBILIYAPOLA HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7199,GANGODAGAMA JAYAWARDHANA M.V.,HAKMANA.,Southern,32.Matara,Mulatiyana,Hakmana,2.1C,provincial
+7200,KOHULIYADDA P.V.,KOHULIYADDA HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7201,KARATOTA K.V.,"KARATOTA,HAKMANA.",Southern,32.Matara,Mulatiyana,Hakmana,3.Type2,provincial
+7202,KUBALGODA K.V.,KUBALGODA KARATHOTA HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7203,LALPE P.V.,LALPE HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7204,UDUPEELLAGODA K.V.,UDUPEELLAGODA HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7205,KONGALA M.M.V.,HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,1.1AB,provincial
+7206,KONGALA K.V.,KONGALA HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7207,MIDDENIGODA K.V.,MIDDENIGODA HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,4.Type3,provincial
+7208,NARAWELPITA SOUTH CENTREL COLLEGE,"NARAWELPITA,HAKMANA.",Southern,32.Matara,Mulatiyana,Hakmana,2.1C,provincial
+7209,ELLEWELA K.V.,HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,3.Type2,provincial
+7211,KANDEGODA K.V.,KANDEGODA HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,3.Type2,provincial
+7213,DENAGAMA M.V.,"DENAGAMA,HAKMANA.",Southern,32.Matara,Mulatiyana,Hakmana,2.1C,provincial
+7214,DENAGAMA EAST K.V.,"DENAGAMA,HAKMANA.",Southern,32.Matara,Mulatiyana,Hakmana,3.Type2,provincial
+7215,PALLAWELA M.V.,RADAWELA,Southern,32.Matara,Mulatiyana,Mulatiyana,2.1C,provincial
+7216,PALLAWELA BATADOLA K.V.,"BATADOLA,DENAGAMA",Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7217,KUMARASINGHA K.V.,"PALLAWELA SOUTH,DENAGAMA",Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7218,DENAGAMA VIPULASARA M.M.V.,"DENAGAMA, HAKMANA",Southern,32.Matara,Mulatiyana,Mulatiyana,2.1C,provincial
+7219,M.HENRY ARIYARATHNA M.V.,"NARAWELPITA NORTH, HAKMANA.",Southern,32.Matara,Mulatiyana,Hakmana,1.1AB,provincial
+7220,SAPUGAHAARA K.V.,NARAWELPITA EAST HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,3.Type2,provincial
+7221,PANANWELA K.V.,PANANWELA MEEELLA,Southern,32.Matara,Mulatiyana,Hakmana,3.Type2,provincial
+7222,BADABADDA M.V.,BADABADDA MEEELLA,Southern,32.Matara,Mulatiyana,Hakmana,3.Type2,provincial
+7223,MEE-ELLA DENAGAMA SRI RATANAPALA K.V.,HAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,3.Type2,provincial
+7224,AL-MINA MUSLIM M.V.,MIELLA NAKMANA,Southern,32.Matara,Mulatiyana,Hakmana,2.1C,provincial
+7227,SEENIPELLA P.V.,MULATIYANA JUNCTION,Southern,32.Matara,Mulatiyana,Mulatiyana,4.Type3,provincial
+7230,BAMUNUGAMA M.V.,"BAMUNUGAMA,HORAPAWITA",Southern,32.Matara,Mulatiyana,Mulatiyana,2.1C,provincial
+7231,RADAWELA K.V.,RADAWELA,Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7232,DEWALEGAMA K.V.,RADAWELA,Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7233,ATHAPATHTHUKANDA K.V.,"PARAPAMULLA,DEYIYANDARA",Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7234,KETIYAPE MAHA VIDYALAYA,"KATIYAPE,DEIYANDARA",Southern,32.Matara,Mulatiyana,Mulatiyana,2.1C,provincial
+7235,KETIYAPE NORTH K.V.,KETIYAPE DEIYANDARA,Southern,32.Matara,Mulatiyana,Mulatiyana,4.Type3,provincial
+7237,MARAMANDIYA K.V.,NERALAMPITIYA MULATIYANA,Southern,32.Matara,Mulatiyana,Mulatiyana,4.Type3,provincial
+7238,MAKANDURA M.M.V.,MAKANDURA,Southern,32.Matara,Mulatiyana,Mulatiyana,1.1AB,provincial
+7239,RANSEGODA NORTH K.V.,MAKANDURA,Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7240,BERAGAMA K.V.,MAKANDURA,Southern,32.Matara,Mulatiyana,Mulatiyana,4.Type3,provincial
+7241,DIDDENIPOTHA SAUBHAGYA V.,MULATIYANA JUCTION,Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7242,MAKANDURA MODEL PRIMARY SCHOOL,MAKANDURA,Southern,32.Matara,Mulatiyana,Mulatiyana,4.Type3,provincial
+7243,RANSEGODA SOUTH K.V.,RANSEGODA,Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7244,BERALIATHURA K.V.,RANSEGODA,Southern,32.Matara,Mulatiyana,Mulatiyana,4.Type3,provincial
+7245,KORAMBURUWANA MAHA VIDYALAYA,RANSEGODA,Southern,32.Matara,Mulatiyana,Mulatiyana,2.1C,provincial
+7246,PATHRAMULLA P.V.,HORAPAWITA,Southern,32.Matara,Mulatiyana,Mulatiyana,4.Type3,provincial
+7247,MEEPAVITA K.V.,RANSEGODA,Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7248,"SRIMATH ANAGARIKA DHARMAPALA M.V., GOMILA",GOMILA MAWARALA,Southern,32.Matara,Deniyaya,Pasgoda,2.1C,provincial
+7249,EHELAKANDA M.V.,EHELAKANDA GOMILA MAWARALA,Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7250,GOMILA PRIMARY SCHOOL,GOMILA MAWARALA,Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7251,PUWAKGAHAHENA K.V.,GOMILA MAWARALA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7252,ROTUMBA VIJAYABA MAHA VIDYALAYA,ROTUMBA MATARA,Southern,32.Matara,Deniyaya,Pasgoda,2.1C,provincial
+7253,DENKANDALIYA K.V.,DENKANDALIYA ROTUMBA,Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7254,PANAKADUWA K.V.,ROTUMBA MATARA,Southern,32.Matara,Deniyaya,Pasgoda,3.Type2,provincial
+7255,PASGODA M.V.,PASGODA,Southern,32.Matara,Deniyaya,Pasgoda,2.1C,provincial
+7256,GOMBANDDALA VIJAYABA K.V.,GOMBADDALA,Southern,32.Matara,Mulatiyana,Mulatiyana,3.Type2,provincial
+7259,JAMBUREGODA M.V.,"JAMBUREGODA,WELIGAMA;",Southern,32.Matara,Akuressa,Welipitiya,2.1C,provincial
+7260,MIDIGAMA M.V.,"MIDIGAMA ,AHANGAMA",Southern,32.Matara,Matara,Weligama,2.1C,provincial
+7261,IBBAWALA KANISHTHA VIDYALAYA,PASALWATTA IBBAWALA WELIGAMA,Southern,32.Matara,Akuressa,Welipitiya,3.Type2,provincial
+7262,SRI SANGANANDA PRIMARY SCHOOL,"KAPPARATHOTA , WELIGAMA",Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7263,WANIGASIRI PRIMARY SCHOOL,"KUDALUMULLA , WELIGAMA",Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7266,MIDIGAMA NAKANDA P.V.,"MIDIGAMA, AHANGAMA",Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7267,PALALLA K.V.,"PALALLA, WELIGAMA",Southern,32.Matara,Akuressa,Welipitiya,3.Type2,provincial
+7268,BATAWALA PATHEGAMA MODEL PRIMARY SCHOOL,"PATHEGAMA , WELIGAMA",Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7269,HEMACHANDRA GUNASEKARA K.V.,MUDUGAMUWA'WELIGAMA,Southern,32.Matara,Matara,Weligama,3.Type2,provincial
+7270,JINARAJA KANISTA VIDYALAYA,"KUBALGAMA , WELIGAMA",Southern,32.Matara,Matara,Weligama,3.Type2,provincial
+7271,DHARMARAJA PRIMARY SCHOOL,"AGRABODHI MW , WELIGAMA",Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7273,DENIPITIYA M M VIDYALAYA,DENEPITIYA,Southern,32.Matara,Akuressa,Welipitiya,1.1AB,provincial
+7274,PELENA SRI WAJIRAGNANA M.V.,PELENA WELIGAMA,Southern,32.Matara,Matara,Weligama,2.1C,provincial
+7275,POLWATHUMODARA M.V.,"POLWATHUMODARA,MIRISSA",Southern,32.Matara,Matara,Weligama,2.1C,provincial
+7276,WARAKAPITIYA.M.V.,"WARAKAPITIYA,DENIPITIYA",Southern,32.Matara,Akuressa,Welipitiya,2.1C,provincial
+7277,POLWATTA PRIMARY SCHOOL,"POLWATTA , DENIPITIYA",Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7279,DENIPITIYA MODEL K.V.,DENIPITIYA,Southern,32.Matara,Akuressa,Welipitiya,4.Type3,provincial
+7280,NIDANGALA K.V.,NIDANGALA,Southern,32.Matara,Matara,Weligama,3.Type2,provincial
+7281,"DHARMAPALA K.V., WELIGAMA",WELIGAMA,Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7284,KAMBURUGAMUWA MAHA VIDYALAYA,KAMBURUGAMUWA MATARA,Southern,32.Matara,Matara,Weligama,2.1C,provincial
+7285,KOTAWILA SRI RATHANAPALA M.V.,"KOTAWILA,KAMBURUGAMUWA",Southern,32.Matara,Matara,Weligama,2.1C,provincial
+7286,THALARAMBA SRI INDRASARA MAHA VIDYALAYA,"THALARMBA, KAMBURUGAMUWA",Southern,32.Matara,Matara,Weligama,3.Type2,provincial
+7287,MIRISSA M.M.VIDYALAYA,UDUPILA MIRISSA,Southern,32.Matara,Matara,Weligama,2.1C,provincial
+7288,ISIPATHANA PRIMARY SCHOOL,KAMBURUGAMUVA,Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7289,HENWALA JAYATHISSA VIDYALAYA,HENWALA MIRISSA,Southern,32.Matara,Matara,Weligama,3.Type2,provincial
+7290,SEEWALEE MODEL PRIMARY SCHOOL,"THALARAMBA EAST , KAMBURUGAMUWA",Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7291,GARANDUWA PRIMARY SCHOOL,"GARANDUWA , KAMBURUGAMUWA",Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7294,DAMMASARA K.V.,MIRISSA,Southern,32.Matara,Matara,Weligama,3.Type2,provincial
+7296,SULTHANAGODA M.V.,"SULTHANAGODA,MATARA",Southern,32.Matara,Akuressa,Malimboda,3.Type2,provincial
+7297,MALIMBADA SRI SUMEDA M.V.,"MALIMBADA, PALATUWA",Southern,32.Matara,Akuressa,Malimboda,2.1C,provincial
+7298,PALATUWA GUNARATHANA MADYA MAHA VIDYALAYA,PALATUWA. MATARA,Southern,32.Matara,Matara,Matara,1.1AB,provincial
+7299,ATHTHUDAWA M.V.,"ATHTHUDAWA,PALATUWA",Southern,32.Matara,Matara,Matara,2.1C,provincial
+7300,ANGUNNA BADULLA K.V.,WELLETOTO PALATUWA,Southern,32.Matara,Matara,Matara,3.Type2,provincial
+7301,MALIMBADA NORTH M.V.,"MALIMBADA,PALATUWA",Southern,32.Matara,Akuressa,Malimboda,2.1C,provincial
+7302,GALPAMUNA K.V.,"GALPAMUNA,PALATUWA",Southern,32.Matara,Akuressa,Malimboda,3.Type2,provincial
+7303,UNELLA JAYANTHI VIDYALAYA,UNELLA PALATUWA,Southern,32.Matara,Matara,Matara,3.Type2,provincial
+7304,SULTHANAGODA P.V.,"SULTHANAGODA,MATARA",Southern,32.Matara,Akuressa,Malimboda,4.Type3,provincial
+7307,PAMBURANA SHARIPUTHRA M.V.,"PAMBURANA, MATARA",Southern,32.Matara,Matara,Matara,1.1AB,provincial
+7308,POLHENA VIDYALAYA,"POLHENA , MATARA",Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7310,MAHANAMA MAHA VIDYALAYA,"WALGAMA, MATARA",Southern,32.Matara,Matara,Matara,1.1AB,provincial
+7311,WEWAHAMANDUWA WANIGASEKARA M.V.,WEWAHAMANDUWA MATARA,Southern,32.Matara,Matara,Matara,3.Type2,provincial
+7312,GODAGAMA ANAGARIKA DHARMAPALA VIDYALAYA,GODAGAMA MATARA,Southern,32.Matara,Matara,Matara,3.Type2,provincial
+7313,HITTATIYA DHARMARAJA MAHA VIDYALAYA,MATARA,Southern,32.Matara,Matara,Matara,2.1C,provincial
+7315,DUDLEY SENANAYAKA VIDYALAYA,ISADEEN TOWN MATARA,Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7319,NADUGALA MAHA VIDYALAYA,NADUGALA,Southern,32.Matara,Matara,Matara,2.1C,provincial
+7320,NAIMBALA BANDATTARA MAHA VIDYALAYA,THIHAGODA,Southern,32.Matara,Matara,Matara,2.1C,provincial
+7321,MATARA MODEL PRIMARY SCHOOL,"THUDAWA , MATARA",Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7322,UYANWATHTHA MODEL PRIMARY SCHOOL,UYANWATHTHA MATARA,Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7323,MEDHANANDA PRIMARY SCHOOL,NUPE MATARA,Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7325,D.S.SENANAYAKA VIDYALAYA,GABADA WEEDIYA MATARA,Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7326,WERAGAMPITA OLCOTT MODEL SCHOOL,"WERAGAMPITA, MATARA",Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7327,DHARUL ULOOM M.V.,"BATHUTHA RD, MATARA",Southern,32.Matara,Matara,Matara,2.1C,provincial
+7329,DEEYAGAHA WEST M.V.,"NAWIMANA,MATARA",Southern,32.Matara,Matara,Matara,2.1C,provincial
+7330,NAVIMANA MAHARAJA MAHA VIDYALAYA,NAVIMANA SOUTH MATARA,Southern,32.Matara,Matara,Matara,3.Type2,provincial
+7331,ROHANA M.V.,"MEDDAWATHTHA, MATARA",Southern,32.Matara,Matara,Matara,2.1C,provincial
+7332,KOTUWEGODA MAHAMAYA BALIKA MAHA VIDYALAYA,"BEACH RD, KOTUWEGODA, MATARA",Southern,32.Matara,Matara,Matara,2.1C,provincial
+7333,DEEYAGAHA EAST K.V.,"DEEYAGAHA,MATARA",Southern,32.Matara,Matara,Matara,3.Type2,provincial
+7334,NAWIMANA NORTH K.V.,"NAWIMANA NORTH, MATARA",Southern,32.Matara,Matara,Matara,3.Type2,provincial
+7335,MATARA JANADHIPATHI VIDYALAYA,KOTUWA MATARA,Southern,32.Matara,Matara,Matara,1.1AB,provincial
+7336,RUWANELLA K.V.,RUWANELLA MATARA,Southern,32.Matara,Matara,Matara,3.Type2,provincial
+7337,NILWALA MODEL JUNIOR SCHOOL,PALLIMULLA MATARA,Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7340,ILMA COLLEGE,KOTUWEGODA MATARA,Southern,32.Matara,Matara,Matara,1.1AB,provincial
+7341,THALPAVILA M.M.V.,DEVINUWARA,Southern,32.Matara,Matara,Matara,1.1AB,provincial
+7342,KOKAWALA CENTRAL COLLEGE,KOKAWALA KEKANADURA,Southern,32.Matara,Matara,Matara,2.1C,provincial
+7343,MOTAGEDARA BANDARA NAYAKA M.V.,KEKANADURA,Southern,32.Matara,Matara,Matara,2.1C,provincial
+7345,THALPAVILA MIHINDU MODEL SCHOOL,DEVINUWARA,Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7347,THALPAVILA GAMUNU PRIMARY SCHOOL,THALPAVILA KEKANDURA,Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7348,KEKANADURA VIJAYABA K.V.,"WEHERAHENA RD, KEKANADURA",Southern,32.Matara,Matara,Matara,3.Type2,provincial
+7349,MOTAGEDARA PRIMARY SCHOOL,MOTAGEDARA KEKANADURA,Southern,32.Matara,Matara,Matara,4.Type3,provincial
+7351,GANDARA MAHA VIDYALAYA,GANDARA,Southern,32.Matara,Matara,Devinuwara,2.1C,provincial
+7352,KAPUGAMA KANISHTA VIDYALAYA,KAPUGAMA DEVINUWARA,Southern,32.Matara,Matara,Devinuwara,3.Type2,provincial
+7353,SIRIPIYARATHANA K.V.,"GANDARAWATTA,DEVINUWARA",Southern,32.Matara,Matara,Devinuwara,3.Type2,provincial
+7354,SARANAPALA K.V.,DEVINUWARA,Southern,32.Matara,Matara,Devinuwara,3.Type2,provincial
+7355,WAWWA K.V.,"WAWWA,DEVINUWARA",Southern,32.Matara,Matara,Devinuwara,3.Type2,provincial
+7356,GANDARA MODEL PRIMARY SCHOOL,GANDARA,Southern,32.Matara,Matara,Devinuwara,4.Type3,provincial
+7359,AL-AZHAR VIDYALAYA,"GANDARA, MATARA",Southern,32.Matara,Matara,Devinuwara,2.1C,provincial
+7360,GODAUDA M.V.,"GODAUDA, KOTTAGODA",Southern,32.Matara,Matara,Dikwella,2.1C,provincial
+7361,THALALLA SOUTH M.V.,THALLALLA KOTTAGODA,Southern,32.Matara,Matara,Devinuwara,2.1C,provincial
+7362,THALALLA NORTH DHARMAWIJAYA M.V.,KEKANADURA,Southern,32.Matara,Matara,Devinuwara,2.1C,provincial
+7363,BELIDENIYA M.V.,BELIDENIYA KOTTAGODA,Southern,32.Matara,Matara,Dikwella,2.1C,provincial
+7364,DELGALLA PRIMARY SCHOOL,"DELGALLA,GANDARA",Southern,32.Matara,Matara,Devinuwara,4.Type3,provincial
+7365,NAOTUNNA MIXED K.V.,"NAOTUNNA,KEKANADURA",Southern,32.Matara,Matara,Devinuwara,3.Type2,provincial
+7366,NAOTUNNA SOUTH K.V.,"NAOTUNNA,KOTTAGODA",Southern,32.Matara,Matara,Devinuwara,4.Type3,provincial
+7367,PATHEGAMA SOUTH SIRISUMANA KANITU VIDYALAYA,KOTTAGODA,Southern,32.Matara,Matara,Dikwella,4.Type3,provincial
+7368,MALIYADDA VIJAYA VIDYALAYA,MALIYADDA DICKWELLA,Southern,32.Matara,Matara,Dikwella,4.Type3,provincial
+7373,RADAMPOLA SRI SUMANGALA CENTRAL COLLEGE,RADAMPOLA URUGAMUWA,Southern,32.Matara,Matara,Dikwella,1.1AB,provincial
+7374,MURUTHAGASPITIYA M.V.,MURUTHAGASPITIYA URUGAMUWA,Southern,32.Matara,Matara,Dikwella,2.1C,provincial
+7375,ARANKAHADENIYA KANITU VIDYALAYA,ARANKAHADENIYA URUGAMUWA,Southern,32.Matara,Matara,Dikwella,3.Type2,provincial
+7376,DANDENIYA K.V.,"DANDENIYA,RATHMALE",Southern,32.Matara,Matara,Dikwella,3.Type2,provincial
+7377,BODARAKANDA RATHANJOTHI K.V.,BODARAKANDA URUGAMUWA DIKWELLA,Southern,32.Matara,Matara,Dikwella,3.Type2,provincial
+7378,MEEGASDENIYA P.V.,"MEEGASDENIYA, URUGAMUWA",Southern,32.Matara,Matara,Dikwella,4.Type3,provincial
+7380,WEHELLA K.V.,WEHELLA URUGAMUWA,Southern,32.Matara,Matara,Dikwella,3.Type2,provincial
+7381,IHALAGODA K.V.,IHALAGODA. URUGAMUWA,Southern,32.Matara,Matara,Dikwella,4.Type3,provincial
+7382,URUGAMUWA METHODIST K.V.,URUGAMUWA,Southern,32.Matara,Matara,Dikwella,4.Type3,provincial
+7384,DICKWELLA NORTH M.V.,DICKWELLA,Southern,32.Matara,Matara,Dikwella,2.1C,provincial
+7385,DICKWELLA KUMARATHUNGE MUNIDASA M.V.,"BELIATTA RD, DICKWELLA",Southern,32.Matara,Matara,Dikwella,1.1AB,provincial
+7386,DEMATAPITIYA M.V.,WALASGALA,Southern,32.Matara,Matara,Dikwella,2.1C,provincial
+7387,BAMBARENBDA SADDARMARAJA M.V.,RATHMALE,Southern,32.Matara,Matara,Dikwella,2.1C,provincial
+7388,BATHEEGAMA M.V.,DICKWELLA,Southern,32.Matara,Matara,Dikwella,2.1C,provincial
+7389,AKURUBEBILA K.V.,DICKWELLA,Southern,32.Matara,Matara,Dikwella,3.Type2,provincial
+7390,THALAHITIYAGODA PARACKRAMA K.V.,RATHMALE,Southern,32.Matara,Matara,Dikwella,3.Type2,provincial
+7391,DODAMPAHALA VIDYALAYA,DODAMPAHALA DICWELLA,Southern,32.Matara,Matara,Dikwella,2.1C,provincial
+7392,ALUTHGODA K.V.,"ALUTHGODA ,DICKWELLA",Southern,32.Matara,Matara,Dikwella,4.Type3,provincial
+7393,DIKWELLA METHODIST SAUBHABYA P.V.,"DIKWELLA, MATARA",Southern,32.Matara,Matara,Dikwella,4.Type3,provincial
+7397,THALAHAGAMA PRIMARY SCHOOL,"THALAHAGAMA,MAKANDURA.",Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7399,BERALAPANATHARA PRIMARY SCHOOL,BERALAPANATHARA,Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7401,DIYANDARA PRIMARY SCHOOL,DEIYANDARA,Southern,32.Matara,Mulatiyana,Mulatiyana,4.Type3,provincial
+7402,BENGAMUWA P.S.,BENGAMUWA,Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7403,WELIGAMA MUSLIM PRIMARY SCHOOL,GALBOKKA WELIGAMA,Southern,32.Matara,Matara,Weligama,4.Type3,provincial
+7404,SIDDHARTH PRIMARY SCHOOL,"PALLEGAMA, KOLAWENIGAMA",Southern,32.Matara,Deniyaya,Kotapola,4.Type3,provincial
+7405,ATURALIYA PRIMARY SCHOOL,ATURALIYA,Southern,32.Matara,Akuressa,Akuressa,4.Type3,provincial
+7407,KEERTHI SRI PRIMARY SCHOOL,ROTUMBA MATARA,Southern,32.Matara,Deniyaya,Pasgoda,4.Type3,provincial
+7408,LUMBINI PRIMARY SCHOOL,WALGAMA MATARA,Southern,32.Matara,Matara,Matara,4.Type3,provincial
+8003,MEDAGANGODA M.V.,"MEDAGANGODA,WALASMULLA",Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8004,HOREWELA MAHA VIDYALAYA,HOREWELA WALASMULLA,Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8005,KIRAMA DAMMANANDA M.V.,KIRAMA,Southern,33.Hambantota,Walasmulla,Katuwana,1.1AB,provincial
+8006,WARAPITIYA SECONDARY SCHOOL,RAMMALA WARAPITIYA,Southern,33.Hambantota,Walasmulla,Katuwana,1.1AB,provincial
+8007,AMBAGAHAHENA MAHA VIDYALAYA,KARAMETIYA KIRAMA,Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8008,WALGAMMULLA M.V.,WALGAMMULLA. KIRAMA,Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8009,OMARA M.V.,OMARA WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8011,BOWALA KANISTHTA VIDYALAYA,BOWALA WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8012,RADANIARA MAHA VIDYALAYA,RADANIARA KIRAMA,Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8013,AGALABADA KANISHTHA VIDYALAYA,HOREWELAGODA WALASMULLA,Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8014,KEKIRIOBADA M.V.,"KEKIRIOBADA,KIRAMA",Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8015,HANDUGALA M.V.,"HANDUGALA, MATARA",Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8016,EGODABEDDA MAHA VIDYALAYA,EGODABEDDA KIRAMA,Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8017,KONKARAHENA KANISHTA VIDYALAYA,KONKARAHENA KIRAMA,Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8018,KERADENIYA K.V.,"KERADENIYA, KIRAMA",Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8019,THALAPATH KANDA K.V.,RAMMALA WARAPITIYA,Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8020,THALWATHTHA ABHINAWA K.V.,"THALWATHTHA,KATUWANA.",Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8021,HIGURAKANDA M.V.,HIGURAKANDA KATUWANA,Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8022,UDAGOMADIYA K.V.,"UDAGOMADIYA, KATUWANA",Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8023,GOMADIYA P.V.,"UDAGOMADIYA, KATUWANA",Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8024,RUKMALPITIYA K.V.,"RUKMALPITIYA,KATUWANA",Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8025,WATHUKANDA K.V.,"WATHUKANDA,KATUWANA",Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8026,WALASMULLA MODEL PRIMARY SCHOOL,WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8027,WEEDIKANDA K.V.,BOWALAGAMA WALASMULLA,Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8029,ALUPOTHDENIYA K.V.,"GANGULANDENIYA,KATUWANA",Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8030,PATHEGAMA P.V.,RAMMALA WARAPITIYA,Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8031,BINTENNA SRI INDARATHANA K.V.,BINTHANNA KIRAMA,Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8032,SAPUTHANTHRIKANDA P.V.,"RAMMALA, WARAPITIYA",Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8033,RAMMALAKANDA P.V.,RAMMALA VARAPITIYA,Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8034,OBADAGAHADENIYA P.V.,OBADAGAHADENIYA.KATUWANA,Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8035,JINASARANA P.V.,"MEEGAHAHENA,KATUVANA",Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8037,DALUWAGGODA P.V.,DALUWAGGODA WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8039,MULGIRIGALA M.V.,MULGIRIGALA,Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8040,MORAYAYA M.V.,WEEKANDAWALA,Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8041,MEEGASARA MAHA VIDYALAYA,JULAMPITIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8042,PALLEJULAMPITIYA MAHA VIDYALAYA,PALLEJULAMPITIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8043,MIDDENIYA MAHA VIDYALAYA,MIDDENIYA,Southern,33.Hambantota,Walasmulla,Katuwana,1.1AB,provincial
+8044,MEDAMULANA D.A.RAJAPAKSHA M.V.,MEDAMULANA,Southern,33.Hambantota,Walasmulla,Walasmulla,1.1AB,provincial
+8045,RITIGAHAYAYA MAHA VIDYALAYA,KATUWANA,Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8046,ATHUBODE K.V.,ATHUBODE WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8047,KEPPITIYAWA P.V.,WEERAKETIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8048,MANDADUWA MAHA VIDYALAYA,"MANDADUWA, WEERAKETIYA",Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8049,HINGURAMULANA SRI PEMANANDA K.V.,"HINGURAMULANA,WEERAKETIYA",Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8050,ITHTHADEMALIYA MAHA WIDYALAYA,"ITHTHADEMALIYA,WALASMULLA",Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8051,GONADENIYA M.V.,WEERAKETIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8052,WEKANDAWALA JANAPADA M.V.,WAKNDAWALA,Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8053,MURUTHWELA M.V.,WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8054,OKANDAYAYA M.V.,OKANDAYAYA MIDDENIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8055,KUDAGODA KANISHTHA VIDYALAYA,KARIYAMADITHTHA,Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8056,ULAHITIYAWA K.V.,"ULAHITIYAWA, MIDDENIYA",Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8057,HORAVINNA M.V.,HORAWINNA KATUWANA,Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8058,SIYARAPITIYA M.V.,SIYARAPITIYA KAATUWANA,Southern,33.Hambantota,Walasmulla,Katuwana,2.1C,provincial
+8059,LABUHENGODA K.V.,MIDDENIYA,Southern,33.Hambantota,Walasmulla,Katuwana,3.Type2,provincial
+8060,AL-AMEER MUSLIM VIDYALAYA,YAKGASMULLA WEERAKATIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,2.1C,provincial
+8062,UDUKIRIWILA P.V.,"UDUKIRIWILA,WEERAKETIYA",Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8063,GALHITIYA P.V.,GALHITIYA WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8064,WEERAKETIYA P.V.,WEERAKETIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8065,ABAKOLAWEWA K.V.,MADAMULANA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8066,RALUWA P.V.,RALUWA MADAMULANA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8067,GALPOTHTHAYAYA PRIMARY SCHOOL,JULAMPITIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8068,KUDABIBULA P.V.,JULAMPITIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8069,MIDDENIYA P.V.,"PANAMURA RD, MIDDENIYA",Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8070,KANDMADITHTHA P.V.,MEDAGAMA MADAMULANA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8071,GANGULANDENIYA RATHANAJOTHI P.V.,"GANGULANDENIYA, KATUWANA",Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8072,WELIPITIYA P.V.,"WELIPITIYA,MIDDENIYA.",Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8075,KADURUPOKUNA SRI PIYADASSI M.V.,KADURUPOKUNA TANGALLE,Southern,33.Hambantota,Tangalle,Tangalle,2.1C,provincial
+8076,NETOLPITIYA GEMUNU MAHA VIDYALAYA,NETOLPITIYA TANGALLE,Southern,33.Hambantota,Tangalle,Tangalle,2.1C,provincial
+8077,KOTAWAYA M.V.,"KOTAWAYA,HAKURUWELA",Southern,33.Hambantota,Tangalle,Angunakolapelessa,2.1C,provincial
+8078,UNAKURUWA K.V.,"UNAKURUWA, TANGALLE",Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8079,TANGALLE RAHULA M.V.,"THISSA RD, TANGALLE",Southern,33.Hambantota,Tangalle,Tangalle,2.1C,provincial
+8080,REKAWA JUNIOR SCHOOL,REKAWA NETOLPITIYA,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8081,PALATHUDUWA K.V.,PALATHUDUWA TANGALLE,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8082,GODAWANAGODA K.V.,GODAWANAGODA TANGALLE,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8083,THALUNNA M.V.,RANNA,Southern,33.Hambantota,Tangalle,Tangalle,2.1C,provincial
+8084,HAKURUWELA KANITU VIDYALAYA,HAKURUWELA.,Southern,33.Hambantota,Tangalle,Angunakolapelessa,3.Type2,provincial
+8085,UDAYALA M.V.,HAKURUWELA.,Southern,33.Hambantota,Tangalle,Angunakolapelessa,1.1AB,provincial
+8086,WAKAMULLA K.V.,HAKURUWELA.,Southern,33.Hambantota,Tangalle,Angunakolapelessa,3.Type2,provincial
+8087,ATHTHANAYALA M.V.,"ATHTHANAYALA,MEDAMULANA.",Southern,33.Hambantota,Tangalle,Angunakolapelessa,2.1C,provincial
+8088,PATTIYAPOLA K.V.,"PATTIYAPOLA, NETOLPITIYA",Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8089,TANGALLE MUSLIM VIDYALAYA,"MATARA RD, TANGALLE",Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8090,KADURUPOKUNA RAJAPAKSHA PRIMAY SCHOOL,KADURUPOKUNA WEST TANGALLE,Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8091,POLOMMARUWA MODEL SCHOOL,TANGALLE,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8092,DEEPANKARA SAUBHAGYA P.V.,"THISSA RD, TANGALLE",Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8093,MARAKOLLIYA K.V.,"THISSA RD, TANGALLE",Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8094,KADURUPOKUNA PRIMARY SCHOOL,"KADURUPOKUNA, TANGALLE",Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8095,TANGALLE MODEL PRIMARY SCHOOL,"KADURUPOKUNA RD, TANGALLE",Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8096,KAHADAWA P.V.,"KAHADAWA, RANNA",Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8099,WIGAMUVA P.V.,WIGAMUVA RANNA,Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8100,KADIRAGODA RRIMARI SCHOOL,KADIRAGODA RANNA,Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8104,GAJANAYAKAGAMA K.V.,"GAJANAYAKAGAMA,HAKURUWELA",Southern,33.Hambantota,Tangalle,Angunakolapelessa,3.Type2,provincial
+8105,TANGALLE PRIMARY SCHOOL,TANGALLE,Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8107,ROHANA RAJA VIDYALAYA,RANNA,Southern,33.Hambantota,Tangalle,Tangalle,1.1AB,provincial
+8108,MAMADALA MAHA VIDYALAYA,"MAMADALA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,2.1C,provincial
+8109,THALAWA M.V.,KARIYAMADITHTHA.,Southern,33.Hambantota,Tangalle,Angunakolapelessa,1.1AB,provincial
+8110,DABARELLA M.V.,"DABAREKLLA, KARIYAMADITHTHA",Southern,33.Hambantota,Tangalle,Angunakolapelessa,2.1C,provincial
+8111,AMBALANTOTA MAHA VIDYALAYA,"MALPETTAWA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,2.1C,provincial
+8113,RATHMALWALA LAMA MITHURU P.V.,RATHMALWALA,Southern,33.Hambantota,Tangalle,Angunakolapelessa,4.Type3,provincial
+8114,USWEWA K.V.,"USWEWA,TANGALLE.",Southern,33.Hambantota,Tangalle,Angunakolapelessa,3.Type2,provincial
+8115,BATAATHA SOUTH KANISHTA VIDYALAYA,BATAATHA SOUTH HUNGAMA,Southern,33.Hambantota,Hambantota,Ambalantota,3.Type2,provincial
+8116,DUTUGAMUNU MAHA VIDYALAYA,"LUNAMA,AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,2.1C,provincial
+8117,WELIPATANVILA MAHA VIDYALAYA,"NONAGAMA,LUNAMA,AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,2.1C,provincial
+8118,WALWEWATHTHA MAHA VIDYALAYA,"WALAWEWATHTHA,MAMADALA",Southern,33.Hambantota,Hambantota,Ambalantota,3.Type2,provincial
+8119,BAMINYANWILA KANISHTA VIDYALAYA,"BEMINIYANWILA ,MAMADALA",Southern,33.Hambantota,Hambantota,Ambalantota,3.Type2,provincial
+8120,KIULA KANISHTA VIDYALAYA,"KIULA,HUNGAMA",Southern,33.Hambantota,Hambantota,Ambalantota,3.Type2,provincial
+8121,DENIYA PINGAMA K.V.,"DENIYA,HUNGAMA",Southern,33.Hambantota,Hambantota,Ambalantota,3.Type2,provincial
+8122,MULANA MAHA VIDYALAYA,"MULANA, HUGAMA",Southern,33.Hambantota,Hambantota,Ambalantota,2.1C,provincial
+8123,ETHBATUWA JUNIOR SCHOOL,"ETHBATUWA,HUNGAMA",Southern,33.Hambantota,Hambantota,Ambalantota,3.Type2,provincial
+8124,HADAWINNA P.S.,"HADAWINNA,MAMADALA",Southern,33.Hambantota,Hambantota,Ambalantota,4.Type3,provincial
+8125,JANDURA K.V.,ANGUNUKOLAPELESSA.,Southern,33.Hambantota,Tangalle,Angunakolapelessa,3.Type2,provincial
+8126,GURUWALA K.V.,ANGUNUKOLAPELESSA.,Southern,33.Hambantota,Tangalle,Angunakolapelessa,3.Type2,provincial
+8127,BINKAMA MAHA VIDYALAYA,"BINKAMA, ANGUNAKOLAPELESSA",Southern,33.Hambantota,Tangalle,Angunakolapelessa,2.1C,provincial
+8128,"DHARMAPALA M.V., WETIYA","WETIYA, BARAWAKUMBUKA.",Southern,33.Hambantota,Hambantota,Ambalantota,1.1AB,provincial
+8129,ABEYSEKARAGAMA M.V.,BARAWAKUMBUKA,Southern,33.Hambantota,Tangalle,Angunakolapelessa,2.1C,provincial
+8130,DEBOKKAWA MAHA VIDYALAYA,"DEBOKKAWA,KARIYAMADITHTHA",Southern,33.Hambantota,Tangalle,Angunakolapelessa,2.1C,provincial
+8131,PAHALAGAMA K.V.,"USWEWA, TANGALLE.",Southern,33.Hambantota,Tangalle,Angunakolapelessa,3.Type2,provincial
+8132,GURUGODELLA WEERASHINGHA K.V.,"USWEWA,TANGALLE",Southern,33.Hambantota,Tangalle,Angunakolapelessa,3.Type2,provincial
+8133,KAHADAMODARA K.V.,KAHADAMODARA RANNA,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8134,KENDAKETIYA K.V.,"RATHMALWALA,TANGALLE.",Southern,33.Hambantota,Tangalle,Angunakolapelessa,4.Type3,provincial
+8135,RANNA WADIYAGODA K.V.,WADIYAGODA RANNA,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8136,KANUKATIYA K.V.,"KANUKATIYA, HUNGAMA",Southern,33.Hambantota,Hambantota,Ambalantota,3.Type2,provincial
+8138,BATAATHA NORTH P.S.,"BATAATHA,HUNGAMA.",Southern,33.Hambantota,Hambantota,Ambalantota,4.Type3,provincial
+8139,MAHAWELA P.V.,"MAHAWEA, ANGUNUKOLAPALESSA.",Southern,33.Hambantota,Hambantota,Ambalantota,4.Type3,provincial
+8140,WEERODAGAMA P.S.,"THALAWA,KARIYAMADITHTHA.",Southern,33.Hambantota,Tangalle,Angunakolapelessa,4.Type3,provincial
+8141,ROTAWALA K.V.,"ROTAWALA,AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,3.Type2,provincial
+8142,KARIYAMADITHTHA WEERASINGHA P.V.,KARIYAMADITHTHA,Southern,33.Hambantota,Tangalle,Angunakolapelessa,4.Type3,provincial
+8143,MURAWASIHENA M.V.,"MURAWASEHENA, BARAWAKUBUKA",Southern,33.Hambantota,Hambantota,Ambalantota,2.1C,provincial
+8145,BELIATTA MAHA VIDYALAYA,BELIATTA,Southern,33.Hambantota,Tangalle,Beliatta,1.1AB,provincial
+8146,AMBALA MAHA VIDYALAYA,"AMBALA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8147,PALAPOTHA MAHA VIDYALAYA,"PALAPOTHA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8148,KUDAHEELLA MAHA VIDYALAYA,"KUDAHEELLA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8149,GALAGAMA MAHA VIDYALAYA,"GALAGAMA,NAKULUGAMUWA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8150,KUDAWELLA JAYAWIKRAMA K.V.,KUDAWELL NAKULUGAMUWA,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8151,NAKULUGAMUWA GAMINI M.V.,NAKULUGAMUWA.,Southern,33.Hambantota,Tangalle,Tangalle,1.1AB,provincial
+8152,VITHARANDENIYA MAHA VIDYALAYA,VITHARANDENIYA,Southern,33.Hambantota,Tangalle,Tangalle,2.1C,provincial
+8153,GETAMANNA SOUTH MAHA VIDYALAYA,GETAMANNA SOUTH,Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8155,ARANWELA M.V.,"ARANWELA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8156,KAMBUSSAWALA MAHA VIDYALAYA,"KAMBUSSAWALA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8158,MORAKATIARA K.V.,"MORAKATIARA, NAKULUGAMUWA",Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8159,DEDDUWAWELA KANISHTA VIDYALAYA,"DEDDUWAWELA, NAKULUGAMUWA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8160,RAMBUKKETIYA K.V.,NAKULUGAMUWA,Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8161,OVILANA KANISHTA VIDYALAYA,"OVILANA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8162,MEEGAHAWELA KANISHTA VIDYALAYA,"MEEGAHAWELA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8163,MAHAHEELLA SOUTH ESHWARA KANISHTA VIDYALAYA,"MAHAHEELLA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8164,MAHAHEELLA P.V.,"MAHAHEELLA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8166,SITINAMALUWA KANISTA VIDYALAYA,"SITINAMALUWA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8167,ILUKMULLA K.V.,"NALAGAMA RD, TANGALLE",Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8168,GETAMANNA NORTH K.V.,GETAMANNA,Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8169,AMBAGASDENIYA PRIMARY SCHOOL,"AMBAGASDENIYA, GETAMANNA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8170,MIRISWATTA MUTHUMALA K.V.,"MIRISWATTA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8171,HEENDELIYA KANISTA VIDYALAYA,"GALAGAMA,NAKULUGAMUWA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8172,PANGNANANDA PRIMARY SCHOOL,BELIATTA,Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8173,RAJAPAKSHA SAMOOPAKARA GAMMANA K.V.,SUDARSHANAGAMA. WITHARANDENIYA,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8174,NAKULUGAMUWA PRIMARY SCHOOL,NAKULUGAMUWA,Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8175,SEENIMODARA.K.V.,"SEENIMODARA, NAKULUGAMUWA",Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8176,GALAGAMA PRIMARY SCHOOL,"GALAGAMA,NAKULUGAMUWA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8177,PALAPOTHA PRIMARY SCHOOL,"PALAPOTHA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8179,AMBALA PRIMARY SCHOOL,"AMBALA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8180,NAYAKAWATHTHA RAJAPAKSHA KANISHTA VIDYALAYA,"NAYAKAWATHTHA,GETAMANNA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8183,GETAMANNA SARANAPALA PRIMARY SCHOOL,"GATAMANNA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8186,NIHILUWA MAHA VIDYALAYA,"NIHILUWA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8187,KAHAWATHTHA MAHA VIDYALAYA,"KAHAWATHTHA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8188,PALLATHTHARA MAHA VIDYALAYA,"PALLATHTHARA,MODARAWANA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8189,IHALA BELIGALLA MAHA VIDYALAYA,"IHALA BELIGALLA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,2.1C,provincial
+8190,MODARAWANA MAHA VIDYALAYA,MODARAWANA,Southern,33.Hambantota,Walasmulla,Walasmulla,1.1AB,provincial
+8191,KANUMULDENIYA NAVODYA SCHOOL,WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,1.1AB,provincial
+8192,GODAWELA K.V.,"GODAWELA,NIHILUWA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8195,DAMMULLA MODEL P.V.,"DAMMULLA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8196,ANGULMADUWA K.V.,"ANGULMADUWA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8197,NALAGAMA SINHALA K.V.,NALAGAMA VITHARANDENIYA,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8198,THENAGAMA P.V.,THENAGAMA VITHARANDRNIYA,Southern,33.Hambantota,Tangalle,Tangalle,4.Type3,provincial
+8200,THARAPERIYA KANISTA VIDYALAYA,"YATIGALA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,3.Type2,provincial
+8203,WADIYA SILVA K.V.,"WADIYA,VITHARANDENIYA",Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8205,BADIGAMA K.V.,VITHARANDENIYA WEERAKETIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8206,WAWWA PRIMARY SCHOOL,"WAWWA,MODARAWANA",Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8207,MORAKANDEGODA SRI DHAMMADASSI PRIMARY SCHOOL,"MORAKANDEGODA, WALASMULLA",Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8208,THALAHAGAMWADUWA SRI REWATHA PRIMARY SCHOOL,"KADIGAMUWA, WALASMULLA",Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8209,KANUMULDENIYA SOUTH K.V.,MEE- ELLA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8210,KANDEBADDA K.V.,MEE-ALLA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8211,NATUWALA P.V.,"NAThUWALA, WALASMULLA",Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8212,RAJAPURAGODA K.V.,WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8213,UDADENIYA K.V.,WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8214,OLUARA BANDARANAYAKE K.V.,OLUARA WALASMULLA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8216,NIHILUWA PRIMARY SCHOOL,"NIHILUWA,BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8217,PALLATHTHARA PRIMARY SCHOOL,"PALLATHTHARA, MODARAWANA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8218,IHALA BELIGALLA NEW MODEL PRIMARY SCHOOL,"IHALA BELIGALLA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8219,THIRAWALA JUNIOR SCHOOL,THIRAWALA WITHARANDENIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8222,MALIGATHANNA PRIMARY SCHOOL,"YATIGALA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8225,PATTIYAWELA PRIMARY SCHOOL,"NIHILUWA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8226,NALAGAMA MUSLIM V.,TANGALLE,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8227,MAGAMA M.V.,"MAGAMA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,2.1C,provincial
+8228,YODAKANDIYA SRI DEWANANDA MAHA VIDYALAYA,"YODAKANDIYA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,2.1C,provincial
+8230,BUNDALA K.V.,"BOONDALA, HAMBANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8231,PUSTHOLAMULLA KANITU VIDYALAYA,"SOUTH RANAKELIYA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8232,THISSAMAHARAMA MAHASENPURA M.V.,"MAHASENPURA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,2.1C,provincial
+8233,KAWANTHISSAPURA MAHA VIDYALAYA,"KAWANTHISSAPURA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,2.1C,provincial
+8234,OYAGAWA RANAWARANAWA K.V.,"RANAWARANAWA, LUNUGAMWEHERA",Southern,33.Hambantota,Hambantota,Lunugamvehera,3.Type2,provincial
+8235,UDAMATHTHALA JUNIOR SCHOOL,"UDAMATHTHALA, THISSAMAHARAMAYA",Southern,33.Hambantota,Hambantota,Lunugamvehera,3.Type2,provincial
+8236,SRI ROHANA K.V.,"PADAUKEMA, THISSAMAHARAMAYA",Southern,33.Hambantota,Hambantota,Lunugamvehera,3.Type2,provincial
+8237,LUNUGAMWEHERA M.V.,LUNUGAMWEHERA,Southern,33.Hambantota,Hambantota,Lunugamvehera,1.1AB,provincial
+8238,RAJAKEEYA VIDYALAYA,"PANNAGAMUVA, WEERAVILA",Southern,33.Hambantota,Hambantota,Thissamaharama,1.1AB,provincial
+8239,DEBARAHELA ELLAGALA P.S.,"DEBARAHELA, WEERAVILA",Southern,33.Hambantota,Hambantota,Thissamaharama,4.Type3,provincial
+8240,GEMUNUPURA K.V.,THISSAMAHARAMA,Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8241,MUTHIYAMMAGAMA KANITU VIDYALAYA,THISSAMAHARAMA,Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8242,THISSAMAHARAMA MAHA VIDYALAYA,THISSAMAHARAMA,Southern,33.Hambantota,Hambantota,Thissamaharama,1.1AB,provincial
+8243,WEERAVILA M.V.,NEW TOUN WEERAVILA,Southern,33.Hambantota,Hambantota,Lunugamvehera,3.Type2,provincial
+8244,MADAWELENA MAHA VIDYALAYA,THISSAMAHARAMA,Southern,33.Hambantota,Hambantota,Thissamaharama,2.1C,provincial
+8245,UDUVILA K.V.,"GONAGAMUWA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8246,IKKAPALLAMA K.V.,"GONAGAMUVA, THISSAMAHARAMA.",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8247,NADIGAMVILA KANITU VIDYALAYA,"GONAGAMUWA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8248,THELULLA JUNIOR SCHOOL,"BOONDALA, HAMBANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8249,GAGEYAYA KANITU VIDYALAYA,"GAGEYAYA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8250,ANDARAGASYAYA P.V.,"MAGAMA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,4.Type3,provincial
+8251,AGUNUKOLAWEWA P.V.,"AGUNUKOLAWEWA, THANAMALWELA",Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8252,YATALATHISSA PRIMARY SCHOOL,THISSAMAHARAMA,Southern,33.Hambantota,Hambantota,Thissamaharama,4.Type3,provincial
+8253,KIRINDA MUSLIM M.V.,"KIRINDA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,2.1C,provincial
+8254,DEBARAWEWA K.V.,THISSAMAHARAMA,Southern,33.Hambantota,Hambantota,Thissamaharama,1.1AB,provincial
+8255,KUDAGAM 03 P.V.,SOUTH BANK LUNUGAMWEHERA,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8256,KENDAGASMANKADA P.V.,KUDAGAM 2.LUNUGAMWEHERA,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8257,ELAGALA KANITU VIDYALAYA,"ELLAGALA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8258,BERALIHELA JUNIOR SCHOOL,HAMLAT 03.BERALIHELA THISSAMAHARAMAYA,Southern,33.Hambantota,Hambantota,Lunugamvehera,3.Type2,provincial
+8259,ABAYAPURA K.V.,KUDAGAM 06.SOUTH BANK.LUNUGAM WEHERA,Southern,33.Hambantota,Hambantota,Lunugamvehera,3.Type2,provincial
+8261,KUDAGAM 10 P.V.,KUDAGAM 10,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8262,THISSAPURA JUNIOR SCHOOL,"HAMLAT 11, WEERAWILA",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8263,KUDAGAM 05 PRIMARY SCHOOL,BERALIHELA. THISSAMAHARAMA,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8264,SAMANPURA M.V.,"K.G.09.NEW TOWN, WEERAWILA",Southern,33.Hambantota,Hambantota,Lunugamvehera,2.1C,provincial
+8265,BERALIHELA M.V.,BERALIHELA WELIGATHTHA,Southern,33.Hambantota,Hambantota,Lunugamvehera,2.1C,provincial
+8267,KUDAGAM 01 P.V.,SOUTH BANK,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8268,M.R.THASIM M.V.,RANASIRIPURA WEERAVILA NEW TOUN,Southern,33.Hambantota,Hambantota,Lunugamvehera,3.Type2,provincial
+8270,PALLEMATHTHALA P.V.,UDAMATHALA THISSAMAHARAMAYA,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8271,VIDYARTHA MAHA VIDYALAYA,"GONAGAMUVA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,2.1C,provincial
+8272,MAHANAGAPURA M.V.,HAMLAT RIGHT BANK LUNUGAMVEHERA,Southern,33.Hambantota,Hambantota,Lunugamvehera,3.Type2,provincial
+8273,ABAYAPURA SURANIMALA P.V.,HAMLET 07 NEW TOUN WEERAVILA,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8274,WEHERAPALESSA JUNIOR SCHOOL,K G 18 NEW TUUN WEERAVILA,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8277,BADAGIRIYA MAHA VIDYALAYA,"BADGIRIYA, WELIGATTA",Southern,33.Hambantota,Hambantota,Hambantota,2.1C,provincial
+8278,BOLANA MADYA MAHA VIDYALAYA,"BOLANA, RUHUNU RIDIYAGAMA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,1.1AB,provincial
+8279,KOGGALLA M.V.,"KOGGALLA, AMBALANTOTA.",Southern,33.Hambantota,Hambantota,Ambalantota,2.1C,provincial
+8281,DEHIGAHALANDA MAHA VIDYALAYA,"DEHIGAHALANDA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,2.1C,provincial
+8282,MIRIJJAVILA MAHA VIDYALAYA,"MIRIJJAVILA, HAMBANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,2.1C,provincial
+8283,SAMODAGAMA K.V.,"SIPPIKULAMA, HAMABANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8284,UDAMALALA MAHA VIDYALAYA,"UDAMALALA, HAMBANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,2.1C,provincial
+8285,PALLEMALALA KANISTA VIDYALAYA,"PALLEMALALA, WELIGATHTHA",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8286,GONNORUWA KANISTA VIDYALAYA,"GONNORUWA, HAMBANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8287,MAHAGALWEWA K.V.,"MAHAGALWEWA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,3.Type2,provincial
+8288,MEEGAHAJANDURA M.V.,"MEEGAHAJANDURA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,2.1C,provincial
+8290,HABARATHTHAWALA K.V.,"HABARATHTHAWALA, KOGGALLA",Southern,33.Hambantota,Hambantota,Sooriyawewa,3.Type2,provincial
+8293,PUNCHIHEENAYAGAMA JANANANDA P.S.,"RUHUNU RIDIYAGAMA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,4.Type3,provincial
+8294,DARMATHILAKA KANISTA VIDYALAYA,"SIYABALAGASWILA, RUHUNU RIDEEYAGAMA, AMBALANTOTA.",Southern,33.Hambantota,Hambantota,Hambantota,4.Type3,provincial
+8295,SIYABALAGASWILA GHANODAYA KANISTA VIDYALAYA,"SIYABALAGASWILA, RUHUNU RIDEEYAGAMA, AMBALANTOTA.",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8296,MAHA ARA MAHA VIDYALAYA,"BERAGAMA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,2.1C,provincial
+8297,BARAGAMA JANAPADA KANISTA VIDYALAYA,"UDABARAGAMA, AMBALANTOTA.",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8298,BARAGAMA KANISTA VIDYALAYA,"PAHALA BARAGAMA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8299,KUDABOOLANA PANGNASEEHA M.V.,"KUDABOOLANA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,2.1C,provincial
+8300,AL-AKBAR MAHA VIDYALAYA,"MALAY KOLANIYA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,2.1C,provincial
+8301,AMBALANTOTA THERAPUTHTHA PRIMARY SCHOOL,"WADURUPPA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,4.Type3,provincial
+8302,HAMBANTOTA VIDYALAYA,HAMBANTOTA,Southern,33.Hambantota,Hambantota,Hambantota,4.Type3,provincial
+8303,IHALA KUMBUKWEWA P.V.,"MEEGAHAJANDURA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,4.Type3,provincial
+8304,WELIWEWA K.V.,"WELIWEWA, MEEGAHAJANDURA",Southern,33.Hambantota,Hambantota,Sooriyawewa,3.Type2,provincial
+8305,GALWEWA PRIMARY SCHOOL,"4TH MILE POST, GONNORUWA, HAMABANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,4.Type3,provincial
+8306,BEDIGAMHOTA K.V.,"BEDIGAMTHOTA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,3.Type2,provincial
+8307,WIHARAGALA M.V.,"WIHARAGALA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,1.1AB,provincial
+8308,HATHPORUWA K.V.,"HATHPORUWA, MAHAGAMA COLONY.SEWANAGALA",Southern,33.Hambantota,Hambantota,Sooriyawewa,3.Type2,provincial
+8309,ANDARAWEWA DHARMADUTHA M.V.,"ANDARAWEWA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,2.1C,provincial
+8310,PAHALA ANDARAWEWA KANISTA VIDYALAYA,"PAHALA ANDARAWAWA, HAMABANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8311,VIDYALOKA M.V.,"THELAWILLA, AMBALANTHOTA",Southern,33.Hambantota,Hambantota,Sooriyawewa,2.1C,provincial
+8312,YAHANGALA PRIMARY SCHOOL,"YAHANGALA, BANDAGIRIYA",Southern,33.Hambantota,Hambantota,Hambantota,4.Type3,provincial
+8313,RANMUDUWEWA K.V.,"RANMUDUWEWA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,3.Type2,provincial
+8315,WELIGATHTHA M.V.,NEW TOWN WELIGATHTHA,Southern,33.Hambantota,Hambantota,Lunugamvehera,3.Type2,provincial
+8316,ATHUNADAWALA P.V.,KU GA 19 NAWANAGARAYA WEEERAWILA,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8317,SITHUMINIWALA P.V.,KU GA 20 WELIGATHTHA HAMBANTOTA,Southern,33.Hambantota,Hambantota,Lunugamvehera,4.Type3,provincial
+8319,KARABAGALMULLA K.V.,"RUHUNURIDIYAGAMA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Ambalantota,3.Type2,provincial
+8320,GOTAIMBARAGAMA K.V.,RANNA,Southern,33.Hambantota,Tangalle,Tangalle,3.Type2,provincial
+8321,KATTAKADUWA SIDDHARTHA M.V.,KATTAKADUWA RANNA,Southern,33.Hambantota,Tangalle,Tangalle,2.1C,provincial
+8322,WAWEGAMA K.V.,SOORIYAWEWA,Southern,33.Hambantota,Hambantota,Sooriyawewa,3.Type2,provincial
+8324,NAMADAGASWEWA M.V.,"NAMADAGASWEWA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,2.1C,provincial
+8325,WEERIYAGAMA M.V.,"WEERIYAGAMA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,2.1C,provincial
+8326,RANMINITHANNA KNITU VIDYALAYA,"K.G.08, LEFT BANK, RANMINITHANNA, THISSAMAHARAMA.",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8327,VEERAHELA K.V.,"KU.GA.7, VEERAHELA, BERALIHELA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8328,THELAMBUYAYA K.V.,"WEERAGASWEWA, HAKURUWELA",Southern,33.Hambantota,Tangalle,Angunakolapelessa,3.Type2,provincial
+8329,WICKRAMAPURA P.S.,"RATHMALWALA, TANHALLE",Southern,33.Hambantota,Tangalle,Angunakolapelessa,4.Type3,provincial
+8330,BADAGIRIRYA MUSLIM KANISTA VIDYALAYA,"MALAY COLONY, BADAGIRIYA, WELIGATTA",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial
+8331,KIRINDAGAMA P.S.,"KIRINDAGAMA, KIRINDA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,4.Type3,provincial
+8332,WIHARAGALA 550 M.V.,"WIHARAGALA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,2.1C,provincial
+8333,SAMANALAGAMA P.S.,"SAMANALAGAMA, BARAWAKUBUKA",Southern,33.Hambantota,Hambantota,Ambalantota,4.Type3,provincial
+8334,GALWADIYA K.V.,GALWADIYA JULAMPITIYA,Southern,33.Hambantota,Walasmulla,Walasmulla,3.Type2,provincial
+8335,KATUWANA PRIMARY SCHOOL,KATUWANA,Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8337,WELANGAHAWELA VIJAYA PRIMARY SCHOOL,BARAWAKUBUKA.,Southern,33.Hambantota,Hambantota,Ambalantota,4.Type3,provincial
+8338,OSUVINNA K.V.,"OSUVINNA, THISSAMAHARAMA",Southern,33.Hambantota,Hambantota,Thissamaharama,3.Type2,provincial
+8341,MAHINDA RAJAPAKSHA ROTARY FRIENDSHIP MODEL P.S.,"SIRIBOPURA, HAMBANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,4.Type3,provincial
+8343,RITIGAHAYAYA P.S.,"RITIGAHAYAYA, KATUWANA.",Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8344,KIRAMA DHAMMANNDA P.V.,KIRAMA.,Southern,33.Hambantota,Walasmulla,Katuwana,4.Type3,provincial
+8345,MODARAWANA PRIMARY SCHOOL,MODARAWANA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8347,IQRA PRIMARY SCHOOL,"BARRAK STREET, HAMBANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,4.Type3,provincial
+8348,BELIATTA RUHUNU VIJAYABA PRIMARY SCHOOL,"SITINAMALUWA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8349,ALUTHWEWA P.S.,ANGUNUKOLAPELESSA.,Southern,33.Hambantota,Tangalle,Angunakolapelessa,4.Type3,provincial
+8351,WIHARAGALA P.V.,"WIHARAGALA, SOORIYAWEWA",Southern,33.Hambantota,Hambantota,Sooriyawewa,4.Type3,provincial
+8352,UDAYALA PRIMARY SCHOOL,"UDAYALA, HAKURUWELA.",Southern,33.Hambantota,Tangalle,Angunakolapelessa,4.Type3,provincial
+8354,LUMBINI PRIMARY SCHOOL,"PALLAKANDA, WALASMULLA",Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8355,MEDAMULANA PRIMARY SCHOOL,MEDAMULANA,Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8356,PUWAKDANDAWA PRIMARY SCHOOL,"PUWAKDANDAWA, BELIATTA",Southern,33.Hambantota,Tangalle,Beliatta,4.Type3,provincial
+8357,HAMBANTOTA MUSLIM PRIMARY SCHOOL,"SIRIBOPURA, HAMBANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,4.Type3,provincial
+8358,DHARMAVIJAYA PRIMARY SCHOOL,"PALLE JULAMPITIYA, JULAMPITIYA",Southern,33.Hambantota,Walasmulla,Walasmulla,4.Type3,provincial
+8359,MAYURAPURA KANISHTA VIDYALAYA,"GALWAWA BARAGAMA, AMBALANTOTA",Southern,33.Hambantota,Hambantota,Hambantota,3.Type2,provincial

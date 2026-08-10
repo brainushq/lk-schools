@@ -1,0 +1,855 @@
+census_no,school_name,school_address,province,district,zone,education_division,school_type,category
+8318,KETHSIRIGAMA M.V.,"HAMLET 1,2 LEFT BANK BERALIHELA THISSAMAGARAMA",Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+21002,EKIRIYANKUMBURA M.V.,"EKIRIYANKUMBURA, BIBLA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,provincial
+21003,PETHIYAGODA M.V.,"HEWANWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,provincial
+21004,RIDEEMALIYADDA M.M.V.,"RIDEEMALIYADDA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,provincial
+21005,KURUVITHENNA M.V.,"KURUVITHENNA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,provincial
+21006,ARAWA M.V.,"ARAWA,BADULLA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,provincial
+21007,ALUKATIYAWA P.S.,"ALUKATIYAWA, MAPAKADAWAWA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21008,URANIYA K.V.,"URANIYA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21009,KANDEGAMA M.V.,"KANDEGAMA, RIDEEMALIYADDA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,provincial
+21010,KUDALUNUKA K.V.,"YALWELA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21011,NAGADEEPA K.V.,"NAGADEEPAGAMA, URANIYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21012,DEHIGAMA M.V.,"DEHIGAMA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,provincial
+21013,MAHAGAMA M.V.,"KUKUVITHENNA, MAHIYANAGNA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21014,MEDAOYA K.V.,MAPAKADAWEWA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21015,YALWELA MAHA VIDYALAYA,"YALWELA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,provincial
+21016,RITIGAHAARAWA VIDYALAYA,"RITIGAHAARAWA, MAHIYANGANA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21017,MEDAYAYA K.V.,"MEDAYAYA, MAPAKADAWEWA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21018,DAMBAGOLLA SRI SUMANA K.V.,"DAMBAGOLLA, MAPAKADAWEWA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21019,DIRIYAGAMA P.V.,"DIRIYAGAMA, YALWELA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21020,DIKYAYA K.V.,"DIKYAYA, ARAWA, BADULLA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21021,GALBOKKA P.S.,"HEWANWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21022,SERUPITIYA K.V.,"DEHIGAMA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21023,PINNAGOLLA JUNIOR SCHOOL,"PINNAGOLLA, KURUVITHANNA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21024,GURUMADA K.V.,"DIYAKOBALA, BIBILE",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21027,GEMUNUPURA M.V.,MAPAKADAWEWA,Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,provincial
+21028,BANDARANAYAKA M.M.V.,MAPAKADAWEWA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21029,THISSAPURA M.V.,"UVA THISSAPURA, MAPAKADAWEWA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,1.1AB,provincial
+21030,HADDATHTHAWA M.M.V.,"SORABORA COLONY, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21031,ORUBENDIWEWA M.M.V.,"ARAWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,1.1AB,provincial
+21032,GIRANDURUKOTTE M.M.V.,GIRANDURUKOTTE,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,1.1AB,provincial
+21033,ARAWATHTHA K.V.,"ARAWATTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21034,ABHAYAPURA EXEMPLARY SCHOOL,"ABHAYAPURA, MAPAKADAWEWA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21035,ALUTHTHARAMA K.V.,"ALUTHTHARAMA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21036,KESELPOTHA YAYA 12 VIDYALAYA,"KESELPOTHA, MAPAKADAWEWA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21037,KESELPOTHA YAYA 11 M.V.,"KESELPOTHA, MAPAKADAWEWA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21038,DAMBARAWA M.V.,"DAMBARAWA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21039,DEHIGOLLA M.V.,MAHIYANGANAYA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21040,SORABORAWEWA M.V.,MAHIYANGANAYA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21041,NAWAJEEWITHAYA P.S.,C.T.C. ALUTHTHARAMA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21042,HEMBARAWA M.V.,"HEMBARAWA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21043,DAMBANA K.V.,"DAMBANA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21044,KUKULAPOLA K.V.,"WEWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21045,WEWATHTHA M.V.,"WEWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21046,ROHANA K.V.,MAPAKADAWEWA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21047,RATHKINDA M.V.,"PAHALA RATHKINDA, GIRANDURUKOTTE",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21048,ALUYATAWELA M.V.,"ALUYATAWELA, HEMBARAWA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21049,DIULAPELESSA M.V.,"DIULAPELESSA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21050,MILLATHTHEWA M.V.,"MILLATHTHEWA, GIRANDURUKOTTE",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21051,SERANA P.S.,"ARAWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21052,GALPORUYAYA K.V.,"GALPORUYAYA, GIRANDURUKOTTE",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21053,WATAWANA K.V.,"SORABORA COLONY, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21054,SENANIGAMA P.V.,MAPAKADAWEWA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21055,IKIRIYAGODA VIDYALAYA,"KESELPOTHA, MAPAKADAWEWA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21056,MEEGAHAHENA VIDYALAYA,GAPORUYAYA GIRANDURUKOTTE,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21057,ULHITIYA M.V.,"ULHITIYA, GIRANDURUKOTTE",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21058,GURUKUMBURA P.S.,GURUKUMBURA DAMBANA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21059,AGALAOYA P.S.,GIRADURUKOTTE,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21060,BATHALAYAYA M.V.,"ALUTHTHARAMA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21061,ROTALAWELA K.V.,"DIULAPELESSA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21062,WIRANAGAMA K.V.,"ALUTHTHARAMA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21063,BELAGANWEWA K.V.,"BELAGANWEWA, GIRANDURUKOTTE",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21064,ULHITIYAWA P.S.,"52 MILE POST, BELIGALLA, DAMBANA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21065,THELDENIYAYA K.V.,THELDENIYAYA GIRADURUKOTTE,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21066,HOBARIYAWA P.S.,"HOBARIYAWA, GIRANDURUKOTTE",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21067,GINNORUWA K.V.,"HEMBARAWA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21068,KOVILYAYA K.V.,KOVILYAYA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,3.Type2,provincial
+21069,WELAMPALA P.V.,"ARWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21070,NAGADEEPA YAYA 01 P.S.,"UVA THISSAPURA, MAPAKADAWAWA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21072,GALAUDA SECONDRY SCHOOL,"GALAUDA, HALIELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,1.1AB,provincial
+21073,GODUNNA MAHA VIDYALAYA,"GODUNNA, HALIELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,2.1C,provincial
+21074,VIYALUWA MAHA VIDYALAYA,"THANNEPANGUWA, KANDEGEDARA",Uva,81.Badulla,Viyaluwa,Kandaketiya,2.1C,provincial
+21075,PITAMARUWA MAHA VIDYALAYA,"PITAMARUWA, PASSARA",Uva,81.Badulla,Viyaluwa,Meegahakivula,2.1C,provincial
+21076,SORANATHOTA M.M.V.,"KOHOVILA, SORANATHOTA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,2.1C,provincial
+21077,EGODAWELA M.V.,"EGODAWELA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,2.1C,provincial
+21078,KIRIORUWA P.V.,"KIRIORUWA , KANDEGEDARA",Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21080,KUTTIYAGOLLA M.V.,"KUTTIYAGOLLA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,2.1C,provincial
+21081,KOSGOLLA M.V.,"THIMBIRIGASPITIYA , BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,3.Type2,provincial
+21082,KOHANA SAPIRI VIDYALAYA,"PAYTHANAWATHTA , KANDEGEDARA",Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21083,GANNILEGAMA P.V.,"THENNAPANGUWA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21084,THALDENA NAVODYA M.V.,THALDENA,Uva,81.Badulla,Viyaluwa,Meegahakivula,1.1AB,provincial
+21085,PUSSELLAKANDA M.V.,"PATHANAWATHTHA, HALIELA",Uva,81.Badulla,Viyaluwa,Soranatota,2.1C,provincial
+21086,PUSSALLAWA M.V.,"THALDENA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,3.Type2,provincial
+21087,BUDUGEKANDA M.V.,"THENNAPANGUWA, BUDUGEKANDA",Uva,81.Badulla,Viyaluwa,Soranatota,3.Type2,provincial
+21088,BERAMADA VIDYALAYA,"BERAMADA, HALIELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,3.Type2,provincial
+21089,BOPITIYA PRIMARY SCHOOL,"THANNAPANGUWA, KANDEGEDRA",Uva,81.Badulla,Viyaluwa,Kandaketiya,4.Type3,provincial
+21090,MEEGAHAWELA K.V.,"MEEGAHAWELA, SORANATHOTA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,3.Type2,provincial
+21091,MUTHTETTUWEGAMA P.V.,KANDEGEDARA,Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21092,WATHTHEKELE VIDYALAYA,"WATHTHEKELE , EGODAWELA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,3.Type2,provincial
+21093,WELKELE P.V.,"KAHATARUPPA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21094,HUBAHAMADA M.V.,"WEEKADA, KENDAGOLLA , BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,3.Type2,provincial
+21095,WASANAGAMA PRIMARY SCHOOL,"BERAMADA, HALIELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,4.Type3,provincial
+21097,HAPATHGAMUWA VIDYALAYA,"GODUNNA, HALIELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,4.Type3,provincial
+21098,THIBIRIGASPITIYA P.V.,"THIMBIRIGASPITIYA , BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21099,SORANATHOTA MODEL P.V.,"SORANATHOTA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21100,BATHALAWATHTHA P.V.,"BATHALAWATHTHA, THALDENA",Uva,81.Badulla,Viyaluwa,Meegahakivula,4.Type3,provincial
+21101,LABUGASTHALAWA VIDYALAYA,"GODUNNA, HALIELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,3.Type2,provincial
+21103,KANDAKAPULPATHA MAHA VIDYALAYA,"KANDAKAPULPATHA, BADULU OYA",Uva,81.Badulla,Viyaluwa,Kandaketiya,2.1C,provincial
+21104,KALUGAHAKANDURA M.V.,"KALUGAHAKANDURA, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,2.1C,provincial
+21106,MORAHELA M.V.,"KETTAWATHTHA, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,3.Type2,provincial
+21107,KARANDAGAHAMADA VIDYALAYA,"ARAWA, BADULLA.",Uva,81.Badulla,Viyaluwa,Meegahakivula,3.Type2,provincial
+21108,NAGOLLA P.V.,"NAGOLLA, MALIYADDA",Uva,81.Badulla,Viyaluwa,Kandaketiya,4.Type3,provincial
+21109,KIULEGEDARA MOHOTTALA MAHA VIDYALAYA,"KIULEGEDARA, KANDAKETIYA, BADULLA",Uva,81.Badulla,Viyaluwa,Kandaketiya,2.1C,provincial
+21110,POLGAHA ARAWA V.,"ARAWA, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,3.Type2,provincial
+21111,BALAGOLLA V.,"BALAGOLLA, MEEGAHAKIULA",Uva,81.Badulla,Viyaluwa,Meegahakivula,3.Type2,provincial
+21112,MAHAKELE.VIDYALAYA,"MAHAKELE, KANDAKETIYA",Uva,81.Badulla,Viyaluwa,Kandaketiya,3.Type2,provincial
+21113,MALIYADDA M.V.,"MALIYADDA, BADULLA",Uva,81.Badulla,Viyaluwa,Kandaketiya,2.1C,provincial
+21114,MUDAGAMUWA VIDYALAYA,"MUDAGAMUWA, KANDEKETIYA",Uva,81.Badulla,Viyaluwa,Kandaketiya,3.Type2,provincial
+21115,VIYALUWA ELLANDA P.V.,"KALUGAHAKANDURA, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,4.Type3,provincial
+21117,KOMARIKA VIDYALAYA,MEEGAHAKIULA,Uva,81.Badulla,Viyaluwa,Meegahakivula,4.Type3,provincial
+21118,BOGAHAPATHANA P.V.,"KAHAWATHTHE, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,4.Type3,provincial
+21119,MAHAKANDURA V.,MEEGAHAKIULA,Uva,81.Badulla,Viyaluwa,Meegahakivula,3.Type2,provincial
+21120,MEEGAHAKUILA P.V.,"MEEGAHAKULA, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,4.Type3,provincial
+21121,WELLEWELATHANNA V.,"BADULUOYA, KANDAKETIYA",Uva,81.Badulla,Viyaluwa,Kandaketiya,3.Type2,provincial
+21122,WAWATHANNA VIDYALAYA,"MALIYADDA, KANDAKETIYA",Uva,81.Badulla,Viyaluwa,Kandaketiya,3.Type2,provincial
+21124,SOORIYAGOLLA V.,"PITAMARUWA,VIA PASSARA",Uva,81.Badulla,Viyaluwa,Meegahakivula,3.Type2,provincial
+21126,UDAGAMA WEST M.V.,PALGAHATHANNA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21127,KANAWERALLA VIDYALAYA,MAUSSAGOLLA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21128,KAHATARUPPA M.V.,KAHATARUPPA BADULLA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21129,BIBILEGAMA M.V.,BIBILEGAMA PASSARA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21130,MADAWELAGAMA M.V.,MADAWELAGAMA PASSARA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21131,METIGAHATHANNA M.V.,METIGAHATHANNA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21132,LUNUGALA M.M.V.,LUNIGALA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21133,ARAWAKUBURA V.,LUNUGALA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21134,ALAKOLAGALA V.,LUNUGALA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21135,AKIRIYA M.V.,ATAKIRIYA VIA PASSARA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21136,ILLIPATHUTHENNA V.,"KAHATARUPPA, BADULLA",Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21137,UDAKIRUWA VIDYALAYA,ARAWAKUBURA LUNUGALA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21138,UDAGAMA VALGOLLA M.V.,VALGOLLA BADULLA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21139,JAYABIMA PRIMARY SCHOOL,KOTTALBEDDA LUNUGALA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21140,KOHONAWALA VIDYALAYA,MODOLSIMA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21141,GALWELAGAMA PRIMARY SCHOOL,METIGAHATHENNA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21142,GARADIELLA VIDYALAYA,MEDAWELAGAMA PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21143,GONAGALA VIDYALAYA,PASSARA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21144,JAYANTHI VIDYALAYA,GAMEWELA PASSARA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21145,ISIPATHANA KANISHTA VIDYALAYA,THENNUGE PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21146,THALOBOWATHTHA VIDYALAYA,"MEEDUMPITIYA, PASSARA",Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21147,NAMUNUKULA VIDYALAYA,CLUB JUNCTION NAMUNUKULA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21149,PARAMAHANKADA VIDYALAYA,PARAMAHANKADA PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21150,PALLEKIRUWA V.,LUNUGALA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21152,GAMUNU M.V.,PASSARA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21153,PELGAHATHENNA V.,PELGAHATHENNA.,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21154,MADUGASTHALAWA V.,PASSARA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21155,MADUWATTE VIDYALAYA,HOPTON,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21156,MAUSSAGOLLA M.V.,MAUSSAGOLLA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21157,MILLABEDDA V.,HOPTON,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21158,MEERIYABADDA VIDYALAYA,MEERIYABADDA PASSARA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21159,SRI DHAMMANANDA V.,YAPAMMA HOPTAN,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21160,JANATHAPURA V.,JANATHAPURA LUNUGALA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21161,WERELLAGOLLA V.,BIBILEGAMA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21162,WEWABEDDA VIDYALAYA,METIGAHATHANNA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21163,WERAGODA V.,PALLEKIRUWA LUNUGALA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21164,PUHULWATHTHA MODEL SCHOOL,PUHULWATHTH MAUSSAGOLLA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21165,SAPURODA V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21166,MAHADOWA SINHALA V.,MADOLSIMA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21167,KIRAWANAGODA VIDYALAYA,ARAVAKUBURA LUNUGALA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21168,GALLULLA SINHALA VIDYALAYA,MADOLSIMA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21169,UDAWELA CENTRAL COLLEGE,PASSARA ROAD BADULLA,Uva,81.Badulla,Badulla,Badulla,1.1AB,provincial
+21170,BADULLA UVA MAHA VIDYALAYA,BADULLA,Uva,81.Badulla,Badulla,Badulla,1.1AB,provincial
+21171,KENDAGOLLA (NAVODYA) M.V.,KENDAGOLLA BADULLA,Uva,81.Badulla,Badulla,Badulla,1.1AB,provincial
+21175,UDAYARAJA MAHA VIDYALAYA,PUWAKGGODAMULLA BADULLA,Uva,81.Badulla,Badulla,Badulla,3.Type2,provincial
+21176,AMPITIYA MAHA VIDYALAYA,KENDAGOLLA BADULLA,Uva,81.Badulla,Badulla,Badulla,2.1C,provincial
+21177,MEDAPATHANA SRI RATHANAPALA VIDYALAYA,MEDAPATHANA BADULLA,Uva,81.Badulla,Badulla,Badulla,3.Type2,provincial
+21178,SIRIMALGODA MAHA VIDYALAYA,SIRIMALGODA BADULLA,Uva,81.Badulla,Badulla,Badulla,2.1C,provincial
+21179,LUMBINI VIDYALAYA,PINARAWA BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21180,SRI RAHULA MAHA VIDYALAYA,BADULLA,Uva,81.Badulla,Badulla,Badulla,2.1C,provincial
+21181,VIDYADEEPA VIDYALAYA,MALANGAMUWA WINEETHAGAMA BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21182,MUTHUMALA VIDYALAYA,KAHATARUPPA BADULLA,Uva,81.Badulla,Badulla,Badulla,3.Type2,provincial
+21183,VIYADIGUNA MAHA VIDYALAYA,VENEETHAGAMA BADULLA,Uva,81.Badulla,Badulla,Badulla,2.1C,provincial
+21185,BADULLA VIHARAMAHADEVI BALIKA MAHA VIDYALAYA,MARTIN SILWA MW BADULLA,Uva,81.Badulla,Badulla,Badulla,1.1AB,provincial
+21186,BADULLA SUJATHA MAHA VIDYALAYA,LOWER KINGS STREET BADULLA,Uva,81.Badulla,Badulla,Badulla,2.1C,provincial
+21187,HAMBAWELA SRI SUMANGALA WIDYALAYA,HEGODA BADULLA,Uva,81.Badulla,Badulla,Badulla,3.Type2,provincial
+21188,BADULLA SIRISUMANA MAHA VIDYALAYA,SPRINGWALY ROAD BADULLA,Uva,81.Badulla,Badulla,Badulla,2.1C,provincial
+21189,HINDAGODA SRI DHAMMANANDA MAHA VIDYALAYA,"HINDAGODA, BADULLA",Uva,81.Badulla,Badulla,Badulla,2.1C,provincial
+21190,NELUMGAMA VIDYALAYA,NELUMGAMA BADULLA,Uva,81.Badulla,Badulla,Badulla,3.Type2,provincial
+21193,BEDDEGAMA MAHA VIDYALAYA,BEDDEGAMA SPRINGWALLY,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21194,MALITHTHA MAHA VIDYALAYA,MALITHTHA,Uva,81.Badulla,Badulla,Hali-Ela,1.1AB,provincial
+21195,AMBEWELA MAHA VIDYALAYA,ETTAMPITIYA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21196,ANTHUDUWAWELA VIDYALAYA,ANTHUDUWAWELA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21197,UDUWARA MAHA VIDYALAYA,UDUWARA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21198,ALUBOGOLLA VIDYALAYA,SILPOLAGAMA BADULLA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21199,MORETHOTA MAHA VIDYALAYA,MORETHOTA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21200,KATUGAHA SRI DARMALANKARA VIDYALAYA,KATUGAHA PATTIYAGEDARA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21202,KADANA SIRI SEEWALII MAHA VIDYALAYA,KADANA SPRINGVALLY,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21203,KIRINDA VIDYALAYA,KIRINDA PATTIYAGEDARA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21204,KURUKUDE SARIPUTHTHA MAHA VIDYALAYA,PATTIYAGEDARA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21205,KOTTAGODA UDAGAMA VIDYALAYA,KOTTAGODA SPRINGVELLY,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21206,GAWELA VIDYALAYA,GAWEWLA ETTAMPITIYA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21207,ETHTHALAGEDARA THAKSHILA MAHA VIDYALAYA,ETHTHALAGEDARA MALITHTHA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21208,DEEGALLA VIDYALAYA,UVA DEEGALLA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21209,DEHIVINNA MIHINDU VIDYALAYA,DEHIVINNA ETAMPITIYA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21210,PALLEWELA VIDYALAYA,KEERIYAGOLLA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21211,BOGODA MAHA VIDYALAYA,JANGULLA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21212,BOGODA SRI SUMANGALA VIDYALAYA,LANDEWELA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21213,BOGODATHALAWA MAHA VIDYALAYA,GALAUDA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21214,MAHAWATHTHEGAMA VIDYALAYA,MAHAWATHTHEGAMA BADULLA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21215,MUGUNUMATHA MAHA VIDYALAYA,5TH MILE POST UDUWARA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21216,RILPOLA DHARMARAJA MAHA VIDYALAYA,SILPOLAGAMA BADULLA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21217,RILPOLA MEDAGAMA MAHA VIDYALAYA,RILPOLA BADULLA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21218,LUNUGALLA VIDYALAYA,NARANGALA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21219,WAKKUMBURA VIDYALAYA,WAKKUMBURA MANDAGAMA ETTAMPITIYA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21221,WELIKEMULLA MAHA VIDYALAYA,WELIKEMULLA BADULLA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21222,WEPASSAWELA SIRINIWASA MAHA VIDYALAYA,PATTIYAGEDARA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21223,WELLAWELA PEMANANDA VIDYALAYA,WELLAWELA ETAMPITIYA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21224,WEWELHINNA PRAIMARY VIDYALAYA,RILPOLA BADULLA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21225,HETHAKMA VIDYALAYA,HETHAKMA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21226,KOHOVILAKADURA VIDYALAYA,KOHOVILAKANDURA KANDEGEDARA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21227,PERAHETTIYA PRAIMARY VIDYALAYA,PATTIYAGEDARA MALITHTHA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21228,MAHATHENNA P.V.,MAHATHENNA KATUGAHA PATTIYAGEDARA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21231,HALIELA DENCIL KOBBEKADUWA MAHA VIDYALAYA,HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21232,UDADOMPE VIDYALAYA,UDADOMPE HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21237,ETHTHALAPITIYA M.V.,"ETHTHALAPITIYA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21238,NAWELA NAMUNUKULA M.V.,"NAWELAGAMA, BALLAKETUWA",Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21240,HEELOYA SRI SUMANGALA M.V.,"HEELOYA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Ella,2.1C,provincial
+21242,BANDARAWELA SEEWALEE NAVODYA M.V.,BANDARAWELA,Uva,81.Badulla,Bandarawela,Bandarawela,2.1C,provincial
+21243,AMBEGODA SANGABODHI M.V.,"AMBEGODA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,2.1C,provincial
+21244,BAMBARAGAMA M.V.,"AMBADANDEGAMA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21245,LIYANGAHAWELA M.V.,"LIYANGAHAWELA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,2.1C,provincial
+21246,OBADAELLA V.,"OBADAELLA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21247,MAHANAMA V.,"KEBILLEWELA SOUTH, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21248,KITHALELLA V.,ELLA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21249,KIRIORUWA V.,BANDARAWELA,Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21250,GAWARAWELA V.,GAWARAWELA DEMODARA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21251,DIKULPOTHA M.V.,"BIDUNUWEWA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21252,DOOLGOLLA ASHOKA V.,"DOOLGOLLA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21253,WALAGAMBA V.,BANDARAWELA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21254,BANDARAWELA DHARMAPALA SECONDARI M.V.,BANDARAWELA,Uva,81.Badulla,Bandarawela,Bandarawela,1.1AB,provincial
+21255,BANDARAWELA DARMASHOKA M.M.V.,"KINIGAMA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,1.1AB,provincial
+21256,SRI SUGATHA M.V.,BALLAKETUWA,Uva,81.Badulla,Bandarawela,Ella,1.1AB,provincial
+21257,MAKULELLA V.,"MAKULELLA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21258,MATHETILLA V.,"MATHETILLA, MIRAHAWATHTHA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21259,HELA PUPULA V.,"HELAPUPULA, ELLA",Uva,81.Badulla,Bandarawela,Ella,4.Type3,provincial
+21260,WATAGAMUWA V.,"ATHTHALAPITIYA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21261,ILUKPELESSA V.,"ILUKPELESSA, BALLAKETUWA",Uva,81.Badulla,Bandarawela,Ella,4.Type3,provincial
+21262,ELLA M.V.,"PASSARA ROAD, ELLA",Uva,81.Badulla,Bandarawela,Ella,2.1C,provincial
+21263,KANDE ARAWA RAHULA V.,"KANDEARAWA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21264,KARADAGOLLA V.,"UVA KARADAGOLLA, ELLA",Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21265,KARAGAHAWELA SRI PREMANANDA V.,"KOLATHENNA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21266,KONTHAHELA V.,"MATHETILLA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21267,GOTUWALA V.,GOTUWALA - ELLA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21268,GOUSSA VIDYALAYA,GOUSSA - ELLA,Uva,81.Badulla,Bandarawela,Ella,4.Type3,provincial
+21269,DODAMGOLLA SRI CHAKKUPALA V.,BALLAKETUWA - ELLA,Uva,81.Badulla,Bandarawela,Ella,4.Type3,provincial
+21271,PIYARAPANDOWA V.,"PIYARAPANDOWA, HELAPUPULA",Uva,81.Badulla,Bandarawela,Ella,4.Type3,provincial
+21272,YAHALEWELA V.,ELLA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21273,WALASBEDDA V.,WALASBEDDA - DEMODARA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21275,POONAGALA SINHALA V.,"POONAGALA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Haldummulla,3.Type2,provincial
+21278,KALUPAHANA M.V.,UVATHENNA,Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,provincial
+21281,SRI DAMMANANDA.M.V.,"WELIMADA ROAD, HAPUTHALE",Uva,81.Badulla,Bandarawela,Haputale,2.1C,provincial
+21282,HORADOROWWA SRI JINARATHANA V.,"HORADOROWWA, HAPUTHALE",Uva,81.Badulla,Bandarawela,Haputale,3.Type2,provincial
+21283,ELLEGAMA M.V.,"ELLEGAMA, DIYATHALAWA",Uva,81.Badulla,Bandarawela,Haputale,2.1C,provincial
+21284,NIKAPOTHA M.V.,"WELLAWAYA ROAD, NIKAPOTHA",Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,provincial
+21285,SORAGUNE M.V.,"SORAGUNE, HALDUMMULLA",Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,provincial
+21287,ALUTHWELA SOUTH VIDYALAYA,"ALUTHWELA SOUTH, DIYATHALAWA.",Uva,81.Badulla,Bandarawela,Haputale,3.Type2,provincial
+21288,KADURUGAMUWA MIHINDU V.,DIYATHALAWA,Uva,81.Badulla,Bandarawela,Haputale,3.Type2,provincial
+21289,KAHATHTHEWELA RAHULA V.,"KAHATHTHEWELA, BANDARAWELA.",Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21290,KOSGAMA VIDYALAYA,"HALPE, VIA BALANGODA",Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21292,MALADOLA V.,"MALADOLA, HALDUMMULLA",Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21293,MORAKETIYA V.,"MORAKETIYA, AKKARA SEEYA",Uva,81.Badulla,Bandarawela,Haldummulla,3.Type2,provincial
+21294,YAHALABADDA V.,"YAHLABAEDDA, HAPUTHALE.",Uva,81.Badulla,Bandarawela,Haputale,3.Type2,provincial
+21296,LEMASTHOTA V.,"LEMASTHOTA, NIKAPOTHA",Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21297,HEEWELKANDURA M.V.,UVA MAWELAGAMA,Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,provincial
+21298,WELLAWAYA GAMPAHA V.,UVA MAWELAGAMA,Uva,81.Badulla,Bandarawela,Haldummulla,3.Type2,provincial
+21299,WEERAKOONGAMA V.,"WEERAKOONGAMA, KALUPAHANA",Uva,81.Badulla,Bandarawela,Haldummulla,3.Type2,provincial
+21300,HALDUMMULLA V.,HALDUMMULLA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21301,HARANKAHAWA V.,HALDUMMULLA,Uva,81.Badulla,Bandarawela,Haldummulla,3.Type2,provincial
+21302,DIYATALAWA M.M.V.,DIYATHALAWA,Uva,81.Badulla,Bandarawela,Haputale,1.1AB,provincial
+21303,KIRAWANAGAMA M.V.,HALDUMMULLA,Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,provincial
+21304,KOLONGASTHENNA V.,UVA MAWELAGAMA,Uva,81.Badulla,Bandarawela,Haldummulla,3.Type2,provincial
+21308,WELANHINNA V.,"WELANHINNA,HAPUTHALE",Uva,81.Badulla,Bandarawela,Haputale,3.Type2,provincial
+21309,AMILAGAMA V.,"SORAGUNE, HALDUMMULLA",Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21310,ILUKPELESSA V.,"KALTHOTA, BALANGODA",Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21312,KEPPETIPOLA MAHA VIDYALAYA,KEPPETIPOLA,Uva,81.Badulla,Welimada,Welimada,1.1AB,provincial
+21313,SRI DEWANANDA MADYA MAHA VIDYALAYA,MIRAHAWATHTHA,Uva,81.Badulla,Welimada,Welimada,1.1AB,provincial
+21314,NADUNGAMUWA MAHA VIDYALAYA,"NADUNGAMUWA, GURUTHALAWA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21316,KALABULULANDA VIDYALAYA,KALABULULANDA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21317,SRI RATHANAJOTHI MAHA VIDYALAYA,"GAL EDANDA, GURUTHALAWA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21318,SRI PUNGNASAARA MAHA VIDYALAYA,HEWANAKUMBURA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21319,RATHKARAUWA MAHA VIDYALAYA,RATHKARAUWA,Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21320,ELLATHOTA VIDYALAYA,IDALGASHINNA VIA HAPUTHALE,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21321,SRI PRAGNASENA MAHA VIDYALAYA,NUWARA ELIYA ROAD BORAGAS,Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21322,BORALANDA DHARMAPALA VIDYALAYA,BORALANDA,Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21323,BOGAHAKUMBURA MAHA VIDYALAYA,BOGAHAKUMBURA,Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21324,DAMBAVINNA SRI SARANANKARA MAHA VIDYALAYA,"DAMNAVINNA, WELIMADA",Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21325,DIKKAPITIYA VIDYALAYA,"DIKKAPITIYA, WELIMADA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21326,ERABADDA VIDYALAYA,KEPPETIPOLA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21327,GAMBEDDA VIDYALAYA,RATHKARAWWA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21328,GIRAMBE SRI KHEMANANDA MAHA VIDYALAYA,NUGATHALAWA,Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21329,HEENNARANGOLLA MAHA VIDYALAYA,"HEENNARANGOLLA, BORALANDA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21330,SRI MALIYADEWA MAHA VIDYALAYA,"HINGURUGAMUWA, GURUTHALAWA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21331,LANDEGAMA VIDYALAYA,"LANDEGAMA, WELIMADA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21332,MADOWITA VIDYALAYA,KALUBULULANDA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21333,MALIGATHENNA VIDYALAYA,RATHKARAUWA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21334,NAWELA WELIMADA VIDYALAYA,AMUNUMULLA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21335,NUGATHALAWA VIDYALAYA,NUGATHALAWA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21337,PITAPOLA VIDYALAYA,"PITAPOLA, BORALANDA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21338,UDUBADANA MAHA VIDYALAYA,"UDUBADANA, KEPPETIPOLA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21339,WELIMADA VIJAYA VIDYALAYA,WELIMADA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21340,VIDURUPOLA SRI WIMALABUDDHI VIDYALAYA,"VIDURUPOLA, KEPPETIPOLA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21341,WELIMADAGAMA VIDYALAYA,WELIMADA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21342,BANDARANAYAKA VIDYALAYA,HEWANAKUMBURA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21345,MALPOTHA SRI MAHINDA VIDYALAYA,MIRAHAWATHTHA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21346,MADAGEDARAGAMA VIDYALAYA,DAMBAWINNA WELIMADA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21347,THENNAKOONWELA VIDYALAYA,"THENNAKOONWELA, KEPPETIPOLA",Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21348,NISHSHANKA VIDYALAYA,GAWARAMMANA KEPPETIPOLA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21350,BALATHOTAELLA VIDYALAYA,MIRAHAWATHTHA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21351,MADAWELA M.V.,UVAPARANAGAMA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21352,GAMPAHA MASPANNA BANDARANAYAKA M.V.,MASPANNA,Uva,81.Badulla,Welimada,Uva Paranagama,1.1AB,provincial
+21353,KARAGAHAULPOTHA SRI GUNANANDA M.V.,"MADAWELA, UDUKINDA",Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21354,THUPPITIYA M.V.,BAMBARAPANA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21355,WEWEGAMA MAHA VIDYALAYA,AMBAGAHAWATTA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21357,SAPUGOLLA MAHA VIDYALAYA,"SAPUGOLLA, UVAPARANAGAMA",Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21358,YAHALAARAWA MAHA VIDYALAYA,YAHALAARAWA WELIMADA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21359,SUMANAJOTHI VIDYALAYA,AMBAGASDOWA,Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21360,BUSDULLA VIDYALAYA,AMBAGASDOWA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21361,BOGHAMADITTA VIDYALAYA,LOONUWATTA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21362,DANGAMUWA VIDYALAYA,AMBAGASDOWA,Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21363,DIMBULANA VIDYALAYA,DIMBULANA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21364,DIYABOKADURA VIDYALAYA,BAMBARAPANA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21365,DARMARAJA MAHA VIDYALAYA,GALAHAGAMA HAKGALA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21366,KATUGALLA VIDYALAYA,AMBAGASDOWA,Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21367,RAJAKEEYA VIDYALAYA,KUMARAPATTIYA AMBAGASDOWA.,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21368,METIWALALANDA VIDYALAYA,'BOWELA WELIMADA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21369,PANNALAWELA SRI SUDHARMANANDA VIDYALAYA,LOONUWATTA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21370,PERAWELLA VIDYALAYA,PERAWELLA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21371,RAHUPOLA VIDYALAYA,LUNUWATTA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21372,THAWALAMPOLA SRI WIMALARATHNE VIDYALAYA,UVA PARANAGAMA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21373,UNAPANA VIDYALAYA,UNAPANA LUNUWATHTHA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21374,UDAPERUWA VIDYALAYA,LUNUWATHTHA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21375,UDUHAWARA MAHA VIDYALAYA,UDUHAWARA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21376,UVA PARANAGAMA MAHA VIDYALAYA,"KOTUWA,UVA PARANAGAMA",Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21377,AMBAGASDOWA JANADIPATHI VIDYALAYA,AMBAGASDOWA,Uva,81.Badulla,Welimada,Uva Paranagama,1.1AB,provincial
+21378,YALAGAMUWA VIDYALAYA,"YALAGAMUWA, AMBAGASDOWA",Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21379,ELLANDA VIDYALAYA,ELLANDA AMBAGAHAWATHTHA,Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21380,GALANIHA VIDYALAYA,"GALANIHA, MASPANNA",Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21382,MAHAKUMBURA VIDYALAYA,"MAHAKUMBURA, BAMBARAPANA",Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21384,PANWEWA VIDYALAYA,"PANWEWA, MASPANNA",Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21386,VIHARAGODA VIDYALAYA,VIHARAGODA AMBAGAHAWATHTHA,Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21387,HANGILIELLA VIDYALAYA,"PUHULPOLA, WELIMADA",Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21388,BOKOTUTENNA VIDYALAYA,"LUCKYLAND, LUNUWATTA",Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21389,UDUHAWARA MEDAHINNA VIDYALAYA,"IHALAKORADEKUMBURA, UDUHAWARA",Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21390,JEYAKARTHIGEYA T.V.,"UDAPUSSELLAWA, LUNUWATHTHA",Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21391,KIWADALAYA HINDU V.,UDAPUSSELLAWA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21392,PAHALAWAN T.V.,"KIRKLEES, UDAPUSSELLAWA",Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21393,WELAUDAM T.V.,UDAPUSSELLAWA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21394,VITHYANANDA T.V.,"WALDIMAR GROUP, UDAPUSSELLAWA.",Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21395,RATHAMBA MUSLIM VIDYALAYA,RATHAMBA AMBAGASDOWA,Uva,81.Badulla,Welimada,Uva Paranagama,3.Type2,provincial
+21396,UVA HILAND TAMIL MAHA VIDYALAYA,BANDARAWELA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21397,HINDU V.,"WALLUWAR WALAHAM, NUWARA ELIYA ROAD, WELIMADA",Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21399,AL-MURSHID MAHA VIDYALAYA,SILMIYAPURA,Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21400,PADINAWELA MUSLIM MAHA VIDYALAYA,BORAGAS,Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21401,WELIMADA MUSLIM MAHA VIDYALAYA,WELIMADA,Uva,81.Badulla,Welimada,Welimada,1.1AB,provincial
+21402,BOOGAHAKUMBURA MUSLIM MAHA VIDYALAYA,BOOGAHAKUMBURA,Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21403,AL-AZHAR MUSLIM VIDYALAYA,"ALUGOLLA, BOGAHAKUMBURA",Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21404,BHARATHI T.V.,"MIRAHAWATHTHA, BANDARAWELA",Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21405,SARASHWATHI T.V.,"WORWICK, BORAGAS",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21406,COGULAM T.V.,IDALGASHINNA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21407,PAWALAGANAPATHI T.V,IDHALGASHINNA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21408,HAPUTHALE TAMIL M.V.,HAPUTHALE,Uva,81.Badulla,Bandarawela,Haputale,2.1C,provincial
+21409,SRI GANESHA TAMIL M.V.,KOSLANDA,Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,provincial
+21410,AL-BADRIYA MUSLIM M.V.,"KAHAGOLLA,DIYATALAWA",Uva,81.Badulla,Bandarawela,Haputale,2.1C,provincial
+21411,HALDUMMULLA TAMIL M.V.,HALDUMMULLA,Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,provincial
+21412,ARUNOTHAYAM T.V.,"GLENANORE, HAPUTHALE.",Uva,81.Badulla,Bandarawela,Haputale,2.1C,provincial
+21413,SARAVANAPOIGEI T.V.,HAPUTHALE.,Uva,81.Badulla,Bandarawela,Haputale,3.Type2,provincial
+21414,KURINCHI KUMARAN T.V.,HAPUTHALE,Uva,81.Badulla,Bandarawela,Haputale,3.Type2,provincial
+21415,DAMBETHENNA. NO 01 TAMIL V.,"DAMBETENNA ESTATE, HAPUTHALE.",Uva,81.Badulla,Bandarawela,Haputale,3.Type2,provincial
+21416,MUTHTHAMIL T.V.,HAPUTHALE,Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21417,SRI UDAYAKEERTHI T.V.,NIKAPOTHA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21418,KARTHIGEI T.V.,KOSLANDA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21419,SAUMYAMOORTHI THONDAMAN V.,POONAGALA,Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,provincial
+21420,CHANDRASEKARAN T.V.,HAPUTHALE,Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21421,SRI VITHYA T.V.,POONAGALA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21422,ARNHALL TAMIL V.,POONAGALA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21423,VITHAYA GANAPATHI T.V.,HAPUTHALE,Uva,81.Badulla,Bandarawela,Haldummulla,3.Type2,provincial
+21424,THIRUWALLUWAR T.V.,"MOUSAGA DIV, DAMBETHANNA, HAPUTHALE.",Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21425,PUGALENTHI T.V.,"HAPUTALE ESTATE, HAPUTALE",Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21426,HAPUTHALE NO 02 TAMIL V.,"SHERWOOD, HAPUTHALE.",Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21427,SRI AKILESHWARA T.V.,"GALKANDA, HAPUTHALE.",Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21428,AADHAWAN T.V.,HAPUTHALE,Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21429,MEERIYABEDDA TAMIL V.,KOSLANDA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21430,SRI RAMANUJAR T.V.,POONAGALA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21431,SIRAGUHAL T.V.,HALDUMMULLA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21432,VIPULANANDA TAMIL M.V.,HALDUMMULLA,Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,provincial
+21433,SRI MURUGANANDA T.K.V.,"PITARATHMALE L.D, HAPUTHALE.",Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21434,MANIWASAGAR T.V.,POONAGALA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21435,SRI PURAWAHANI T.V.,POONAGALA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21436,SRI GANGAI T.V.,VIHARAGALA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21437,SRI MALEIMAGAL T.V.,BANDARAWELA,Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21438,BANDARAWELA TAMIL M.V.,BANDARAWELA,Uva,81.Badulla,Bandarawela,Bandarawela,1.1AB,provincial
+21439,SIR RAZIK FAREED MUSLIM M.V.,"WELIMADA ROAD, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,1.1AB,provincial
+21440,AL-YASEEN MUSLIM V.,HEELOYA - BANDARAWELA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21441,SRI SHAKTHI V.,"DOOLGOLLA SPO, CRAIG ESTATE, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,2.1C,provincial
+21442,NEWBURGH TAMIL V.,ELLA,Uva,81.Badulla,Bandarawela,Ella,2.1C,provincial
+21443,DEVENDRA T.V.,SOUTHAM - DEMODARA,Uva,81.Badulla,Bandarawela,Ella,2.1C,provincial
+21444,CRAIG SRI GAYATHRI TAMIL V.,"LIYANGAHAWELA POST, BANDRAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21445,SRI KRISHNA T.V.,BANDARAWELA,Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21446,SAUBHAGYA T.V.,BANDARAWELA,Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21447,BROUGHTON TAMIL V.,LIYANGAHAWELA,Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21448,PINGARAWA TAMIL V.,NAMUNUKULA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21449,NAHAVILA TAMIL V.,DEMODARA,Uva,81.Badulla,Bandarawela,Ella,4.Type3,provincial
+21450,HINDAGALA TAMIL V.,BALLAKETUWA,Uva,81.Badulla,Bandarawela,Ella,4.Type3,provincial
+21451,NANMADI T.V.,BALLAKETUWA,Uva,81.Badulla,Bandarawela,Ella,2.1C,provincial
+21453,WAHINI T.V.,"LIYANGAHAWELA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21454,SRI HARI T.V.,PATTIYAGEDARA BANDARAWELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21455,SRI LUKSHMI T.V.,BANDARAWELA,Uva,81.Badulla,Bandarawela,Bandarawela,3.Type2,provincial
+21456,NAMAGAL TAMIL V.,HALDUMMULLA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21457,MAHALUXSHMI T.V.,"MUTHUWANA ESTATE,HAPUTHALE",Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21458,GOWERAKELLE TAMIL V.,GAWERAKELLE - DEMODARA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21459,PERIYAR T.V.,HAPUTHALE,Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21460,SRI SIVASHAKTHI T.V.,OHIYA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21461,BHARATHIDASAN T.V.,HAPUTHALE.,Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21462,SRI SARADA T.V.,ELLA,Uva,81.Badulla,Bandarawela,Ella,3.Type2,provincial
+21465,AL-ADHAN MAHA VIDYALAYA,BOTANICAL GARDEN ROAD BADULLA,Uva,81.Badulla,Badulla,Badulla,1.1AB,provincial
+21466,BADULLA TAMIL GIRLS MAHA VIDYALAYA,"BADULUPITIYA, BADULLA",Uva,81.Badulla,Badulla,Badulla,1.1AB,provincial
+21467,BHARATHY MAHA VIDYALAYA,"2ND MILE POST, PASSARA ROAD, BADULLA",Uva,81.Badulla,Badulla,Badulla,2.1C,provincial
+21468,BADULLA SARASWATHY KANISHTA VIDYALAYA,DEVALAYA LANE BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21469,KAMBAN T.V.,THELBEDDA ESTATE BADULLA,Uva,81.Badulla,Badulla,Badulla,3.Type2,provincial
+21470,VALLUWAR TAMIL VIDYALAYAM,WEST MORE LAND BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21471,PAARI T.V.,KENDAGOLLA DIVITION BADULLA,Uva,81.Badulla,Badulla,Badulla,3.Type2,provincial
+21472,SRI WANI T.V.,MALANGAMUWA THELBEDDA BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21473,SRI VISHNU T.V.,WEWESSA GROUP BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21474,RAMAKRISHNA TAMIL VIDYALAYAM,WEWESSA WINEETHAGAMA BADULLA,Uva,81.Badulla,Badulla,Badulla,3.Type2,provincial
+21475,BHARATHY P.V.,"2ND MILE POST, PASSARA ROAD, BADULLA",Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21476,CULLEN TAMIL VIDYALAYA,CULLEN ESTATE NELUMGAMA BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21477,SRI AMBIGEI T.V.,GLEN ALPIN DIVISION GLEN ALPIN GROUP BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21478,DEIVA THIRUMAGAL T.V.,DIYANAGALA DIVISION GLEN ALPIN GROUP BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21479,GRAHAMSLAND TAMIL VIDYALAYA,GLAN ALPIN BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21480,SRI GNAWAHINI T.V.,MAPAGALA URY GROUP PASSARA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21481,AL-IRSHAD MAHA VIDYALAYA,HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21482,GNANAWAHINI T.V.,HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21483,SRI SHANMUGANANDA TAMIL VIDYALAYA,DICWELLA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21484,SIVA SRI T.V.,DEMODARA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21485,NAWALAWATHTHA TAMIL VIDYALAYA,SPRINGVALLY,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21486,SIVASHAKTHI T.V.,HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21487,SRI SHAKTHI T.V.,MORAGOLLA GROUP HALI ELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21488,PARASHAKTHI T.V.,UDUWARA DEMODARA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21489,ILANGO T.V.,DEMODARA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21490,CITHEESWARA T.V.,"LANDEWELA, HALIELA",Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21491,SRI KALYANI T.V.,BOGAHAMADITHTHA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21492,SRI LAKSHMI T.V.,HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21493,SRI PUGALENDI T.V.,ETTAMPITIYA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21494,SARNIA TAMIL M.V.,KANDEGEDARA,Uva,81.Badulla,Viyaluwa,Soranatota,2.1C,provincial
+21495,SARNIYA NO 01 TAMIL V.,"KEENAKELE ROAD, KANDEGEDARA",Uva,81.Badulla,Viyaluwa,Soranatota,3.Type2,provincial
+21496,AKSARA T.V.,KANDEGEDARA,Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21497,VIDYADARANI T.V.,"NARANGALA S.P.O , HALI ELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,3.Type2,provincial
+21498,WASUGI T.V,"NARANGALAI S.P.O, HALI ELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,3.Type2,provincial
+21499,AADITHYA T.V.,"NARANGALA, HALIELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,4.Type3,provincial
+21500,VINAYAGA T.V.,"COBO DIVISION , NELUMGAMA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,3.Type2,provincial
+21501,PAGARAGAMMANA MUSLIM K.V.,"MAPAKADAWEWA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,2.1C,provincial
+21502,SRI SITHTHIVINAYAGAR T.V.,DEMODARA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21503,SHIWANANDA TAMIL VIDYALAYA,BALLAGALLA DIVISION GLEN ALPIN BADULLA,Uva,81.Badulla,Badulla,Badulla,3.Type2,provincial
+21504,KIRUBANANDAVARIYAR TAMIL VIDYALAYA,QUEENSTOWN HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21505,UVA KETAWELA TAMIL VIDYALAYA,LANDEWELA HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21506,SPRINGVALLY TAMIL MAHA VIDYALAYA,SPRINGVALLY,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21507,MAYMALLAY TAMIL VIDYALAYA,SPRINGVALLEY,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21508,VENKADESHWARA T.V.,KOOTTAGODA SPRINGVALLY,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21509,SRI BALAGANESHA T.V.,2ND DIVITION HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21510,MAHATHMA V.,BANDARAWELA ROAD HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21512,SRI RAMAKRISHNA V.,LUNUGALA,Uva,81.Badulla,Passara,Passara,1.1AB,provincial
+21513,PASSARA MUSLIM M.V.,PASSARA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21514,HAMSATHWANI T.V.,NAMUNUKULA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21515,MARUTHAM T.V.,MADULSIMA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21516,ANGANI T.M.V.,MADULSIMA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21517,BHARATHIDASAN V.,MATIGAHATHENNA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21518,VAGEESHWARI V.,PASSARA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21519,THIRUKUMARAN T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21521,VIGNESHWARA TAMIL V.,HOPTON,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21522,JEYAKAVIHARATHI T.V.,MADULSIMA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21523,THIRUMAHAL TAMIL V.,"ADAWATHTHA, LUNUGALA",Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21524,KALAIMAHAL TAMIL M.V.,HOPTON,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21525,SHOWLANDS LOWER TAMIL V.,LUNUGALA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21526,SRI LA ARUMUGANAWALAR T.V.,LUNUGALA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21527,VIVEKANANDAR T.V.,MADULSIMA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21528,UDAYAM T.V.,LUNUGALA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21529,SRI KADIRESHAN T.V.,MADOLSIMA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21530,SRI NAWALAR T.V.,LUNUGALA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21531,PAWENDRAL T.V.,HOPTON,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21532,HAIRAVI T.V.,PASSARA.,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21533,SRI MEENACHCHI T.V.,PASSARA.,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21534,WITHYALINI T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21535,MALEIYYARUCHI T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21536,SRI SARADA T.V.,"URY GROUP, PASSARA",Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21537,WITHYABHARATHI T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21538,MALEIMAGAL T.V.,NAMUNUKULA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21539,ARUNODAYA T.V.,NAMUNUKULA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21540,SRI KUMARA T.V.,NAMUNUKULA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21541,KURINCHI T.V.,MADULSIMA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21542,SWAMI VIVEKANANDA T.V.,MADULSIMA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21544,KOGULANANDA T.V.,PITAMARUWA,Uva,81.Badulla,Viyaluwa,Meegahakivula,3.Type2,provincial
+21545,MANIKKAWASAGAR T.V.,"ELAMANE DIVISION, PITAMARUWA",Uva,81.Badulla,Viyaluwa,Meegahakivula,3.Type2,provincial
+21547,ST. JAMES TAMIL VIDYALAYA,HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,3.Type2,provincial
+21548,SRI DURGA T.V.,BANDARAWELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21552,SRI SAIVAPAGASHAR T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21553,SRI GANESHA TAMIL V.,PASSARA,Uva,81.Badulla,Passara,Passara,3.Type2,provincial
+21554,SRI GAYATHTHRI T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21555,SEMMOLI T.V.,"ELTEB GROUP, PASSARA",Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21556,KALEIYARUWA T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21557,VELAWAN T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21558,AINGARAN T.V.,"KITHULKELE DIVISION, PASSARA",Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21559,INMOLI T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21560,HALIELA UVA SCIENCE COLLEGE,HALIELA,Uva,81.Badulla,Badulla,Hali-Ela,1.1AB,provincial
+21561,MEEGOLLA P.V.,"KETAWATHTHA, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,4.Type3,provincial
+21562,VIVEKANANDA TAMIL VIDYALAYA,ATTAMPITIYA,Uva,81.Badulla,Badulla,Hali-Ela,2.1C,provincial
+21563,KELIPANAWELA V.,"KELIPANAWELA, KOSLANDA",Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21564,KOTABAKMA V.,"KOTABAKMA, KOSLANDA",Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21565,WE-ELIYA V.,"WE-ELIYA, SORAGUNE, HALDUMMULLA",Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21566,HAPATHGAMUWA GEMUNU VIDYALAYA,"DIGANATHENNA, HAPATHGAMUWA, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21567,UDAVERIYA TAMIL V.,"UDAVERIYA, OHIYA",Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21569,EKALAIWAN T.V.,KOSLANDA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21570,SRI GAYATHTHRI T.V.,OHIYA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21571,SRI GANAPATHY HINDU V.,"RENDAPOLA, BORAGAS",Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21572,AGATHTHIYAR HINDU V.,LUNUWATHTHA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21573,THALAWEGAMA K.V.,"WEWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,3.Type2,provincial
+21574,DIKKANDAYAYA P.S.,"UVA THISSAPURA, MAPAKADAWEWA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21575,NOORANIYA MUSLIM VIDYALAYA,"GALAUDA, HALI ELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,2.1C,provincial
+21576,AL-AMEEN MUSLIM V.,LUNUGALA,Uva,81.Badulla,Passara,Passara,2.1C,provincial
+21577,PEESSA VIDYALAYA,PEESSA HOPTAN,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21578,KUMARATHENNA V.,"AKKARASEEYA, NIKAPOTHA",Uva,81.Badulla,Bandarawela,Haldummulla,3.Type2,provincial
+21579,MARANGAHAWELA V.,UVA THENNA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21580,WETHALAWA PRAIMARY VIDYALAYA,KURUKUDEGAMA PATTIYAGEDARA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21581,PRETHIYANGARA DEVI T.V.,WELIMADA,Uva,81.Badulla,Welimada,Uva Paranagama,2.1C,provincial
+21583,WENDESIYAYA V.,"KALUGAHAKANDURA, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,3.Type2,provincial
+21584,MEEGASPITIYA V.,"EGODAWELLA, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,4.Type3,provincial
+21585,BATUYAYA P.V.,"BATUYAYA, EGODAWELA, BADULLA",Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21586,KIRKLEES SINHALA VIDYALAYA,UDAPUSSELLAWA,Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21587,ASHTALUXMI T.V.,"PADINAWELA, BORAGAS",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21589,"DHARMAPALA VIDYALAYA, ARAWATHTHA","ARAWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21590,KIRIMADUTHENNA P.V.,"KIRIMADUTHENNA, KALUGAHAKANDURA, BADULLA.",Uva,81.Badulla,Viyaluwa,Meegahakivula,4.Type3,provincial
+21591,KULUKELE P.S.,"ARAWA, BADULLA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21592,AL-ILMA MUSLIM VIDYALAYA,"MAHATHENNA, GURUTHALAWA",Uva,81.Badulla,Welimada,Welimada,2.1C,provincial
+21593,MIRAHAWATTA MUSLIM VIDYALAYA,MIRAHAWATTA,Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21594,KANDURUDEKA MUSLIM VIDYALAYA,"KANDURUDEKA, GURUTHALAWA",Uva,81.Badulla,Welimada,Welimada,3.Type2,provincial
+21595,HAPUTHALE MUSLIM V.,HAPUTHALE,Uva,81.Badulla,Bandarawela,Haputale,3.Type2,provincial
+21596,LUNUGALA PRIMARY SCHOOL,LUNUGALA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21597,THISSAPURA P.S.,"UVA THISSAPURA, MAPAKADA WAWA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21598,HADDATHTHAWA P.S.,"SORABORA COLANY, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21599,KANDAKAPULPATHA P.V.,"BADULUOYA, BADULLA",Uva,81.Badulla,Viyaluwa,Kandaketiya,4.Type3,provincial
+21600,MANGAIKKARAY T.V.,"RENDAPOLA, BORAGAS",Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21601,FATHIMA MUSLIM LADIES COLLEGE,PUWAKKGODAMULLA BADULLA,Uva,81.Badulla,Badulla,Badulla,1.1AB,provincial
+21602,VIDYALOKA PRIMARY SCHOOL,KEPPETIPOLA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21603,AN-NOOR MUSLIM VIDYALAYA,GURUTALAWA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21604,SWARNAHANSA VIDYALAYA,"WANGIYAKUMBURA , BORALANDA",Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21605,SRI AHARAM T.V.,UDAPUSSELLAWA,Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21606,MEDAWELA PRIMARY SCHOOL,UVA PARANAGAMA,Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21607,GAMPAHA MASPANNA PRIMARY VIDYALAYA,MASPANNA,Uva,81.Badulla,Welimada,Uva Paranagama,4.Type3,provincial
+21608,DARMADEEPA PRIMARY SCHOOL,"DEVANANDA MW, MIRAHAWATHTHA",Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21609,SAMMANI PRIMARY SCHOOL,BORALANDA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21610,KANDEGEDARA VIDYADEEPA P.V.,"IDAMEGAMA, KANDEGEDARA",Uva,81.Badulla,Viyaluwa,Soranatota,4.Type3,provincial
+21611,THALDENA P.V.,"THALDENA, BADULLA",Uva,81.Badulla,Viyaluwa,Meegahakivula,4.Type3,provincial
+21612,D.S.SENANAYAKE P.V.,KANDAKETIYA,Uva,81.Badulla,Viyaluwa,Kandaketiya,4.Type3,provincial
+21613,GALAUDA P.V.,"GALAUDA, HALI ELA",Uva,81.Badulla,Viyaluwa,Kandaketiya,4.Type3,provincial
+21614,SRI SUGATHA P.V.,BALLAKETUWA,Uva,81.Badulla,Bandarawela,Ella,4.Type3,provincial
+21615,JANANANDHA P.S.,"KADURUGAMUWA, DIYATHALAWA",Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21616,KENDAGOLLA PRAIMARY VIDYALAYA,KENDAGOLLA BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21617,SIDDHARTHA P.S.,MAHIYANGANAYA,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21618,AL HIQMA PRIMARY SCHOOL,BOTANIKAL GARDEN ROAD BADULLA,Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21619,ANDAULPATHA P.S.,URANIYA,Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21620,BIBILEGAMA PRIMARY SCHOOL,BIBILEGAMA PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21621,MATIGAHATHANNA SRI SUMANATHISSA PRIMARY SCHOOL,MATIGAHATHANNA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21622,UDAWELA PRIMARY SCHOOL,"2ND MILE POST, PASSARA ROAD, UDAWELA, BADULLA",Uva,81.Badulla,Badulla,Badulla,4.Type3,provincial
+21623,MALITHTHA PRAIMARY VIDYALAYA,MALITHTHA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21624,PASSARA PRIMARY SCHOOL,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21625,SRI RAGAWENDRA T.V.,BANDARAWELA,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21626,WITHYANI T.V.,HALDUMMULLA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21627,HAPUTHALE TAMIL P.V.,"DAMBETHENNAROAD, HAPUTALE.",Uva,81.Badulla,Bandarawela,Haputale,4.Type3,provincial
+21628,ALUYATAWELA P.S.,"HEBARAWA , MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21629,PETHIYAGODA P.S.,"HEWANWATHTHA, MAHIYANGANAYA",Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,4.Type3,provincial
+21630,SOORYODAYA P.V.,BOGAHAKUMBURA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21631,GIRANDURUKOTTE P.S.,GIRANDURUKOTTE,Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,4.Type3,provincial
+21632,DHARMAPALA P.V.,"KEBILLEWELA NORTH, BANDARAWELA",Uva,81.Badulla,Bandarawela,Bandarawela,4.Type3,provincial
+21633,SITTHI VINAYAGAR T.V.,SPRINGVALLY,Uva,81.Badulla,Badulla,Hali-Ela,4.Type3,provincial
+21634,SRI DEWANANDA PRIMARY SCHOOL,"DEWANANDA MW, MIRAHAWATHTHA",Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+21635,KOSLANDA P.V.,KOSLANDA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21636,POONAGALA TAMIL P.V.,POONAGALA,Uva,81.Badulla,Bandarawela,Haldummulla,4.Type3,provincial
+21637,HALPE P.V.,HELA HALPE - BANDARAWELA,Uva,81.Badulla,Bandarawela,Ella,4.Type3,provincial
+21638,ABIRAM T.V.,PASSARA,Uva,81.Badulla,Passara,Passara,4.Type3,provincial
+21639,WELIMADA MUSLIM P.V.,WELIMADA,Uva,81.Badulla,Welimada,Welimada,4.Type3,provincial
+22002,NANNAPURAWA M.V.,NANNAPURAWA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,1.1AB,provincial
+22003,PITAKUMBURA M.V.,"PITAKUMBURA, BIBILE",Uva,82.Moneragala,Bibile,Bibile,2.1C,provincial
+22004,MALLEHEWA M.V.,"MALLEHEWA, BIBILE",Uva,82.Moneragala,Bibile,Bibile,2.1C,provincial
+22006,SIRI DHAMMAPALA M.V.,"YALKUMBURA, BIBILE.",Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22007,SENAPATHIYA M.V.,IWELA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,2.1C,provincial
+22008,KENDAWINNA M.V.,KENDAWINNA-MEDAGAMA,Uva,82.Moneragala,Bibile,Medagama,2.1C,provincial
+22009,BIBILE MAHAMATHYA SCIENCE COLLEGE,BIBILE,Uva,82.Moneragala,Bibile,Bibile,1.1AB,provincial
+22010,ELLEKONA K.V.,NANNAPURAWA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,3.Type2,provincial
+22011,KOTAGAMA P.V.,KOTAGAMA-BIBILE,Uva,82.Moneragala,Bibile,Bibile,4.Type3,provincial
+22012,DODAMGOLLA M.V.,DODAMGOLLA-BIBILE,Uva,82.Moneragala,Bibile,Bibile,2.1C,provincial
+22013,NAGALA PIYARATHANA K.V.,NAGALA-BIBILE.,Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22014,BIBILAMULLA K.V.,NANNAPURAWA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,3.Type2,provincial
+22015,BULUPITIYA M.V.,NILGALA-BIBILE,Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22016,YAKUNNAWA M.V.,YAKUNNAWA-NANNAPURAWA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,2.1C,provincial
+22017,RADALIYADDA K.V.,AMBAGOLLA-BIBILE,Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22018,WEGAMA K.V.,"WEGAMA, BIBILE",Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22019,HEPOLA K.V.,"DIYAKOBALA, BIBILE.",Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22021,ILUKKEPUTHENNA K.V.,"ILUKKEPUTHENNA, BIBILE.",Uva,82.Moneragala,Bibile,Bibile,4.Type3,provincial
+22022,KANAWEGALLA K.V.,"KANAWEGALLA, EKIRIYANKUMBURA, BIBILE",Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22024,BDULLAGAMMANA K.V.,"BADULLAGAMMANA, BIBLE",Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22025,MONARAWANA K.V.,MONARAWANA-MEDAGAMA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,3.Type2,provincial
+22026,SERAWA P.S.,SERAWA-PITAKUMBURA-BIBILE,Uva,82.Moneragala,Bibile,Bibile,4.Type3,provincial
+22027,THITHTHAWELKIULA P.V.,KOTABOWA-MEDAGAMA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22028,URAULA K.V.,DORAKUMBURA-PADIYATHALAWA,Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22029,ETHUNDEMUWAWA K.V.,"ARAWAKUMBURA, LUNUGALA",Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22030,KARAGAHAWELA K.V.,DIYAKOBALA-BIBILE,Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22031,MUDIYALA K.V.,MUDIYALA-KOTAGAMA-BIBILE.,Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22032,KOTUWEGANGODA P.S.,DAHAMGAMA-NANNAPURAWA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22033,PITADENIYA P.S.,"KINNARABOWA, PITADENIYA, MEDAGAMA",Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22034,KANULWELA MUSLIM M.V.,KANULWELA-BIBILE,Uva,82.Moneragala,Bibile,Bibile,2.1C,provincial
+22035,GODIGAMUWA MUSLIM M.V.,GODIGAMUWA-MEDAGAMA -BIBILE,Uva,82.Moneragala,Bibile,Medagama,2.1C,provincial
+22036,AL-IRSHAD MUSLIM M.V.,10TH MILE POST-MEDAGAMA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,2.1C,provincial
+22037,SRI WANI T.V.,BIBILE,Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22038,YATIELLA P.S.,YATIELLA- KENDAWINNA-MEDAGAMA,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22039,ALPITIYA M.V.,MEEGAHAPITIYA-DAMBAGALLA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,1.1AB,provincial
+22040,OBBEGODA SECONDARY SCHOOL,OBBEGODA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,1.1AB,provincial
+22041,DAMBAGALLA PIRATHANA M.V.,DAMBAGALLA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,2.1C,provincial
+22042,MARIARAWA M.V.,MARIARAWA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,2.1C,provincial
+22043,D.S.SENANAYAKA M.V.,INGINIYAGALA,Uva,82.Moneragala,Bibile,Madulla,1.1AB,provincial
+22044,BAKINIGAHAWELA MUSLIM M.V.,BAKINIGAHAWELA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,1.1AB,provincial
+22045,KEENAGODA K.V.,KEENAGODA-BAKINIGAHAWELA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,2.1C,provincial
+22046,RATHTHANADENIYA K.V.,RATHTHANADENIYA-BAKINIGAHAWELA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,3.Type2,provincial
+22047,PUBBARA K.V.,PANGURA- MONARAGALA,Uva,82.Moneragala,Bibile,Medagama,3.Type2,provincial
+22048,BAKINIGAHAWELA SINHALA K.V.,BAKINIGAHAWELA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,3.Type2,provincial
+22050,KOLLADENIYA M.V.,KOLLADENIYA-MARIARAWA,Uva,82.Moneragala,Bibile,Madulla,2.1C,provincial
+22051,KOSSELPOLA K.V.,DOMBGAHAWELA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,3.Type2,provincial
+22052,GALBOKKA K.V.,GALBOKKA- DAMBAGALLA,Uva,82.Moneragala,Bibile,Madulla,3.Type2,provincial
+22053,GALGAMUWA M.V.,WELLASSA-GALGAMUWA-INGINIYAGALA,Uva,82.Moneragala,Bibile,Madulla,2.1C,provincial
+22054,GONATHALAWA K.V.,GONATHALAWA-DAMBAGALLA,Uva,82.Moneragala,Bibile,Madulla,4.Type3,provincial
+22055,BADULUWELA K.V.,BADULUWELA-DAMBAGALLA,Uva,82.Moneragala,Bibile,Madulla,3.Type2,provincial
+22056,MADULLA M.M.V.,MAKULLA TOWN-DAMBAGALLA,Uva,82.Moneragala,Bibile,Madulla,1.1AB,provincial
+22057,MAGANDAOYA JANAPADA K.V.,MAGANDAOYA JANAPADAYA-DOMBAGAHAWELA,Uva,82.Moneragala,Bibile,Madulla,3.Type2,provincial
+22058,DELIWA M.V.,DELIWA-RUWALWELA-DAMBAGALLA,Uva,82.Moneragala,Bibile,Madulla,2.1C,provincial
+22059,AMUNEKANDURA M.V.,AMUNEKANDURA-BAKINIGAHAWELA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,2.1C,provincial
+22060,POLGAHAPITIYA P.S.,POLGAHAPITIYA-BAKINIGAHAWELA-MEDAGAMA,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22061,ALUGALGE P.S.,ALUGALGE- MARIARAWA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,4.Type3,provincial
+22062,THAMPALAWELA K.V.,THAMPALAWELA-DAMBAGALLA,Uva,82.Moneragala,Bibile,Madulla,3.Type2,provincial
+22063,THAMBANA K.V.,RUWALWELA-MONARAGALA,Uva,82.Moneragala,Bibile,Medagama,3.Type2,provincial
+22064,THERELA K.V.,THERELA-DAMBAGALLA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,3.Type2,provincial
+22065,NEELAWABEDDA K.V.,NEELAWABEDDA-DOMBAGAHAWELA,Uva,82.Moneragala,Bibile,Madulla,3.Type2,provincial
+22066,NELLIYADDA P.V.,NELLIYADDA-INGINIYAGALA,Uva,82.Moneragala,Bibile,Madulla,4.Type3,provincial
+22067,RATHMALGAHAELLA K.V.,NELLIYADDA-INGINIYAGALA,Uva,82.Moneragala,Bibile,Madulla,3.Type2,provincial
+22070,ETHIMALE M.V.,"ETHIMALEWEWA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,1.1AB,provincial
+22071,DOMBAGAHAWELA M.M.V.,"DOMBAGAHAWELA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,1.1AB,provincial
+22072,HULANDAWA LEFT M.V.,"HULANDAWA LEFT, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22074,ETHIMALE STEP 01 K.V.,"60 BLOCK, ETHIMALEWEWA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22075,UDIKKEPUARA K.V.,"UDIKKEPPUARA, VILAOYA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22076,KOTIYAGALA K.V.,"KOTIYAGALA, ETHIMALEWEWA, MONARGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22077,KOLONVINNA K.V.,"GALABEDDA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22078,GALABEDDA M.V.,"GALABEDDA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,2.1C,provincial
+22079,DEADDEKIWLA K.V.,MONARAGALA,Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22080,BOHITIYA K.V.,"WEDIKUMBURA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22081,VIDYALOKA M.V.,"WEDIKUMBURA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,1.1AB,provincial
+22082,WELIYAYA MAYURAGIRIYA K.V.,"WELIYAYAYA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22083,VILAOYA SRIPALI M.V.,"VILAOYA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,2.1C,provincial
+22084,VIHARAGALA P.V.,"WEHERAGALA, WEDIKUMBURA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,4.Type3,provincial
+22085,HULANDAWA RIGHT M.V.,"HULANDAWA RIGHT, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,2.1C,provincial
+22087,KANDAUDAPANGUWA M.V.,KANDAUDAPANUGAWA,Uva,82.Moneragala,Moneragala,Siyambalanduwa,2.1C,provincial
+22088,KIWULEYAYA K.V.,DOMBAGAHAWELA,Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22089,KODAYANA K.V.,"KODAYANA, DOMBAGAHAWELA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22090,KOONGASPITIYA K.V.,"KANDAUDAPANGUAWA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22091,GALEARAWA K.V.,"KANDAUDAPANGUWA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22092,DANAKIRIYA K.V.,"DANAKIRIYA, KANDAUDAPANGUWA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22093,PALLEWELA M.V.,"GOVINDUPURA, KANDAUDAPANGUWA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,1.1AB,provincial
+22094,BUDDAMA M.V.,"BUDDAMA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,2.1C,provincial
+22095,MAHAKALUGOLLAC K.V.,SIYAMBALANDUWA,Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22096,THENAGALLANDA M.V.,"MARAWA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,2.1C,provincial
+22097,MUTHUKANDIYA STEP 01 K.V.,SIYABALANDUWA,Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22098,MUTHUKANDIYA STEP 02 K.V.,"3RD VILLEGE, MUTHUKANDIYA, SIYAMBALANDUWA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22099,GURUHELA K.V.,"GURUHELA, DOMBAGAHAWELA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22100,MONARGALA MAHANAMA P.S.,MONARGALA,Uva,82.Moneragala,Moneragala,Moneragala,4.Type3,provincial
+22101,BAMBARAGASRODA P.V.,SIYAMBALANDUWA,Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22102,BARAWAYA P.V.,"KANADAUDAPANGUWA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22103,RITIGAHAWATTA K.V.,"RITIGAHAWATTA, BUDDAMA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22104,THISSAPURA K.V.,"BLOCK 22, ETHIMALEWEWA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22105,MEEYAGALA K.V.,"UVA GANGODAGAMA, DAMBAGALLA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22106,MAGANDANAMULLA K.V.,"MAGANDANAMULLA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22107,MUTHUKANDIYA STEP 03 K.V.,SIYAMBALANDUWA,Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22108,KARANAGAMA K.V.,"KARANAGAMA, DOMBAGAHAWELA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22109,GEMUNUPURA K.V.,"GEMUNUPURA, ETHIMALEWEWA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22110,KOTAMUDUNA M.V.,"KOTAMUDUNA, PASSARA",Uva,82.Moneragala,Moneragala,Badalkumbura,2.1C,provincial
+22112,MEDIRIYA RAJAYANANDA M.M.V.,"NAKKALA, MONARGALA",Uva,82.Moneragala,Moneragala,Badalkumbura,1.1AB,provincial
+22113,HINGURUKADUWA M.V.,HINGURUKADWEA PASSRA,Uva,82.Moneragala,Moneragala,Badalkumbura,2.1C,provincial
+22114,ETHTHALAMULLA K.V.,"WEHERAGODA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22115,UDAGAMGODA P.V.,"MADUKOTANARAWA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22116,ETHPATTIYA P.V.,"ATHPATTIYA, BIBILEGAMA, PASSARA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22117,SRI PEMANANDA M.V.,"KARAVILA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,2.1C,provincial
+22118,KALAWELARAGAMA K.V.,"KUMBUKKANA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22119,KAHAMBANA P.V.,"MARAWA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,4.Type3,provincial
+22120,KIRIWANAGODA K.V.,"KIRIWANAGODA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22121,PAGNGNANANDA M.V.,"KUMBUKKANA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,2.1C,provincial
+22122,KOTIGALHELA K.V.,"KOTIGALHELA, NAKKALA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,2.1C,provincial
+22123,KIULEARA P.V.,"MARAWA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,4.Type3,provincial
+22124,GALLABA K.V.,BADALKUMBURA,Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22125,SIDDHARTHA K.V.,"GEDAWILA, GAMEWELA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22126,BOGAHAPALASSA K.V.,BADALKUMBURA,Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22127,MADUKOTANARAWA M.V.,BADALKUMBURA,Uva,82.Moneragala,Moneragala,Badalkumbura,2.1C,provincial
+22128,MADUGASMULLA K.V.,"MADUGASMULLA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22129,MIYANAKANDURA M.V.,"MIYANAKANDURA, NAMUNUKULA",Uva,82.Moneragala,Moneragala,Badalkumbura,2.1C,provincial
+22130,MUTHUKELIYAWA M.V.,BUTHTHALA,Uva,82.Moneragala,Moneragala,Badalkumbura,2.1C,provincial
+22132,RANUGALLA K.V.,"RANUGALLA, KOTAMUDUNA, PASSARA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22133,WARADOLA K.V.,"GAMEWELA, PASSARA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22134,WEHERABANDITHENNA P.S.,HOPTON,Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22135,HINDIKIVULA K.V.,"HINDIKVULA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22136,HOROMBUWA K.V.,"KUMBUKKANA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22137,LUNUGALA YODAWEWA M.V.,"LUNUGALA JANAPADAYA, BUTTALA",Uva,82.Moneragala,Moneragala,Badalkumbura,2.1C,provincial
+22139,ALUPOTHA MUSLIM M.V.,ALUPOTHA BADALKUMBURA,Uva,82.Moneragala,Moneragala,Badalkumbura,2.1C,provincial
+22140,KATUGAHAGALGE K.V.,"KATUGAHAGALGE, BUTHTHALA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22141,HELATHUNTHALA K.V.,"HELATHUNTHALA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22142,SUDUWATHURA ARA K.V.,"SUDUWATHURAARA, KUMBUKKANA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22143,TANWATHTHA K.V.,"NAKKALA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,2.1C,provincial
+22144,MIYANAWATHTHA P.V.,"MIYANAWATHTHA, BATUGAMMANA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,4.Type3,provincial
+22147,WEHERAYAYA M.V.,ETHILIWEWA.,Uva,82.Moneragala,Wellawaya,Wellawaya,2.1C,provincial
+22148,OKKAMPITIYA VIJAYABAHU M.V.,OKKAMPITIYA.,Uva,82.Moneragala,Wellawaya,Buttala,1.1AB,provincial
+22150,SIDDHARTHA M.V.,"HORABOKKA, UVA PELWATTA.",Uva,82.Moneragala,Wellawaya,Buttala,2.1C,provincial
+22151,DUTUGEMUNU MODEL P.V.,"PUHULKOTUWA, BUTTALA.",Uva,82.Moneragala,Wellawaya,Buttala,4.Type3,provincial
+22152,ETHILIWEWA M.V.,"TISSA ROAD, ETHILIWEWA.",Uva,82.Moneragala,Wellawaya,Wellawaya,1.1AB,provincial
+22153,OKKAMPITIYA JANAPADA K.V.,OKKAMPITIYA,Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22154,KUKURAMPOLA K.V.,"KUKURAMPOLA, UVA PELWATTA.",Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22155,KURUGAMA K.V.,"UVA, KARADAGOLLA, KURUGAMA.",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22156,BUDURUWAGALA M.V.,"BUDURUWAGALA, WELLAWAYA.",Uva,82.Moneragala,Wellawaya,Wellawaya,1.1AB,provincial
+22157,PELWATTA NAVODYA M.V.,UVA PELWATTA.,Uva,82.Moneragala,Wellawaya,Buttala,1.1AB,provincial
+22158,PIYANANDA K.V.,"MEDAGAMA, BUTTALA.",Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22159,YUDAGANAWA K.V.,BUTTALA.,Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22160,WAGURUWELA M.V.,"RAJA MAWATHA, BUTTALA.",Uva,82.Moneragala,Wellawaya,Buttala,2.1C,provincial
+22161,WELLAWAYA J.M. KUMARADASA M.V.,WELLAWAYA.,Uva,82.Moneragala,Wellawaya,Wellawaya,1.1AB,provincial
+22162,WEHERAYAYA K.V.,"II, STEP, ETHILIWAWA",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22163,SIYAMBALAGUNAYA K.V.,"SIYAMBALAGUNAYA, WELLAWAYA.",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22164,HANDAPANAGALA M.V.,"HANDAPANAGALA, WEHERAYAYA.",Uva,82.Moneragala,Wellawaya,Wellawaya,2.1C,provincial
+22166,HELAGAMA K.V.,OKKAMPITIYA.,Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22167,RANDENIWELA K.V.,"RANDENIWELA, WELLAWAYA.",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22168,GONAGANARA K.V.,"21MILE POST, RAJAMAWATHA, GONAGANARA, BUTTALA",Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22169,JANASANKHA MODEL K.V.,"MAHAGODAYAYA, BUTTALA.",Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22170,UNAWATUNA K.V.,"UNAWATUNA, BUTTALA.",Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22172,GAMPANGUWA K.V.,"GAMPANGUWA, WELLAWAYA",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22174,MUNASINGHE P.V.,"KUKURAMPOLA, UVA PELWATTA.",Uva,82.Moneragala,Wellawaya,Buttala,4.Type3,provincial
+22175,RANJAN WIJERATHNA M.V.,"LANKA SUGER COMPANY, BUTTALA.",Uva,82.Moneragala,Wellawaya,Buttala,2.1C,provincial
+22176,NIYADELLA K.V.,"NIYADALLA, MALIGAWILA.",Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22177,SADDHATISSA P.V.,"BLOCK 03, WARUNAGAMA, WELLAWAYA.",Uva,82.Moneragala,Wellawaya,Wellawaya,4.Type3,provincial
+22178,KUMARAGAMA P.V.,"BLOCK NO 04, KUMARAGAMA, UVA PELWATTA.",Uva,82.Moneragala,Wellawaya,Buttala,4.Type3,provincial
+22179,MUTHUMINIGAMA K.V.,MUTHUMINIGAMA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22180,MAHASENGAMA P.V.,"BLOCK 10, LANKA SUGER COMPANY, BUTTALA.",Uva,82.Moneragala,Wellawaya,Buttala,4.Type3,provincial
+22181,VIHARAMAHADEVI K.V.,"BLOCK 09 LANKA SUGER COMPANY, BUTTALA.",Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22182,KEERTHIKUMARAPURA K.V.,GINIGAL PELASSA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22183,AGUNUKOLAPALASSA M.V.,SOORIYA ARA THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,2.1C,provincial
+22185,SOMADEVI M.V.,MAHAGAMA KOLANIYA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,1.1AB,provincial
+22186,HAMBEGAMUWA M.V.,HAMBEGAMUWA THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,1.1AB,provincial
+22188,KALAWELGALA P.V.,KALAWELGALA SORIYA ARA THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22189,SANDHARAJA M.V.,KIRIEBBAN ARA SOUTH SEWABNAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,1.1AB,provincial
+22190,KUDA OYA M.V.,"UVA KUDA OYA, TANAMALWILA",Uva,82.Moneragala,Wellawaya,Wellawaya,2.1C,provincial
+22191,BALAHARUWA K.V.,"BALAHARUWA, UVA KUDA OYA.",Uva,82.Moneragala,Wellawaya,Wellawaya,2.1C,provincial
+22192,BODAGAMA M.V.,BODAGAMA THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22193,SELLA KATHARAGAMA M.V.,SELLA KATHARAGAMA KATHARAGAMA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,2.1C,provincial
+22194,HABARALUWEWA M.V.,HABARALUWEWA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,2.1C,provincial
+22195,ALUTHWEWA K.V.,ALUTHWEWA HAMBEGAMUWA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22196,THELULLA K.V.,ETHILIWEWA.,Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22197,THELULLA JANAPADA K.V.,THLULLA JANAPADAYA ETHILIWEWA,Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22198,NIKAWEWA K.V.,NIKAWEWA SOORIYAARA THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22199,NIYADAGALA P.V.,KUMARAGAMA THANAMAMWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22200,KIRIIBBANWEWA BANDARANAYAKA M.M.V.,KIRIWEWA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,1.1AB,provincial
+22201,MAHAGAMA MAHANAGA M.V.,SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,2.1C,provincial
+22202,HAMBEGAMUWA JANAPADAYA K.V.,JANAPADAYA HAMBEGAMUWA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22203,DETAGAMUWA K.V.,DETAGAMUWA KATHARAGAMA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22204,SAMGIPURA THARUNA JANAPADA K.V.,KIRIWEWA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22205,KOTAWEHERAMANKADA M.V.,KOTAWEHERAMANKADA BALANGODA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,2.1C,provincial
+22206,SEWANAGALA M.V.,SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,1.1AB,provincial
+22207,KOULARA M.V.,SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,1.1AB,provincial
+22208,KITHULKOTE M.V.,KITHULKOTE THANAMALWILA,Uva,82.Moneragala,Wellawaya,Wellawaya,2.1C,provincial
+22209,GOTHAMIGAMA K.V.,KATHARAGAMA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22210,SEWANAGALA USBIM M.V.,KIRE WEWA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,2.1C,provincial
+22211,KAHAKURULAN PALASSA K.V.,SOORIYA ARA THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22212,NALANDA K.V.,KANDIYAPITAWEWA KATAWEHERAMANKADA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22213,DHARMALOKA K.V.,EKAMUTHUGAMA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22214,LAGINAGALA K.V.,KOTAWEHERAMANKADA BALANGODA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22215,HABARUGALA VIDYALAYA,MAHAGAMA COLANIYA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22216,INDIKOLAPALASSA P.V.,SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22217,RATHBALAGAMA K.V.,HAMBEGAMUWA THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,3.Type2,provincial
+22218,GNANAMUDALWA T.V.,"VYKUMBURA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22219,DEWATHURA P.V.,"DEWATHURA, MIYANAKANDURA, NAMUNUKULA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22220,MELLAGAMA K.V.,MELLAGAMA- MEDAGAMA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22221,DAHAGONIYA P.S.,DAHAGONIYA-MEDAGAMA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22224,YAWWANA-KUMARAPURA K.V.,UVA KUDAOYA,Uva,82.Moneragala,Wellawaya,Wellawaya,4.Type3,provincial
+22225,MAHA ARAGAMA K.V.,"MAHA ARAGAMA, ETHILIWEWA.",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22226,DEBARA-ARA K.V.,"DEBARA ARA, UVA KUDAOYA",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22227,YALABOWA MODEL P.V.,WELLAWAYA,Uva,82.Moneragala,Wellawaya,Wellawaya,4.Type3,provincial
+22228,ANAPALLAMA K.V.,"ANAPALLAMA, WELLAWAYA.",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22229,DAMBEYAYA P.V.,"DAMBEYAYA, OKKAMPITIYA.",Uva,82.Moneragala,Wellawaya,Buttala,4.Type3,provincial
+22230,SRI SUMANAJOTHI K.V.,"GALTAMMANDIYA, OKKAMPITIYA.",Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22231,MAHAWELAMULLA MUSLIM K.V.,"MAHAWELAMULLA, WELLAWAYA.",Uva,82.Moneragala,Wellawaya,Wellawaya,2.1C,provincial
+22232,NAGAHAMADA M.V.,NAGAHAMADA-DOMBAGAHAWELA,Uva,82.Moneragala,Bibile,Madulla,3.Type2,provincial
+22233,DEHIGALA TAMIL K.V.,PITAMARUWA-LUNUGALA,Uva,82.Moneragala,Bibile,Bibile,3.Type2,provincial
+22234,KALUOBBA K.V.,"KALUOBBA, SIYAMBALANDUWA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22235,VIPULANANDA TAMIL M.V.,MONARAGALA,Uva,82.Moneragala,Moneragala,Moneragala,2.1C,provincial
+22236,ALIYAWATHTHA TAMIL K.V.,"ALIYAWATHTHA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22237,SRI GOWRY TAMIL K.V.,"MARAGALA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,3.Type2,provincial
+22238,SARASWATHY T.V.,"SIRIGALA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,2.1C,provincial
+22239,SRI SHANMUHA TAMIL M.V.,"KUMBUKKANA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,2.1C,provincial
+22240,KANDAHENA NO 02 TAMIL K.V.,"KANDAHENA LOWER DIVISION, NAMUNUKULA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22241,MALAIMAGAL T.V.,"KANDAHENA, NAMUNUKULA",Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22242,ALUTHWELA P.S.,KOTABOWA-MEDAGAMA,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22243,VIHARAMULLA P.V.,"VIHARAMULLA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,4.Type3,provincial
+22244,DHARMAWIJAYA M.V.,"PAHATHAARAWA, VILAOYA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,2.1C,provincial
+22245,NUGEGALAYAYA P.V.,KIRIWEWA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22246,WANDINAHELAYAYA P.V.,"WANDINAHELAYAYA, WELLAWAYA",Uva,82.Moneragala,Wellawaya,Wellawaya,4.Type3,provincial
+22247,ETHADUTUWEWA K.V.,"PUBUDUWEWA, HANDAPANAGALA.",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22248,SRI SUBODA K.V.,"16 MILE POST, RAJA MAWATHA, BUTTALA.",Uva,82.Moneragala,Wellawaya,Buttala,3.Type2,provincial
+22249,MADURUKETIYA M.V.,"MADURUKETIYA, WELLAWAYA ROAD, KUMBUKKANA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,2.1C,provincial
+22250,DEHIKINDAGAMA P.V.,"DEHIKINDAGAMA, NAKKALA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,4.Type3,provincial
+22251,WATHTHEGAMA SRIMAL K.V.,"KOTIYAGALA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,3.Type2,provincial
+22252,HATHARE KANUWA M.V.,"AMPARA ROAD, SIYAMBALANDUWA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,2.1C,provincial
+22254,MALIGATHENNA M.V.,"MALIGATHENNA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,1.1AB,provincial
+22255,MUTHTHAMIL T.V.,NAMUNUKULA,Uva,82.Moneragala,Moneragala,Badalkumbura,3.Type2,provincial
+22256,THIRUWALLUWAR T.M.V.,"GAMEWELA, PASSARA",Uva,82.Moneragala,Moneragala,Badalkumbura,2.1C,provincial
+22257,MEEGAHAMADA P.S.,"MEEGAHAMADA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22258,MEEGAHAYAYA P.V.,"MEEGAHAYAYA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22260,KESELKOTUWA P.V.,"MADUKOTANARAWA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22261,THANNAYAYA P.S.,"PALLEGAMA, KARAVILA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22262,KALUGAHAWADIYA P.V.,"KALUGAHAWADIYA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22263,D.S. SENANAYAKA K.V.,"DS GAMA, ETHILIWEWA",Uva,82.Moneragala,Wellawaya,Wellawaya,3.Type2,provincial
+22264,MORAHELAGAMA P.V.,"UVA KARANDAGOLLA, ELLA.",Uva,82.Moneragala,Wellawaya,Wellawaya,4.Type3,provincial
+22265,WIJAYAPURA JUNIOR SCHOOL,SOORYA ARA THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,2.1C,provincial
+22266,KARAMETIYA K.V.,MEDAGAMA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,3.Type2,provincial
+22267,WARAGAMA P.V.,"WARAGAMA, BUDDAMA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22268,KIULARA SAMANSIRI KARUNARATHNA P.V.,THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22269,RATHUGALA P.S.,WELLASSA-GALGAMUWA-INGINIYAGALA,Uva,82.Moneragala,Bibile,Madulla,4.Type3,provincial
+22271,VIDYALOKA P.V.,"WEDIKUMBURA, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,4.Type3,provincial
+22272,ETHIMALE P.V.,"ETHIMALEWEA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22273,MADULUMINI P.S.,MAKULLA TOWN-DAMBAGALLA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,4.Type3,provincial
+22274,HAMBEGAMUWA P.V.,HAMBEGAMUWA THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22275,MALWATTAWALA P.V.,WELLAWAYA.,Uva,82.Moneragala,Wellawaya,Wellawaya,4.Type3,provincial
+22276,SHASHINDRA KUMARA P.V.,DIPO ROAD KATHARAGAMA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22277,SWARNAPRDEEPA P.V.,SWENAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22278,PELWATTE P.V.,UVA PELWATTE.,Uva,82.Moneragala,Wellawaya,Buttala,4.Type3,provincial
+22279,DUTUGEMUNU P.V.,BUTTALA.,Uva,82.Moneragala,Wellawaya,Buttala,4.Type3,provincial
+22280,MEDAGAMA P.S.,MEDAGAMA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22281,PROF. SENAKA BIBILE P.V.,KURUWABA-BIBILE,Uva,82.Moneragala,Bibile,Bibile,4.Type3,provincial
+22282,BAKINIGAHAWELA MUSLIM P.S.,BAKINIGAHAWELA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22283,MARIARAWA P.S.,MARIARAWA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,4.Type3,provincial
+22284,OBBEGODA P.S.,OBBEGODA-MONARAGALA,Uva,82.Moneragala,Bibile,Madulla,4.Type3,provincial
+22285,OKKAMPITIYA VIJAYABAHU P.V.,OKKAMPITIYA.,Uva,82.Moneragala,Wellawaya,Buttala,4.Type3,provincial
+22286,THANAMALVILA P.V.,UDAWALAWA ROAD THANAMALWILA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22287,NISHSHANKA P.V.,BADALKUMBURA,Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22288,MAHAGAMA MODEL PRAIMARY SCHOOL,MAHAGAMA KOLANIYA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22289,UVA WIJAYA P.S.,NANNAPURAWA-BIBILE,Uva,82.Moneragala,Bibile,Medagama,4.Type3,provincial
+22290,DHARMAPRADEEPA P.V.,BIBILE,Uva,82.Moneragala,Bibile,Bibile,4.Type3,provincial
+22291,PITAKUMBURA P.S.,PITAKUMBURA-BIBILE,Uva,82.Moneragala,Bibile,Bibile,4.Type3,provincial
+22292,BANDARANAYAKA PRAIMARY SCHOOL,KIRIWEWA SEANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22293,CHANDAWIMALA P.V.,"GAMINI MW, ETHILIWEWA.",Uva,82.Moneragala,Wellawaya,Wellawaya,4.Type3,provincial
+22294,BUDURUWAGALA P.V.,"BUDURUWAGALA, WELLAWAYA.",Uva,82.Moneragala,Wellawaya,Wellawaya,4.Type3,provincial
+22295,SIYMBALANDUWA P.V.,SIYAMBALANDUWA,Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22296,DOMBAGAHAWELA P.V.,"DOMBAGAHAWELA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22297,PALLEWELA P.V.,"GOVINDUPURA, MONARAGALA",Uva,82.Moneragala,Moneragala,Siyambalanduwa,4.Type3,provincial
+22298,MADIRIYA RAJYANANDA P.V.,"NAKKALA, MONARAGALA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22299,ALUPOTHA MUSLIM P.S.,"ALUPOTHA, BADALKUMBURA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22300,GALGAMUWA P.S.,WELLASSA-GALGAMUWA-INGINIYAGALA,Uva,82.Moneragala,Bibile,Madulla,4.Type3,provincial
+22301,MUTHUKELIYAWA PRIMARY SCHOOL,"MUTHUKELIYAWA , BUTTALA",Uva,82.Moneragala,Moneragala,Badalkumbura,4.Type3,provincial
+22302,VIPULANANDA TAMIL P.V.,"MUPPANEWELI, MONARAGALA",Uva,82.Moneragala,Moneragala,Moneragala,4.Type3,provincial
+22303,KOULARA PRAIMARY SCHOOL,KOULARA SEWANAGALA,Uva,82.Moneragala,Thanamalwila,Thanamalwila,4.Type3,provincial
+22304,KUDAOYA P.V.,UVA KUDAOYA,Uva,82.Moneragala,Wellawaya,Wellawaya,4.Type3,provincial

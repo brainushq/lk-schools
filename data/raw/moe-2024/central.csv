@@ -1,0 +1,1456 @@
+census_no,school_name,school_address,province,district,zone,education_division,school_type,category
+3001,ALUDENIYA M.V.,"ALUDENIYA, KANDY.",Central,21.Kandy,Katugastota,Hatharaliyadda,2.1C,provincial
+3002,IDAMEGAMA M.M.V.,WERELLAGAMA.,Central,21.Kandy,Katugastota,Galagedara,2.1C,provincial
+3003,UDUWA M.V.,"UDUWA, KANDY",Central,21.Kandy,Katugastota,Galagedara,2.1C,provincial
+3005,GALABAWA M.V.,"GALABAWA, KAHAPATHWALA",Central,21.Kandy,Katugastota,Galagedara,2.1C,provincial
+3006,GIRIHAGAMA M.V.,"GIRIHAGAMA, KUMBUREGAMA",Central,21.Kandy,Katugastota,Galagedara,2.1C,provincial
+3007,DEDUNUPITIYA M.V.,"DEDUNUPITIYA, KANDY",Central,21.Kandy,Katugastota,Hatharaliyadda,2.1C,provincial
+3008,MINIGAMUWA M.V.,MINIGAMUWA,Central,21.Kandy,Katugastota,Galagedara,2.1C,provincial
+3009,SANGARAJAPURA M.V.,SANGARAJAPURA,Central,21.Kandy,Katugastota,Hatharaliyadda,2.1C,provincial
+3012,ALAGALLA P.V.,"ALAGALLA, HATHARALIYADDA",Central,21.Kandy,Katugastota,Hatharaliyadda,4.Type3,provincial
+3016,PELENA M.V.,"PELENA, HATHARALIYADDA",Central,21.Kandy,Katugastota,Hatharaliyadda,2.1C,provincial
+3018,MEDAGAMA M.V.,"POHOLIYADDA, GALAGEDARA.",Central,21.Kandy,Katugastota,Galagedara,2.1C,provincial
+3019,MURUDDENIYA M.V.,"MURUDDENIYA, SANGARAJAPURA",Central,21.Kandy,Katugastota,Hatharaliyadda,2.1C,provincial
+3020,RANGAMUWA K.V.,"RANGAMUWA, HATHARALIYADDA",Central,21.Kandy,Katugastota,Hatharaliyadda,3.Type2,provincial
+3021,WELIVITA SRI SANGARAJA K.V.,"WELIVITA, SANGRAJAPURA.",Central,21.Kandy,Katugastota,Hatharaliyadda,3.Type2,provincial
+3022,ALAWATHTHEGAMA P.V.,"ALAWATHTHEGAMA, GALLELLAGAMA",Central,21.Kandy,Katugastota,Galagedara,4.Type3,provincial
+3023,ILPEMADA P.V.,"MINIGAMUWA, GALAGEDARA.",Central,21.Kandy,Katugastota,Hatharaliyadda,4.Type3,provincial
+3024,OPALLA P.V.,GALAGEDARA.,Central,21.Kandy,Katugastota,Galagedara,4.Type3,provincial
+3026,KALOTUWAWA P.V.,"KALOTUWAWA, DEDUNUPITIYA",Central,21.Kandy,Katugastota,Hatharaliyadda,4.Type3,provincial
+3027,KINIGAMA K.V.,"UDUWA, KANDY",Central,21.Kandy,Katugastota,Galagedara,3.Type2,provincial
+3028,KOLUGALA K.V.,SANGHARAJAPURA,Central,21.Kandy,Katugastota,Hatharaliyadda,3.Type2,provincial
+3029,GALAGEDARA P.V.,GALAGEDARA.,Central,21.Kandy,Katugastota,Galagedara,4.Type3,provincial
+3032,GIRIHAGAMA P.V.,KUMBUREGAMA,Central,21.Kandy,Katugastota,Galagedara,4.Type3,provincial
+3033,THANNEYAYA P.V.,"IHALAALAGALLA, HATHARALIYADDA",Central,21.Kandy,Katugastota,Hatharaliyadda,4.Type3,provincial
+3034,DAMUNUPOLA P.V.,"DAMUNUPOLA, DEDUNUPITIYA",Central,21.Kandy,Katugastota,Hatharaliyadda,4.Type3,provincial
+3035,PATTAPOLA P.V.,"PATTAPOLA, HATHARALIYADDA",Central,21.Kandy,Katugastota,Hatharaliyadda,4.Type3,provincial
+3038,MEEGAHAHENA ASHOKA K.V.,"MEEGAHAHENA, KAHAPATHWALA",Central,21.Kandy,Katugastota,Galagedara,4.Type3,provincial
+3039,YATALA P.V.,"YATALA, ALUDENIYA, KANDY",Central,21.Kandy,Katugastota,Hatharaliyadda,4.Type3,provincial
+3040,WETTEWA K.V.,GALAGEDARA.,Central,21.Kandy,Katugastota,Galagedara,4.Type3,provincial
+3042,HATHARALIYADDA P.V.,HATHARALIYADDA.,Central,21.Kandy,Katugastota,Hatharaliyadda,4.Type3,provincial
+3043,HITHGODA WALPOLA P.V.,"WETHTHWA, GALAGEDARA.",Central,21.Kandy,Katugastota,Galagedara,4.Type3,provincial
+3047,AMBATENNA PUSHPADANA M.V.,AMBATENNA,Central,21.Kandy,Katugastota,Poojapitiya,2.1C,provincial
+3049,DUNUWILA RATHANAPALA M.V.,DUNUWILA AKURANA,Central,21.Kandy,Katugastota,Akurana,2.1C,provincial
+3050,NALANDA M.M.V.,MARATHUGODA,Central,21.Kandy,Katugastota,Poojapitiya,2.1C,provincial
+3051,DOLAPIHILLA M.V.,DOLAPIHILLA,Central,21.Kandy,Katugastota,Poojapitiya,2.1C,provincial
+3052,VILANA NANDANA M.V.,VILANAGAMA.,Central,21.Kandy,Katugastota,Akurana,2.1C,provincial
+3053,UDAGAMA SRI DEVANANDA M.V.,GALHINNA,Central,21.Kandy,Katugastota,Poojapitiya,2.1C,provincial
+3054,IHALAMULLA SRI WELUWANA M.V.,"IHALAMULLA, ANKUMBURA",Central,21.Kandy,Katugastota,Poojapitiya,2.1C,provincial
+3055,UDAHENA K.V.,"UDAHENA, UDAHINGULWALA.",Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3056,OWISSA K.V.,"OWISSA, POOJAPITIYA.",Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3058,KIRIWANAKETIYA K.V.,RAMBUKEWELA,Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3059,KITHULGOLLA K.V.,ANKUMBURA,Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3060,SRI SADDHANANDA M.V.,"KONAKALAGALA, ALAWATHUGODA",Central,21.Kandy,Katugastota,Akurana,2.1C,provincial
+3061,DIPPITIYA K.V.,"DIPPITIYA, ALAWATHUGODA",Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3062,DEEGALA BUDDHIST VIDYALAYA,"DEEGALA, RATHUKOHODDEEGALA",Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3063,PUJAPITIYA P.V.,PUJAPITIYA,Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3064,BATUGODA K.V.,BATUGODA.,Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3065,MADADENIYA K.V.,"MADADENIYA, PUJAPITIYA.",Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3066,MULLEGAMA K.V.,AMBATHENNA.,Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3067,RATHUKOHODEEGALA K.V.,RATHUKOHODEEGALA,Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3068,WATAGODA MODEL PRIMARY SCHOOL,"WATAGODA, HARISPATHTHUWA",Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3069,SEEVALI K.V.,"MALDENIYA, HARANKAHAWA",Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3070,WEWALA PARACKRAMA K.V.,BOKKAWALA,Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3071,SARATH EKANAYAKE MODEL P.V.,ALAWATHUGODA,Central,21.Kandy,Katugastota,Akurana,4.Type3,provincial
+3072,AMBATHENNA MODEL P.V.,"AMBATHENNA, KANDY.",Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3073,GALKANDA K.V.,"GALKANDA, GALHINNA, KANDY",Central,21.Kandy,Katugastota,Poojapitiya,3.Type2,provincial
+3076,DHARMAVIJAYA M.V.,"GOHAGODA, KATUGASTOTA",Central,21.Kandy,Katugastota,Harispattuwa,2.1C,provincial
+3077,GONIGODA SRI PIYARATHANA CENTRAL COLLEGE,"GONIGODA, MEDAWALA, HARISPATHTHUA",Central,21.Kandy,Katugastota,Harispattuwa,2.1C,provincial
+3078,MEDAWELA K.V.,"MEDAWELA, HARISPATHTHUWA",Central,21.Kandy,Katugastota,Harispattuwa,3.Type2,provincial
+3080,HALLOLUWA M.V.,HALLOLUWA.,Central,21.Kandy,Katugastota,Harispattuwa,2.1C,provincial
+3081,SENARATHGAMA K.V.,"SENARATHGAMA, KATUGASTHOTA",Central,21.Kandy,Katugastota,Harispattuwa,3.Type2,provincial
+3082,ATHTHARAGAMA K.V.,PATTIYAWATHTHA,Central,21.Kandy,Katugastota,Harispattuwa,4.Type3,provincial
+3083,UDUWAWALA K.V.,"UDUWAWALA, KATUGASTOTA",Central,21.Kandy,Katugastota,Harispattuwa,3.Type2,provincial
+3085,KARADUWAWALA K.V.,"KARADUWAWALA, WERELLAGAMA",Central,21.Kandy,Katugastota,Harispattuwa,3.Type2,provincial
+3086,PEMARATHANA M.V.,"KULUGAMMANA, KANDY.",Central,21.Kandy,Katugastota,Harispattuwa,2.1C,provincial
+3087,KONDADENIYA K.V.,KATUGASTOTA.,Central,21.Kandy,Katugastota,Harispattuwa,3.Type2,provincial
+3088,GALLELLA P.V.,"GALLELLAGAMA, KANDY",Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3091,DORANEGAMA M.V.,"MEDAWALA, HARISPATTUWA",Central,21.Kandy,Katugastota,Harispattuwa,3.Type2,provincial
+3092,NUGAWELA MODEL P.V.,NUGAWELA.,Central,21.Kandy,Katugastota,Harispattuwa,4.Type3,provincial
+3094,PALLE IHAGAMA K.V.,"MEDAWALA, HARISPATTUWA.",Central,21.Kandy,Katugastota,Harispattuwa,4.Type3,provincial
+3095,E.A. NUAGAWELA P.V.,WERELLAGAMA,Central,21.Kandy,Katugastota,Harispattuwa,4.Type3,provincial
+3096,BOTHOTA K.V.,"BOTHOTA, MEDAWALA, HARISPATHTHUWA.",Central,21.Kandy,Katugastota,Harispattuwa,4.Type3,provincial
+3097,MADAWELA P.V.,"MADAWELA, HARISPATTUWA.",Central,21.Kandy,Katugastota,Harispattuwa,4.Type3,provincial
+3098,MOLAGODA SRI PIYADASSI M.V.,HARANKAHAWA,Central,21.Kandy,Katugastota,Poojapitiya,2.1C,provincial
+3100,SRI SUMANATISSA K.V.,"YATIHALAGALA, KANDY.",Central,21.Kandy,Katugastota,Harispattuwa,3.Type2,provincial
+3101,JANARAJA M.V.,"RANAWANA, KATUGASTOTA.",Central,21.Kandy,Katugastota,Harispattuwa,2.1C,provincial
+3104,HALOLUWA P.V.,HALOLUWA.,Central,21.Kandy,Katugastota,Harispattuwa,4.Type3,provincial
+3105,HENEGAMA SRI SANGANANDA K.V.,HARANKAHAWA.,Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3106,YAHALATHENNA P.V.,"YAHALATHENNA, WERELLAGAMA.",Central,21.Kandy,Katugastota,Harispattuwa,4.Type3,provincial
+3107,DORAGAMUWA M.V.,DORAGAMUWA,Central,21.Kandy,Waththegama,Pathadumbara,2.1C,provincial
+3109,PARANAGAMA M.M.V.,JAMBUGAHAPITIYA,Central,21.Kandy,Waththegama,Pathadumbara,2.1C,provincial
+3110,MAHAWELI M.V.,"NAWAYALATANNA, KATUGASTOTA",Central,21.Kandy,Waththegama,Pathadumbara,1.1AB,provincial
+3111,WATTEGAMA B.M.V.,WATTEGAMA,Central,21.Kandy,Waththegama,Pathadumbara,1.1AB,provincial
+3112,WATTEGAMA M.M.V.,WATTEGAMA,Central,21.Kandy,Waththegama,Pathadumbara,1.1AB,provincial
+3113,KOSGAMA M.V.,MADULKELLE,Central,21.Kandy,Waththegama,Panvila,2.1C,provincial
+3114,YATIRAWANA M.V.,WATTEGAMA,Central,21.Kandy,Waththegama,Pathadumbara,3.Type2,provincial
+3115,RATHANAJOTHI M.V.,UDATHALAWINNA,Central,21.Kandy,Waththegama,Pathadumbara,2.1C,provincial
+3116,ARATHTANA K.V.,"ARATTANA, MADULKELE",Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3117,GOMARAJANAPADA K.V.,GOMARA JANAPADAYA THAWALANTHENNA,Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3118,PARANAGAMA P.V.,JAMBUGAHAPITIYA,Central,21.Kandy,Waththegama,Pathadumbara,4.Type3,provincial
+3119,BDDEGAMA K.V.,"BEDDEGAMA, THAWALANTHANNA",Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3120,MAHAPATHANA K.V.,MAHAPATANA MADULKELLE,Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3121,PATHADUMBARA M.V.,"WALALA, MENIKHINNNA",Central,21.Kandy,Waththegama,Pathadumbara,2.1C,provincial
+3122,ALUTHGAMA K.V.,DORAGAMUWA,Central,21.Kandy,Waththegama,Pathadumbara,3.Type2,provincial
+3123,UDUGODA K.V.,"UDUGODA, WATTEGAMA",Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3126,NIDAHAS ADARSHA P.S.,GIRAKADUWA JAMBUGAHAPITIYA,Central,21.Kandy,Waththegama,Pathadumbara,4.Type3,provincial
+3127,DUMBARA VIJAYA K.V.,WATTEGAMA,Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3128,NAPANA J.S.,MADAWALA BAZZAR,Central,21.Kandy,Waththegama,Pathadumbara,3.Type2,provincial
+3131,MAHASEN M.V.,MEGODAGAMA KATUGASTOTA,Central,21.Kandy,Waththegama,Pathadumbara,2.1C,provincial
+3132,SIDDHARTHA K.V.,"MEEGAMAWATTE, WATTEGAM",Central,21.Kandy,Waththegama,Pathadumbara,3.Type2,provincial
+3133,MEEGAMMANA K.V.,WATTEGAMA,Central,21.Kandy,Waththegama,Pathadumbara,3.Type2,provincial
+3134,YATAWARA K.V.,WATTEGAMA,Central,21.Kandy,Waththegama,Pathadumbara,4.Type3,provincial
+3135,WIMALADHARMA SECONDARY SCHOOL,KALUNTENNA BOPANA,Central,21.Kandy,Teldeniya,Udadumbara,2.1C,provincial
+3136,CHULABAYA SECONDARY SCHOOL,KAHATALIYADDA,Central,21.Kandy,Teldeniya,Udadumbara,2.1C,provincial
+3137,NUGETENNA MAHA VIDYALAYA,"NUGETHENNA, HUNNASGIRIYA.",Central,21.Kandy,Teldeniya,Udadumbara,2.1C,provincial
+3138,UDADUMBARA SECONDARY SCHOOL,UDADUMBARA,Central,21.Kandy,Teldeniya,Udadumbara,2.1C,provincial
+3139,MADUGALLA MAHA VIDYALAYA,MADUGALLA NORTH MADUGALLA,Central,21.Kandy,Teldeniya,Udadumbara,3.Type2,provincial
+3140,MEDIWAKA PRIMARY SCHOOL,"MEDIWAKA, UDADUMBARA.",Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3141,MEEMURE KAIKAWALA K.V.,MEEMURE KAIKAWALA,Central,21.Kandy,Teldeniya,Udadumbara,3.Type2,provincial
+3142,KALUGALOYA JUNIOR SCHOOL,KALUGALOYA UDADUMBARA,Central,21.Kandy,Teldeniya,Udadumbara,3.Type2,provincial
+3143,DEWAHANDIYA JOUNIOR SCHOOL,DEWAHANDIYA UDADUMBARA,Central,21.Kandy,Teldeniya,Udadumbara,3.Type2,provincial
+3144,RAMBUKWELLA JUNIOR SCHOOL,UDADUMBARA,Central,21.Kandy,Teldeniya,Udadumbara,3.Type2,provincial
+3145,PITAWALA PRIMARY SCHOOL,PITAWALA BOPANA,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3146,HAPUKANDA PRIMARY SCHOOL,"HAPUKANDA, BOPANA.",Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3147,MAHAWALA PRIMARY SCHOOL,MAHAWALA UDUWAHINNA,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3148,KEWULGAMA PRIMARY SCHOOL,"KEWULGAMA, HUNNASGIRIYA",Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3150,KALAWALA P.V.,"KALAWALA, MADUGALLA",Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3151,BAMBARABEDDA JUNIOR SCHOOL,HUNNASGIRIYA,Central,21.Kandy,Teldeniya,Udadumbara,3.Type2,provincial
+3152,MINUWANGAMUWA PRIMARAY SCHOOL,MINUWANGAMUWA BOPANA,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3153,MEEMURE PRIMARY SCHOOL,MEEMURE,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3154,POPPITIYA PRIMARY SCHOOL,POPPITIYA,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3155,KANDEGAMA PRIMARY SCHOOL,KOBOONILLA,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3157,PITIGODA PRIMARY SCHOOL,PITIGODA HUNNASGIRIRIYA,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3158,PILHATHA MAHA VIDYALAYA,MAHAYAYA HASALAKA,Central,21.Kandy,Teldeniya,Minipe,2.1C,provincial
+3159,UDAWELA BANDARANAYAKA SECONDARY SCHOOL,"UDAWELA, BARAWARDHANAOYA",Central,21.Kandy,Teldeniya,Minipe,2.1C,provincial
+3161,MEEGOLLA JUNIOR SCHOOL,HIMBUTUWA BARAWARDHANAOYA,Central,21.Kandy,Teldeniya,Minipe,3.Type2,provincial
+3162,UDAGALADEBOKKA KANISHTA VIDYALAYA,UDAGALADEBOKKA UDATHTHAWA BATUMULLA,Central,21.Kandy,Teldeniya,Minipe,3.Type2,provincial
+3163,SANGHABODHI CENTRAL COLLEGE,"MORAYAYA, MINIPE",Central,21.Kandy,Teldeniya,Minipe,2.1C,provincial
+3164,YASODARA GIRLS SCHOOL,HASALAKA,Central,21.Kandy,Teldeniya,Minipe,3.Type2,provincial
+3165,UDATHTHAWA JUNIOR SCHOOL,"UDATHTHAWA, BATUMULLA",Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3166,GURULUPOTHA PRIMARY SCHOOL,"GURULUPOTHA, HASALAKA",Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3168,MINIPE JUNIOR SECONDARY SCHOOL,AMBAGAHAPELESSA,Central,21.Kandy,Teldeniya,Minipe,3.Type2,provincial
+3170,ULPATHAGAMA JUNIOR SCHOOL,ULPATHAGAMA,Central,21.Kandy,Teldeniya,Minipe,3.Type2,provincial
+3171,HASALAKA GAMINI DISSANAYAKA MODEL SCHOOL,"PALLEWATHTHA, HASALAKA",Central,21.Kandy,Teldeniya,Minipe,3.Type2,provincial
+3172,KOLONGODA CENTRAL COLLEGE,KOLONGODA,Central,21.Kandy,Teldeniya,Minipe,2.1C,provincial
+3173,SRI DEVANANDA JUNIOR SCHOOL,ABAGAHAPELESSA,Central,21.Kandy,Teldeniya,Minipe,3.Type2,provincial
+3174,PAMUNUPURA PRIMARY SCHOOL,"PAMUNUPURA, BATUMULLA",Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3175,GALAMUDUNA KANISHTA VIDYALAYA,"GALAMUDUNA, BATUMULLA",Central,21.Kandy,Teldeniya,Minipe,3.Type2,provincial
+3176,HANDAGANAWA MAHA VIDYALAYA,HANDAGANAWA,Central,21.Kandy,Teldeniya,Minipe,2.1C,provincial
+3178,H.B.RAMBUKWELLA PRIMARY SCHOOL,31 ELA MORAYAYA MINIPE,Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3179,MAHAASWEDDUMA PRIMARY SCHOOL,HASALAKA,Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3180,DADLI SENANAYAKA PRIMARY SCHOOL,HINGANGA KOLONGODA,Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3182,UDISPATTUWA SECONDARY SCHOOL,UDISPATTUWA,Central,21.Kandy,Teldeniya,Medadumbara,2.1C,provincial
+3183,GAMIMA BANDARANAYAKE MAHA VIDYALAYA,TELDENIYA,Central,21.Kandy,Teldeniya,Medadumbara,2.1C,provincial
+3185,DUNHINNA SECONDARY SCHOOL,DUNHINNA WERAPITIYA,Central,21.Kandy,Teldeniya,Medadumbara,1.1AB,provincial
+3186,MEDAMAHANUWARA SECONDRY SCHOOL,MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,2.1C,provincial
+3187,WARADIWELA MAHA VIDYALAYA,WARADIWELA MAKULDENIYA,Central,21.Kandy,Teldeniya,Medadumbara,2.1C,provincial
+3188,AMBALA JOUNIOR SCHOOL,AMBALA MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3189,SRI RAHULA K.V.,"WENDARUWA, MEDAMAHANUWARA",Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3190,DARMASOKA JUNIOR SCHOOL,TELDENIYAGAMA DIGANA RAJAWELLA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3191,VIDYALOKA PRIMARY SCHOOL,MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3192,KARALLIYADDA JUNIOR SCHOOL,"KARALLIYADDA, TELDENIYA",Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3193,GALABADAWATHTHA JUNIOR SCHOOL,GALABADAWATHTHA TELDENIYA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3194,GODAMUNNA SRI SIDDHARTHA P.V.,UDISPATTUWA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3195,DUNUVILA MAHABODHI MAHA VIDYALAYA,SADASIRI DUNUWILA MEDAMAHANUWAA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3196,DUMBARA MODEL PRIMARY SCHOOL,TELDENIYA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3197,MAHADORALIYADDA PRIMARY SCHOOL,DORALIYADDA MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3198,RANMULL PRIMARY SCHOOL,RANMULLA UDISPATHTHUWA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3199,ABEYSINGHA PRIMARY SCHOOL,"WATAPANA, PUTUHAPUWA",Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3200,WEGALA JOUNIOR SCHOOL,WEGALA MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3201,SENARATHWELA MAHA VIDYALAYA,SENARATHWELA DIGANA RAJAWELLA,Central,21.Kandy,Teldeniya,Medadumbara,2.1C,provincial
+3202,ALLIYADDA PRIMARY SCHOOL,ALLIYADDA WERAPITIYA THELDENIYA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3203,UDISPATTUWA PRIMARY SCHOOL,UDISPATTUWA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3204,GIDDAWA PRIMARY SCHOOL,GIDDAWA PUTUHAPUWA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3205,SUMANAJOTHI PRIMARY SCHOOL,"GIDDAWA WARADIWELA, PUTUHAPUWA",Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3206,TENNALANDA PRIMARY SCHOOL,"TENNALANDA, MEDAMAHANUWARA.",Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3208,NAMADAGALA UDAWELA PRIMARY SCHOOL,MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3209,PODDALGODA PRIMARY SCHOOL,"PODDALGODA, UDISPATTUWA.",Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3210,METIDENIYA PRIMARY SCHOOL,METIDENIYA MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3211,RABUKPOTHA PRIMARY SCHOOL,MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3212,RETIYAGAMA PRIMARY SCHOOL,"RETIYAGAMA, UDISPATTUWA",Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3213,WERAPITIYA PRIMARY SCHOOL,WERAPITIYA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3214,WALALA A.RATHNAYAKE M.M.V.,"WALALA, MENIKHINNA",Central,21.Kandy,Waththegama,Kundasale,1.1AB,provincial
+3215,THENNAKOON WIMALANANDA M.V.,AMUNUGAMA GUNNEPANA,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3216,UDAGAMA M.V.,UDAGAMA MANIKHINNA,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3218,KENGALLA.M.V.,KENGALLA,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3219,WIMALARATHNA KUMARAGAMA M.V.,NARAMPANAWA,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3220,PILAWALA M.V.,PILAWALA,Central,21.Kandy,Waththegama,Kundasale,1.1AB,provincial
+3221,MAHAWATTA M.V.,KUNDASALE,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3222,MENIKHINNA M.V.,MENIKHINNA,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3223,LUNUKATIYAMADITHTHA M.V.,LUNUKATIYAMADITHTHA,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3224,SIRIMALWATTE M.V.,GUNNEPANA,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3225,ATHARAGALLA K.V.,MALPANA KENGALLA,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3226,ARANGALA K.V.,ARANGALA NATHTHARANPOTHA,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3228,GALPIHILLA K.V.,"GALPIHILLA, PANVILA",Central,21.Kandy,Waththegama,Kundasale,4.Type3,provincial
+3229,C.W.W.KANNANGARA M.V.,"GOMAGODA, RAJAWELLA",Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3230,DHARMALOKA M.V.,"DAMBARAWA, MENIKHINNA",Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3231,VIDYAPRADEEPA SCHOOL,"POLGOLLA, WATTEGAMA",Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3232,LIYANGASWAGURA MODEL K.V.,PANVILA,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3233,WAVINNA K.V.,"WAVINNA, WATTEGAMA",Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3234,HUREEKADUWA B.M.V.,MANIKHINNA,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3236,KENGALLA P.V.,KENGALLA,Central,21.Kandy,Waththegama,Kundasale,4.Type3,provincial
+3237,NARENDRASINGHE P.S.,GUNNEPANA,Central,21.Kandy,Waththegama,Kundasale,4.Type3,provincial
+3238,GONAWALA K.V.,GONAWALA RAJAWELLA,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3239,DUNUHAPPAWA.K.V.,DUNUHAPPAWA PANVILA,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3240,WEERAVIKUM K.V.,PALLEKELE KUNDASALE,Central,21.Kandy,Waththegama,Kundasale,4.Type3,provincial
+3242,RAJAWELLA K.V.,RAJAWELLA,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3244,TELDENIYA MUSLIM V.,"BALAGOLLA, KENGALLA.",Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3245,UDISHPATTUWA MUSLIM VIDYALAYA,UDISPATHUWA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3246,KALAIMAGAL K.V.,MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3247,MAHABERIYATENNA TAMIL MAHA VIDYALAYA,SENARATHWELA RAJAWELLA,Central,21.Kandy,Teldeniya,Medadumbara,2.1C,provincial
+3248,NAMAGAL TAMIL VIDYALAYA,WAITHALAWA MEDAMAHANUWARA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3249,KUMARAN TAMIL VIDYALAYA,RANGALA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3250,RANGALA TAMIL MAHA VIDYALAYA,RANGALA,Central,21.Kandy,Teldeniya,Medadumbara,2.1C,provincial
+3251,SIVA SHAKTHI TAMIL VIDYALAYA,COTTAGANGA RANGALA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3252,NAWALAR TAMIL VIDYALAYA,BOPITIYA RANGALA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3253,VIBULANANDAR TAMIL VIDYALAYA,ELAGOLLA RANGALA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3254,MALAIMAGAL KANISHTA TAMIL VIDYALAYA,RANGALA,Central,21.Kandy,Teldeniya,Medadumbara,3.Type2,provincial
+3255,SIVANESHWARA TAMIL MAHA VIDYALAYA,"MAHIYANGANA RD, HUNNASGIRIYA",Central,21.Kandy,Teldeniya,Udadumbara,2.1C,provincial
+3257,AL-HIKMA MUSLIM M.V.,"KUMBUKKANDURA, RAJAWELLA",Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3258,VIGNESHWARA.TAMIL M.V.,PANWILA,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3259,VIVEKANANDA TAMIL M.V.,KUNDASALA,Central,21.Kandy,Waththegama,Kundasale,2.1C,provincial
+3260,KENGALLA TAMIL V.,KENGALLA,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3261,VAANI TAMIL V.,PALLEKELLA KUNDASALE,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3262,AMBAL TAMIL V.,AMBAKOTTE KENGALLA,Central,21.Kandy,Waththegama,Kundasale,3.Type2,provincial
+3264,UDATHALAWINNA JAMIUL AZHAR MUSLIM M.M.V.,"UDATHALAWINNA MADIGE, UDATHALAWINNA",Central,21.Kandy,Waththegama,Pathadumbara,2.1C,provincial
+3265,BARATHI TAMIL V.,WATTEGAMA,Central,21.Kandy,Waththegama,Pathadumbara,2.1C,provincial
+3266,HULUGANG MUSLIM V.,"HULUGANGA, MADULKELA",Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3267,KANDAKETIYA TAMIL V.,THAWALANTHENNA,Central,21.Kandy,Waththegama,Panvila,2.1C,provincial
+3268,ABIRAMI TAMIL M.V.,"KALLEBOKKA, MADULKELLE",Central,21.Kandy,Waththegama,Panvila,2.1C,provincial
+3269,AL-SAFA M.V.,"WATTEGEDARA, POLGOLLA",Central,21.Kandy,Waththegama,Pathadumbara,2.1C,provincial
+3270,AL-AQSA MUSLIM V.,GUNNEPANA,Central,21.Kandy,Waththegama,Pathadumbara,3.Type2,provincial
+3271,WARAKALANDA MUSLIM V.,ARATTANA MADULKELE,Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3272,VIPULANANDA TAMIL V.,"DIYANILAA, MADULKELLE",Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3273,SIVANESWARA TAMIL V.,NELLIMALAI MADULKELE,Central,21.Kandy,Waththegama,Panvila,4.Type3,provincial
+3274,MAHAOUSA TAMIL V.,MADULKELE,Central,21.Kandy,Waththegama,Panvila,4.Type3,provincial
+3275,KURINGE TAMIL V.,MADOLKELLE U D MADOLKELLE,Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3276,PARAMESWARA TAMIL V.,MADULKELLE,Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3277,HATALE TAMIL V.,PANVILA,Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3278,ALLAKOLLA TAMIL V.,MADULKELLE,Central,21.Kandy,Waththegama,Panvila,4.Type3,provincial
+3279,KNUCKLES TAMIL V.,THAWALANTHENNA,Central,21.Kandy,Waththegama,Panvila,3.Type2,provincial
+3280,NAWANAGALA TAMIL SCHOOL,HUNNASGIRIYA,Central,21.Kandy,Teldeniya,Udadumbara,3.Type2,provincial
+3281,HAGALLA TAMIL V.,THAWALANTHENNA,Central,21.Kandy,Waththegama,Panvila,4.Type3,provincial
+3282,GOMARA TAMIL V.,THWALANTHENNA,Central,21.Kandy,Waththegama,Panvila,4.Type3,provincial
+3287,KURUNDUGOLLA MUSLIM M.V.,"KURUNDUGOLLA, WERELLAGAMA.",Central,21.Kandy,Katugastota,Harispattuwa,2.1C,provincial
+3288,MEERA MUSLIM M.V.,"UGURESSAPITIYA, KATUGASTOTA.",Central,21.Kandy,Katugastota,Harispattuwa,2.1C,provincial
+3289,LUKMANIYA MUSLIM M.V.,"PANGOLLAMADA, RATHUKOHODEEGALA",Central,21.Kandy,Katugastota,Akurana,2.1C,provincial
+3290,RAMBUK-ELA MUSLIM M.V.,"RAMBUK-ELA, VILANAGAMA",Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3291,MAWATHUPOLA MUSLIM M.V.,"MAWATHUPOLA, ALAWATHUGODA",Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3292,ENDARUTHENNE MUSLIM V.,"ENDARUTENNA, NUGAWELA.",Central,21.Kandy,Katugastota,Harispattuwa,3.Type2,provincial
+3293,INIGALA.MUSLIM V.,"INIGALA, KATUGASTOTA.",Central,21.Kandy,Katugastota,Harispattuwa,2.1C,provincial
+3294,PALKUMBURA MUSLIM V.,"PALKUMBURA, WERELLAGAMA.",Central,21.Kandy,Katugastota,Harispattuwa,3.Type2,provincial
+3295,KURUNDUGAHA-ELA MUSLIM V.,AKURANA,Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3296,MALWANAHINNA MUSLIM V.,MALWANAHINNA AKURANA.,Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3297,THELUMBUGAHAWATTA MUSLIM V.,AKURANA.,Central,21.Kandy,Katugastota,Akurana,4.Type3,provincial
+3298,AKURANA MUSLIM BALIKA M.V.,AKURANA,Central,21.Kandy,Katugastota,Akurana,1.1AB,provincial
+3299,AZHAR MODEL P.S.,AKURANA,Central,21.Kandy,Katugastota,Akurana,4.Type3,provincial
+3300,KURUGODA BOYS MUSLIM V.,"KURUGODA, AKURANA",Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3301,KASAWATTA MUSLIM V.,BATUGODA,Central,21.Kandy,Katugastota,Akurana,4.Type3,provincial
+3302,NEERELLA MUSLIM V.,AKURANA.,Central,21.Kandy,Katugastota,Akurana,4.Type3,provincial
+3303,WALAHENA MUSLIM V.,"WALAHENA, ALAWATHUGODA",Central,21.Kandy,Katugastota,Akurana,4.Type3,provincial
+3304,PANAGAMUWA MUSLIM V.,RATHUKOHADEEGALA.,Central,21.Kandy,Katugastota,Akurana,4.Type3,provincial
+3305,HALGOLLA MUSLIM K.V.,BATAGOLLADENIYA,Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3306,BEERI-ELA MUSLIM P.V.,"BEERI-ELA, BATAGOLLADENIYA",Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3307,JAMALIYA MUSLIM M.V.,BATAGOLLADENIYA.,Central,21.Kandy,Katugastota,Poojapitiya,2.1C,provincial
+3308,GALHINNA MUSLIM M.V.,"GALHINNA, KANDY.",Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3309,JABBAR MUSLIM M.V.,GALAGEDARA.,Central,21.Kandy,Katugastota,Galagedara,2.1C,provincial
+3310,DEHIDENIYA MUSLIM M.V.,"DEHIDENIYA, MADIGE, HATHARALIYADDA.",Central,21.Kandy,Katugastota,Hatharaliyadda,2.1C,provincial
+3311,DHARUL ULOOM MUSLIM V.,"UDAWELIKETIYA, BATUGODA",Central,21.Kandy,Katugastota,Akurana,4.Type3,provincial
+3312,MALGAMANDENIYA MUSLIM V.,"MALGAMANDENIYA, ALAWATHUGODA.",Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3313,HEWAHETA CENTRAL COLLEGE,THALATUOYA,Central,21.Kandy,Kandy,Pathahewaheta,1.1AB,provincial
+3315,ETHULGAMA MAHA VIDYALAYA,"ETHULGAMA, THALATHUOYA",Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3316,GALAHA BHADRAWATHI MAHA VIDYALAYA,"PUPURESSA RD, GALAHA",Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3317,KARAGASKADA CENTRAL COLLEGE,DELTOTA,Central,21.Kandy,Kandy,Pathahewaheta,1.1AB,provincial
+3318,MAHAMEDAGAMA MAHA VIDYALAYA,"MAHAMEDAGAMA, THALATHUOYA",Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3319,MAILAPITIYA MAHA VIDYALAYA,MAILAPITIYA,Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3321,UDUWELA MAHA VIDYALAYA,UDUWELA,Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3322,HAPUTHALE MAHA VIDYALAYA,THALATHUOYA KANDY,Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3323,KAPULIYADDA MAHA VIDYALAYA,KAPULIYADDA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3324,BOLAPE JUNIOR SCHOOL,KAPULIYADDA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3325,BAWLANA JUNIOR SCHOOL,BAWLANA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3326,SRI SARANANKARA JUNIOR SCHOOL,"BOOTAWATTA, THALATHUOYA",Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3327,GODAMUNNA JUNIOR SCHOOL,GODAMUNNA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3328,HEWAVISSA JUNIOR SCHOOL,"HEVAVISSA, MARASSANA",Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3329,KOLABISSA KANISHTA VIDYALAYA,KOLABISSA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3332,PATTIYAGAMA JUNIOR SCHOOL,"WADIYAGODA, DELTHOTA",Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3333,UDADELTHOTA JUNIOR SCHOOL,GALAHA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3334,UDUWELA BUDDHIST COLLEGE,UDUWELA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3335,C.W.W.KANNANGARA VIDYALAYA,"P.O.BOX20/4 MILE POST, HANTHANA RD, KANDY",Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3336,UNUVINNA MODEL PRIMARY SCHOOL,UNUVINNA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3337,WATHLIYADDA PRIMARY SCHOOL,UDUWELA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3338,"DHARMAPALA VIDYALAYA, WELDAMBALA","WELDAMBALA, ETHULGAMA",Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3339,SRI PUSHPADANA VIDYALAYA,GALOAHA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3340,IHAKETIYA PRIMARY SCHOOL,"IHAKETITY, UNUWINNA",Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3343,MARASSANA MODEL PRIMARY SCHOOL,MARASSANA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3344,MAUSSAWA JUNIOR SCHOOL,MAUSSAWA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3345,NAWANELIYA PRIMARY SCHOOL,NAWANELIYA KOLABISSA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3348,THALATHUOYA JUNIOR SCHOOL,THALTHUOYA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3349,RAMMUNGODA VIDYALAYA,"RAMMUNGODA, DELTOTA",Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3352,KANDY ST. ANTHANY'S COLLEGE,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3353,KANDY ST. ANTHONY'S GIRLS COLLEGE,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3354,AMPITIYA BERREWARTS COLLEGE,"AMPITIYA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3355,GURUDENIYA MAHA VIDYALAYA,GURUDENIYA,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3356,MAWILMADA MAHA VIDYALAYA,"MAWILMADA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3357,KANDY D.S.SENANAYAKE MAHA VIDYALAYA,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3358,SIDDHARTHA MAHA VIDYALAYA,AMPITIYA KANDY,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3359,SEEVALI MAHA VIDYALAYA,PERADENIYA,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3361,DANGOLLA SRI WIMALABUDDHI JUNIOR SCHOOL,"DANGOLLA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,4.Type3,provincial
+3362,LUMBINI ROYAL COLLEGE,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3363,GOTHAMI GIRLS COLLEGE,RAJAPIHILLA MW KANDY,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3364,NANODA MODEL SCHOOL,"WATAPULUWA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,4.Type3,provincial
+3365,KETAWALA JUNIOR SCHOOL,"KETAWALA, LEWLA",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3366,DHARMASHOKA VIDYALAYA,"ARUPPOLA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3367,VIDYALOKA MAHA VIDYALAYA,THENNEKUMBURA-KANDY,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3368,SAMUDRDEVI B.V.,"NAWAYALATENNA, KATUGASTOTA.",Central,21.Kandy,Waththegama,Pathadumbara,2.1C,provincial
+3369,DHARMAVIJAYA V.,"MATALE RD, KATUGASTHOTA",Central,21.Kandy,Waththegama,Pathadumbara,3.Type2,provincial
+3371,HARAGAMA VIDYALAYA,"HARAGAMA, GURUDENIYA",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3372,DAMBAWELA KANISHTA VIDYALAYA,GURUDENIYA,Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3373,AMPITIYA MAHINDA SPECIAL EDUCATION MODEL SCHOOL,"AMPITIYA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,4.Type3,provincial
+3374,BOWALAWATHTHA SITHUMINA VIDYALAYA,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3377,SENKADAGALA WEERODARA VIDYALAYA,"MAHAWELI UYANA, WATAPULUWA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3378,SENKADAGALA SANGAMITHTHA VIDYALAYA,"ARUPPOLA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3381,KANDY VIDYARTHA COLLEGE,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3383,KANDY HEMAMALI BALIKA VIDYALAYA,"HILL STREET, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3384,KANDY ST. SYLVESTERS COLLEGE,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3385,PERADENIYA CENTRAL COLLEGE,PERADENIYA,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3386,KANDY MAHANAMA MAHA VIDYALAYA,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3388,WARIYAPOLA SRI SUMANGALA COLLEGE,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3389,KANDY SWARNAMALI GIRIS' COLLEGE,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3390,THAKSHILA VIDYALAYA,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3391,DHARMAWICKRAMA GIRLS' COLLEGE,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3392,RASINDEV VIDYALAYA,"WILLIAM GOPALLAWA MW, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3395,PERADENIYA SARASAVI UYANA MAHA VIDYALAYA,PERADENIYA,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3396,KEPPETIPOLA VIDYALAYA,"DALADA VEEDIYA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3397,PERADENIA JUNIORSECONDARY SCHOOL,PERADENIYA,Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3398,KANDY SEETHADEVI BALIKA VIDYALAYA,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3401,KANDY VIHARAMAHADEVI GIRLS COLLEGE,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3402,MADDUMA BANDARA VIDYALAYA,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3404,MENIKDIWELA CENTRAL COLLEGE,MANIKDEWELA,Central,21.Kandy,Denuwara,Yatinuwara,1.1AB,provincial
+3407,DANTHURE M.V.,DANTHURE,Central,21.Kandy,Denuwara,Yatinuwara,2.1C,provincial
+3408,DODANWALA M.V.,DODANWALA MURUTHALAWA,Central,21.Kandy,Denuwara,Yatinuwara,2.1C,provincial
+3409,PILIMATHALAWA MADYA MAHA VIDYALAYA,PILIMATHALAWA,Central,21.Kandy,Denuwara,Yatinuwara,1.1AB,provincial
+3410,PALAWA M.V.,MURUTHALAWA,Central,21.Kandy,Denuwara,Yatinuwara,2.1C,provincial
+3411,RATHTHEPIYIYA M.V.,MENIKDEWELA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3412,ERIYAGAMA SRI PUSHPADANA MODEL SCHOOL,PERADANIYA,Central,21.Kandy,Denuwara,Yatinuwara,2.1C,provincial
+3413,UDAWELA K.V.,DANTHURE,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3414,URAPOLA SRI SUSILA K.V.,PILIMATHALAWA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3415,KETAKUMBURA K.V.,"KATAKUBURA, KADUGANNAWA",Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3416,HECTOR KOBBAKADUWA MODEL.P.S.,KIRIBATHKUBURA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3417,KOBBEKADUWA K.V.,YAHALATHENNA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3418,TISMADA K.V.,MANIKDIWELA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3420,BALANA K.V.,KADUGANNAWA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3421,MALIGATHANNA P.S.,KATAKUMBURA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3422,WATHURAKUBURA JUNIOR SCHOOL,MURUTHALAWA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3423,PILIMATHALAWA SRI DHEERANANDA M.V.,PILIMATALAWA,Central,21.Kandy,Denuwara,Yatinuwara,1.1AB,provincial
+3424,GANNORUWA J.S.,PERADANIYA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3428,AMUNUPURA K.V.,MENIKDIWALA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3429,ILLADORA P.V.,KADUGANNAWA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3430,KADUGANNAWA P.S.,"KADAWATHGAMA, KADUGANNAWA",Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3431,KATAPITIYA P.S.,MENIKDIWALA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3432,GIRAGAMA K.V.,PILIMATHALAWA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3433,PILIMATHLAWA K.V.,PILIMATHLAWA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3434,POTHTHEPITIYA K.V.,MENIKDIWELA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3435,MANIKDEWELA PRIMARY SCHOOL,MANIKDEWELA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3436,WALGOWWAGODA BUDDHIST P.V.,DANTHURE,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3437,PRSIDENTS MODEL P.S.,"EDADUWAWA, PERADENIYA",Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3439,VERALUGOLLA P.V.,BALANA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3440,MURUTHALAWA PRIMARY SCHOOL,MURUTHALAWA,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3442,GADALADENIYA M.V.,PILIMATHALAWA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3443,PITAWALAWATTA M.V.,GELIOYA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3444,RANGAMA M.V.,HANDESSA,Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3445,LANKATHILAKA M.V.,HANDESSA,Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3446,LAGAMUWA M.V.,KADUGANNAWA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3447,WATTAPOLA M.V.,"WATTAPOLA, PILIMATHALAWA",Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3448,WIMALADARMASOORIYA M.V.,PERADANIYA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3449,HANDESSA M.V.,HANDESSA,Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3450,MADDUMA BANDARA K.V.,"ALANDUWAKA, PILIMATHALAWA",Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3451,ALAPALAWALA M.V.,"ALAPALAWALA, HANDESSA",Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3452,AMBANWALA K.V.,WELAMBODA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3453,UDA ALUDENIYA M.V.,WELIGALLA,Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3454,KIRIWAWULA JUNIOR SCHOOL,"KIRIWAWULA , PILIMATHALAWA",Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3456,KOTAGALOLUWA SRI JINARATHNA J.S.,"KOTAGALOLUWA, HODIYADENIYA",Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3457,KOSSINNA K.V.,"KOSSINNA, GELIOYA",Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3459,GAMHATHA C.C. K.V.,WELAMBODA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3460,GELIOYA SRI PRAGNARATHANA M.V.,GELIOYA,Central,21.Kandy,Denuwara,Udunuwara,1.1AB,provincial
+3463,SRI ANANDA MODEL VIDYALAYA,"NEW ELIPITIYA, GELIOYA",Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3465,SRI REWATHA M.V.,BAMBARAGAHAELA GAMPOLA,Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3466,PILIGALLA K.V.,HANDESSA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3467,BOYAGAMA JUNIOR SCHOOL,PERADENIYA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3470,WATTAPPOLA P.V.,WATTAPPOLA,Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3473,SADIKKAWATTA P.V.,"SDAIKKAWATTA, WATTAPPOLA",Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3474,HEPANA SRI SARANANDA V.,"HEPANA, PILIMATHALAWA",Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3475,HIDDAULA K.V.,HANDESSA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3476,SIRI PERAKUM MODEL PRIMARY SCHOOL,HENDENIYA PERADENIYA,Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3478,GONADIKA SIHALA TAMIL V.,BAMBARAGAHAELA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3480,WIJAYALANKA K.V.,WELAMBODA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3481,ARAWWAWALA P.V.,ARAWWAWALA HANDESSA,Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3484,KURAGALA GEMUNU P.V.,"KURAGALA, HONDIYADENIYA",Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3485,GANGODA P.S.,"GANGODA , PILIMATHALAWA",Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3486,PAMUNUWA P.S.,HANDESSA,Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3487,WEMBLYWATTA P.S.,WATTAPPOLA,Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3489,ATABAGE UDAGAMA MAHA VIDYALAYA,MAHAUDAGAMA GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3491,GAMPOLA ST. ANDREW'S COLLEGE,GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3492,JINARAJA BOYS' COLLEGE,"SINHAPITIYA, GAMPOLA",Central,21.Kandy,Gampola,Udapalatha,1.1AB,provincial
+3493,DOLUWA MAHA VIDYALAYA,DOLUWA GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3494,NILLAMBA MAHA VIDYALAYA,NILLAMBA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3495,PANVILATHENNA MAHA VIDYALAYA,PANVILATHENNA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3496,PUSSELLAWA BAUDDHA V.,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3497,MAHAMULGAMA MAHA VIDYALAYA,MAHAMULGAMA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3498,WEWATHENNA MAHA VIDYALAYA,"WEWATHENNA, GAMPOLA",Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3499,GAMPOLA ST. JOSEPH'S BALIKA MAHA VIDYALAYA,GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,1.1AB,provincial
+3500,DEVI BALIKA MAHA VIDYALAYA,"SINGHAPITIYA, GAMPOLA",Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3501,GAMPOLA JINARAJA BALIKA MAHA VIDYALAYA,WEEGULAWATHTHA RD GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3503,ATABAGE RAJANANDA KANISHTA VIDYALAYA,"PLEEGAMA, ATABAGE",Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3504,ATABAGE ROMAN CATHOLIC VIDYALAYA,WATHTHEHENA ATABAGE,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3505,ANGAMMANA JUNIOR SCHOOL,GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3507,INGURUWATHA KANITU VIDYALAYA,"DOLUWA, GAMPOLA.",Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3508,SRI GNANAWASA VIDYALAYA,"IBBANWEWA, PUSSELLAWA.",Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3509,ILLAGOLLAWATTE KANISHTA VIDYALAYA,MEGODA KALUGAMUWA PERADENIYA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3512,KAHAWATHTHA KANISHTA VIDYALAYA,"KAHAWATHTHA, PANWELATHANNA",Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3513,KIRINDA MODEL SCHOOL,GALDEDIYAWA GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3514,GAMPOLA GANGASIRIPURA VIDYALAYA,"MALABAR STREET, GAMPOLA",Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3515,GAMPOLA BAUDDA VIDYALAYA,"HILL STREET, GAMPOLA",Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3516,GROWHILL JUNIOR SCHOOL,"MILLAGAHAMULA, PANWILATHENNA",Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3518,DUNUKEULLA KANISHATA VIDYALAYA,"DUNUKEULLA, PANVILATHENNA",Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3519,NARANVITA KANISHTA VIDYALAYA,GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3520,PALLEDELTHOTA KANISHTA VIDYALAYA,PALLEDELTHOTA GALAHA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3521,PUPURESSA KANISHTA VIDYALAYA,PUPURESSA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3522,HOLY TRINITY COLLEGE,"NUWARA ELIYA RD, PUSSELLAWA",Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3523,BOWALA KANISHTA VIDYALAYA,"BOWALA,GAMPOLA.",Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3525,LAGUMDENIYA KANISHTA VIDYALAYA,"LAGUMDENIYA, PANVILATHENNA.",Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3526,LORAWATTHA PRIMARY SCHOOL,"LORAWATTHA, PANVILATHENNE.",Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3527,HALOYA JUNIOR SCHOOL,"HALOYA, HINDAGALA",Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3528,MORAHENA JUNIOR SCHOOL,"MORAHENA, PANVILATHENNA.",Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3533,ULAPANE MAHA VIDYALAYA,"ULAPANE, GAMPOLA",Central,21.Kandy,Gampola,Ganga Ihala Korale,2.1C,provincial
+3534,MS ALUTHGAMAGE MAHA VIDYALAYA,GALPAYA MEETHALAWA,Central,21.Kandy,Gampola,Ganga Ihala Korale,2.1C,provincial
+3535,GIRAULLA MAHA VIDYALAYA,MEETHALAWA,Central,21.Kandy,Gampola,Ganga Ihala Korale,2.1C,provincial
+3537,SARANAPALA VIDYALAYA,UDAGAMA ULAPANE,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3539,GAMPOLAWELA KANISHTA VIDAYALAYA,GAMPOLAWELA GAMPOLA,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3540,GALATHA MAHA VEDYALAYA,YATIPIYANGALA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3541,THALIHUNNAGAMA KANISHTA VIDYALAYA,THALIHUNNAGAMA KURUNDUWATTA BAZAAR,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3542,THAMBILIGALA KANISHTA VIDYALAYA,"THABILIGALA, ULAPANE",Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3543,PELLAPITIYA KANISHTA VIDYALAYA,KURUNDUWATTA BAZAAR,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3544,THAKSHILA VIDYALAYA,"WALLAHAGODA, GAMPOLA",Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3545,WETAKEDENIYA JUNIOR SCHOOL,WETAKEDENIYA,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3546,UDUWELLA KANISHTA VIDYALAYA,UDUWELLA UDAHENTHENNA,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3548,KOLUWALA REVATHA KANISTA VIDYALAYA,KOLUWALA UDAHENTHENNA,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3549,THELIHUNNA JANAPADA KANISHTA VIDYALAYA,KURUNDUWATTA BAZAAR,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3550,YATAPANA PRIMARY SCHOOL,YATAPANA KURUDUWATHTHA BAZZAR,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3554,PATHTHUNUPITIYA MAHA VIDYALAYA,"PATHTHUNUPITIYA, NAWALAPITIYA",Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3555,RAMBUKPITIYA MAHA VIDYALAYA,"RAMBUKPITIYA, NAWALAPITIYA",Central,21.Kandy,Gampola,Pasbage Korale,2.1C,provincial
+3556,NAWALAPITIYA ST. ANDREW'S BALIKA MAHA VIDYALAYA,NAWALAPITIYA,Central,21.Kandy,Gampola,Pasbage Korale,1.1AB,provincial
+3557,ALUGOLLE PRATHAMIKA VIDYALAYA,"ALUGOLLE, DOLOSBAGE",Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3558,INGURU OYA K.V.,GALABODA,Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3559,IMBULPITIYA KANISHTA VIDYALAYA,"IMBULPITIYA, NAWALAPITIYA.",Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3560,VIDYALOKA MODEL.P.S.,KATABOOLA,Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3561,SRI DHAMMARATHANA VIDYALAYA,DEKINDA NAWALAPITIYA,Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3562,NAWALAPITIYA CENTRAL COLLEGE,NAWALAPITIYA,Central,21.Kandy,Gampola,Pasbage Korale,2.1C,provincial
+3563,DOLOSBAGE KANISHTA VIDYALAYA,DOLOSBAGE,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3564,PATITHALAWA KANISHTA VIDYALAYA,PATITHALAWA DOLOSBAGE,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3566,BERAVILA PRIMARY SCHOOL,PATITHALAWA DOLOSBAGE,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3567,MAPAKANDA VIDYALAYA,"MAPAKANDA, NAWALAPITIYA.",Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3568,MAWATHURA JUNIOR SCHOOL,"MAWATHURA, GAMPOLA",Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3570,WARAKAWA KANISHTA VIDYALAYA,"GONAWALAPATHANA, NAWALAPITIYA",Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3571,WELIGAMPOLA KANISHTA VIDYALAYA,"WELIGAMPOLA, NAWALAPITIYA.",Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3572,SIRI PARAKUMBA V.,"WERALUGASHINNA, NAWALAPITIYA",Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3573,KANISHTA BALIKA VIDYALAYA,"SOYSAKELE RD, NAWALAPITIYA",Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3574,HYDREE K.V.,"HYDREE JANAPADAYA, ROZELLA",Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3576,SIDDI LEBBE MUSLIM VIDYALAYA,"PERADENIYA RD, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3577,ENASALGOLLA CENTRAL COLLEGE,ENASALGOLLA DELTOTA,Central,21.Kandy,Kandy,Pathahewaheta,1.1AB,provincial
+3578,SRI RAMAKRISHNA CENTRAL COLLEGE,GALAHA,Central,21.Kandy,Kandy,Pathahewaheta,1.1AB,provincial
+3579,KATUGASTOTA ZAHIRA BOYS COLLEGE,"MATALE RD, KATUGASTOTA",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3580,TALATUOYA TAMIL MAHA VIDYALAYA,TALATUOYA,Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3581,DELTOTA MALAIMAHAL HINDHU CENTRAL COLLEGE,DELTOTA,Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3582,AL-HAMARA VIDYALAYA,"SIYAMBALAGASTENNE, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3584,KANDY KALAIMAGAL TAMIL VIDYALAYAM,KANDY,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3585,VIVEKANANDA VIDYALAYA,"69, RAJA VEEDIYA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3586,KANDY HINDU SENIOR SCHOOL,"138,PERADENIYA RD, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3587,AMPITIYA ST. MARY'S VIDYALAYA,AMPITIYA,Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3588,THENNEKUMBURA AL- HILAL VIDYALAYA,"THENNEKUMBURA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,3.Type2,provincial
+3589,PERADENIYA HINDU COLLEGE,PERADENIYA,Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3591,DELTOTA MUSLIM CENTRAL COLLEGE,DELTOTA,Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3592,AL-AKBAR MUSLIM VIDYALAYA,"RALLIMANGODA, DELTOTA",Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3593,UDAPITIYA HUSNA MUSLIM MAHA VIDYALAYA,"PALLEGAMA, DELTOTA",Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3594,UDUDENIYA MUSLIM MAHA VIDYALAYA,"UDUDENIYA, MARASSANA",Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3595,MARASSANA TAMIL VIDYALAYA,MARASSANA,Central,21.Kandy,Kandy,Pathahewaheta,2.1C,provincial
+3597,SRI SIVASHAKTHI TAMIL VIDYALAYAM,KITHULMULLA GALAHA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3598,DUNALLY TAMIL VIDYALAYA,GALAHA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3599,UPPER GALAHA TAMIL V.,"UPPER GALAHA, GALAHA GROUP, GALAHA",Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3600,AMBALAMANA TAMIL VIDYALAYA,"AMBALAMANA, GALAHA",Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3601,THIRUVALLUVAR VIDYALAYAM,DELTHOTA GROUP GALAHA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3602,GREAT VALLEY TAMIL VIDYALAYAM,"GREATVALLEY ESTATE, DELTOTA",Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3604,LITTLE VALLEY NO.II TAMIL VIDYALAYAM,DELTOTA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3605,SRI GAYATHRI TAMIL VIDYALAYAM,"PATTIYAGAMA, DELTHOTA",Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3606,BOWLANA TAMIL VIDYALAYA,DELTHOTA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3607,BOPITIYA TAMIL VIDYALAYA,DELTOTA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3608,LOOLCONDERA TAMIL VIDYALAYA,DELTHOTA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3609,NARANGHENA TAMIL VIDYALAYA,"LOOLECONDERA GROUP, DELTOTA",Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3610,SIVANANDA TAMIL VIDYALAYA,"HANTANA RD, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3611,SRI VAANI TAMIL VIDYALAYAM,"POST BOX 20, KANDY",Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3612,KIRIMETIYA TAMIL VIDYALAYA,NUGALIADDA,Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3613,NAWALAPITIYA KATHIRESAN CENTRAL COLLEGE,"KOTMALE RD, NAWALAPITIYA",Central,21.Kandy,Gampola,Pasbage Korale,1.1AB,provincial
+3614,PUSSELLEAWA SARASWATHY CENTRAL COLLEGE,PUSSELLEAWA,Central,21.Kandy,Gampola,Udapalatha,1.1AB,provincial
+3615,NAWALAPITIYA ST. MARY'S COLLEGE,NAWALAPITIYA,Central,21.Kandy,Gampola,Pasbage Korale,2.1C,provincial
+3616,IQRA MUSLIM MAHA VIDYALAYA,ULAPANE,Central,21.Kandy,Gampola,Ganga Ihala Korale,2.1C,provincial
+3618,KATHIRESAN HINDU LADIES' COLLEGE,"KOTMALE RD, NAWALAPITIYA.",Central,21.Kandy,Gampola,Pasbage Korale,2.1C,provincial
+3619,BALANTOTA MUSLIM VIDYALAYA,RAMBUKPITIYA,Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3620,MAHAVILA TAMIL VIDYALAYA,ULAPANE,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3621,BAHARANDA TAMIL VIDYALAYAM,KATABOOLA,Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3622,BOWHIL TAMIL VIDYALAYAM,KATABOOLA,Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3623,GALABODA TAMIL V.,GALABODA,Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3624,TEMPLESTOWE TAMIL V.,ROZELLA,Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3625,MELFORT TAMIL VIDYALAYAM,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3626,BARCAPLE TAMIL V.,KATABOOLA,Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3627,BARANAGALA TAMIL VIDYALAYAM,NAWALAPITIYA,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3628,GALAMUDUNA TAMIL VIDYALAYAM,DOLOSBAGE,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3629,WESTHALL TAMIL VIDYALAYAM,KATABOOLA,Central,21.Kandy,Gampola,Pasbage Korale,2.1C,provincial
+3630,PARAGALA SINHALA VIDYALAYA,PARAGALA UDAHENTHANNA,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3631,KALAIMAHAL TAMIL VIDYALAYAM,MAWATHURA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3632,CRAIGHEAD NO 01 TAMIL VIDYALAYA,UDAHENTHENNA,Central,21.Kandy,Gampola,Ganga Ihala Korale,2.1C,provincial
+3633,CRAIGHEAD NO 02 TAMIL VIDYALAYAM,UDAHENTENNA,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3634,MONTECRISTO NO 01 TAMIL VIDYALAYAM,NAWALAPITIYA,Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3635,MONTECRISTO NO 02 TAMIL VIDYALAYAM,NAWALAPITIYA,Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3636,PENRHOS TAMIL VIDYALAYAM,GALABODA,Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3637,ROTHCHILD TAMIL VIDYALAYAM,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3638,VEVEGANANTHAR TAMIL VIDYALAYAM,CHOLANKANDA,Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3639,WIGTON TAMIL VIDYALAYAM,ROZELLA,Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3640,DOLOSBAGE TAMIL VIDYALAYAM,DOLOSBAGE,Central,21.Kandy,Gampola,Ganga Ihala Korale,3.Type2,provincial
+3641,JAMALIYA MUSLIM MAHA VIDYALAYA,MUNWATHUGODA DANTURE,Central,21.Kandy,Denuwara,Yatinuwara,2.1C,provincial
+3642,ILLUKAWATTA MUSLIM V.,"ILLUKIWATTA, PILIMATHALAWA",Central,21.Kandy,Denuwara,Yatinuwara,2.1C,provincial
+3643,KADUGANNAWA C.C.TAMIL V.,KADUGANNAWA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3644,DEHIANGA AL-AZHAR M.V.,"DEHIANGA , MURUTHALAWA",Central,21.Kandy,Denuwara,Yatinuwara,2.1C,provincial
+3645,AL-ILMA VIDYALAYA,MURUTHALAWA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3646,YAHALATHANNA MUSLIM M.V.,YAHALATHANNA,Central,21.Kandy,Denuwara,Yatinuwara,2.1C,provincial
+3647,KIRIMATIYA TAMIL V.,MENIKDEWALA,Central,21.Kandy,Denuwara,Yatinuwara,3.Type2,provincial
+3649,KURUKUTTALA MUSLIM M.V.,"KURUKUTTALA, KADUGANNAWA",Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3650,WELAMBODA MUSLIM M.V.,WELAMBODA,Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3651,AMBAGASTENNA M.V.,WELAMBODA,Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3652,AL-AQSA MUSLIM V.,WELAMBODA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3653,AS-SIRAJ BOYS VIDYALAYA,DELLANGA GELIOYA,Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3654,UDUNUWARA FATHIMA BALIKA M.V.,MURUTHAGAHAMULA,Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3655,ARAFA MUSLIM M.V.,"WAHUNKOHA, HANDESSA",Central,21.Kandy,Denuwara,Udunuwara,2.1C,provincial
+3656,HENDENIYA MUSLIM V.,HENDENIYA PERADENIYA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3657,AS-SHUMZ MUSLIM V.,NEW ELPITIYA GELIOYA,Central,21.Kandy,Denuwara,Udunuwara,3.Type2,provincial
+3659,KALUGAMUWA CENTRAL COLLEGE,KALUGAMUWA GELIOYA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3660,AL-MINA MUSLIM MAHA VIDYALAYA,KAHATAPITIYA GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3661,AL-HIKMA MAHA VIDYALAYA,"ANDIYAKADAWATTE, GAMPOLA.",Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3662,GAMPOLA MUSLIM MAHA VIDYALAYA,"NAWALAPITIYA RD, GAMPOLA",Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3663,ILLAWATURA RAHMANIYA MUSLIM VIDYALAYA,"ILLAWATURA, GAMPOLA",Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3664,SANQUHAR TAMIL VIDYALAYA,PARADEKA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3665,NEW PEACOCK TAMIL VIDYALAYAM,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3666,OLDPEACOCK TAMIL VIDYALAYA,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3667,DELTA SOUTH TAMIL VIDYALAYAM,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3668,KALAIVANI TAMIL VIDYALAYAM,PUPURESSA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3670,STELLENBERG TAMIL VIDYALAYAM,PUPURESSA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3671,BEAUMOUNT TAMIL VIDYALAYAM,PUPURESSA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3672,AL-AZHAR VIDYALAYA,"SELAMBRIDGE, NAWALAPITIYA",Central,21.Kandy,Gampola,Pasbage Korale,2.1C,provincial
+3673,RAJATHALAWA KNISHTA VIDYALAYA,"RAJATHALAWA, PUPURESSA.",Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3674,PUPURESSA TAMIL VIDYALAYA,PUPURESSA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3675,DELTA NORTH TAMIL VIDYALAYAM,PUPURESSA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3676,DELTA EAST TAMIL VIDYLAYAM,PUPURESSA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3677,KALOOGALLA TAMIL VIDYALAYAM,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3678,CHOUGHLEIGH TAMIL VIDYALAYA,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3679,KIRIWANA TAMIL VIDYALAYAM,NILLAMBE,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3680,WARIYAGALA TAMIL VIDYALAYA,NILLAMBE,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3681,YOGALETCHUMI TAMIL VIDYALAYA,PALLE DELTOTA GALAHA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3682,UPLAND TAMIL VIDYALAYA,PERADENIYA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3683,BLACK FOREST TAMIL VIDYALAYAM,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3684,ATABAGE TAMIL VIDYALAYAM,ATABAGE,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3685,NAYAPANE TAMIL VIDYALAYAM,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3686,EVALGOLLA TAMIL VIDYALAYAM,UDAHENTHENNA,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3687,GAMPOLA HINDU COLLEGE,GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,2.1C,provincial
+3689,HYNDFORD MAPAKANDA MUSLIM VIDYALAYA,"MAPAKANDA, NAWALAPITIYA",Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3690,MINIPURA AGBO PRIMARY SCHOOL,AMBAGAHAPELESSA,Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3691,SRI GANESHA TAMIL VIDYALAYAM,KATABOOLA,Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3692,GREENWOOD TAMIL VIDYALAYAM,NAWALAPITIYA,Central,21.Kandy,Gampola,Pasbage Korale,3.Type2,provincial
+3693,GEMUNUPURA PRIMARY SCHOOL,"GEMUNUPURA, UDAHENTHENNA",Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3695,KUMBUKGOLLA PRIMARY SCHOOL,KUMBUKGOLLA MEEMURE,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3696,KAHAWATHTHA P.V.,"KAHAWATHTHA, AMBATHANNA.",Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3698,DUNGOLLA PRIMARY SCHOOL,DUNGOLLA BATUMULLA,Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3699,KIMBULAELA PRIMARY SCHOOL,Kimbula Ela,Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3700,RANGALA PRIMARY TAMIL SCHOOL,RANGALA,Central,21.Kandy,Teldeniya,Medadumbara,4.Type3,provincial
+3701,HIJRAPURA MUSLIM MAHA VIDYALAYA,RAJAWELLA,Central,21.Kandy,Teldeniya,Medadumbara,2.1C,provincial
+3702,KALAIMAGAL TAMIL V.,ALAWATHUGODA,Central,21.Kandy,Katugastota,Akurana,3.Type2,provincial
+3703,AL-AMAAN MUSLIM VIDYALAYA,"ELPITIYA, WELIGALLA",Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+3704,RANABIMA ROYAL COLLEGE,PERADENIYA,Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,provincial
+3705,KELLY JANAPADAYA PRIMARY SCHOOL,DOLOSBAGE,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3706,KANDY MODEL SCHOOL,"PALLETHALAWINNA, KATUGASTHOTA",Central,21.Kandy,Waththegama,Pathadumbara,1.1AB,provincial
+3707,PRESIDENT'S MODEL PRIMARY SCHOOL,"SRI KUDARATWATTE MW, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,4.Type3,provincial
+3708,RISIKALA AESTHETIC COLLEGE,"MAVILMADA, KANDY",Central,21.Kandy,Kandy,Gangawata Korale,2.1C,provincial
+3709,KURUNDUWATTA ROYAL COLLEGE,"KURUNDUWATTA BAZAAR, KURUNDUWATTA",Central,21.Kandy,Gampola,Ganga Ihala Korale,1.1AB,provincial
+3710,VIDYA PRADEEPA PRIMARY SCHOOL,UDAWELA BARAWARDANAOYA,Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3711,VIDYANANDA BUDDHIST PRIMARY SCHOOL,DELTOTA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3712,PANWILA MODEL P.S.,PANWILA,Central,21.Kandy,Waththegama,Panvila,4.Type3,provincial
+3713,UDADUMBARA SARATH EKANAYAKA MODEL PRIMARY SCHOOL,UDADUMBARA,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3714,AL-MUNAWWARA P.S.,MADAWALA BAZAAR,Central,21.Kandy,Waththegama,Pathadumbara,4.Type3,provincial
+3715,KUNDASALE RAJAKEEYA P.V.,"WARAPITIYA, KUNDASALE",Central,21.Kandy,Waththegama,Kundasale,4.Type3,provincial
+3716,MINIPE SARATH EKANAYAKA MODEL PRIMRY SHOOL,HASALAKA,Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3717,ANKUMBURA MODEL P.V.,ANKUNMBURA.,Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3719,UDUNUWARA MODEL P.S.,MURUTHALAWA,Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3720,AN NOOR PRIMARY SCHOOL,HANDESSA,Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3721,PUSSELLAWA HINDU PRIMARY SCHOOL,PUSSELLAWA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3723,DUMBARA ROYAL P.V.,"YAKGAHAPITIYA, GUNNEPANA",Central,21.Kandy,Waththegama,Kundasale,4.Type3,provincial
+3724,WIMALADHARMASOORIYA MODEL .P.S.,"NAWAYALATENNA, KATUGASTOTA",Central,21.Kandy,Waththegama,Pathadumbara,4.Type3,provincial
+3725,NAWALAPITIYA AL-SAFA PRIMARY SCHOOL,"DOLASBAGE RD, NAWALAPITIYA.",Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3726,AMEENIYA P.V.,VELAMBODA,Central,21.Kandy,Denuwara,Udunuwara,4.Type3,provincial
+3727,ENASALGOLLA PRIMARY SCHOOL,"ENASALGOLLA, DELTOTA",Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3728,MEDAGODA MODEL P.V.,"MEDAGODA, PUJAPITIYA.",Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3729,NANODA MODEL P.S.,"MORAYAYA, MINIPE",Central,21.Kandy,Teldeniya,Minipe,4.Type3,provincial
+3730,MAHINDA MODEL PRIMARY SCHOOL,KALUNNTHENNA BOPANA,Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3731,DUTUGEMUNU PRIMARY SCHOOL,"KAHATALIYADDA, UDADUMBARA",Central,21.Kandy,Teldeniya,Udadumbara,4.Type3,provincial
+3733,JINARAJA MODEL PRIMARY SCHOOL,SINHAPITIYA GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3734,DUNUWILA SUMANASARA MODEL P.S.,"DUNUWILA, AKURUNA",Central,21.Kandy,Katugastota,Akurana,4.Type3,provincial
+3736,KATHIRESAN MODEL PRIMARY SCHOOL,NAWALAPITIYA,Central,21.Kandy,Gampola,Pasbage Korale,4.Type3,provincial
+3737,SRI DHAMMARAKKITHA MODEL P.S.,DANTUREE,Central,21.Kandy,Denuwara,Yatinuwara,4.Type3,provincial
+3738,BERREWAERTS ROYAL PRIMARY SCHOOL,AMPITIYA,Central,21.Kandy,Kandy,Gangawata Korale,4.Type3,provincial
+3739,GALAHA MODEL SCHOOL,"PALLE DELTOTA RD, GALAHA",Central,21.Kandy,Kandy,Pathahewaheta,3.Type2,provincial
+3740,SRI SHANMUGA PRIMARY SCHOOL,GALAHA,Central,21.Kandy,Kandy,Pathahewaheta,4.Type3,provincial
+3741,RATHNAWALI P.V.,ULAPANE,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3742,D.M.JAYARATHNA PRIMARY SCHOOL,"NAWA GURUKELLE, DOLUWA, GAMPOLA.",Central,21.Kandy,Gampola,Udapalatha,4.Type3,provincial
+3743,CRAIHEAD NO 01 MODEL PRIMARY SCHOOL,UDAHENTHENNA,Central,21.Kandy,Gampola,Ganga Ihala Korale,4.Type3,provincial
+3744,SIVANANDA PRIMARY SCHOOL,HANTHANA,Central,21.Kandy,Kandy,Gangawata Korale,4.Type3,provincial
+3745,MARATHUGODA MODEL P.S.,MARATHUGODA,Central,21.Kandy,Katugastota,Poojapitiya,4.Type3,provincial
+3746,KANDAKETIYA PRIMARY TAMIL V.,THAWALANTHENNA,Central,21.Kandy,Waththegama,Panvila,4.Type3,provincial
+4001,D.S.SENANAYAKA MAHA VIDYALAYA,"ERAULA JUNCTION, DAMBULLA",Central,22.Matale,Galewela,Dambulla,2.1C,provincial
+4002,THENNAKOON MAHA VIDYALAYA,KANDALAMA DAMBULLA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4004,SIGIRIYA CENTRAL COLLEGE,SIGIRIYA,Central,22.Matale,Galewela,Dambulla,2.1C,provincial
+4005,ETHA BENDIWEWA K.V.,ETHABENDIWEWA DAMBULLA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4006,ERAULA JUNIOR SCHOOL,"PAHALA ERAULA, DAMBULLA",Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4007,WEERA WIJAYA WIMALARATHNA MAHA VIDYALAYA,INAMALUWA,Central,22.Matale,Galewela,Dambulla,2.1C,provincial
+4008,MAHASEN JUNIOR SCHOOL,KALUNDAWA DAMBULLA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4009,THALAKIRIYAGAMA M.V.,THALAKIRIYAGAMA,Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4010,THITHTHAWELGOLLA JUNIOR SCHOOL,"KAPUWATTA, DAMBULLA",Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4011,DIGAMPATHAHA JUNIOR SCHOOL,"DIGAMPATHAHA, KIMBISSA",Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4012,PANNAMPITIYA MAHA VIDYALAYA,PANNAMPITIYA LENADORA,Central,22.Matale,Galewela,Dambulla,2.1C,provincial
+4013,PELWEHERA JUNIOR SCHOOL,PELWEHERA DAMBULLA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4014,LENADORA JUNIOR SCHOOL,LENADORA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4015,LENAWA PRIMARY SCHOOL,LENAWA KIMBISSA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4016,WEWALAWEWA MAHA VIDYALAYA,WEWALAWEWA DAMBULLA,Central,22.Matale,Galewela,Dambulla,2.1C,provincial
+4017,ALAKOLAWEWA J.S.,WEWALAWEWA DAMBULLA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4018,IHALA ERAULA PRIMARY SCHOOL,"IHALA ERAULA, DAMBULLA",Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4019,UDAWELAYAGAMA KANISTA VIDYALAYA,SIGIRIYA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4020,KALOGAHAELA PRIMARY SCHOOL,EREULA JUNCTION DAMBULLA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4021,KIMBISSA JUNIOR SCHOOL,KIMBISSA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4022,KIRALAGOLLA PRIMARY SCHOOL,"KIRALAGOLLA, DAMBULLA",Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4023,THALKOTE PRIMARY SCHOOL,SIGIRIYA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4024,DAMBULLA PRIMARY SCHOOL,DAMBULLA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4025,NAGALAWEWA PRIMARY SCHOOL,KIMBISSA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4026,POLATHTHAWA PRIMARY SCHOOL,"POLATHTHAWA, SIGIRIYA",Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4027,BULAGALA PRIMARY SCHOOL,BULAGALA DAMBULLA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4028,RATHMALGAHAELA JUNIOR SCHOOL,RATHMALGAHAELA DAMBULLA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4029,WALGAMWEWA JUNIOR SCHOOL,WALGAMWEWA LENADORA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4030,WATHTHE GAMMADDA PRIMARY SCHOOL,LENADORA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4031,PALUTAWA PRIMARY SCHOOL,KIMBISSA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4032,THENNAKOONPURA PRIMARY SCHOOL,"THENNAKOONPURA, THALAKIRIYAGAMA",Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4033,BELLANNE OYA PRIMARY SCHOOL,BELLANNEOYA INAMALUWA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4034,POHORANWEWA JUNIOR SCHOOL,POHORANWEWA DAMBULLA,Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4035,DAMBULLA WEERA MOHAN JAYAMAHA M.V.,"DAMBULUGAMA, DAMBULLA",Central,22.Matale,Galewela,Dambulla,2.1C,provincial
+4036,DIYAKEPILLA PRIMARY SCHOOL,"DIYAKEPILLA, SIGIRIYA",Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4037,MADIPOLA MAHA VIDYALAYA,MADIPOLA,Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4038,MANINGAMUWA MAHA VIDYALAYA,PALLEPOLA MATALE,Central,22.Matale,Galewela,Pallepola,2.1C,provincial
+4039,MILLAWANA MAHA VIDYALAYA,MILLAWANA MATALE,Central,22.Matale,Galewela,Pallepola,2.1C,provincial
+4040,MEDABEDDA M.V.,MEDABEDDA WASALAKOTTE,Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4041,WEERA MADDUMA BANDARA JUNIOR SCHOOL,EHELEPOLA PALLEPOLA,Central,22.Matale,Galewela,Pallepola,3.Type2,provincial
+4042,KANDEWATTA P.S.,MILLAWANA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4043,DEMBAWA PRIMARY SCHOOL,DEMBAWA MADIPOLA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4044,MAHABODHI SECONDARY SCHOOL,PALLEPOLA,Central,22.Matale,Galewela,Pallepola,1.1AB,provincial
+4046,RUSIGAMA JUNIOR SCHOOL,RUSIGAMA PALLEPOLA,Central,22.Matale,Galewela,Pallepola,3.Type2,provincial
+4047,AKURAMBODA K.V.,AKURAMBODA,Central,22.Matale,Galewela,Pallepola,3.Type2,provincial
+4048,AMBOKKA PRIMARY SCHOOL,AMBOKKA MILLAWANA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4049,KEDANGAMUWA PRIMARY SCHOOL,KEDANGAMUWA-MADIPOLA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4050,AKURAMBODA MODEL PRIMARY SCHOOL,"KIRIORUWA, AKURAMBODA, MATALE",Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4051,KOBBEWEHERA JUNIOR SCHOOL,"MILLAWANA, MATALE",Central,22.Matale,Galewela,Pallepola,3.Type2,provincial
+4052,KOSGOLLA PRIMARY SCHOOL,KOSGOLLA AKURAMBODA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4053,DEMADAOYA PRIMARY SCHOOL,NALANDA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4054,NILANNORUWA PRIMARY SCHOOL,NILANNORUWA MADIPOLA MATALE,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4055,MANANWATHTHA PRIMARY SCHOOL,MANANWATHTHA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4056,MONARAWILA PRIMARY SCHOOL,PALLEPOLA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4057,WALMORUWA PRIMARY SCHOOL,NALANDA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4059,DIMBULGAMUWA P.V.,DIMBULGAMUWA -MADALAWALA ULPOTHA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4060,KOHOLANWALA PRIMARY SCHOOL,KOHOLANWALA MADAWALAULPOTHA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4062,GALEWELA CENTRAL COLLEGE,GALEWELA,Central,22.Matale,Galewela,Galewela,1.1AB,provincial
+4063,MAKULUGASWEWA MAHA VIDYALAYA,"DEWAHUWA, GALEWELA",Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4064,WASALAKOTTE ST. ANTHONY'S COLLEGE,WASALAKOTTE,Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4065,HOMBAWA MAHA VIDYALAYA,BAMBARAGASWAWA GALEWELA,Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4066,SILWATHGALA MAHA VIDYALAYA,"BELIYAKANDA, GALEWELA",Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4067,ALUTHWEWA J.S.,BAMBARAGASWEWA,Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4068,DAMUNUMULLA KANISHTA VIDYALAYA,GALEWELA,Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4069,NILAGAMA JUNIOR SCHOOL,"NILAGAMA, BAMBARAGASWEWA, GALEWELA",Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4070,PATTIWELA JUNIOR SCHOOL,"PATTIWELA, GALEWELA",Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4071,PATHKOLAGOLLA K.V.,PATHKOLAGOLLAGALEWELA,Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4072,BELIGAMUWA JUNIOR SCHOOL,BELIGAMUWA,Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4073,MORAGOLLA MAHA VIDYALAYA,BAMBARAGASWEWA GALEWELA,Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4074,SIYAMBALAGAHAWELA JUNIOR SCHOOL,SIYAMBALAGAHAWELA WASALAKOTTE,Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4075,THOLAMBUGOLLA MAHA VIDYALAYA,"THOLAMBUGOLLA, GALEWELA",Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4076,DANDUBENDIRUPPA JUNIOR SCHOOL,DEWAHUWA,Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4077,YATIGALPOTHTHA JUNIOR SCHOOL,"YATIGALPOTHTHA, GALEWELA",Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4078,NIKAWEHERA K.V.,"NIKAWEHERA, GALEWELA.",Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4079,DEWAHUWA SINHALA JUNIOR SCHOOL,"BORALUKANDA, DEWAHUWA",Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4080,ANDAGALA PRIMARY SCHOOL,ANDAGALA BAMBARAGASWEWA GALEWELA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4081,IHALA DIGGALA PRIMARY SCHOOL,IHALA DIGGALA DEWAHUWA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4082,EBBAWALA PRIMARY SCHOOL,EBBAWALA MANANWATHTHA,Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4083,GALEWELA PRIMARY SCHOOL,GALEWELA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4084,NEERANGAMUWA KANISHTA VIDYALAYA,NEERANGAMUWA,Central,22.Matale,Galewela,Galewela,3.Type2,provincial
+4085,BULANAWEWA PRIMARY SCHOOL,BULANAWEWA DEWAHUWA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4086,PAHALA DIGGALA PRIMARY SCHOOL,DEWAHUWA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4087,GALEWELA MODEL PRIMARY SCHOOL,"MATALE RD, GALEWELA",Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4088,KOSGAHAHEENNA P.S.,BAMBARAGASWEWA GALEWELA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4089,SRI SUGATHA PRIMARY SCHOOL,GALEWELA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4090,SILWATHGAMA PRAIMARY SCHOOL,"SILWATHGAMA, GALEWELA",Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4091,WALAMITIYAWA PRIMARY SCHOOL,WALAMITIYAWA GALEWELA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4092,DIULGASKOTUWA PRIMARY SCHOOL,"BELIGAMUWA, GALEWELA",Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4094,MONTIGOPALLAWA MAHA VIDYALAYA,"AMBANA, KOOMGAHAWELA",Central,22.Matale,Naula,Naula,2.1C,provincial
+4095,KOONGAHAWELA MAHA VIDYALAYA,KOONGAHAWELA,Central,22.Matale,Naula,Naula,3.Type2,provincial
+4096,NALANDA MAHA VIDYALAYA,NALANDA,Central,22.Matale,Naula,Naula,2.1C,provincial
+4097,NIKULA BIBILA JUNIOR SCHOOL,"NIKULA, NAULA",Central,22.Matale,Naula,Naula,3.Type2,provincial
+4098,PUBBILIYA JUNIOR SCHOOL,"PUBBILYA, KOONGAHAWELA",Central,22.Matale,Naula,Naula,3.Type2,provincial
+4099,MELPITIYA MAHA VIDYALAYA,"MELPITIYA, MATALE",Central,22.Matale,Naula,Naula,2.1C,provincial
+4100,ANDAWALA MAHA VIDYALAYA,"MADAWALAULPOTHA, MATALE",Central,22.Matale,Naula,Naula,2.1C,provincial
+4102,OPALGALA JUNIOR SCHOOL,"OPALGALA, MATALE",Central,22.Matale,Naula,Naula,3.Type2,provincial
+4103,KUMBIYANGAHAELA JUNIOR SCHOOL,"AMBANA JUNCTION, KONGAHAWELA",Central,22.Matale,Naula,Naula,3.Type2,provincial
+4105,PILIHUDUGOLLA JUNIOR SCHOOL,NAULA,Central,22.Matale,Naula,Naula,3.Type2,provincial
+4106,MURUTOLUWA JUNIOR SCHOOL,"MELPITIYA, MATALE",Central,22.Matale,Naula,Naula,3.Type2,provincial
+4107,BOGAS BOBELLA JUNIOR SCHOOL,NALANDA,Central,22.Matale,Naula,Naula,3.Type2,provincial
+4108,HADUWA JUNIOR SCHOOL,"HADYWA, NAULA",Central,22.Matale,Naula,Naula,3.Type2,provincial
+4109,BAMBARAGAHAWATHTHA JUNIOR SCHOOL,"BAMBARAGAHAWATHTHA, PUBBILIYA",Central,22.Matale,Naula,Naula,4.Type3,provincial
+4111,UDUDENIYA PRIMARY SCHOOL,NALANDA,Central,22.Matale,Naula,Naula,4.Type3,provincial
+4112,OPALGALA MORAGOLLA PRIMARY SCHOOL,"AMBANA, KONGAHAWELA",Central,22.Matale,Naula,Naula,4.Type3,provincial
+4113,DEWARADAPOLA PRIMARY SCHOOL,ELAHERA RD NAULA,Central,22.Matale,Naula,Naula,4.Type3,provincial
+4115,BOBELLA PRIMARY SCHOOL,"BOBELLA, NAULA",Central,22.Matale,Naula,Naula,4.Type3,provincial
+4118,MINIPURA VIJAYA M.V.,"DASGIRIYA, HATHTHOTA AMUNA",Central,22.Matale,Wilgamuwa,Laggala,2.1C,provincial
+4119,NAMINI OYA M.M.V.,WILGAMUWA,Central,22.Matale,Wilgamuwa,Wilgamuwa,1.1AB,provincial
+4120,PALLEGAMA M.M.V.,"LAGGALA, PALLEGAMA",Central,22.Matale,Wilgamuwa,Laggala,2.1C,provincial
+4121,MARAKA M.V.,MARAKA,Central,22.Matale,Wilgamuwa,Wilgamuwa,2.1C,provincial
+4122,HANDUNGAMUWA M.V.,HANDUNGAMUWA,Central,22.Matale,Wilgamuwa,Wilgamuwa,2.1C,provincial
+4123,NUGAGOLLA M.V.,NUGAGOLLA,Central,22.Matale,Wilgamuwa,Wilgamuwa,2.1C,provincial
+4124,MEDAKANDA K.V.,"DUNUWILAPITIYA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,3.Type2,provincial
+4125,RANAMURE K.V.,"RANAMURE, LAGGALA, PALLEGAMA",Central,22.Matale,Wilgamuwa,Laggala,3.Type2,provincial
+4126,SONUTHTHARA K.V.,"SONUTHTHA, NUGAGOLLA",Central,22.Matale,Wilgamuwa,Wilgamuwa,3.Type2,provincial
+4128,IMADUWAYAYA P.V.,"IMADUWAYAYA, PERAKANATTA",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4129,SRI AGRABODHI K.V.,"KALUGANGA, HATTOTAAMUNA",Central,22.Matale,Wilgamuwa,Laggala,3.Type2,provincial
+4130,KIULAWADIYA P.V.,"LAGGALA, PALLEGAMA",Central,22.Matale,Wilgamuwa,Laggala,4.Type3,provincial
+4131,KUMBUKANDANA P.V.,MARAKA,Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4134,NARANGAMUWA P.V.,"NARANGAMUWA, LAGGALA, PALLEGAMA",Central,22.Matale,Wilgamuwa,Laggala,4.Type3,provincial
+4135,BOGAHAWAWE K.V.,DEWAGIRIYA,Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4137,MAHAWATHANNA P.V.,"PERAKANATHTHA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4138,MORAGAHA ULPATHA P.V.,"WILGAMUWA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4139,RAMBUKOLUWA K.V.,"HIRATIOYA, LAGGALA, PALLEGAMA",Central,22.Matale,Wilgamuwa,Laggala,4.Type3,provincial
+4140,LEDIYANGALA P.V.,"DEWAGIRIYA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4141,LELOYA P.V.,"LELOYA, HATHTHOTAAMUNA",Central,22.Matale,Wilgamuwa,Laggala,4.Type3,provincial
+4142,WILGAMUWA P.V.,"WILGAMUWA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4143,HATHTHOTA AMUNA M.V.,"HATHTHOTAAMUNA, MATALE",Central,22.Matale,Wilgamuwa,Laggala,2.1C,provincial
+4144,KEKALATHANNA K.V.,"NAMINIGAMA, PERAKANATHTHA",Central,22.Matale,Wilgamuwa,Wilgamuwa,3.Type2,provincial
+4145,NUWARAYAYA P.V.,"MARAKA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4146,PUSSALLAYAYA P.V.,"GAMBURU OYA, HANDUNGAMUWA",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4147,RADUNNAWEWA P.V.,"RADUNNAWEWA, MARAKA",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4148,HIMBILIYAKADA P.V.,"HIMBILIYAKADA, HADUTHGAMUWA, MATALE",Central,22.Matale,Wilgamuwa,Laggala,4.Type3,provincial
+4149,GURUWELAYAYA K.V.,"GURUWELAYAYA, DEWAGIRIYA",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4150,PUSSELLA NAVODYA SCHOOL,"PUSSELLA, GAMMADUWA",Central,22.Matale,Naula,Ambanganga Korale,2.1C,provincial
+4151,MAHINDA SECONDARY SCHOOL,"MATIHAKKA, MATALE",Central,22.Matale,Naula,Ambanganga Korale,2.1C,provincial
+4152,MAHALAKOTUWA SRI SUMANA M.V.,"ILLUKKUMBURA, MATALE",Central,22.Matale,Wilgamuwa,Laggala,2.1C,provincial
+4153,PUWAKPITIYA DAMMANTHANNA K.V.,"GANGALA, PUWAKPITIYA",Central,22.Matale,Wilgamuwa,Laggala,3.Type2,provincial
+4154,KUMBALOLUWA JUNIOR SCHOOL,"IMBULGOLLA, MATALE",Central,22.Matale,Naula,Ambanganga Korale,3.Type2,provincial
+4156,RATTOATA MAHABODHI JUNIOR SCHOOL,"NARAGOLLA, RATTOTA",Central,22.Matale,Naula,Ambanganga Korale,3.Type2,provincial
+4159,IMBULGOLLA PRIMARY SCHOOL,DAMBAGAHA MUDUNA GAMMADUWA,Central,22.Matale,Naula,Ambanganga Korale,4.Type3,provincial
+4161,KALUGALTHENNA PRIMARY SCHOOL,KALUGALTHENNA GAMMADUWA,Central,22.Matale,Naula,Ambanganga Korale,4.Type3,provincial
+4163,PALLETHENNA JUNIOR SCHOOL,PALLETHENNA,Central,22.Matale,Naula,Ambanganga Korale,3.Type2,provincial
+4167,HUNUKETE K.V.,"HUNUKETE, RATTOTA",Central,22.Matale,Naula,Ambanganga Korale,3.Type2,provincial
+4168,HUNUKATAELA PRIMARY SCHOOL,"RANMUTHUGAMA, MATIHAKKA",Central,22.Matale,Naula,Ambanganga Korale,4.Type3,provincial
+4171,BUDDDHAGOSHA MAHA VIDYALAYA,PALAPATHWALA MATALE,Central,22.Matale,Matale,Matale,2.1C,provincial
+4174,MADAWALA ULPOTHA SECONDARY SCHOOL,MADAWALA ULPOTHA MATALE,Central,22.Matale,Matale,Matale,2.1C,provincial
+4176,MATALE VIJAYAPALA MAHA VIDYALAYA,"RICHARD PAMUNUWA MW, MATALE",Central,22.Matale,Matale,Matale,1.1AB,provincial
+4177,DULLEWA MAHA VIDYALAYA,"DULLEWA, MATALE",Central,22.Matale,Matale,Yatawatta,2.1C,provincial
+4178,D.M. GUNARATHNA VIDYALAYA,MAHAWELA MATALE,Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4179,YATAWATTA WEERAPARAKRAMA SECONDARY SCHOOL,"YATAWATTA , MATALE",Central,22.Matale,Matale,Yatawatta,1.1AB,provincial
+4180,GOVERNMENT SCIENCE COLLEGE,MATALE,Central,22.Matale,Matale,Matale,1.1AB,provincial
+4181,ALUVIHARE RAJAKIYA V.,"ALUVIHARE, MATALE",Central,22.Matale,Matale,Matale,2.1C,provincial
+4182,NAVODAYA PRIMARY SCHOOL,"ALUTHGAMA, WALAWELA, MATALE",Central,22.Matale,Matale,Yatawatta,4.Type3,provincial
+4183,ANAGARIKA DHARMAPALA MAHA VIDYALAYA,UDASGIRIYA MATALE,Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4184,KANANGAMUWA VIDYALAYA,DUMKOLAWATTA,Central,22.Matale,Matale,Matale,3.Type2,provincial
+4185,KAWATAYAMUNA ANANDA MAHA VIDYALAYA,MAHAWELA,Central,22.Matale,Matale,Matale,3.Type2,provincial
+4186,KAUDUPELELLA SINHALA VIDYALAYA,"KAUDUPELELLA, MATALE",Central,22.Matale,Matale,Matale,3.Type2,provincial
+4187,SUJATHA BALIKA MAHA VIDYALAYA,"KUMBIYANGODA, MATALE",Central,22.Matale,Matale,Matale,2.1C,provincial
+4188,WEERA PURANAPPU VIDYALAYA,MATALE,Central,22.Matale,Matale,Matale,3.Type2,provincial
+4190,MALIYADEWA MAHA VIDYALAYA,"DEEVILLA, YATAWATHTHA",Central,22.Matale,Matale,Yatawatta,2.1C,provincial
+4191,DODAMDENIYA VIDYALAYA,"DODAMDENIYA, MATALE",Central,22.Matale,Matale,Matale,3.Type2,provincial
+4192,SRI RAHULA VIDYALAYA,DOMBAWELA MAHAWELA,Central,22.Matale,Matale,Matale,3.Type2,provincial
+4193,NANDANA VIDYALAYA,"UDASGIRIYA, MATALE",Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4194,PAMUNUWA JUNIOR SCHOOL,"WALAWELA, MATALE",Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4195,MATHALAPITIYA VIDYALAYA,"MATHALAPITIYA, MATALE",Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4196,MORAGAHAMADA KANISHTA VIDYALAYA,MORAGAHAMADA MADAWALA ULPATHA,Central,22.Matale,Matale,Matale,3.Type2,provincial
+4197,DHARMASHOKA VIDYALAYA,"RATHALAWEWA, MAHAWELA",Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4198,SELAGAMA VIDYALAYA,SELAGAMA MATALE,Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4199,HULANGAMUWA P.S.,"HULANGAMUWA, MATALE",Central,22.Matale,Matale,Matale,4.Type3,provincial
+4200,ATHIPOLA VIDYALAYA,ATHIPOLA DULLEWA MATALE,Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4201,IDAMGAMA P.S.,"UDASGIRIYA, MATALE",Central,22.Matale,Matale,Yatawatta,4.Type3,provincial
+4202,HATHAMUNAGALA V.,MADAWALAULPATHA,Central,22.Matale,Matale,Matale,4.Type3,provincial
+4203,MADDUMA BANDARA PRIMARY SCHOOL,IMBULANDANDA DUMKOLAWATTA,Central,22.Matale,Matale,Matale,4.Type3,provincial
+4204,KAIKAWALA CENTRAL COLLEGE,KAIKAWALA,Central,22.Matale,Matale,Rattota,1.1AB,provincial
+4205,BANDARAPOLA M.V.,"KIULA, MATALE",Central,22.Matale,Matale,Rattota,2.1C,provincial
+4206,SRI PARACKRAMA MAHA VIDYALAYA,"RATTOTA, MATALE",Central,22.Matale,Matale,Rattota,2.1C,provincial
+4207,SIRI SEEVALI MAHA VIDYALAYA,"WERAGAMA, KAIKAWALA",Central,22.Matale,Matale,Rattota,2.1C,provincial
+4208,ALAKOLAMADA K.V.,"KAIKAWALA, MATALE",Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4209,KIULA ULPOTHA VIDYALAYA,"KIULA, MATALE",Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4210,SRI SIDDARTHA MODEL SCHOOL.,"KOSWANA, KAIKAWALA, MATALE",Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4211,DANKANDA MAHA VIDYALAYA,DANKANDA RATTOTA,Central,22.Matale,Matale,Rattota,2.1C,provincial
+4212,DIKKUMBURA VIDYALAYA,DIKKUMBURA RATTOTA,Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4213,NELUWAKANDA BAUDDHA MAHA VIDYALAYA,"NELUWAKANDA, MUWANDENIYA, MATALE",Central,22.Matale,Matale,Rattota,2.1C,provincial
+4215,POLWATTAKANDA JUNIOR SCHOOL,"POLWATTAKANDA, DANKANDA",Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4216,MUWANDENIYA VIDYALAYA,MUWANDENIYA MATALE,Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4217,WERALUGASTHENNA VIDYALAYA,"WERALUGASTHENNA , DANKANDA, MATALE",Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4218,DHARMAVIJAYA VIDYALAYA,"WELANGAHAWATTA, RATTOTA",Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4219,WERAGAMA PARACKRAMA VIDYALAYA,MEDA WERAGAMA KAIKAWALA MATALE,Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4220,HAPUVIDA KANISHTA VIDYALAYA,ALWATTA MATALE,Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4221,OVALA PRIMARY SCHOOL,OVALA KAIKAWALA,Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4222,KAIKAWALA PRIMARY SCHOOL,"KAIKAWALA, MATALE",Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4223,SARIPUTTA MODEL P.S.,"KARAGAHALANDA, ALWATTA, MATALE",Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4227,NELUWAKANDA BAPTIST VIDYALAYA,"NELUWAKANDA, ALWATTA",Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4229,RATTOTA BAPTIST MODEL PRIMARY SCHOOL,"RATTOTA, MATALE",Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4232,OVILIKANDA M.V.,"OVILIKANDA, MATALE",Central,22.Matale,Matale,Ukuwela,2.1C,provincial
+4233,NAGOLLA SIDDHARTHA CENTRAL COLLEGE,NAGOLLA SIDDHARTHA CENTAL COLLAGE UKUWELA,Central,22.Matale,Matale,Ukuwela,2.1C,provincial
+4234,SRI PAGNNARAMA MAHA VIDYALAYA,"NAWARATHNAGODA, UDATHENNA",Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4235,MAHINDA RAJAPAKSHA NAVODYA MAHA VIDYALAYA,KURIWELA UKUWELA,Central,22.Matale,Matale,Ukuwela,2.1C,provincial
+4236,LELIAMBE MAHA VIDYALAYA,LELIAMBE,Central,22.Matale,Matale,Ukuwela,2.1C,provincial
+4237,THENNA MAHA VIDYALAYA,MATALE,Central,22.Matale,Matale,Ukuwela,2.1C,provincial
+4238,SRI SARANANKARA MAHA VIDYALAYA,"UDUPIHILLA, MATALE",Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4239,KATUDENIYA MAHA VIDYALAYA,"KATUDENIYA, MATALE",Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4240,SRI DHAMMATHILAKA M.V.,WEHIGALA,Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4241,ELKADUWA SINHALA VIDYALAYA,ELKADUWA,Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4242,ELVALA VIDYALAYA,"ELWALA, MATALE",Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4243,IMBULPITIYA MAHA VIDYALAYA,KARAGAHAHINNA MATALE,Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4244,KADUWELA VIDYALAYA,"KADUWELA, UKUWELA",Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4245,KALALPITIYA KANISHTA VIDYALAYA,KALALPITIYA UKUWELA,Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4246,MAHANAMA PRIMARY SCHOOL,"KIRIMETIYAWA, OVILIKANDA, MATALE",Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4247,SRI SARANANDA PRIMARY SCHOOL,GURALAWELA UKUWELA,Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4248,PATHINGOLLA VIDYALAYA,"PATHINGOLLA, OVILIKANDA, MATALE",Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4249,SRI SUMANGALA V.,"BOWATHA, UKUWELA, MATALE",Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4251,DEHIDENIYA MODEL P.S.,LALIAMBE,Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4253,OVLIKANDA P.S.,"OVILIKANDA, MATALE",Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4256,THIBBATUWAWA P.S.,"THENNA, MATALE",Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4258,LELIAMBE P.S.,"LELIAMBE, MATALE",Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4264,AL-FURKHAN MUSLIM M.V.,GALEWELA,Central,22.Matale,Galewela,Galewela,1.1AB,provincial
+4265,RATTOTA HINDU MAHA VIDYALAYAM,RATTOTA,Central,22.Matale,Matale,Rattota,2.1C,provincial
+4267,YATAWATTA MINHAJ MAHA VIDYALAYA,"NIKAGOLLA, YATAWATTA",Central,22.Matale,Matale,Yatawatta,2.1C,provincial
+4268,MADIPOLA ARAFA MUSLIM MAHA VIDYALAYA,"MATALE RD, 7TH MILE POST, MADIPOLA",Central,22.Matale,Galewela,Pallepola,2.1C,provincial
+4269,AN-NOOR MUSLIM M.V.,"KANDY RD, WARAKAMBURA",Central,22.Matale,Matale,Ukuwela,2.1C,provincial
+4270,KURIWELA HAMEEDIYA COLLEGE,UKUWELA,Central,22.Matale,Matale,Ukuwela,2.1C,provincial
+4271,THIRUWALLUVAR TAMIL VIDYALAYA,PALAPATHWALA,Central,22.Matale,Matale,Matale,3.Type2,provincial
+4272,KALAIMAHAL MAHA VIDYALAYA,KAWDUPELELLA MATALE,Central,22.Matale,Matale,Matale,2.1C,provincial
+4273,DEWAHUWA MUSLIM MAHA VIDYALAYA,DEWAHUWA,Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4274,ELAMALPOTHA MUSLIM MAHA VIDYALAYA,WAHACOTTE,Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4275,RAJJAMMANA MUSLIM VIDYALAYA,MADAWALA ULPOTHA,Central,22.Matale,Matale,Matale,3.Type2,provincial
+4276,KOTTEGODA MUSLIM V.,"PALAPATWELA, MATALE",Central,22.Matale,Matale,Matale,3.Type2,provincial
+4277,MUSTHAFA MUSLIM VIDYALAYA,"ULPATHAPIYIYA, KIVULA, MATALE",Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4278,ISMALIYA VIDYALAYA,"GONGAWELA RD, MATALE",Central,22.Matale,Matale,Matale,3.Type2,provincial
+4279,KEPPITIYA MUSLIM MAHA VIDYALAYA,GALEWELA,Central,22.Matale,Galewela,Galewela,2.1C,provincial
+4280,AL-AZHAR MUSLIM VIDYALAYA,"ALUTHGAMA, MANANWATTA.",Central,22.Matale,Galewela,Pallepola,3.Type2,provincial
+4281,NIKAWATAWANA MUSLIM M.V.,"NIKAWATAWANA, KIBISSA",Central,22.Matale,Galewela,Dambulla,2.1C,provincial
+4282,AL-HAMRA MUSLIM SCHOOL,"NALAYAKANATHA, AMBANA, KOONGAHAWELA",Central,22.Matale,Naula,Naula,3.Type2,provincial
+4283,KANDALAMA MADEENA M.V.,"KANDALAMA, DAMBULLA",Central,22.Matale,Galewela,Dambulla,3.Type2,provincial
+4284,ABDUL HAMEED MUSLIM VIDYALAYA,RATTOTA,Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4285,ELKADUWA TAMIL MAHA VIDYALAYA,ELKADUWA,Central,22.Matale,Matale,Ukuwela,2.1C,provincial
+4286,HUNUGALA TAMIL V.,"ELKADUWA, MATALE",Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4287,WARIYAPOLA TAMIL VIDYALAYA,"KANDY RD, MATALE",Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4288,YATAWATTE TAMIL V.,YATAWATTA,Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4289,SELAGAMA TAMIL V.,"SELAGAMA, MATALE",Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4290,MAHALEWAKANDA TAMIL V.,KAUDUPELELLA,Central,22.Matale,Matale,Yatawatta,3.Type2,provincial
+4291,GAMMADUWA TAMIL MAHA VIDYALAYA,GAMMADUWA,Central,22.Matale,Naula,Ambanganga Korale,2.1C,provincial
+4292,OPALGALA TAMIL V.,GAMMADUWA,Central,22.Matale,Naula,Ambanganga Korale,4.Type3,provincial
+4294,MIDLAND TAMIL VIDYALAYAM,"MIDLANDS, RATTOTA",Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4295,BAMBARAGALA TAMIL V.,RATTOTA,Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4296,DANKANDA TAMIL V.,RATTOTA,Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4297,KANDENUWARA TAMIL MAHA VIDYALAYAM,"ALWATTA, MATALE",Central,22.Matale,Matale,Rattota,2.1C,provincial
+4298,MATALE WEST TAMIL V.,MATALE,Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4299,MAUSSAGALA TAMIL VIDYALAYAM,"WELANGAHAWATTA, RATTOTA, MATALE",Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4300,NICHOLOYA TAMIL VIDYALAYA,NICHOLOYA RATTOTA,Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4301,RATWATTA TAMIL V.,"RATWATTA, UKUWELA",Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4302,NAGALA TAMIL VIDYALAYA,GAMMADUWA,Central,22.Matale,Naula,Ambanganga Korale,3.Type2,provincial
+4304,WEWELMADA TAMIL VIDYALAYA,WELANGAHAWATTA RATTOTA,Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4305,HAPUGASPITIYA TAMIL VIDYALAYA,MATIHAKKA,Central,22.Matale,Naula,Ambanganga Korale,3.Type2,provincial
+4306,BANDARAPOLA TAMIL V.,MUWANDENIYA,Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4307,GANESHWARA TAMIL V.,"THAMBALAGALA, ALWATTE, MATALE",Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4308,PITAKANDA TAMIL V.,"ALWATTA, MATALE",Central,22.Matale,Matale,Rattota,3.Type2,provincial
+4309,VICNESHWARA TAMIL VIDYALAYA,ELLAGALA GAMMADUWA,Central,22.Matale,Naula,Ambanganga Korale,4.Type3,provincial
+4310,PALLETHENNA TAMIL VIDYALAYA,GAMMADUWA,Central,22.Matale,Naula,Ambanganga Korale,3.Type2,provincial
+4311,VIVEGANANDA TAMIL V.,"WIHARAGAMA ESTATE, MATALE",Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4312,VAANI TAMIL V.,"HUNNASGIRUYA, ELKADUWA",Central,22.Matale,Matale,Ukuwela,3.Type2,provincial
+4313,D.S. SENANAYAKA MODEL PRIMARY SCHOOL,"ARAULA JUNCTION, KANDALAMA",Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4314,THITHTHAWELGOLLA PRIMARY SCHOOL,"THITHTHAWELGOLLA, DAMBULLA",Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4315,SULUGUNE P.V.,"SULUGUNE, NUGAGOLLA, WILGAMUWA.",Central,22.Matale,Wilgamuwa,Laggala,4.Type3,provincial
+4318,PARAKKRAMA P.V.,"UDUWELWALA, NUGAGOLLA",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4319,WEHERAGALAYAYA K.V.,"WEHERAGALAGAMA, HANDUNGAMUWA",Central,22.Matale,Wilgamuwa,Wilgamuwa,3.Type2,provincial
+4321,PALUPITIYA P.V.,"DUNUWILAPITIYA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4322,DHARMAPALA P.V.,"GODAULPATHA, HETTIPOLA",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4323,MALGAMMANA P.V.,"MARAKA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4324,NAMAGAL TAMIL SCHOOL,"KANUMULAYAYA , NAULA",Central,22.Matale,Naula,Naula,2.1C,provincial
+4325,EGODADEWAGIRIYA P.V.,"DEWAGIRIYA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4326,OVILIKANDA TAMIL V.,"OVILIKANDA, MATALE",Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4327,MATALE SIRIMAVO BANDARANAIKE MODEL SCHOOL,"KANDY RD, MATALE",Central,22.Matale,Matale,Matale,2.1C,provincial
+4328,MAHINDA MODEL PRIMARY SCHOOL,"PALDENIYA, MAHAWELA",Central,22.Matale,Galewela,Pallepola,4.Type3,provincial
+4329,NAMINIOYA MONTIGOPALLAWA MODEL P.V.,WILGAMUWA,Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4330,VIDYARTHA MODEL P.V.,"HATHTHOTAAMUNA, MATALE",Central,22.Matale,Wilgamuwa,Laggala,4.Type3,provincial
+4332,MONTIGOPALLAWA MODEL PRIMARY SCHOOL,MATIHAKKA MATALE,Central,22.Matale,Naula,Ambanganga Korale,4.Type3,provincial
+4333,AL-MINA MUSLIM P.V.,"ELKADUWA RD, UKUWELA",Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+4334,VIDYADARSHI PRIMARY SCHOOL,"YATAWATHTHA , MATALE",Central,22.Matale,Matale,Yatawatta,4.Type3,provincial
+4335,SRI NAGA MODEL PRIMARY SCHOOL,NAULA,Central,22.Matale,Naula,Naula,4.Type3,provincial
+4336,NALANDA SUDARSHI PRIMARY SCHOOL,NALANDA,Central,22.Matale,Naula,Naula,4.Type3,provincial
+4337,INAMALUWA PRIMARY SCHOOL,INAMALUWA DAMBULLA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4338,PRESIDENT P.S.,"MAKULUGASWEWA, DEWAHUWA",Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4339,ARRAHMATH PRIMARY SCHOOL,GALEWELA,Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4340,T.B. THENNAKOON PRIMARY SCHOOL,"MEDABEDDA , WASALAKOTTTE",Central,22.Matale,Galewela,Galewela,4.Type3,provincial
+4341,KITHSIRIMEWAN PRIMARY SCHOOL,"WEWALA WEWA, DAMBULLA",Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4342,NUGAGOLLA DHARMAPRADEEPA P.V.,NUGAGOLLA,Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4343,DUTUGEMUNU P.V.,"MARAKA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4344,SRI MALIYADEWA PRIMARY SCHOOL,PANNAMPITIYA - LENADORA,Central,22.Matale,Galewela,Dambulla,4.Type3,provincial
+4345,HANDUNGAMUWA P.V.,"HANDUNGAMUWA, MATALE",Central,22.Matale,Wilgamuwa,Wilgamuwa,4.Type3,provincial
+4346,GANAPATHY P.S.,"KANDENUWARA, ALWATHA",Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4347,SRI KUMARAN P.S.,RATTOTA,Central,22.Matale,Matale,Rattota,4.Type3,provincial
+4348,NAWA GURUWELA P.V.,NAWAGURUWELA,Central,22.Matale,Wilgamuwa,Laggala,4.Type3,provincial
+4349,MAOYA K.V.,"MAOYA, HATHTHOTA AMUNA, MATALE",Central,22.Matale,Wilgamuwa,Laggala,3.Type2,provincial
+4350,KANDEPITAWALA SEEWALI ADARSHA P.V.,"KANDEPITAWALA, THORAPITIYA, PALLEGAMA",Central,22.Matale,Wilgamuwa,Laggala,4.Type3,provincial
+4351,THIBBATUMULLA SAHANA SCHOOL,THIBBATUMULLA,Central,22.Matale,Matale,Ukuwela,4.Type3,provincial
+5002,SUMANA SECONDARY SCHOOL,THALAWALELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,1.1AB,provincial
+5003,LINDULA SINHALA M.V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,2.1C,provincial
+5004,SRI VAJRAGNANA M.V.,HAWAELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,2.1C,provincial
+5005,NUWARA ELIYA GOOD SHEPHERD B.M.V.,"PARK RD, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,1.1AB,provincial
+5006,AGARAPATHANA S.M.V.,AGARAPATHANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5007,PAYNTER MEMORIAL SCHOOL,NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,2.1C,provincial
+5008,MAHINDA M.V.,KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5009,SRI SENANANDA M.V.,"MEEPILIMANA, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,2.1C,provincial
+5010,AMBEWELA SINHALA V.,"AMBEWELA, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5011,SRI PIYATHISSA V.,BAMBARAKELLE NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,4.Type3,provincial
+5012,NUWARA ELIYA DHARMAPALA V.,"RUWANELIYA, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,4.Type3,provincial
+5013,BAGAHAWATHTHA SINHALA V.,PATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5014,BOPATHTHALAWA S.V.,BOPATHTHALAWA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5015,DAYAGAMA SINHALA V.,DAYAGAMA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5016,SRI RAHULA V.,GALPALAMA KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5017,HAGGALA VIDYALAYA,HAGGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5018,GAMINI MODEL P.S.,"KALUKELLE, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,4.Type3,provincial
+5019,MADDUMA BANDARA V.,"MAGASTHOTA, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5020,SRI JEMS PIERIS VIDYALAYA,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5021,PATHANA SINALA V.,PATHANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5022,SHANTHIPURA S.V.,SHANTHIPURA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5023,WATAGODA SINHALA V.,WATAGODA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5024,VIDYACHAKRA S.V.,"RUWANELIYA, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5025,TALAWAKELLE ST. COOMBS M.V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,2.1C,provincial
+5026,SRI PARAKUM VIDYALAYA,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5027,HOLBROOK SINHALA V.,AGARAPATHANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5028,GIRLS'HIGH SCHOOL,NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,2.1C,provincial
+5029,PARAKUMBAPURA V.,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,4.Type3,provincial
+5030,GEMUNU VIDYALAYA,"SEETHAELIYA,, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,3.Type2,provincial
+5031,GINIGATHENA M.M.V.,GINIGATHENA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,1.1AB,provincial
+5032,SRIPADA M.M.V.,HATTON,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,1.1AB,provincial
+5033,"DHARMARAJA M.V., NORWOOD",NORWOOD,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,2.1C,provincial
+5034,SAMANELIYA M.M.V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,2.1C,provincial
+5036,SRI NISSANKAMALLA M.V.,"HAGARAPITIYA, HATTON",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,1.1AB,provincial
+5037,VIDULIPURA M.V.,VIDULIPURA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,2.1C,provincial
+5038,KALUGALA M.V.,"PITAWALA, NAWALAPITIYA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,2.1C,provincial
+5039,LAXAPANA M.M.V.,LAXAPANA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,1.1AB,provincial
+5040,KALAWELDENIYA M.V.,KALAWELDENIYA GINIGATHHENA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,2.1C,provincial
+5041,MADENIYA M.V.,HITIGEGAMA HATTON,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,2.1C,provincial
+5042,MORAHENAGAMA M.V.,"MORAHENAGAMA, HATTON",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,2.1C,provincial
+5043,AMBAGAMUWA M.M.V.,"AMBAGAMUWA, UDUBULATHGAMA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,1.1AB,provincial
+5044,DHARMAKEERTHY M.V.,BOGAWANTHALAWA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,2.1C,provincial
+5045,DHAMMALOKA V.,BADUPOLA GINIGATHENA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5046,DICKOYA SINHALA V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5047,DEHIGASTENNA V.,"AMBATHALAWA, GINIGATHHENA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5048,GOURAVILLA SINHALA V.,"NISSANKA UYANA, UPCOT",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5049,HEBBEKANDA V.,"HABBEKANDA, GINIGATHHENA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5050,HOMAGAMA V.,"KALAWELDENIYA, GINIGATHHENA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5051,KOTHTHELLENA V.,"MURUTHTHENNA, KOTHTHELLENA, HATTON",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5052,KEHELWARAWA V.,"PITAWALA, NAWALAPITIYA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5053,KIRIWANELIYA V.,VIDULIPURA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5054,WELHENA POLPITIYA V.,POLPITIYA PITAWALA NAWALAPITIYA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5055,KELANIGAMA V.,"KELINIGAMA, GINIGATHHENA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5056,GINIGATHENA P.V.,GINIGATHEN,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5057,GONAWALA V.,"MEDILLA, GINIGATHENA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5058,DUNUTHUDUOYA MAHA VIDYALAYA,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,2.1C,provincial
+5059,MINUWANDENIYA S.V.,"HITIGEGAMA, HATTON",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5060,WATAWALA SINHALA VIDYALAYA,WATAWALA,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,3.Type2,provincial
+5062,KOLHENAGAMA V.,"MORAHENAGAMA, HATTON",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5063,MORATHOTAYAWATHTHA V.,MORAHENAGMAHA HATTON,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5064,KODAOYA MAHAWALI JANAPADA V.,HAATON,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5065,HEDUNUWEWA CENTRAL COLLEGE,"HEDUNUWEWA, HATTON",Central,23.Nuwara Eliya,Kotmale,Kotmale,1.1AB,provincial
+5066,GAMUNU M.V.,MASWELA GAMPOLA,Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5067,HARANGALA SECONDARY SCHOOL,"HARANGALAGAMA, NAWALAPITIYA",Central,23.Nuwara Eliya,Kotmale,Kotmale,1.1AB,provincial
+5068,MALDENIYA M.V.,"MALDENIYA, VIA HATTON",Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5069,SRI MALIYADEWA M.V.,"VIJAYABAHUKANDA, VIA HATTON",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5072,SRI PARACKCKRAMA M.V.,"MADAKUMBURA, DUNUKEDENIYA",Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5073,DEEPALOKA MAHA VIDYALAYA,VIJAYABAHUKANDA VIA HATTON,Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5074,DELTA GEMUNUPURA M.V.,PUSSELLAWA,Central,23.Nuwara Eliya,Kotmale,Kotmale,1.1AB,provincial
+5075,DELUNTHALAMADA V.,"DELUNTHALAMADA, KATUKITHULA",Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5077,GANKEWALA P.V.,"GANKEWALA, KATUKITHULA",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5078,SIRISAMAN M.V.,"GORAKAOYA, NAWALAPITIYA",Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5079,HALPOLA K.V.,PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5080,SRI RATHANASARA K.V.,KALAPITIYAGAMA HEDUNUWEWA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5081,KETHIGANAHINNA K.V.,KATUKITHULA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5082,SRI SUMANGALA PRIMARY SCHOOL,KIRIDIWELA KUMBALOLUWA PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5083,MAHAWELISEYA P.V.,"KITHULBEDDA, NAYAPANA JANAPADAYA, GAMPOLA",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5084,KUDAOYA K.V.,LABUKELE,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5085,KUMBALOLUWA V.,PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5087,MALHEWA P.V.,MALHEWA KOTHMALE,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5089,MAWELA VIDYALAYA,MAWELA MASWELA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5091,NAYAPANA M.V.,"NAYAPANA JANAPADHAYA, GAMPOLA",Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5092,NIYAMGAMDORA P.V.,"NIYAMGAMDORA, KOTHMALE",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5093,DORAGALA K.V.,DORAGALA GAMPOLA,Central,21.Kandy,Gampola,Udapalatha,3.Type2,provincial
+5094,PALAGOLLA K.V.,PALAGOLLA LABUKALE,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5096,RAMBODAGAMA VIDYALAYA,RAMBADAGAMA RAMBODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5097,RAWANAGODA P.V.,RAWANAGODA VIJAYABAHUKANDA VIA HATTON,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5098,ROJASANGAMA M.V.,ROJASANGAMA NAWALAPITIYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5100,SRI BUDDHARAJA M.V.,"NAWATHISPANE, NAWALAPITIYA",Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5101,WERALLAPATHANA PRIMARY SCHOOL,WERELLAPATHANA HAPUGASTHALAWA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5102,THISPANE KANDA PRIMARY SCHOOL,THISPANEKANDA NAWATHISPANE,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5104,WEERASEKARA SECONDARY SCHOOL,"HELSIRIGAMA, KATUKITHULA",Central,23.Nuwara Eliya,Kotmale,Kotmale,1.1AB,provincial
+5105,KIKILIYAMAN M.V.,"LABOOKELLE, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,2.1C,provincial
+5106,SRI MEDHANANDA P.V.,THISPANE NO 1 NAWA THISPANE,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5107,ANANDA DASANAYAKA M.V.,"HUNUGALOYA, KATABOOLA",Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5109,HALGOLLA NO 01 P.V.,HAPUGASTHALAWA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5110,HALGOLLA NO 02 P.V.,HAPUGASTHALAWA NAWALAPITIYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5112,BATAGOLLA PUSSADEWA SECONDARY SCHOOL,WALAPANE,Central,23.Nuwara Eliya,Walapane,Walapane,1.1AB,provincial
+5113,KEERTHI BANDARA M.V.,KUMBALGAMUWA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5114,KALAGAMWATTA MAHA VIDYALAYA,KALAGANWATTA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5115,"SRI DHARMAPALA SCHOOL, MUNWATHTHA","MUNWATHTHA, WALAPANE",Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5116,ABAHENA VIDYALAYA,"ABAHENA, KALAGANWATHTA",Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5117,ALACOLAWEWA VIDYALAYA,"ALACOLAWAWE, MATHURATA",Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5118,EGODAKANDA NANDARAMA SCHOOL,EGODAKANDA. WALAPANE,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5119,LANDUPITA VIDYALAYA,PADIYAPELELLA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5120,PANNALA MAHA VIDYALAYA,PANNALA. KUMBALGAMUWA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5121,UKUTHALE SCHOOL,UKUTHALE MATHURATA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5122,LIYANWELA SUDHARMA VIDYALAYA,LIYANWELA MUNWATTA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5123,BATAGOLLAGAMA VIDYALAYA,BATAGOLLA WALAPANE,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5124,DALIWALA SCHOOL,DALIWALA KUNBALGAMUWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5125,GALABADA SCHOOL,GALABADA PADIYAPALALLA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5126,KALAULLA SCHOOL,"KALAULLA, PADIYAPALALLA",Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5127,KATAKANDURA SCHOOL,KATAKANDURA WALAPANE,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5128,MADAKANDURA SCHOOL,MADAKANDURA MUNWATHTA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5130,RUPPE SCHOOL,RUPPE NILDANDAHINNA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5131,THIBBATUGODA SCHOOL,WATANBE THIBBATUGODA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5132,THANNABOBIYA SCHOOL,THANNABODIYA KALAGANWATHTHA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5133,RANTHELANBUGAMA SCHOOL,RAJA MAWATHA KEERTHIBANDARAPURA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5134,VALAHIDA SCHOOL,VALAHIDA KALAGANWATHTHA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5135,LIHINIYAGALA SCHOOL,KEERTHIBANDARAPURA PANNALA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5136,KEENAGOLLA SCHOOL,KEENAGOLLA KALAGANWATHTHA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5138,YATIMADURA SCHOOL,YATIMADURA UDAMADURA NILDANDAHINNA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5139,T.B.M.HERATH SECONDARY SCHOOL,RAGALA HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,1.1AB,provincial
+5140,SIDUHATH MAHA VIDYALAYA,THERIPAHA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5141,SENARATH MAHA VIDYALAYA,KURUPANAWALA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5142,RUPAHA MAHA VIDYALAYA,RUPAHA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5143,WIMALADARMA SCHOOL,UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5144,SRI DHAMMAJOTHI SCHOOL,DABAGOLLA NILDANDAHINNA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5145,HARASBADDA SINGHALA VIDYALAYA,HARASBADDA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5146,MAHENA WAWATHANNA SCHOOL,WAWATHANNA ANBANALLA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5147,KOTAMBE MAHA VIDYALAYA,KOTAMBE RUPAHA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5148,MADULLA MAHA VIDYALAYA,MADULLA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5149,MANTHREETHANNA SCHOOL,MANTHREETHANNA HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5150,VIDYAPRADEEPA SCHOOL,UDAMADURA NILDANDAHINNA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5151,SOORIYAGAHAPATHANA VIDYALAYA,SOORIYAGAHAPATHANA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5152,AMBALIYADDA SCHOOL,ANBALIYADDA RUPAHA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5153,AMBANALLA SCHOOL,ANBANALLA NILDANDA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5154,DIGGALA SCHOOL,DIGGALA KUMBUKWELA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5155,GALKADAWALA SCHOOL,GALKADAWALA UDAMADURA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5156,HINGURUWELA SCHOOL,HINGURUWELA NILDANDAHINNA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5158,MALIYADDA SCHOOL,"MEEPANAWA, UDAPUSSALLAWA",Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5159,MORAHELA SCHOOL,MADULLA UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5160,PANDITHAYAKUNBURA SCHOOL,PANDITHAYAKUNBURA RAGALA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5161,RATHNAYAKAPATHNA VIDYALAYA,RATHNAYAKAPATHANA RAGALA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5162,SAGALAPURA SCHOOL,BINGANTHALAWA KANDAPOLA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5163,SAMAGIPURA VIDYALAYA,RAGALA HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5164,SENARATHPURA VIDYALAYA,RAGALA HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5165,MAHAKUDUGALA SINHALA SCHOOL,RAGALA HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5166,TUNHITIYAWA VIDYALAYA,MADULLA UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5167,HATTION HIGHLANDS COLLEGE,HATTION,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,1.1AB,provincial
+5168,TALAWAKELLE TAMIL M.V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,1.1AB,provincial
+5169,HATTON ST. JOHN BOSCO'S COLLEGE,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,1.1AB,provincial
+5170,SARASWATHY TAMIL M.V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,2.1C,provincial
+5171,AGARAPATANA HOLBROOK TAMIL M.V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,1.1AB,provincial
+5172,AGARAPATANA TAMIL M.V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,2.1C,provincial
+5173,KOTAGALA TAMIL M.V.,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,1.1AB,provincial
+5174,PANMURE TAMIL M.V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5175,WATAGODA TAMIL M.V.,WATAGODA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,2.1C,provincial
+5176,DIMBULA TAMIL M.V.,PATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,2.1C,provincial
+5177,ABBOTSLEIGH TAMIL M.V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5178,AGRAOYA TAMIL V.,ROZELLA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5179,CHRYSTLERS FARM TAMIL V.,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5180,DAYAGAMA TAMIL V.,DAYAGAMA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5181,GLENLYON TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5182,CALIDONIYA TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5183,TALAWAKELLE ST. CLAIR TAMIL M.V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,2.1C,provincial
+5184,STONYCLIFF TAMIL V.,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,2.1C,provincial
+5186,AGARAKANDE TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5187,AGRAOUVAH TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5188,ALBION TAMIL VIDYALAYA,AGARAPATHANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5189,ARDLAW TAMIL V.,AGRAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5190,GANESHA TAMIL V.,ROZELLA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5191,BINOYA NO 02 TAMIL V.,ROZELLA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5192,BOGAHAWATTE TAMIL V.,PATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5193,BEARWEEL TAMIL V.,THALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5194,BRAEMORE TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5195,VIVEKALAYA TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5196,CAROLINA TAMIL V.,WATAWALA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5197,CHAMERS TAMIL V.,HATTON,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5198,CRAIGLES TAMIL V.,PATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5199,NAMAGAL TAMIL VIDYALAYAM,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5201,UPPER CRENLY TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5202,"DRAYTON TAMIL V., KOTAGALA",KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5203,DAYAGAMA WEST NO 01 TAMIL V.,DAYAGAMA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5204,DAYAGAMA EAST TAMIL M.V.,DAYAGAMA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5205,DELL TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5206,EAST HOLYROOD TAMIL V.,TALAWAKELLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5207,EILDON HALL TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5208,FAIR FIELD TAMIL V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5209,FERHAM TAMIL V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5210,GLASGOW.TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5211,GLENOMERA TAMIL V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5212,HOLMWOOD TAMIL V.,BOPATHALAWA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5213,KELLIWATHA TAMIL V.,PATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5214,LOGIE TAMIL V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5215,"MAYFIELD TAMIL V., HATTON",HATTON,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5216,MOUNT VERNON TAMIL V.,PATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5217,MOUSAELLA TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5218,MOUNT JEAN TAMIL V.,WATAWALA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5219,NUYBOURNE TAMIL V.,DAYAGAMA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5220,PRESTON TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5221,RAHAN WATTE TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5222,SHANNON TAMIL M.V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5223,SANDRINGHAM TAMIL V.,DAYAGAMA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5224,THORNFIELD TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5225,TROUP TAMIL V.,TALAWAKELE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5226,TORINGTON TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5227,"ADITHYAA TAMIL V., LINDULA",LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5228,VELLAIOYA NO 02 TAMIL V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5229,WELLINGTON TAMIL V.,HATTON,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5230,YTHANSIDE TAMIL M.V.,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,2.1C,provincial
+5231,YARRAVEL TAMIL V.,DAYAGAMA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5233,HARRINGTON TAMIL V.,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5234,WATAWALA TAMIL M.V.,WATAWALA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5235,BALMORAL TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5236,LOWER CRANEY TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5237,CLYDESDALE TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5238,MALAIMAGAL TAMIL V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5239,FRUIT HILL TAMIL V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5240,DERRYCLARE TAMIL V.,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5241,PATANA TAMIL V.,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,3.Type2,provincial
+5242,YOXFORD TAMIL V.,WATAGODA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5243,ST. ANDREW'S TAMIL V.,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5244,STERLING TAMIL V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5245,SAUMIYAMOORTHY THONDAMAN COLLEGE,DAYAGAMA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,2.1C,provincial
+5246,BARATHY MAHA VIDYALAYA,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,2.1C,provincial
+5247,PORTMORE TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5248,ST. REGULARS TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5249,AGRA TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5250,MASKELIYA ST. JOSEPHS COLLEGE,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,1.1AB,provincial
+5251,BOGAWANTALAWA ST. MARYS CENTRAL COLLEGE,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,1.1AB,provincial
+5252,BOGAWANTALAWA HOLY ROSARY MAHA VIDYALAYAM,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,2.1C,provincial
+5253,GANAPATHY TAMIL M.V.,GANAPATHY NORTON BRIDGE,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,2.1C,provincial
+5254,KADAWALA VICKNESHWARA VIDYALAYAM,WATAWALA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5255,NORWOOD TAMIL M.V.,NORWOOD,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,1.1AB,provincial
+5256,DUNKELD TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5257,MASKELIYA MUSLIM V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5258,NALLATHANNEER TAMIL M.V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,2.1C,provincial
+5259,BARATHI TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,3.Type2,provincial
+5260,ST. JOHN DEL ERY TAMIL V.,NORWOOD,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,3.Type2,provincial
+5261,HORNSEY COLLEGE,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5262,INGESTRE TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5263,OTTERY TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5264,MOCHA WINNERS COLLEGE,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,2.1C,provincial
+5265,DICKOYA TAMIL M.V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5266,LUCCUMBE TAMIL M.V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,2.1C,provincial
+5267,TIENTSIN TAMIL V.,BOGAWANTALWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,2.1C,provincial
+5268,MASKELIYA BLOOMFIELD TAMIL M.V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,2.1C,provincial
+5269,CARFAX TAMIL M.V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5270,SINGARAWATHE TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5271,CAMPION TAMIL M.V.,BOGAWANTHALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,2.1C,provincial
+5272,GOURAVILA TAMIL M.V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,2.1C,provincial
+5273,ALTON TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5274,THEIVAKANDE TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5275,ANNANALE TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5276,ALDIE TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5277,ANNFIELD TAMIL M.V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5278,BLACK WATER TAMIL V.,AMBAGAMUWA UDALATHGAMA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5279,BOGAWANTALAWA TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5280,COOLBAWN TAMIL V.,GINIGTHENA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5281,ELBEDDE TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,3.Type2,provincial
+5282,FAIRLAWAN TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5283,FRIED LAND TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5284,FETTERESSO TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,3.Type2,provincial
+5285,GARTMORE TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5286,GANGEWATE TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5287,KIRKOSWALD NO 01 TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5288,KENILWORH NO 01 TAMIL V.,GINIGATHENA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5289,KENIL WORTH NO 02 TAMIL V.,GINIGATHENA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5290,KEW TAMIL V.,BOGAWANTHALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5291,LOINORN TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,3.Type2,provincial
+5292,LYNSTED TAMIL V.,BOGAWANTALWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5293,LONACH TAMIL V.,WATAWALA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5294,LAXAPANA NO 01 TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5295,THIRUWALLUWAR TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5296,MORAY UPPER DIVISION TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5297,MORAY LOWER DIVISION TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5298,MOUSAKELLIE NO 01 TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5299,MOTTINGHAM TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5300,MINNA TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5301,OSBRNE TAMIL V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5302,POYSTON TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5303,ST. VIGEANS TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5304,SUMMERVILLE TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5305,TILLYRIE TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5306,THEBERTON TAMIL V.,NORTONBRIDGE,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5307,WANARAJAH UPPER DIVISION TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5308,WANARAJAH LOWER DIVISION TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5309,WARLEIGH TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5310,DARAWALA UPPER DIVISION TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5311,FORDYCE TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,3.Type2,provincial
+5312,MANICKWATTA TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5313,RAGALA TAMIL SCHOOL,HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,1.1AB,provincial
+5314,LIDDESDALE TAMIL SCHOOL,HALGRANOYA RAGALA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5315,ST. LENADS TAMIL SCHOOL,ST LENAD ESTATE,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5316,HALGRAN OYA SCHOOL,HALGRANOYA RAGALA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5317,DELMAR TAMIL SCHOOL,HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5318,BROOKSIDE TAMIL SCHOOL,HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5319,GLENDEVON TAMIL SCHOOL,HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5320,MAHAKUDUGALA TAMIL SCHOOL,RAGALA HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5321,TULLOES TAMIL MAHA VIDYALAYA,UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5322,GORDON TAMIL SCHOOL,UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5323,AMHERST TAMIL SCHOOL,AMHERST ESTATE,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5324,ALNWICK TAMIL V.,UDAPUSSELLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5325,BLAIRLOMOND TAMIL SCHOOL,UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5326,HIGH FOREST NO 03 TAMIL V.,KANDAPOLA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5327,MERIGOLD TAMIL VIDYALAYA,"MERIGOLD, KADAAPOLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5328,PRINCESS TAMILA MAHA VIDYALAYA,"GONAPITIYA, KANDAPOLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5329,MAHAUWA TAMIL SCHOOL,WALAPANE,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5330,HARASBEDDA TAMIL SCHOOL,HARASBEDDA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5332,VIGNESVARA TAMIL MAHA VIDYALAYA,"RAHATHUNGODA, HEWAHETA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5333,ROOKWOOD NO 01 TAMIL VIDYALAYA,"ROOKWOOD NO1, HEWAHETA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5334,MARUTHE TAMIL VIDYALAYA,HEWAHETA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5335,MOOLOYA TAMIL VIDYALAYA,HEWAHATA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5336,KABARAGALA TAMIL VIDYALAYA,"KABARAGALA, ELAMULLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5337,ELAMULLA TAMIL VIDYALAYA,"ELAMULLA ESTATE, ELAMULLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5338,AADHAVAN TAMIL VIDYALAYA,"LOWER GONAVY, DELTOTA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5339,VIVEKANANDA TAMIL VIDYALAYA,"HOPE, HEWAHETA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5340,ALMA GREYMANT TAMIL SCHOOL,KANDAPOLA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5341,ALMA SEATON TAMIL SCHOOL,KANDAPOLA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5342,SILVAKANDY TAMIL SCHOOL,HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,3.Type2,provincial
+5343,ARUNODAYA HINDU COLLEGE,KANDAPOLA,Central,23.Nuwara Eliya,Walapane,Walapane,2.1C,provincial
+5345,PUNDULOYA TAMIL M.V.,PUNDULOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,1.1AB,provincial
+5346,KAHIRA MUSLIM V.,AHASWEWA HAPUGASTHALAWA,Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5347,AL-HIDAYA MUSLIM K.V.,KALAPITIYA HEDUNUWEWA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5348,RAMBODA HINDU VIDYALAYA,RAMBODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5349,HUNUGALOYA TAMIL VIDYALAYA,KATABOOLA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5350,MAYMOLLY TAMIL P.S.,"FROTOFT, RAMBODA",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5351,VIVEGANANDA TAMIL M.V.,SHEEN GROUP PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5352,KATABOOLA TAMIL MAHA VIDYALAYA,KATABOOLA,Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5353,VIGNESHWARA TAMIL M.V.,"HELBODDE, KATUKITHULA",Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5354,WEVANDON TAMIL K.V.,RAMBODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5355,NORTH PUNDULUOYA TAMIL VIDYALAYA,NORTH PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5356,LABUKELE TAMIL M.V.,LABUKELE,Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5357,KALAPUWANAM TAMIL K.V.,MEDDAKUMBURA WATAGODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5358,PUNDALUOYA SHIVANANDA HINDU COLLEGE,"DUNSINANE, PUNDALUOYA",Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5359,KATABOOLA QUEEN'S BERRY TAMIL V.,"QUEENSBERRY, KATABOOLA",Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5360,NORTH MEDDEKUMBURA NO 04 TAMIL P.V.,WATAGODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5361,FROTOFT TAMIL VIDYALAYA,RAMBODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5362,DUMBAGASTHALAWA TAMIL K.V.,KATABOOLA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5363,KOLAPATHNA TAMIL P.V.,KATABOOLA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5364,HUNUKOTUWA TAMIL P.V.,KATABOOLA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5365,HELBODDE NORTH TAMIL V.,KATUKITHULA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5366,DUNSINANE NO 02 TAMIL V.,DUNSINANE UPPER DIV. PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5367,KALAIWANI TAMIL P.V.,"KONDAGALA, LABUKELLE",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5368,SOUTH MEDDAKUMBURA NO 02 TAMIL V.,WATAGODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5369,GLENLOCH TAMIL VIDYALAYA,KATUKITHULA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5370,SHRI SHANMUGA TAMIL K.V.,RUWANPURA HAPUGASTHALAWA,Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5371,RUSHBROOK TAMIL P.V.,RAMBODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5372,DUNSINANE NO 03 TAMIL P.V.,PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5373,KATABOOLA NO 02 TAMIL P.V.,KATABOOLA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5374,FERLADS TAMIL VIDYALAYA,PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5375,HARROW TAMIL VIDYALAYA,PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5376,KAIPUGALA TAMIL V.,"KAIPUGALA ESTATE, PUNDULOYA",Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5377,NUWARA ELIYA ST. XAVIER'S COLLEGE,NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,2.1C,provincial
+5378,NUWARA ELIYA HOLY TRINITY CENTRAL COLLEGE,"HAWA ELIYA, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,1.1AB,provincial
+5379,NUWARA ELIYA GOOD REST CONVENT,"05, KEENA RD, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,2.1C,provincial
+5380,KANDAPOLA METHODIST COLLEGE,KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,2.1C,provincial
+5381,BLACKPOOL ST. ANTHONY'S COLLEGE,BLACKPOOL,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5382,KANDAPOLA COURTLODGE TAMIL V.,KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5383,NANUOYA DESSFORD TAMIL M.V.,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,2.1C,provincial
+5384,NANUOYA CARLABECK TAMIL VIDYALAYA,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5385,KANDAPOLA ST. JOHNS TAMIL VIDYALAYA,KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5386,LINDULA MARIA TAMIL M.V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,2.1C,provincial
+5387,NANUOYA CALSEY TAMIL VIDYALAYA,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5388,TALAWALELLE GREAT WESTERN TAMIL V.,TALAWALELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5390,NANUOYA ABBOTS FORD TAMIL V.,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5391,KANDAPOLA HETHER SETT TAMIL VIDYALAYA,KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5392,RADELLA TAMIL VIDYALAYA,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5393,WEST WARD HO TAMIL V.,NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5394,LINDULA TAMIL VIDYALAYAM,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5395,MATTAKELLE TAMIL V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5396,LAMILIERE TAMIL V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5397,WALTRIM TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5398,UDARADELLA TAMIL V.,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5399,GALKANTHAWATHA TAMIL V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5400,PALMESTON TAMIL VIDYALAYA,THALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5401,SOMERSET TAMIL VIDYALAYAM,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5402,ELGIN.TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5403,TANGAKELLE NO 2 T.V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5404,CONCORDIA TAMIL V.,KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5405,GOATFELL TAMIL V.,KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5406,SUMMER HILL.TAMIL V.,KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5407,MORNINGTON TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5408,WANGIOYA NO 01 TAMIL V.,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5409,TANGAKELLE.NO 01 TAMIL M.V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5410,TANGAKELLE NO 03 TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5411,OUVAKELLE NO 02 TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5412,LIPPAKELE TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5414,WANGIE OYA NO 02 TAMIL V.,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5415,GLENEAGLES TAMIL V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,3.Type2,provincial
+5416,"PARK TAMIL V., KANDAPOLA",KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5418,THISPANE TAMIL P.V.,NAWATHISPANE,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5419,EYRIE TAMIL M.V.,RAMBODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,2.1C,provincial
+5420,RAMANATHAN THONDAMAN TAMIL V.,RAMBDA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5421,BAMBARAKELLE TAMIL V.,NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5422,BELGRAVIA TAMIL V.,TALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5423,GLASSAUGH TAMIL V.,GLASSAUGH NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5424,ESKADALE TAMIL V.,ESKADALE KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5425,PEDRO TAMIL V.,NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5426,OLIPHANT TAMIL VIDYALAYA,NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5427,MOONPLAINS TAMIL VIDYALAYA,NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5430,GANGAPALATHA MAHA VIDYALAYA,GONAGANTHANNA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5431,PALLEBOWALA SECONDARY SCHOOL,PALLEBOWALA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,1.1AB,provincial
+5432,DIYATHILAKA CENTRAL COLLEGE,HANGURANKETHA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,1.1AB,provincial
+5433,SIRIMAVO BANDARANAYAKE BALIKA MAHA VDYALAYA,HANGUNRANKETHA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,1.1AB,provincial
+5434,EKIRIYA VIDYALAYA,EKIRIYA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5435,UDAWATHTHA KANISHTA VIDYALAYA,UDAWATHTHA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5436,UNANTHENNA KANISHTA VIDYALAYA,"UNANTHENNA, HANGURANKETHA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5437,DIMBULKUMBURA KANISHTA VIDYALAYA,"DIMBULKUMBURA, RIKILLAGSKADA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5438,PALLEGALAUDA KANISHTA VIDYALAYA,"PALLEGALAUDA, ILLAGOLLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5439,VIDYAKARA MAHA VIDYALAYA,"PORAMADULLA, RIKILLAGASKADA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5440,BABARAGAMA PRIMARY SCHOOL,HEWAHATA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5441,RAHATHUNGODA MAHA VIDYALAYA,"RAHATHUNGODA, HEWAHETA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5442,JAYABIMA KANISHTA VIDYALAYA,RIKILLAGASKADA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5443,HANDWALAPITIYA VIDYALAYA,HANDAWALAPITIYA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5444,HAPUWALA KANISHTA VIDYALAYA,HAPUWALA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5446,HEENNAPITA PRIMARY SCHOOL,"HEENNAPITA, EKIRIYA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5447,VIDYANANDA PRIMARY SCHOOL,HANGURANKETHA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5448,KOSGAHADEBALA PRIMARY SCHOOL,"KOSGAHADEBALA, PALLEBOWALA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5449,GANNEWA KANISHTA VIDYALAYA,"GANNEWA, UDAGAMA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5450,DOLUGALA PRIMARY SCHOOL,RIKILLAGSKADA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5452,DEEPALOKA PRIMARY SCHOOL,"MUDUNAPITIYA, GONAGANTHANNA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5453,MAKEMPE PRIMARY SCHOOL,PALLEBOWALA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5455,HANGURANKETHA C.C. VIDYALAYA,HANGURANKETHA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5458,DENIKE SECONDARY SCHOOL,"DENIKE, RIKILLAGASKADA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,1.1AB,provincial
+5459,PADIYAPELELLA SECONDARY SCHOOL,PADIYAPELELLA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5460,MATHURATA MAHA VIDYALAYA,MATHURATA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5462,UDAWELA MAHA VIDYALAYA,MANDARAMNUWARA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5463,KATAYAPATHANA VIDYALAYA,"KATAYAPATHANA, MATHURATA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5464,GONAKELE KANISHTA VIDYALAYA,"GONAKELE, KANDAPOLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5465,DEEGALAHINNA MAHA VIDYALAYA,"DEEGALAHINNA, ELAMULLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,2.1C,provincial
+5466,DEHIPE KANISHTA VIDYALAYA,DEHIPE,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5467,DUNUKEBEDDA KANISHTA VIDYALAYA,MATHURATA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5468,PALLEWELA KANISHTA VIDYALAYA,RIKILLAGASKADA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5469,BOGAMUWA KANISHTA VIDYALAYA,"BOGAMUWA, RIKILLAGASKADA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5470,MANAKOLA VIDYALAYA,"MANAKOLA, ELAMULLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5471,METIBEMBIYA MAHA VIDYALAYA,ELAMULLA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5472,MORAGOLLA PRIMARY SCHOOL,"MORAGOLLA, ILLAGOLLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5473,WADAWALA PRIMARY SCHOOL,"WADAWALA, KARANDAGOLLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5475,WILWALA KANISHTA VIDYALAYA,RIKILLAGASKADA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5476,UDAGALAUDA KANISHTA VIDYALAYA,ILLAGOLLA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5478,PADIYAPLELLA PRIMARY SCHOOL,PADIYAPELELLA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5479,BODIMALKADA VIDYALAYA,PADIYAPELELLA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5480,MANDARMNUWARA PRIMARY SCHOOL,MANDARMNUWARA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5481,MARTHUWELA PRIMARY SCHOOL,"MARTHUWELA, ELAMULLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5482,METIBAMBIYA PAHALAGAMA VIDYALAYA,ELAMULLA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5483,HAPPAWARA KANISHTA VIDYALAYA,"LAMADOORIYA, ILLAGOLLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5484,ROOKWOOD SINHALA VIDYALAYA,"ROOKWOOD ESTATE, NO-1 DIVISION, HEWAHETA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5485,MOOLOYA SINHALA PRIMARY SCHOOL,HEWAHETA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5486,MAHA ELIYA TAMIL V.,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5487,HAUTEVILLE TAMIL V.,AGARAPATHANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5488,VIVEKANANDA TAMIL SCHOOL,HIGHFOREST NO 01 KANDAPOLA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5489,THERESIA TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,3.Type2,provincial
+5490,PITTENWEEN TAMIL V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5491,BOGAWANA KILLARNEY TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,2.1C,provincial
+5492,BONACCORD TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5493,ROBGIL TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5494,KIRKOSWALD NO 02 TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,3.Type2,provincial
+5495,QUEENSLAND TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5496,DEESIDE TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5497,GLENGIE TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5498,VENTURE TAMIL V.,NORWOOD,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5499,IREBY TAMIL V.,NORWOOD,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,2.1C,provincial
+5500,NEWVALLEY TAMIL V.,NORWOOD,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,3.Type2,provincial
+5501,NAWALAR COLLEGE,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,2.1C,provincial
+5502,RAPAHANOK TAMIL SCHOOL,UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5503,ST. MARGRAT TAMIL SCHOOL,UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5504,RATHNAGIRIYA SINHALA V.,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,4.Type3,provincial
+5505,BRAMLI TAMIL SCHOOL,KANDAPOLA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5506,DARAWELLA LOWER DIVISION TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5507,NEWTON TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5508,NORWOOD UPPER DIVISION TAMIL V.,NORWOOD,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5509,ELTOFTS TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5510,ADAMSPEAK TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5511,MOUSAKELLIE NO 02 TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5512,HAPPUGASTHENNE TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5513,KINCRA TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5514,LYNFORD TAMIL V.,BOGAWANTALWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5515,INVERY TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5516,MIDLOTHIYAN TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5517,HADLEY TAMIL V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5518,CLEVERTON TAMIL V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5519,POTREE TAMIL VIDYALAYAM,NORWOOD,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5520,VELAIOYA NO 03 TAMIL V.,HATTON,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5521,SRI SIVANANTHA COLLEGE,ROZELLA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,2.1C,provincial
+5522,BHARATHI TAMIL VIDYALAYA,"GONAKELLA, KANDAPOLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5523,GALLALLA PRIMARY SCHOOL,"GALLALLA, ELAMULLA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5524,CHOISY TAMIL P.V.,PUNDULOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5525,POLWATHURA MUSLIM VIDYALAYA,PLWATHURA NAWALAPITIYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5526,AL-ARAFA M.V.,"PAHALAGORAKAOYA, NAWALAPITIYA",Central,23.Nuwara Eliya,Kotmale,Kotmale,3.Type2,provincial
+5527,NUWARA ELIYA ZAHIRA VIDYALAYA,"HAWAELIYA, NUWARA ELIYA",Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,3.Type2,provincial
+5528,HEDUNUWEWA PRIMARY SCHOOL,HEDUNUWEWA VIA HATTON,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5529,CONEYGAR PILLAYAR TAMIL SCHOOL,HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5530,SRIVANI TAMIL V.,DICOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5531,SARASWATHEE TAMIL SCHOOL,WALDIMAR UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5532,RIKILLAGASKADA MODEL SCHOOL,RIKILLAGASKADA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,3.Type2,provincial
+5533,KOTAGALA CAMBRIDGE COLLEGE,KOTAGALA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,1.1AB,provincial
+5534,GURAVILLA P.TAMIL V.,UPCOT,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,3.Type2,provincial
+5535,KURINJI TAMIL P.V.,"DUNSINANE LOWER DIVISION, PUNDALUOYA",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5536,JUNIOR MODEL SCHOOL,RAGALA HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5537,AMBAGAMUWA MODEL P.V.,"AMBAGAMUWA, UDUBULATHGAMA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5538,VIDYATHILAKA PRIMARY SCHOOL,"DENIKE, RIKKILLAGASKADA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5539,VIDYASEKHARA P.S.,THALAWAKELLE,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,4.Type3,provincial
+5540,"SRIMATH ANAGARIKA DHARMAPALA P.V., HARANGALAGAMA","HARANGALAGAMA, NAWALAPITIYA",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5541,NANODA PRIMARY SCHOOL,PPLWATHURA PAHALA GORAKAOYA NAWALAPITIYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5542,SIDDHARTHA PRIMARY SCHOOL,PALLEBOWALA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5543,UDAWELA PRIMARY SCHOOL,MANDARAMNUWARA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5544,SWARNADEEPA PRIMARY SCHOOL,ADIKARIGAMA,Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5545,AGARAM MODEL P.S.,"RAHATUNGODA, HEWAHETA",Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,4.Type3,provincial
+5546,VIDYAKARA MODAL P.S.,PUNDALUOYA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5547,SUMANGALA PRIMARY SCHOOL,NILDANDAHINNA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5548,AN-NOOR P.V.,HAPUGASTHALAWA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5549,SWARNAPRADEEPA PRIMARY SCHOOL,UDAMADURA NILDANDAHINNA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5550,PUSSADEWA PRIMARY SCHOOL,WALAPANE,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5551,MADULLA JAYODYA PRIMARY SCHOOL,MADULLA UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5552,KANNANGARA PRIMARY SCHOOL,MUNWATHTHA WALAPANE,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5553,SIRINIWASA PRIMARY SCHOOL,RUPAHA WALAPANE,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5554,RILAMULLA PRIMARY SCHOOL,KANDAPOLA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5555,TULLOES TAMIL PRIMARY SCHOOL,UDAPUSSALLAWA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5556,RAGALA TAMIL PRIMARY SCHOOL,RAGALA HALGRANOYA,Central,23.Nuwara Eliya,Walapane,Walapane,4.Type3,provincial
+5557,ST. MARYS PRIMARY TAMIL V.,BOGAWANTALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5558,ST. JOSHEPH'S PRIMARY TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5559,NALLATHANNEER PRIMARY TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5560,BARATHI TAMIL P.V.,RAMBODA,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5561,DAYAGAMA WEST 02 P.V.,DAYAGAMA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5562,HIGH GREEN TAMIL VIDYALAYA,KANDAPOLA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5563,NAWALAR PRIMARY SCHOOL,NANUOYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5564,HOLBROOK PRIMARY SCHOOL,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5565,AGARAPATANA PRIMARY TAMIL V.,AGARAPATANA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - III,4.Type3,provincial
+5566,HOLY TRINITY PRIMARY SCHOOL,NUWARA ELIYA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - I,4.Type3,provincial
+5567,LINDULA ROYAL COLLEGE,LINDULA,Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya Tamil - II,4.Type3,provincial
+5568,LAXAPANA MODEL P.V.,"GAMINI MW, LAXAPANA",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5569,PULIYAWATTE P.V.,DICKOYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - I,4.Type3,provincial
+5570,SRPADA P.V.,HATTON,Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5571,LUCCOMBE PRIMARY TAMIL V.,MASKELIYA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - III,4.Type3,provincial
+5572,SRI NISSANKMALLA MODEL P.S.,"HANGARAPITIYA, HATTON",Central,23.Nuwara Eliya,Hatton,Ambagamuwa,4.Type3,provincial
+5573,ANANDA DASANAYAKA PRIMARY SCHOOL,"NAWANAGARAYA, KOTHMALE",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5574,SHANTHA KUMARA DASSANAYAKA P.V.,"HELSIRIGAMA, KATUKITHULA",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5575,NORWOOD PRIMARY TAMIL V.,NORWOOD,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial
+5576,KOTHMALGAMA P.V.,"KOTHMALGAMA, KATUKITHULA",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5577,"MAHAWELI P.V., BERAMANA","VIJAYABAHUKANDA, BERAMANA",Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5578,"NAVALAR P.V., LABUKELE",LABUKELE,Central,23.Nuwara Eliya,Kotmale,Kotmale,4.Type3,provincial
+5579,CAMPION P.T.V.,BOGAWANTHALAWA,Central,23.Nuwara Eliya,Hatton,Hatton Tamil - II,4.Type3,provincial

@@ -1,0 +1,397 @@
+census_no,school_name,school_address,province,district,zone,education_division,school_type,category
+23,KOTAHENA M.M.V.,"MAHA VIDYALA MW, COLOMBO 13",1.Western,11.Colombo,Colombo,Colombo Central,1.1AB,national
+45,COLOMBO ROYAL COLLEGE,COLOMBO 07,1.Western,11.Colombo,Colombo,Borella,1.1AB,national
+46,COLOMBO ANANDA COLLEGE,COLOMBO 10,1.Western,11.Colombo,Colombo,Borella,1.1AB,national
+47,COLOMBO NALANDA COLLEGE,COLOMBO 10,1.Western,11.Colombo,Colombo,Borella,1.1AB,national
+48,COLOMBO THURSTAN COLLEGE,COLOMBO 07,1.Western,11.Colombo,Colombo,Borella,1.1AB,national
+50,COLOMBO ANANDA B.V.,"REV. SUMANGALA NAHIMI MW, COLOMBO 10",1.Western,11.Colombo,Colombo,Borella,1.1AB,national
+51,COLOMBO GOTHAMI B.V.,COLOMBO 10,1.Western,11.Colombo,Colombo,Borella,1.1AB,national
+60,COLOMBO D.S.SENANAYAKE COLLEGE,COLOMBO 07,1.Western,11.Colombo,Colombo,Borella,1.1AB,national
+66,COLOMBO DEVI B.V.,COLOMBO 08,1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+74,COLOMBO SIRIMAVO BANDARANAYAKE BALIKA VIDYALAYA,COLOMBO 07,1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+77,COLOMBO ISIPATHANA COLLEGE,COLOMBO-05,1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+78,COLOMBO LUMBINI VIDYALAYA,"HAVELOCK TOWN, COLOMBO 05",1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+79,COLOMBO MAHANAMA COLLEGE,COLOMBO 03,1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+80,MILAGIRIYA ST. PAUL'S GIRL'S SCHOOL,"MILAGIRIYA, COLOMBO 05",1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+81,COLOMBO VISAKHA V.,COLOMBO 05,1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+98,DEHIWALA PRESBYTEERIAN B.V.,"MAJOR L.V.GUNARATNA MW, DEHIWALA",1.Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,national
+114,MOUNT LAVINIA SCIENCE COLLEGE,"TEMPLERS RD, MOUNT LAVINIA",1.Western,11.Colombo,Piliyandala,Dehiwala,1.1AB,national
+129,KOLONNAWA BALIKA VIDYALAYA,"SUGUNASARA RD, KOLONNAWA",1.Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,1.1AB,national
+131,MULLERIYAWA SRI RAJASINGHE CENTRAL COLLEGE,"KUDA BUTHGAMUWA, MULLERIYAWA NEW TOWN",1.Western,11.Colombo,Sri Jayawardenapura,Kolonnawa,1.1AB,national
+148,KOTTE ANANDA SHASTHRALAYA,KOTTE,1.Western,11.Colombo,Sri Jayawardenapura,Nugegoda,1.1AB,national
+150,NUGEGODA ANULA VIDYALAYA,NUGEGODA,1.Western,11.Colombo,Sri Jayawardenapura,Nugegoda,1.1AB,national
+152,KOTTE CMS SRI JAYAWARDHANAPURA V.,KOTTE,1.Western,11.Colombo,Sri Jayawardenapura,Nugegoda,1.1AB,national
+165,RAJAGIRIYA PRESIDENT'S COLLEGE,RAJAGIRIYA,1.Western,11.Colombo,Sri Jayawardenapura,Nugegoda,1.1AB,national
+166,MORATUWA PRINCE OF WALES COLLEGE,MORATUWA,1.Western,11.Colombo,Piliyandala,Moratuwa,1.1AB,national
+167,MORATUWA PRINCESS OF WALES COLLEGE,MORATUWA,1.Western,11.Colombo,Piliyandala,Moratuwa,1.1AB,national
+204,HAMEED AL-HUSSEINIE COLLEGE,"45, HUSSEINIA RD, COLOMBO 12",1.Western,11.Colombo,Colombo,Colombo Central,2.1C,national
+210,VIVEKANANDA NATIONAL SCHOOL,"57, NEW CHETTY STREET, COLOMBO 13",1.Western,11.Colombo,Colombo,Colombo Central,1.1AB,national
+236,BAMBALAPITIYA MUSLIM LADIES COLLEGE,"BAMBALAPITIYA, COLOMBO 04",1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+237,BAMBALAPITIYA HINDU COLLEGE,COLOMBO 04,1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+241,BAMBALAPITIYA RAMANATHAN HINDU LADIES COLLEGE,"LORENCE RD, COLOMBO 04",1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+248,BATTARAMULLA SUBHUTHI NATIONAL SCHOOL,BATTARAMULLA,1.Western,11.Colombo,Sri Jayawardenapura,Kaduwela,1.1AB,national
+250,BOMIRIYA CENTRAL COLLEGE,KADUWELA,1.Western,11.Colombo,Sri Jayawardenapura,Kaduwela,1.1AB,national
+283,AVISSAWELLA SEETHAWAKA M.M.V.,AVISSAWELLA,1.Western,11.Colombo,Homagama,Hanwella,1.1AB,national
+316,HANWELLA RAJASINGHE CENTRAL COLLEGE,HANWELLA,1.Western,11.Colombo,Homagama,Hanwella,1.1AB,national
+394,PANNIPITIYA DHARMAPALA VIDYALAYA,PANNIPITIYA,1.Western,11.Colombo,Sri Jayawardenapura,Maharagama,1.1AB,national
+418,PILIYANDALA M.M.V.,PILIYANDALA,1.Western,11.Colombo,Piliyandala,Kesbewa,1.1AB,national
+453,DEFENCE SERVICES COLLEGE,COLOMBO-02,1.Western,11.Colombo,Colombo,Colombo South,1.1AB,national
+457,HOMAGAMA MAHINDA RAJAPAKSHA COLLEGE,"PITIPANA, HOMAGAMA",1.Western,11.Colombo,Homagama,Homagama,1.1AB,national
+464,WATAREKA SUNEETHA VIDYALAYA,"WATAREKA , PADUKKA",1.Western,11.Colombo,Homagama,Homagama,3.Type2,national
+1001,"ST. ANTHONY'S NATIONAL SCHOOL, WATTALA",WATTALA,1.Western,12.Gampaha,Kelaniya,Wattala,1.1AB,national
+1028,MIRIGAMA D.S.SENANAYAKA M.M.V.,MIRIGAMA,1.Western,12.Gampaha,Minuwangoda,Meerigama,1.1AB,national
+1083,VEYANGODA BANDARANAYAKE CENTRAL COLLEGE,VEYANGODA,1.Western,12.Gampaha,Gampaha,Attanagalla,1.1AB,national
+1084,NITTAMBUWA SANGABODHI M.M.V.,NITTAMBUWA,1.Western,12.Gampaha,Gampaha,Attanagalla,1.1AB,national
+1131,GALAHITIYAWA CENTRAL COLLEGE,GANEMULLA,1.Western,12.Gampaha,Gampaha,Gampaha,1.1AB,national
+1136,GAMPAHA BANDARANAYAKE M.V.,GAMPAHA,1.Western,12.Gampaha,Gampaha,Gampaha,1.1AB,national
+1137,GAMPAHA RATHNAWALEE BALIKA V.,GAMPAHA,1.Western,12.Gampaha,Gampaha,Gampaha,1.1AB,national
+1183,HENEGAMA CENTRAL COLLEGE,HENEGAMA,1.Western,12.Gampaha,Kelaniya,Mahara,1.1AB,national
+1228,SIYANE NATIONAL SCHOOL,"PALUGAMA, DOMPE",1.Western,12.Gampaha,Gampaha,Dompe (Weke),1.1AB,national
+1300,KELANIYA GURUKULA M.V.,KELANIYA,1.Western,12.Gampaha,Kelaniya,Kelaniya,1.1AB,national
+1301,KELANIYA SRI DHARMALOKA M.M.V.,KELANIYA,1.Western,12.Gampaha,Kelaniya,Kelaniya,1.1AB,national
+1319,KIRIBATHGODA VIHARAMAHADEVI B.V.,KIRIBATHGODA,1.Western,12.Gampaha,Kelaniya,Kelaniya,1.1AB,national
+1336,MALWANA AL-MUBARAK NATIONAL SCHOOL,MALWANA,1.Western,12.Gampaha,Kelaniya,Biyagama,1.1AB,national
+1340,NEGOMBO NEWSTEAD GIRLS COLLEGE,NEGOMBO,1.Western,12.Gampaha,Negombo,Negombo,1.1AB,national
+1341,NEGOMBO HARISHCHANDRA NATIONAL SCHOOL,NEGOMBO,1.Western,12.Gampaha,Negombo,Negombo,1.1AB,national
+1379,RADDOLUWA SRI PANGNANANDA NATIONAL COLLEGE,"RADDOLUWA, KOTUGODA",1.Western,12.Gampaha,Negombo,Katana,1.1AB,national
+1478,MINUWANGODA NALANDA BOYS M.M.V.,MINUWANGODA,1.Western,12.Gampaha,Minuwangoda,Minuwangoda,1.1AB,national
+1502,UDUGAMPOLA SENERATH PARANAVITHANA M.V.,UDUGAMPOLA,1.Western,12.Gampaha,Minuwangoda,Minuwangoda,1.1AB,national
+1539,JA-ELA CHRIST KING COLLEGE,"THUDELLA, JA-ELA",1.Western,12.Gampaha,Negombo,Ja-Ela,1.1AB,national
+1592,DOMPE DEVI B.M.V.,DOMPE,1.Western,12.Gampaha,Gampaha,Dompe (Weke),2.1C,national
+2001,WADDUWA M M.V.,"VIJAYA RD, WADDUWA",1.Western,13.Kalutara,Kalutara,Panadura,1.1AB,national
+2003,PANADURA ST. JOHN'S M.V.,"UDAHAMULLA, PANADURA",1.Western,13.Kalutara,Kalutara,Panadura,1.1AB,national
+2004,PANADURA SRI SUMANGALA COLLEGE,PANADURA,1.Western,13.Kalutara,Kalutara,Panadura,1.1AB,national
+2005,PANADURA SRI SUMANGALA BALIKA M.V.,PANADURA,1.Western,13.Kalutara,Kalutara,Panadura,1.1AB,national
+2040,BANDARAGAMA M.M.V.,BANDARAGAMA,1.Western,13.Kalutara,Horana,Bandaragama,1.1AB,national
+2083,HORANA TAXILA M.M.V.,HORANA,1.Western,13.Kalutara,Horana,Horana,1.1AB,national
+2085,HORANA SRIPALEE M.V.,HORANA,1.Western,13.Kalutara,Horana,Horana,1.1AB,national
+2110,HORANA RAJAKEEYA M.V.,HORANA,1.Western,13.Kalutara,Horana,Horana,1.1AB,national
+2133,BULATHSINGHALA M.M.V.,BULATHSINGHALA,1.Western,13.Kalutara,Horana,Bulathsinhala,1.1AB,national
+2180,MATUGAMA C.W.W. KANNANGARA M.M.V.,MATUGAMA,1.Western,13.Kalutara,Matugama,Matugama,1.1AB,national
+2181,MATUGAMA ANANDA SASTRALAYA,MATUGAMA,1.Western,13.Kalutara,Matugama,Matugama,1.1AB,national
+2187,DODANGODA MIRISWATTA NATIONAL SCHOOL,DODANGODA,1.Western,13.Kalutara,Kalutara,Dodangoda,1.1AB,national
+2241,KALUTARA TISSA M.M.V.,"NAGAS JUNCTION, KALUTARA NORTH",1.Western,13.Kalutara,Kalutara,Kalutara,1.1AB,national
+2242,KALUTARA BALIKA M.V.,KALUTARA SOUTH,1.Western,13.Kalutara,Kalutara,Kalutara,1.1AB,national
+2243,KALUTARA M.V.,KALUTARA SOUTH,1.Western,13.Kalutara,Kalutara,Kalutara,1.1AB,national
+2276,ALUTHGAMA NATIONAL SCHOOL,ALUTHGAMA,1.Western,13.Kalutara,Kalutara,Beruwala,1.1AB,national
+2282,BERUWALA D.S. SENANAYAKA NATIONAL SCHOOL,BERUWALA,1.Western,13.Kalutara,Kalutara,Beruwala,1.1AB,national
+2358,ITTAPANA COLVIN R DE SILVA M.V.,ITTAPANA,1.Western,13.Kalutara,Matugama,Walallawita,1.1AB,national
+2405,ALUTHGAM WEEDIYA MUSLIM BALIKA M.V.,DHARGA TOWN,1.Western,13.Kalutara,Kalutara,Beruwala,1.1AB,national
+2406,BERUWALA AL-HUMAISARA CENTRAL COLLEGE,CHINA FORT BERUWALA,1.Western,13.Kalutara,Kalutara,Beruwala,1.1AB,national
+3004,GALAGEDARA M.M.V.,GALAGEDARA,2.Central,21.Kandy,Katugastota,Galagedara,1.1AB,national
+3010,GALAGEDARA SUJATHA BALIKA.M.M.V.,GALAGEDARA,2.Central,21.Kandy,Katugastota,Galagedara,2.1C,national
+3011,HATHARALIYADDA M.M.V.,HATHARALIYADDA,2.Central,21.Kandy,Katugastota,Hatharaliyadda,1.1AB,national
+3045,POOJAPITIYA M.M.V.,POOJAPITIYA,2.Central,21.Kandy,Katugastota,Poojapitiya,1.1AB,national
+3046,ANKUMBURA PARAKRAMA M.M.V.,ANKUMBURA,2.Central,21.Kandy,Katugastota,Poojapitiya,2.1C,national
+3048,ALAWATHUGODA M.M.V.,ALAWATHUGODA,2.Central,21.Kandy,Katugastota,Akurana,1.1AB,national
+3075,NUGAWELA M.M.V.,NUGAWELA,2.Central,21.Kandy,Katugastota,Harispattuwa,1.1AB,national
+3108,PANWILA RAJASINGHE M.M.V.,PANWILA,2.Central,21.Kandy,Waththegama,Panvila,2.1C,national
+3169,HASALAKA RANASINGHE PREMADASA NATIONAL SCHOOL,HASALAKA,2.Central,21.Kandy,Teldeniya,Minipe,1.1AB,national
+3181,AMUPITIYA NATIONAL SCHOOL,UDISPATHTHUWA,2.Central,21.Kandy,Teldeniya,Medadumbara,2.1C,national
+3184,TELDENIYA NATIONAL SCHOOL,TELDENIYA,2.Central,21.Kandy,Teldeniya,Medadumbara,1.1AB,national
+3217,KUNDASALE S.W.R.D.BANDARANAYAKE NATIONAL SCHOOL,"WARAPITIYA, KUNDASALE",2.Central,21.Kandy,Waththegama,Kundasale,1.1AB,national
+3256,RAJAWELLA HINDU NATIONAL SCHOOL,"RAJAWELLA, DIGANA",2.Central,21.Kandy,Waththegama,Kundasale,1.1AB,national
+3263,MADAWALA MADINA NATIONAL SCHOOL,MADAWALA BAZAAR,2.Central,21.Kandy,Waththegama,Pathadumbara,1.1AB,national
+3284,AKURANA AZHAR MUSLIM M.V.,AKURANA,2.Central,21.Kandy,Katugastota,Akurana,1.1AB,national
+3285,GALHINNA AL-MANAR MUSLIM M.V.,GALHINNA,2.Central,21.Kandy,Katugastota,Poojapitiya,2.1C,national
+3286,AKURANA ZAHIRA MUSLIM M.M.V.,"BULUGAHATHENNA, AKURANA",2.Central,21.Kandy,Katugastota,Akurana,2.1C,national
+3314,BOPITIYA RAJASINGHE NATIONAL SCHOOL,"POTHGODA, MARASSANA",2.Central,21.Kandy,Kandy,Pathahewaheta,2.1C,national
+3320,MARASSANA NATIONAL SCHOOL,"MERUPPA, MARASSANA",2.Central,21.Kandy,Kandy,Pathahewaheta,2.1C,national
+3350,KANDY DHARMARAJA COLLEGE,KANDY,2.Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,national
+3351,KANDY MAHAMAYA GIRLS COLLEGE,KANDY,2.Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,national
+3379,KANDY GIRL'S HIGH SCHOOL,KANDY,2.Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,national
+3380,KANDY KINGSWOOD COLLEGE,KANDY,2.Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,national
+3382,KANDY PUSHPADANA GIRLS' COLLEGE,KANDY,2.Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,national
+3387,KATUGASTOTA SRI RAHULA COLLEGE,KATUGASTOTA,2.Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,national
+3405,KADUGANNAWA NATIONAL SCHOOL,KADUGANNAWA,2.Central,21.Kandy,Denuwara,Yatinuwara,1.1AB,national
+3406,KIRIBATHIKUBURA SRI SWARNAJOTHI NATINAL SCHOOL,KIRIBATHIKUBURA,2.Central,21.Kandy,Denuwara,Yatinuwara,1.1AB,national
+3441,MURUTHAGAHAMULA D.B.WIJETHUNGA NATIONAL SCHOOL,MURUTHAGAHAMULA,2.Central,21.Kandy,Denuwara,Udunuwara,1.1AB,national
+3488,GAMPOLA WICKRAMABAHU MADYA VIDYALAYA,GAMPOLA,2.Central,21.Kandy,Gampola,Udapalatha,1.1AB,national
+3490,ATABAGE WIMALADHARMA NATIONAL SCHOOL,ATABAGE GAMPOLA,2.Central,21.Kandy,Gampola,Udapalatha,2.1C,national
+3532,UDAHENTHENNA SENADHIKARI NATIONAL SCHOOL,UDAHENTHENNA,2.Central,21.Kandy,Gampola,Ganga Ihala Korale,2.1C,national
+3553,NAWALAPITIYA ANURUDDA KUMARA M.M.V.,NAWALAPITIYA,2.Central,21.Kandy,Gampola,Pasbage Korale,1.1AB,national
+3575,KANDY BADI-DU-DIN MAHMUD GIRLS' COLLEGE,"D.S.SENANAYAKA VEEDIYA, KANDY",2.Central,21.Kandy,Kandy,Gangawata Korale,1.1AB,national
+3617,PUSSELLAWA HINDU NATIONAL SCHOOL,"NUWARA ELIYA RD, PUSSELLAWA",2.Central,21.Kandy,Gampola,Udapalatha,2.1C,national
+3648,HANDESSA AL MANAR NATIONAL SCHOOL,HANDESSA,2.Central,21.Kandy,Denuwara,Udunuwara,1.1AB,national
+3658,GAMPOLA ZAHIRA NATIONAL SCHOOL,GAMPOLA,2.Central,21.Kandy,Gampola,Udapalatha,1.1AB,national
+4003,RANGIRI DAMBULLA CENTRAL COLLEGE,DAMBULLA,2.Central,22.Matale,Galewela,Dambulla,1.1AB,national
+4093,NAULA SRI NAGA NATIONAL SCHOOL,NAULA,2.Central,22.Matale,Naula,Naula,1.1AB,national
+4172,MATALE SRI SANGAMITHTHA BALIKA NATIONAL SCHOOL,MATALE,2.Central,22.Matale,Matale,Matale,1.1AB,national
+4173,MATALE VIJAYA NATIONAL SCHOOL,MATALE,2.Central,22.Matale,Matale,Matale,1.1AB,national
+4175,MATALE ST. THOMES COLLEGE,MATALE,2.Central,22.Matale,Matale,Matale,1.1AB,national
+4189,MATALE CHRIST CHURCH COLLEGE,MATALE,2.Central,22.Matale,Matale,Matale,1.1AB,national
+4260,MATALE ZAHIRA COLLEGE,MATALE,2.Central,22.Matale,Matale,Matale,1.1AB,national
+4261,MATALE AMINA NATIONAL SCHOOL,"MOLANDAPITIYA RD, MATALE",2.Central,22.Matale,Matale,Matale,1.1AB,national
+4262,PAKKIYAM NATIONAL COLLEGE,"DHRAMAPALA MW, MATALE",2.Central,22.Matale,Matale,Matale,1.1AB,national
+4263,UKUWELA AJMEER NATIONAL SCHOOL,"ELKADUWA, UKUWELA",2.Central,22.Matale,Matale,Ukuwela,1.1AB,national
+4266,MATALE HINDU NATIONAL SCHOOL,MATALE,2.Central,22.Matale,Matale,Matale,1.1AB,national
+4316,AKURAMBODA WEERA KEPPETIPOLA NATIONAL SCHOOL,AKURAMBODA,2.Central,22.Matale,Galewela,Pallepola,1.1AB,national
+5001,NUWARA ELIYA GAMINI CENTRAL COLLEGE,NUWARA ELIYA,2.Central,23.Nuwara Eliya,Nuwara Eliya,Nuwara Eliya,1.1AB,national
+5035,HATTON ST. GABRIEL'S GIRLS' COLLEGE,HATTON,2.Central,23.Nuwara Eliya,Hatton,Ambagamuwa,1.1AB,national
+5070,PUNDALUOYA JAYAHELA NATIONAL SCHOOL,PUNDALUOYA,2.Central,23.Nuwara Eliya,Kotmale,Kotmale,1.1AB,national
+5071,KOTHMALE GAMINI DISSANAYAKE NATIONAL SCHOOL,"NEW TOWN, KOTHMALE",2.Central,23.Nuwara Eliya,Kotmale,Kotmale,1.1AB,national
+5111,NILDANDAHINNA SRI SUMANGALA NATIONAL SCHOOL,NILDANDAHINNA,2.Central,23.Nuwara Eliya,Walapane,Walapane,1.1AB,national
+5344,NAWALAPITIYA AL-MINHAJ NATIONAL SCHOOL,"HAPUGASTHALAWA, NAWALAPITIYA",2.Central,23.Nuwara Eliya,Kotmale,Kotmale,1.1AB,national
+5428,PORAMADULLA NATIONAL SCHOOL,RIKILLAGASKADA,2.Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,1.1AB,national
+5429,VICTORIA NATIONAL SCHOOL,"RAJAMAWATHA, ADIKARIGAMA",2.Central,23.Nuwara Eliya,Hanguranketha,Udahewaheta,1.1AB,national
+6001,BALAPITIYA REWATHA NATIONAL COLLEGE,BALAPITIYA,3.Southern,31.Galle,Ambalangoda,Balapitiya,1.1AB,national
+6035,AMBALANGODA SRI DEVANANDA COLLEGE,AMBALANGODA,3.Southern,31.Galle,Ambalangoda,Ambalangoda,1.1AB,national
+6036,AMBALANGODA DHARMASHOKA COLLEGE,AMBALANGODA,3.Southern,31.Galle,Ambalangoda,Ambalangoda,1.1AB,national
+6068,KARANDENIYA CENTRAL COLLEGE,KARANDENIYA,3.Southern,31.Galle,Elpitiya,Karandeniya,1.1AB,national
+6116,BENTHOTA GAMINI M.M.V.,BENTHOTA,3.Southern,31.Galle,Elpitiya,Bentota,1.1AB,national
+6141,ELPITIYA ANANDA M.V.,ELPITIYA,3.Southern,31.Galle,Elpitiya,Elpitiya,1.1AB,national
+6180,NELUWA NATIONAL SCHOOL,NELUWA,3.Southern,31.Galle,Udugama,Thawalama,1.1AB,national
+6182,THAWALAMA VIDYARAJA NATIONAL SCHOOL,THAWALAMA,3.Southern,31.Galle,Udugama,Thawalama,1.1AB,national
+6218,NAGODA ROYAL NATIONAL SCHOOL,NAGODA,3.Southern,31.Galle,Udugama,Mapalagama,1.1AB,national
+6254,WANDURAMBA CENTRAL COLLEGE,WANDURAMBA,3.Southern,31.Galle,Galle,Baddegama,1.1AB,national
+6258,BADDEGAMA CHRIST CHURCH BOY'S COLLEGE,BADDEGAMA,3.Southern,31.Galle,Galle,Baddegama,1.1AB,national
+6259,BADDEGAMA CHRIST CHURCH GIRLS' COLLEGE,BADDEGAMA,3.Southern,31.Galle,Galle,Baddegama,1.1AB,national
+6317,HIKKADUWA SRI SUMANGALA M.M.V.,"NALAGASDENIYA, HIKKADUWA",3.Southern,31.Galle,Ambalangoda,Hikkaduwa,1.1AB,national
+6318,RATHGAMA DEVAPATHIRAJA COLLEGE,RATHGAMA,3.Southern,31.Galle,Ambalangoda,Hikkaduwa,1.1AB,national
+6366,GALLE MAHINDA COLLEGE,GALLE,3.Southern,31.Galle,Galle,Galle,1.1AB,national
+6367,GALLE RICHMOND COLLEGE,GALLE,3.Southern,31.Galle,Galle,Galle,1.1AB,national
+6368,GALLE RIPPON GIRLS COLLEGE,"RICHMAN HILL, GALLE",3.Southern,31.Galle,Galle,Galle,1.1AB,national
+6369,GALLE SANGHAMITHTHA BALIKA VIDYALAYA,GALLE,3.Southern,31.Galle,Galle,Galle,1.1AB,national
+6370,GALLE SOUTHLANDS COLLEGE,GALLE,3.Southern,31.Galle,Galle,Galle,1.1AB,national
+6371,GALLE ST. ALOYSIUS COLLEGE,GALLE,3.Southern,31.Galle,Galle,Galle,1.1AB,national
+6373,GALLE VIDYALOKA COLLEGE,"WACKWELLA RD, GALLE",3.Southern,31.Galle,Galle,Galle,1.1AB,national
+6392,MANAWILA UPANANDA VIDYALAYA,MANAWILA WALAHANDUWA,3.Southern,31.Galle,Galle,Akmeemana,1.1AB,national
+6393,MEEPAWALA AMARASURIYA COLLEGE,"MEEPAWALA, PODDALA",3.Southern,31.Galle,Galle,Akmeemana,1.1AB,national
+6431,GALLE BUONAVISTA COLLEGE,UNAWATUNA GALLE,3.Southern,31.Galle,Galle,Habaraduwa,1.1AB,national
+6457,KATHALUWA CENTRAL COLLEGE,"KATHALUWA, AHANGAMA",3.Southern,31.Galle,Galle,Habaraduwa,1.1AB,national
+6459,BATEMULLA NATIONAL SCHOOL,IMADUWA,3.Southern,31.Galle,Galle,Habaraduwa,1.1AB,national
+6496,GINTHOTA ZAHIRA COLLEGE (NATIONAL COLLEGE),"KURUDWATTA, GINTOTA",3.Southern,31.Galle,Galle,Galle,2.1C,national
+6497,GALLE MALHARUSULHIYA CENTRAL COLLEGE,"H.K.EDMOND MW, GALLE",3.Southern,31.Galle,Galle,Galle,1.1AB,national
+6511,LABUDUWA SIRIDAMMA COLLEGE,AKMEEMANA,3.Southern,31.Galle,Galle,Akmeemana,1.1AB,national
+6516,WALAHANDUWA JANADIPATHI BALIKA VIDYALAYA,"WALAHANDUWA, GALLE",3.Southern,31.Galle,Galle,Akmeemana,1.1AB,national
+7017,MORAWKA KEERTHI ABEYWICKRAMA NATIONAL SCHOOL,"DENIYAYA RD, MORAWAKA",3.Southern,32.Matara,Deniyaya,Kotapola,1.1AB,national
+7029,KOTAPOLA NATIONAL SCHOOL,KOTAPOLA,3.Southern,32.Matara,Deniyaya,Kotapola,2.1C,national
+7041,URUBOKKA NATIONAL SCHOOL,URUBOKKA,3.Southern,32.Matara,Deniyaya,Pasgoda,1.1AB,national
+7055,DENIYAYA CENTRAL COLLEGE,DENIYAYA,3.Southern,32.Matara,Deniyaya,Kotapola,1.1AB,national
+7071,THELIJJAWILA CENTRAL COLLEGE,THELIJJAWILA,3.Southern,32.Matara,Akuressa,Malimboda,1.1AB,national
+7104,GODAPITIYA NATIONAL SCHOOL,AKURESSA,3.Southern,32.Matara,Akuressa,Akuressa,1.1AB,national
+7146,NARANDENIYA M.M.V.,KAMBURUPIYIYA,3.Southern,32.Matara,Mulatiyana,Kamburupitiya,1.1AB,national
+7162,THIHAGODA M.M.V.,THIHAGODA,3.Southern,32.Matara,Mulatiyana,Thihagoda,1.1AB,national
+7181,PUHULWELLA MADYA MAHA VIDYALAYA,KIRINDA PUHULWELLA,3.Southern,32.Matara,Mulatiyana,Kamburupitiya,1.1AB,national
+7225,DEYIYANDARA NATIONAL SCHOOL,DEYIYANDARA,3.Southern,32.Matara,Mulatiyana,Mulatiyana,1.1AB,national
+7258,WELIGAMA SIDDARTHA COLLEGE,"HETTIWEDIYA, WELIGAMA",3.Southern,32.Matara,Matara,Weligama,1.1AB,national
+7272,WELIGAMA SRI SUMANGALA BALIKA VIDYALAYA,WELIGAMA,3.Southern,32.Matara,Matara,Weligama,1.1AB,national
+7283,WELIGAMA ARAFA CENTRAL COLLEGE,"GALBOKKA, WELIGAMA",3.Southern,32.Matara,Matara,Weligama,1.1AB,national
+7305,MATARA RAHULA COLLEGE,MATARA,3.Southern,32.Matara,Matara,Matara,1.1AB,national
+7306,MATARA SUJATHA VIDYALAYA,MATARA,3.Southern,32.Matara,Matara,Matara,1.1AB,national
+7309,MATARA CENTRAL COLLEGE,MATARA,3.Southern,32.Matara,Matara,Matara,1.1AB,national
+7317,MATARA ST. THOMAS BOYS COLLEGE,MATARA,3.Southern,32.Matara,Matara,Matara,1.1AB,national
+7318,MATARA ST. THOMAS GIRL'S HIGH SCHOOL,MATARA,3.Southern,32.Matara,Matara,Matara,1.1AB,national
+7328,MATARA ST. SERVETIOUS COLLEGE,"KOTUWEGODA, MATARA",3.Southern,32.Matara,Matara,Matara,1.1AB,national
+7350,DEVINUWARA CENTRAL COLLEGE,DEVINUWARA,3.Southern,32.Matara,Matara,Devinuwara,1.1AB,national
+7383,DICKWELLA VIJITHA CENTRAL COLLEGE,"MAHAWELA RD, DICKWELLA",3.Southern,32.Matara,Matara,Dikwella,1.1AB,national
+7394,DICKWELLA MINHATH NATIONAL SCHOOL,"SANDIS RD, DICKWELLA",3.Southern,32.Matara,Matara,Dikwella,1.1AB,national
+7406,MATARA MAHINDA RAJAPAKSHA COLLEGE,MATARA,3.Southern,32.Matara,Matara,Matara,1.1AB,national
+8001,WALASMULLA NATIONAL SCHOOL,WALASMULLA,3.Southern,33.Hambantota,Walasmulla,Walasmulla,1.1AB,national
+8002,KATUWANA NATIONAL SCHOOL,KATUWANA,3.Southern,33.Hambantota,Walasmulla,Katuwana,1.1AB,national
+8038,WEERAKETIYA RAJAPAKSHA CENTTAL COLLEGE,WEERAKETIYA,3.Southern,33.Hambantota,Walasmulla,Walasmulla,1.1AB,national
+8073,TANGALLE BOYS NATIONAL SCHOOL,TANGALLE,3.Southern,33.Hambantota,Tangalle,Tangalle,1.1AB,national
+8074,TANGALLE BALIKA VIDYALAYA,TANGALLE,3.Southern,33.Hambantota,Tangalle,Tangalle,1.1AB,national
+8106,HUNGAMA VIJAYABA NATIONAL SCHOOL,HUNGAMA,3.Southern,33.Hambantota,Hambantota,Ambalantota,1.1AB,national
+8112,ANGUNAKOLAPELESSA MAHANAGA NATIONAL SCHOOL,ANGUNAKOLAPELESSA,3.Southern,33.Hambantota,Tangalle,Angunakolapelessa,1.1AB,national
+8144,GATAMANNA VIJAYA MAHA VIDYALAYA,GATAMANNA,3.Southern,33.Hambantota,Tangalle,Beliatta,1.1AB,national
+8154,PUWAKDANDAWA DHAMMAPALA BALIKA VIDYALAYA,"PUWAKDANDAWA,BELIATTA",3.Southern,33.Hambantota,Tangalle,Beliatta,1.1AB,national
+8229,DEBARAWEWA CENTRAL SCHOOL,THISSAMAHARAMA,3.Southern,33.Hambantota,Hambantota,Thissamaharama,1.1AB,national
+8275,AMBALANTOTA THERAPUTHTHA NATIONAL SCHOOL,AMBALANTOTA,3.Southern,33.Hambantota,Hambantota,Ambalantota,1.1AB,national
+8276,HAMBANTOTA ST. MARY'S COLLEGE,HAMBANTOTA,3.Southern,33.Hambantota,Hambantota,Hambantota,1.1AB,national
+8280,HAMABANTOTA ZAHIRA NATIONAL SCHOOL,HAMABANTOTA,3.Southern,33.Hambantota,Hambantota,Hambantota,1.1AB,national
+8289,SOORIYAWEWA NATIONAL SCHOOL,SOORIYAWEWA,3.Southern,33.Hambantota,Hambantota,Sooriyawewa,1.1AB,national
+8339,BELIATTA RUHUNU VIJAYABA NATIONAL SCHOOL,"SITINAMALUWA, BELIATTA",3.Southern,33.Hambantota,Tangalle,Beliatta,1.1AB,national
+8340,HAMBANTOTA TZU-CHI NATIONAL SCHOOL,"SIRIBOPURA, HAMBANTOTA",3.Southern,33.Hambantota,Hambantota,Hambantota,1.1AB,national
+8346,SRI LANKA SINGAPORE FRIENSHIP COLLEGE,"KONDAGALA, WEERAKATIYA",3.Southern,33.Hambantota,Walasmulla,Walasmulla,1.1AB,national
+9166,MANIPAY HINDU COLLEGE (NATIONAL SCHOOL),"SANGARAPILLAI RD, MANIPAY",4.Northern,41.Jaffna,Valikamam,Sandilipay,1.1AB,national
+9269,NELLIADY CENTRAL COLLEGE,KARAVEDDY,4.Northern,41.Jaffna,Vadamaradchi,Karaveddy,1.1AB,national
+9333,POINT PEDRO METHODIST GIRLS' HIGH SCHOOL,POINT PEDRO,4.Northern,41.Jaffna,Vadamaradchi,Point Pedru,1.1AB,national
+9353,CHAVAKACHCHERI HINDU COLLEGE,"KANDY RD, CHAVAKACHCHERI",4.Northern,41.Jaffna,Thenmaradchi,Chavakachcheri,1.1AB,national
+9416,JAFFNA HINDU COLLEGE,JAFFNA,4.Northern,41.Jaffna,Jaffna,Nallur,1.1AB,national
+9456,JAFFNA CENTRAL COLLEGE,JAFFNA,4.Northern,41.Jaffna,Jaffna,Jaffna,1.1AB,national
+9457,JAFFNA HOLY FAMILY CONVENT,"VEMBADY ROAD, JAFFNA",4.Northern,41.Jaffna,Jaffna,Jaffna,1.1AB,national
+9465,JAFFNA VEMBADY GIRLS HIGH SCHOOL,"1ST CROSS STREET, JAFFNA",4.Northern,41.Jaffna,Jaffna,Jaffna,1.1AB,national
+10001,KILINOCHCHI MADHYA MAHA VIDYALAYAM,"A9 ROAD, ANANTHAPURAM, KILINOCHCHI",4.Northern,45.Kilinochchi,Kilinochchi South,Karachchi,1.1AB,national
+10011,MULANKAVIL MAHA VIDYALAYAM,VINAYAKAPURAM POONAKARY,4.Northern,45.Kilinochchi,Kilinochchi South,Poonakary,1.1AB,national
+10038,PALLAI CENTRAL COLLEGE,"A-09 ROAD, PALLAI",4.Northern,45.Kilinochchi,Kilinochchi North,Pallai,1.1AB,national
+11001,SITHIVINAYAGAR HINDU COLLEGE,"UPPUKULAM, MANNAR",4.Northern,42.Mannar,Mannar,Mannar,1.1AB,national
+11002,MANNAR ST. XAVIERS BOYS COLLEGE,"SINNAKADAI, MANNAR",4.Northern,42.Mannar,Mannar,Mannar,1.1AB,national
+11003,MANNAR ST. XAVIER'S GIRLS' COLLEGE,"SINNAKADAI, MANNAR",4.Northern,42.Mannar,Mannar,Mannar,1.1AB,national
+11025,MANNAR AL-AZHAR M.V.,"MOORSTREET, MANNAR",4.Northern,42.Mannar,Mannar,Mannar,1.1AB,national
+11035,MUSALI NATIONAL SCHOOL,"MUSALI, CHILAWATHUARI",4.Northern,42.Mannar,Mannar,Musali,1.1AB,national
+12003,MULLIYAWALAI VIDYANANDA COLLEGE,MULLIYAWALAI,4.Northern,44.Mullaitivu,Mullaitivu,Maritimepattu,1.1AB,national
+12048,MALLAVI CENTRAL COLLEGE,YOGAPURAM,4.Northern,44.Mullaitivu,Thunukkai,Thunukkai,1.1AB,national
+13001,VAVUNIYA RAMBAIKULAM GIRLS MAHA VIDYALAYAM,"RAMBAIKULAM, VAVUNIYA",4.Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),1.1AB,national
+13002,VAVUNIYA TAMIL M.M.V.,VAVUNIYA,4.Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),1.1AB,national
+13004,VAVUNIYA MUSLIM MAHA VIDYALAYAM,"MANNAR ROAD, PADDANICHOOR VAVUNIYA",4.Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Tamil),1.1AB,national
+13110,VAVUNIYA GAMINI NATIONAL SCHOOL,"MANNAR ROAD, VAVUNIYA",4.Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),1.1AB,national
+13111,MADUKANDA MAHA VIDYALAYA,"MADUKANDA, VAVUNIYA",4.Northern,43.Vavuniya,Vavuniya South,Vavuniya South (Sinhala),1.1AB,national
+14018,ODDAMAVADI CENTERL COLLEGE,ODDAMAVADI,5.Eastern,51.Batticaloa,Batticaloa Central,Koralai Pattu West,1.1AB,national
+14022,VALAICHEANAI AN-NOOR MAHA VIDYALAYAM,"MAIN CROSS ROAD, VALACHEANAI-5",5.Eastern,51.Batticaloa,Batticaloa Central,Koralai Pattu West,1.1AB,national
+14031,VALAICHENAI HINDU COLLEGE,VALAICHENAI,5.Eastern,51.Batticaloa,Kalkudah,Koralai Pattu,1.1AB,national
+14081,ERAVUR ALIGHAR CENTRAL COLLEGE,"MAIN STREET, ERAVUR",5.Eastern,51.Batticaloa,Batticaloa Central,Eravur Town,1.1AB,national
+14087,ERAVUR MACAN MARKAR MAHA VIDYALAYA,"MEERAKERNY ROAD, ERAVUR",5.Eastern,51.Batticaloa,Batticaloa Central,Eravur Town,1.1AB,national
+14115,BATTICALOA VINCENT GIRLS' HIGH SCHOOL,"CHAPEL STREET, BATTICALOA",5.Eastern,51.Batticaloa,Batticaloa,Manmunai North (Batticaloa),1.1AB,national
+14117,BATTICALOA ST. MICHAELS' COLLEGE,"01, CENTRAL ROAD, BATTICALOA",5.Eastern,51.Batticaloa,Batticaloa,Manmunai North (Batticaloa),1.1AB,national
+14118,BATTICALOA ST. CECILIA'S GIRLS' COLLEGE,"2ND CROSS ROAD, BATTICALOA",5.Eastern,51.Batticaloa,Batticaloa,Manmunai North (Batticaloa),1.1AB,national
+14129,KALLADY SHIVANANDA VIDYALAYA (NATIONAL SCHOOL),"KALLADY UPPODAI, BATTICALOA",5.Eastern,51.Batticaloa,Batticaloa,Manmunai North (Batticaloa),1.1AB,national
+14145,KATTANKUDY MADYA MAHA VIDYALAYA,"NO322, BEACH ROAD, NEW KATTANKUDY 06",5.Eastern,51.Batticaloa,Batticaloa Central,Kaththankudy,1.1AB,national
+14147,KATTANKUDY MEERA BALIKA MAHA VIDYALAYAM,"MAIN STREET, KATTANKUDY",5.Eastern,51.Batticaloa,Batticaloa Central,Kaththankudy,1.1AB,national
+14180,KALUTHAVALAI MAHA VIDYALAYAM,"KALUTHAVALAI, PADDIRIPPU",5.Eastern,51.Batticaloa,Paddrippu,Manmunai South & Eruvil Pattu,1.1AB,national
+14185,PADDIRUPPU MADHYA MAHA VIDYALAYAM,KALUWANCHIKUDY,5.Eastern,51.Batticaloa,Paddrippu,Manmunai South & Eruvil Pattu,1.1AB,national
+15002,PADIYATHALAWA NATIONAL SCHOOL,PADIYATHALAWA,5.Eastern,52.Ampara,Mahaoya,Padiyatalawa,1.1AB,national
+15037,UHANA MAHA VIDYALAYA,UHANA,5.Eastern,52.Ampara,Ampara,Uhana,1.1AB,national
+15067,AMPARA D.S.SENANAYAKA MADYA MAHA VIDYALAYA,AMPARA,5.Eastern,52.Ampara,Ampara,Ampara,1.1AB,national
+15080,AMPARA BANDARANAYAKA BALIKA MAHA VIDYALAYA,AMPARA,5.Eastern,52.Ampara,Ampara,Ampara,1.1AB,national
+15152,DEHIATTAKANDIYA M.M.V.,DEHIATTAKANDIYA,5.Eastern,52.Ampara,Dehiattakandiya,Dehiattakandiya,1.1AB,national
+15161,SAMMANTHURAI MUSLIM MADYA MAHA VIDYALAYAM,SAMMANTHURAI,5.Eastern,52.Ampara,Sammanthurai,Sammanthurai,1.1AB,national
+15169,SAMMANTHURAI AL-MARJAN MUSLIM LADIES COLLEGE,"AMPARA ROAD, SAMMANTHURAI",5.Eastern,52.Ampara,Sammanthurai,Sammanthurai,1.1AB,national
+15200,KALMUNAI ZAHIRA COLLEGE,"ZAHIRA COLLEGE ROAD, SAINTHAMARUTHU - 02",5.Eastern,52.Ampara,Kalmunai,Sainthamaruthu,1.1AB,national
+15202,KALMUNAI CARMEL FATIMA COLLEGE (NATIONAL SCHOOL),KALMUNAI,5.Eastern,52.Ampara,Kalmunai,Kalmunai Tamil,1.1AB,national
+15203,KALMUNAI MAHMUD LADIES COLLEGE,KALMUNAI,5.Eastern,52.Ampara,Kalmunai,Kalmunai,1.1AB,national
+15231,AKKARAIPATTU MUSLIM CENTRAL COLLEGE (NATIONAL SCHOOL),AKKARAIPATTU-06,5.Eastern,52.Ampara,Akkaraipattu,Akkaraipattu,1.1AB,national
+15233,IRAKKAMAM ASHRAF CENTRAL COLLEGE,"IRAKKAMAM-09, PC-NO- 32450",5.Eastern,52.Ampara,Sammanthurai,Irakkamam,1.1AB,national
+15248,ADDALAICENAI M.M.V.,"MAIN STREET, ADDALAICENAI",5.Eastern,52.Ampara,Akkaraipattu,Addalachchenai,1.1AB,national
+15265,NINTAVUR AL-ASHRAQ MADYA MAHA VIDYALAYA (NATIONAL SCHOOL),"MAIN STREET, NINTAVUR",5.Eastern,52.Ampara,Kalmunai,Ninthavur,1.1AB,national
+15290,AKKARAIPATTU SRI RAMAKRISHNA COLLEGE,AKKARAIPATTU,5.Eastern,52.Ampara,Thirukkovil,Alayadivembu,1.1AB,national
+15291,THAMBILUVIL MADHYA MAHA VIDYALAYAM (NATIONAL SCHOOL),"MAIN STREET, THAMBILUVIL",5.Eastern,52.Ampara,Thirukkovil,Thirukkovil,1.1AB,national
+15292,POTTUVIL CENTRAL COLLEGE,"R.M.NAGAR, POTTUVIL-27",5.Eastern,52.Ampara,Akkaraipattu,Pottuvil - I,1.1AB,national
+16031,MAHADIWULWEWA M.V.,MAHADIWULWEWA,5.Eastern,53.Trincomalee,Trincomalee North,Morawewa,1.1AB,national
+16054,TRINCOMALEE SRI SHANMUGA HINDU LADIES' COLLEGE,"VIDYALAYAM ROAD, TRINCOMALEE",5.Eastern,53.Trincomalee,Trincomalee,Trincomalee Town,1.1AB,national
+16057,TRINCOMALEE SINHALA MADYA MAHA VIDYALAYA,"INNER HARBOUR ROAD, TRINCOMALEE",5.Eastern,53.Trincomalee,Trincomalee,Trincomalee Town,1.1AB,national
+16059,TRINCOMALEE RAJAKEEYA VIDYALOKA M.V. (NATIONAL SCHOOL),"NORTH COAST ROAD, TRINCOMALEE",5.Eastern,53.Trincomalee,Trincomalee,Trincomalee Town,2.1C,national
+16068,TRINCOMALEE ST. MARY'S COLLEGE,"DOCKYARD ROAD, TRINCOMALEE",5.Eastern,53.Trincomalee,Trincomalee,Trincomalee Town,1.1AB,national
+16070,TRINCOMALEE R.K.M.SRI KONESWARA HINDU COLLEGE,"246, DOCKYARD ROAD TRINCOMALEE",5.Eastern,53.Trincomalee,Trincomalee,Trincomalee Town,1.1AB,national
+16073,TRINCOMALEE ST. JOSEPH'S COLLEGE,"POWER HOUSE ROAD, TRINCOMALEE",5.Eastern,53.Trincomalee,Trincomalee,Trincomalee Town,1.1AB,national
+16121,KANTHALE AGRABODHI NATIONAL SCHOOL,KANTHALE,5.Eastern,53.Trincomalee,Kantale,Kantale,1.1AB,national
+16175,MUTTUR CENTRAL COLLEGE,"KNOX ROAD, MUTUR-05",5.Eastern,53.Trincomalee,Muttur,Muttur,1.1AB,national
+16182,KINNIYA AL-AQSA NATIONAL COLLEGE,MAIN STREET KINNIYA,5.Eastern,53.Trincomalee,Kinniya,Kinniya,1.1AB,national
+16186,KINNIYA MUSLIM GIRLS' M.VIDYALAYAM,"PERIYA KINNIYA, KINNIYA-06",5.Eastern,53.Trincomalee,Kinniya,Kinniya,1.1AB,national
+16187,KINNIYA CENTRAL COLLEGE,MAIN STREET KINNIYA-05,5.Eastern,53.Trincomalee,Kinniya,Kinniya,1.1AB,national
+17001,POLGAHAWELA PARAKRAMABAHU MADYA MAHA VIDYALAYA,POLGAHAWELA,6.North Western,61.Kurunegala,Kurunegala,Polgahawela,1.1AB,national
+17003,UHUMEEYA D.S SENANAYAKA MADYA MAHA VIDYALAYA,UHUMEEYA,6.North Western,61.Kurunegala,Kurunegala,Polgahawela,1.1AB,national
+17094,MAWATHAGAMA M.M.V.,"KANDY ROAD, MAWATHAGAMA",6.North Western,61.Kurunegala,Kurunegala,Mawathagama,1.1AB,national
+17095,INDULGODAKANDA SRI NISHSHANKA M.M.V. (NATIONAL SCHOOL),"INDULGODAKANDA, KURUNEGALA",6.North Western,61.Kurunegala,Kurunegala,Mawathagama,1.1AB,national
+17141,WARIYAPOLA SRI SUMANGALA M.M.V.,WARIYAPOLA,6.North Western,61.Kurunegala,Nikaweratiya,Wariyapola,1.1AB,national
+17199,IBBAGAMUWA CENTRAL COLLEGE,IBBAGAMUWA,6.North Western,61.Kurunegala,Ibbagamuwa,Ibbagamuwa,1.1AB,national
+17234,GANEWATHTHA S.B.HERATH M.M.V.,"GANEWATHTHA, NIKADALUPOTHA.",6.North Western,61.Kurunegala,Ibbagamuwa,Ganewatta,1.1AB,national
+17265,NARAMMALA MAYURAPADA NATIONAL SCHOOL,NARAMMALA,6.North Western,61.Kurunegala,Giriulla,Alawwa,1.1AB,national
+17292,KURUNEGALA MALIYADEVA BALIKA VIDYALAYA,KURUNEGALA,6.North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,national
+17293,KURUNEGALA MALIYADEVA COLLEGE,KURUNEGALA,6.North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,national
+17352,PARAGAHADENIYA NATIONAL SCHOOL,PARAGAHADENIYA,6.North Western,61.Kurunegala,Kurunegala,Mawathagama,1.1AB,national
+17361,ALAWWA SRI RAHULA NATIONAL SCHOOL,ALAWWA,6.North Western,61.Kurunegala,Giriulla,Alawwa,1.1AB,national
+17391,BINGIRIYA SRI SARANANKARA NATIONAL SCHOOL,BINGIRIYA,6.North Western,61.Kurunegala,Kuliyapitiya,Bingiriya,1.1AB,national
+17420,NAKKAWATTHA M.M.V.,NAKKAWATTA,6.North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,1.1AB,national
+17464,DUMMALASOORIYA J.R.JAYAWARDANA M.M.V.,DUMMALASOORIYA,6.North Western,61.Kurunegala,Kuliyapitiya,Udubaddawa,1.1AB,national
+17489,KULIYAPITIYA CENTRAL COLLEGE,KULIYAPITIYA,6.North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,1.1AB,national
+17490,KULIYAPITIYA SARANATH VIDYALAYA,KULIYAPITIYA,6.North Western,61.Kurunegala,Kuliyapitiya,Kuliyapitiya West,1.1AB,national
+17522,SANDALANKA M.M.V.,SANDALANKAWA,6.North Western,61.Kurunegala,Giriulla,Pannala,1.1AB,national
+17549,GIRIULLA WICKRAMASHILA NATIONAL SCHOOL,GIRIULLA,6.North Western,61.Kurunegala,Giriulla,Pannala,1.1AB,national
+17550,PANNALA NATIONAL SCHOOL,PANNALA,6.North Western,61.Kurunegala,Giriulla,Pannala,1.1AB,national
+17613,PANDUWASNUWARA S.W.R.D.BANDARANAYAKA NATIONAL SCHOOL,PANDUWASNUWARA,6.North Western,61.Kurunegala,Kuliyapitiya,Panduwasnuwara,1.1AB,national
+17663,KEKUNAGOLLA NATIONAL SCHOOL,KEKUNAGOLLA,6.North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,1.1AB,national
+17664,SIYAMBALAGASKOTUWA MADEENA NATIONAL SCHOOL,SIYAMBALAGASKOTUWA,6.North Western,61.Kurunegala,Giriulla,Kuliyapitiya East,1.1AB,national
+17675,POLPITHIGAMA NATIONAL SCHOOL,POLPITHIGAMA,6.North Western,61.Kurunegala,Maho,Polpitigama,1.1AB,national
+17708,MAHO VIJAYABA NATIONAL SCHOOL,MAHO,6.North Western,61.Kurunegala,Maho,Maho,1.1AB,national
+17757,GALGAMUWA U B WANNINAYA NATIONAL SCHOOL,GALGAMUWA,6.North Western,61.Kurunegala,Maho,Galgamuwa,1.1AB,national
+17767,PERAKUMPURA NATIONAL SCHOOL,"R.L.B. TRACT 03, SOLEPURA",6.North Western,61.Kurunegala,Maho,Giribawa,2.1C,national
+17771,MEEGALEWA MAHWELI NATIONAL SCHOOL,MEEGALEWA,6.North Western,61.Kurunegala,Maho,Galgamuwa,1.1AB,national
+17838,NIKAWERATIYA MAHASEN NATIONAL SCHOOL,NIKAWERATIYA,6.North Western,61.Kurunegala,Nikaweratiya,Nikaweratiya,1.1AB,national
+17867,KOBEIGANE SRI PARACKRAMA NATIONAL SCHOOL,KOBEIGANE,6.North Western,61.Kurunegala,Nikaweratiya,Kobeigane,1.1AB,national
+18072,PUTTALAM ANANDA NATIONAL SCHOOL,PUTTLAM,6.North Western,62.Puttalam,Puttalam,Puttalam North,1.1AB,national
+18073,PUTTALAM ZAHIRA COLLEGE,"MANNAR ROAD, PUTTALAM",6.North Western,62.Puttalam,Puttalam,Puttalam North,1.1AB,national
+18091,"AL AQSA NATIOAL SCHOOL, KALPITY","U M U ROAD, KALPITY",6.North Western,62.Puttalam,Puttalam,Kalpitiya,1.1AB,national
+18199,CHILAW ANANDA NATIONAL SCHOOL,CHILAW,6.North Western,62.Puttalam,Chilaw,Chilaw,1.1AB,national
+18218,MADAMPE SENANAYAKA NATIONAL SCHOOL,MADAMPE,6.North Western,62.Puttalam,Chilaw,Chilaw,1.1AB,national
+18243,WENNAPPUWA ST. JOSEPH VAZ COLLEGE,WENNAPPUWA,6.North Western,62.Puttalam,Chilaw,Wennappuwa,1.1AB,national
+18282,LUNUWILA BUDDHIST GIRLS' COLLEGE,"KIRIMATIYANA, LUNUWILA",6.North Western,62.Puttalam,Chilaw,Wennappuwa,1.1AB,national
+18302,NATHTHANDIYA DHAMMISSARA NATIONAL SCHOOL,NATHTHANDIYA,6.North Western,62.Puttalam,Chilaw,Nattandiya,1.1AB,national
+19001,MAITHRIPALA SENANAYAKA CENTRAL COLLEGE,MEDAWACHCHIYA,7.North Central,71.Anuradhapura,Kebithigollewa,Medawachchiya,1.1AB,national
+19097,SAMPATH NUWARA NATIONAL SCHOOL,"SAMPATHNUWARA, WELIOYA, ETHAWETUNUWEWA",4.Northern,44.Mullaitivu,Mullaitivu,Welioya,1.1AB,national
+19176,ANURADHAPURA CENTRAL COLLEGE,ANURADHAPURA,7.North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,1.1AB,national
+19177,ANURADHAPURA SWARNAPALI GIRLS COLLEGE,ANURADHAPURA,7.North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,1.1AB,national
+19296,THAMBUTTEGAMA CENTRAL COLLEGE,THAMBUTTEGAMA,7.North Central,71.Anuradhapura,Thambuttegama,Thambuttegama,1.1AB,national
+19361,EPPAWALA SRI SIDDARTHA MAHA VIDYALAYA,EPPAWALA,7.North Central,71.Anuradhapura,Thambuttegama,Thalawa,1.1AB,national
+19429,KEKIRAWA CENTRAL COLLEGE,KEKIRAWA,7.North Central,71.Anuradhapura,Kekirawa,Kekirawa,1.1AB,national
+19457,KEKIRAWA VIDYARTHA M.V.,KEKIRAWA,7.North Central,71.Anuradhapura,Kekirawa,Kekirawa,1.1AB,national
+19487,ANURADHAPURA ZAHIRA COLLEGE,ANURADHAPURA,7.North Central,71.Anuradhapura,Anuradhapura,Nuwaragam Palatha East,1.1AB,national
+20001,MINNERIYA NATIONAL SCHOOL,HINGURAKGODA,7.North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,1.1AB,national
+20002,HINGURAKGODA ANANDA BALIKA NATIONAL SCHOOL,HINGURAKGODA,7.North Central,72.Polonnaruwa,Hingurakgoda,Hingurakgoda,1.1AB,national
+20035,MEDIRIGIRIYA NATIONAL SCHOOL,MEDIRIGIRIYA,7.North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,1.1AB,national
+20036,DIVULANKADAWALA CENTRAL COLLEGE,DIVULANKADAWALA,7.North Central,72.Polonnaruwa,Hingurakgoda,Medirigiriya,1.1AB,national
+20069,POLONNARUWA ROYAL CENTRAL COLLEGE,POLONNARUWA,7.North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,1.1AB,national
+20073,THOPAWEWA MAHA VIDYALAYA,POLONNARUWA,7.North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,1.1AB,national
+20103,ARALAGANWILA VILAYAYA CENTRAL COLLEGE,ARALAGANWILA,7.North Central,72.Polonnaruwa,Dimbulagala,Aralaganwila,1.1AB,national
+20154,POLONNARUWA MUSLIM CENTRAL COLLEGE,KADURUWELA POLONNARUWA,7.North Central,72.Polonnaruwa,Polonnaruwa,Thamankaduwa,1.1AB,national
+20176,BAKAMUNA MAHASEN MADYA MAHA VIDYALAYA,BAKAMUNA,7.North Central,72.Polonnaruwa,Hingurakgoda,Elahera,1.1AB,national
+21001,ANDAULPOTHA NATIONAL SCHOOL,"URANIYA, MAHIYANGANAYA",8.Uva,81.Badulla,Mahiyanganaya,Rideemaliyedda,2.1C,national
+21026,MAHIYANGANA NATIONAL SCHOOL,MAHIYANGANYA,8.Uva,81.Badulla,Mahiyanganaya,Mahiyanganaya,1.1AB,national
+21071,KANDEGEDARA NATIONAL SCHOOL,"KANDEGEDARA, HALIELA",8.Uva,81.Badulla,Viyaluwa,Soranatota,2.1C,national
+21102,VIYALUWA D.S.SENANAYAKE NATIONAL SCHOOL,KANDAKETIYA,8.Uva,81.Badulla,Viyaluwa,Kandaketiya,2.1C,national
+21105,MEEGAHAKIULA NATIONAL SCHOOL,MEEGAHAKIULA,8.Uva,81.Badulla,Viyaluwa,Meegahakivula,2.1C,national
+21125,PASSARA M.M.V.,PASSARA,8.Uva,81.Badulla,Passara,Passara,1.1AB,national
+21172,BADULLA DHARMADUTHA COLLEGE,BADULLA,8.Uva,81.Badulla,Badulla,Badulla,1.1AB,national
+21173,BADULLA MADYA MAHA VIDYALAYA,BADULLA,8.Uva,81.Badulla,Badulla,Badulla,1.1AB,national
+21174,BADULLA VISHAKA GIRLS HIGH SCHOOL,BADULLA,8.Uva,81.Badulla,Badulla,Badulla,1.1AB,national
+21191,ETTAMPITIYA NATIONAL SCHOOL,ETTAMPITIYA,8.Uva,81.Badulla,Badulla,Hali-Ela,1.1AB,national
+21192,HALIELA MAHA VIDYALAYA,HALIELA,8.Uva,81.Badulla,Badulla,Hali-Ela,1.1AB,national
+21233,BANDARAWELA M.M.V.,BANDARAWELA,8.Uva,81.Badulla,Bandarawela,Bandarawela,1.1AB,national
+21234,BANDARAWELA VISHAKA B.M.M.V.,BANDARAWELA,8.Uva,81.Badulla,Bandarawela,Bandarawela,1.1AB,national
+21235,NAULLA M.M.V.,"NAULLA, DEMODARA",8.Uva,81.Badulla,Bandarawela,Ella,2.1C,national
+21236,BANDARAWELA ST. JOSEPH'S NATIONAL SCHOOL,BANDARAWELA,8.Uva,81.Badulla,Bandarawela,Bandarawela,1.1AB,national
+21239,HALPE M.M.V.,HELA - HALPE,8.Uva,81.Badulla,Bandarawela,Ella,1.1AB,national
+21241,BANDARAWELA KUDA KUSUM BALIKA M.V.,BANDARAWELA,8.Uva,81.Badulla,Bandarawela,Bandarawela,1.1AB,national
+21276,SRI JANANANDA.M.V.,"KADURUGAMUWA, DIYATHALAWA",8.Uva,81.Badulla,Bandarawela,Haputale,1.1AB,national
+21277,HALDUMMULLA ANANDA M.M.V.,"WALHAPUTHENNA, HALDUMMULLA",8.Uva,81.Badulla,Bandarawela,Haldummulla,1.1AB,national
+21279,KAHAGOLLA M.V.,"KAHAGOLLA, DIYATHALAWA",8.Uva,81.Badulla,Bandarawela,Haputale,2.1C,national
+21280,KOSLANDA M.M.V.,"WELLAWAYA ROAD, KOSLANDA",8.Uva,81.Badulla,Bandarawela,Haldummulla,2.1C,national
+21311,WELIMADA MADYA MAHA VIDYALAYA,WELIMADA,8.Uva,81.Badulla,Welimada,Welimada,1.1AB,national
+21315,WANGIYAKUMBURA M.M.V.,BORALANDA,8.Uva,81.Badulla,Welimada,Welimada,2.1C,national
+21356,LOONUWATTA NATIONAL SCHOOL,LOONUWATTA,8.Uva,81.Badulla,Welimada,Uva Paranagama,1.1AB,national
+21398,GURUTHALAWA MUSLIM CENTRAL COLLEGE,GURUTHATHLAWA,8.Uva,81.Badulla,Welimada,Welimada,1.1AB,national
+21464,BADULLA SARASWATHI CENTRAL COLLEGE,"MAHIYANGANA ROAD, BADULLA",8.Uva,81.Badulla,Badulla,Badulla,1.1AB,national
+21511,PASSARA TAMIL M.V.,PASSARA,8.Uva,81.Badulla,Passara,Passara,1.1AB,national
+22001,BIBILE WELLASSA NATIONAL SCHOOL,"HEWELWELA, BIBILE",8.Uva,82.Moneragala,Bibile,Bibile,1.1AB,national
+22005,MEDAGAMA NATIONAL SCHOOL,MEDAGAMA,8.Uva,82.Moneragala,Bibile,Medagama,1.1AB,national
+22069,MONARAGALA MAHANAMA M.M.V.,MONARAGALA,8.Uva,82.Moneragala,Moneragala,Moneragala,1.1AB,national
+22073,SIYAMBALANDUWA M.V.,SIYAMBALANDUWA,8.Uva,82.Moneragala,Moneragala,Siyambalanduwa,1.1AB,national
+22086,MONARAGALA RAJAKEEYA V.,MONARAGALA,8.Uva,82.Moneragala,Moneragala,Moneragala,1.1AB,national
+22111,BADALKUMBURA NISHSHANKA M.M.V.,BADALKUMBURA,8.Uva,82.Moneragala,Moneragala,Badalkumbura,1.1AB,national
+22146,MALWATTAWALA M.M.V.,WELLAWAYA,8.Uva,82.Moneragala,Wellawaya,Wellawaya,1.1AB,national
+22149,BUTTALA DUTUGEMUNU M.M.V.,BUTTALA.,8.Uva,82.Moneragala,Wellawaya,Buttala,1.1AB,national
+22184,KATHARAGAMA M.M.V.,KATHARAGAMA,8.Uva,82.Moneragala,Thanamalwila,Thanamalwila,1.1AB,national
+22187,THANAMALVILA M.M.V.,THANAMALWILA,8.Uva,82.Moneragala,Thanamalwila,Thanamalwila,1.1AB,national
+22270,YASHODHARA G.C.,BIBILE,8.Uva,82.Moneragala,Bibile,Bibile,1.1AB,national
+23001,EHELIYAGODA M.M.V.,EHELIYAGODA,9.Sabaragamuwa,91.Ratnapura,Ratnapura,Eheliyagoda,1.1AB,national
+23060,RATNAPURA FERGUSION HIGH SCHOOL,RATNAPURA,9.Sabaragamuwa,91.Ratnapura,Ratnapura,Ratnapura,1.1AB,national
+23061,RATHNAPURA SUMANA BALIKA V.,RATHNAPURA,9.Sabaragamuwa,91.Ratnapura,Ratnapura,Ratnapura,1.1AB,national
+23062,RATHNAPURA ST. ALOYSIUS NATIONAL SCHOOL,RATHNAPURA,9.Sabaragamuwa,91.Ratnapura,Ratnapura,Ratnapura,1.1AB,national
+23068,RATHNAPURA CONVENT OF THE CHILD JESUS NATIONAL SCHOOL,RATHNAPURA,9.Sabaragamuwa,91.Ratnapura,Ratnapura,Ratnapura,1.1AB,national
+23092,RATNAPURA SEEVALEE CENTRAL COLLEGE,RATHNAPURA,9.Sabaragamuwa,91.Ratnapura,Ratnapura,Ratnapura,1.1AB,national
+23094,KURUWITA CENTRAL COLLEGE,KURUVITA,9.Sabaragamuwa,91.Ratnapura,Ratnapura,Kuruwita,1.1AB,national
+23123,PELMADULLA GANKANDA CENTRAL COLLEGE,PELMADULLA,9.Sabaragamuwa,91.Ratnapura,Ratnapura,Pelmadulla,1.1AB,national
+23209,BALANGODA ANANDA MAITHRIYA M.M.V.,BALANGODA,9.Sabaragamuwa,91.Ratnapura,Balangoda,Balangoda,1.1AB,national
+23247,GODAKAWELA RAHULA NATIONAL SCHOOL,GODAKAWELA,9.Sabaragamuwa,91.Ratnapura,Embilipitiya,Godakawela,1.1AB,national
+23319,KARAWITA NATIONAL SCHOOL,KARAWITA,9.Sabaragamuwa,91.Ratnapura,Nivitigala,Nivitigala,1.1AB,national
+23400,KALAWANA NATIONAL SCHOOL,KALAWANA,9.Sabaragamuwa,91.Ratnapura,Nivitigala,Kalawana,1.1AB,national
+23431,KOLONNA NATIONAL SCHOOL,KOLONNA,9.Sabaragamuwa,91.Ratnapura,Embilipitiya,Kolonna,1.1AB,national
+23465,EMBILPITIYA PRESIDENT'S COLLEGE,EMBILPITIYA,9.Sabaragamuwa,91.Ratnapura,Embilipitiya,Embilipitiya,1.1AB,national
+23544,RAKWANA ST. JOHN'S TAMIL MAHA VIDYALAYA,RAKWANA,9.Sabaragamuwa,91.Ratnapura,Embilipitiya,Godakawela,1.1AB,national
+23559,BALANGODA JAILANI MUSLIM M.V.,"DEHIGASTALAWA, BALANGODA",9.Sabaragamuwa,91.Ratnapura,Balangoda,Balangoda,1.1AB,national
+24042,YATIYANTOTA DR. N.M. PERERA M.M.V.,YATIYANTHOTA,9.Sabaragamuwa,92.Kegalle,Dehiowita,Yatiyantota,1.1AB,national
+24066,DEHIOWITA NATIONAL SCHOOL,DEHIOWITA,9.Sabaragamuwa,92.Kegalle,Dehiowita,Dehiowita,1.1AB,national
+24112,DERANIYAGALA SIRISAMAN NATIONAL SCHOOL,"VIDYALA MW, DERANIYAGALA",9.Sabaragamuwa,92.Kegalle,Dehiowita,Deraniyagala,1.1AB,national
+24158,PINDENIYA M.M.V.,"PINDENIYA, ATALA",9.Sabaragamuwa,92.Kegalle,Kegalle,Galigamuwa,1.1AB,national
+24228,RUWANWELLA RAJASINGHE M.M.V.,RUWANWELLA,9.Sabaragamuwa,92.Kegalle,Dehiowita,Ruwanwella,1.1AB,national
+24321,PINNAWALA M.M.V.,RAMBUKKANA,9.Sabaragamuwa,92.Kegalle,Mawanella,Rambukkana,1.1AB,national
+24343,MAWANELLA ZAHIRA COLLEGE,MAWANELLA,9.Sabaragamuwa,92.Kegalle,Mawanella,Mawanella,1.1AB,national
+24355,MAWANELLA MAYURAPADA M.M.V.,MAWANELLA,9.Sabaragamuwa,92.Kegalle,Mawanella,Mawanella,1.1AB,national
+24381,MAWATHAGODA RIVISANDA M.M.V.,USSAPITIYA,9.Sabaragamuwa,92.Kegalle,Mawanella,Aranayaka,1.1AB,national
+24489,KEGALU BALIKA M.V.,KEGALLE,9.Sabaragamuwa,92.Kegalle,Kegalle,Kegalle,1.1AB,national
+24490,KEGALU VIDYALAYA,KEGALLE,9.Sabaragamuwa,92.Kegalle,Kegalle,Kegalle,1.1AB,national
+24493,KEGALLE SWARNAJAYANTHI M.V.,KEGALLE,9.Sabaragamuwa,92.Kegalle,Kegalle,Kegalle,1.1AB,national
+24504,KEGALLE ST. MARYS COLLEGE,KEGALLE,9.Sabaragamuwa,92.Kegalle,Kegalle,Kegalle,1.1AB,national
+24505,KEGALLE ST. JOSEPH'S BALIKA M.V.,KEGALLE,9.Sabaragamuwa,92.Kegalle,Kegalle,Kegalle,1.1AB,national
+24577,THOLANGAMUWA DUDLEY SENANAYAKA CENTRAL COLLEGE,THOLANGAMUWA,9.Sabaragamuwa,92.Kegalle,Kegalle,Warakapola,1.1AB,national
+42024,BOYAGANE VISHVODA NATIONAL SCHOOL,"BOYAGANE, KURUNEGALA",6.North Western,61.Kurunegala,Kurunegala,Kurunegala,1.1AB,national
