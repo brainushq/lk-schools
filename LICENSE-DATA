@@ -1,5 +1,5 @@
 This applies to the dataset in /data (schools.json, districts.json).
-Code elsewhere in this repository is MIT-licensed — see LICENSE.
+Code elsewhere in this repository is MIT-licensed, see LICENSE.
 
 lk-schools data (c) lk-schools contributors, licensed under
 Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0).
@@ -7,8 +7,12 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 Attribution: when redistributing or building on this dataset, credit
 "lk-schools contributors" and link to https://github.com/brainushq/lk-schools.
-Individual rows sourced from Wikipedia additionally require Wikipedia's
-own attribution per https://en.wikipedia.org/wiki/Wikipedia:Reusing_Wikipedia_content.
+
+Sources: the great majority of rows (10,076) come from the Sri Lanka
+Ministry of Education's 2024 Educational Statistics school lists,
+https://dmb.moe.gov.lk/showStat2024.php. A small number of private-school
+rows (7) are carried over from an earlier internal BrainUs snapshot. See
+each row's `source` field in data/schools.json for its origin.
 
 -----------------------------------------------------------------------
 
