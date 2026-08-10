@@ -6,8 +6,11 @@ this repo.
 
 ## Status
 
-Data migrated (3,499 schools, 25 districts, 9 provinces) and both packages
-build and pass CI. Not yet published to npm or PyPI.
+Dataset rebuilt from the Ministry of Education's official 2024 school lists
+(10,076 government schools + 7 legacy private rows, 25 districts, 9
+provinces) with census numbers, addresses, zones, education divisions and
+MoE A/L type. Both packages build and pass CI. Not yet published to npm or
+PyPI.
 
 ## Install
 
