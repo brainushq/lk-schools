@@ -19,15 +19,14 @@ jobs:
           registry-url: https://registry.npmjs.org
           cache: npm
           cache-dependency-path: packages/npm/package-lock.json
+      - run: npm install -g npm@latest # trusted publishing needs npm CLI >= 11.5.1
       - run: npm ci
         working-directory: packages/npm
-      - run: npm publish --provenance --access public
+      - run: npm publish
         working-directory: packages/npm
-        env:
-          # NPM_TOKEN: granular access token with publish rights, set as a repo secret.
-          # Provenance requires the id-token permission above but npm still needs this
-          # token to authenticate the publish itself.
-          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        # No token: authenticated via OIDC trusted publishing, configured on
+        # npmjs.com under this package's Settings -> Trusted Publisher, once
+        # the package exists from its first (manual, local) publish.
 
   publish-pypi:
     runs-on: ubuntu-latest
