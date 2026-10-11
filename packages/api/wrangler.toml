@@ -1,0 +1,17 @@
+name = "lk-schools-api"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+
+# Full dataset files under public/v1/ are served directly as static assets,
+# without running the Worker.
+[assets]
+directory = "./public"
+
+# Per-IP rate limit. Requests over the limit get a 429.
+[[ratelimits]]
+name = "LIMITER"
+namespace_id = "1001"
+simple = { limit = 60, period = 60 }
+
+# Uncomment once brainus.lk's DNS is on Cloudflare:
+# routes = [{ pattern = "api.brainus.lk", custom_domain = true }]
