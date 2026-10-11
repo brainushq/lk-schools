@@ -1,8 +1,8 @@
 # Canonical dataset
 
-`schools.json` and `districts.json` are the single source of truth for both
-the npm and PyPI packages. `scripts/sync-data.mjs` copies these into each
-package's source tree at build time, never edit the copies under
+`schools.json` and `districts.json` are the single source of truth for the
+npm and PyPI packages and the API. `scripts/sync-data.mjs` copies these into
+each package's source tree at build time, never edit the copies under
 `packages/*/`, only these files.
 
 ## Building from official MoE data
