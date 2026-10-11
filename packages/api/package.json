@@ -1,0 +1,26 @@
+{
+  "name": "@brainus/lk-schools-api",
+  "version": "0.2.0",
+  "private": true,
+  "description": "Search API for the lk-schools dataset, deployed as a Cloudflare Worker.",
+  "type": "module",
+  "scripts": {
+    "sync-data": "node ../../scripts/sync-data.mjs api api-assets",
+    "build:widget": "esbuild widget/widget.ts --bundle --minify --format=iife --target=es2019 --outfile=public/widget.js",
+    "prepare-assets": "npm run sync-data && npm run build:widget",
+    "dev": "npm run prepare-assets && wrangler dev",
+    "deploy": "npm run prepare-assets && wrangler deploy",
+    "typecheck": "npm run sync-data && tsc --noEmit && tsc --noEmit -p widget",
+    "test": "npm run sync-data && node --test --experimental-strip-types test/*.test.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "hono": "^4.13.13"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261011.1",
+    "esbuild": "^0.28.2",
+    "typescript": "^5.7.2",
+    "wrangler": "^4.149.0"
+  }
+}
