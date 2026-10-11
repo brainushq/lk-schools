@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>School Picker Demo</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { font: 16px/1.5 system-ui, sans-serif; max-width: 520px; margin: 48px auto; padding: 0 16px; }
+    label { display: block; font-weight: 600; margin: 20px 0 6px; }
+    input { font: inherit; padding: 10px 12px; border: 1px solid #bbb; border-radius: 8px; }
+    button { font: inherit; margin-top: 20px; padding: 10px 16px; border-radius: 8px; border: 0; background: #2563eb; color: #fff; cursor: pointer; }
+    pre { background: rgba(127,127,127,.12); padding: 12px; border-radius: 8px; overflow-x: auto; font-size: 13px; }
+  </style>
+</head>
+<body>
+  <h1>lk-schools school picker</h1>
+  <p>Type a school name: try <em>royal collage</em>, <em>trinity kandy</em> or <em>ananda</em>.</p>
+
+  <form id="demo">
+    <label for="school">Your school</label>
+    <input id="school" name="school" data-lk-school>
+
+    <label for="al-school">A/L school in Western Province (national only, submits census no.)</label>
+    <input id="al-school" name="al_school" data-lk-school data-province="Western" data-type="national" data-value="censusNo">
+
+    <button type="submit">Submit</button>
+  </form>
+
+  <h2>Submitted form data</h2>
+  <pre id="out">(submit the form)</pre>
+  <h2>Last selected school</h2>
+  <pre id="picked">(pick a school)</pre>
+
+  <script src="/widget.js" defer></script>
+  <script>
+    document.getElementById("demo").addEventListener("submit", (e) => {
+      e.preventDefault();
+      const data = Object.fromEntries(new FormData(e.target));
+      document.getElementById("out").textContent = JSON.stringify(data, null, 2);
+    });
+    document.addEventListener("lk-school-select", (e) => {
+      document.getElementById("picked").textContent = JSON.stringify(e.detail, null, 2);
+    });
+  </script>
+</body>
+</html>
