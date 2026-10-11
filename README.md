@@ -6,7 +6,8 @@
 
 An open, community-maintained dataset of **every government school in Sri
 Lanka**: 10,076 schools from the Ministry of Education's official 2024
-lists, published as an npm package and a PyPI package, both generated from
+lists, published as an npm package, a PyPI package and a hosted API at
+[lk-schools.brainus.lk](https://lk-schools.brainus.lk), all generated from
 one canonical dataset in this repo.
 
 Each school comes with its official MoE census number, address, education
@@ -48,6 +49,32 @@ provinces = get_provinces()
 Every school is filterable by `district`, `province`, and `type`
 (`national` | `provincial` | `private` | `international`), or by a
 case-insensitive name `query`.
+
+## Hosted API
+
+No install needed, any language can call it. Base URL:
+`https://lk-schools.brainus.lk`
+
+```bash
+curl "https://lk-schools.brainus.lk/v1/schools/search?q=royal%20college"
+curl "https://lk-schools.brainus.lk/v1/schools/45"
+curl "https://lk-schools.brainus.lk/v1/schools?district=Galle&type=national"
+```
+
+The full dataset is also at
+[`/v1/schools.json`](https://lk-schools.brainus.lk/v1/schools.json). All
+endpoints: [`packages/api`](packages/api/README.md).
+
+### School picker widget
+
+A drop-in school search box for any website:
+
+```html
+<input name="school" data-lk-school>
+<script src="https://lk-schools.brainus.lk/widget.js" defer></script>
+```
+
+Try it at [lk-schools.brainus.lk/demo](https://lk-schools.brainus.lk/demo).
 
 ## The dataset
 

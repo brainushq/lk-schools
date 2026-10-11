@@ -3,7 +3,7 @@
 // to the API, so it always talks to the API it was loaded from.
 //
 //   <input name="school" data-lk-school>
-//   <script src="https://<api-host>/widget.js" defer></script>
+//   <script src="https://lk-schools.brainus.lk/widget.js" defer></script>
 //
 // Options (data attributes on the input):
 //   data-district, data-province, data-type   restrict results
