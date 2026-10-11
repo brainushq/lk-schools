@@ -40,3 +40,19 @@ jobs:
       - run: node scripts/sync-data.mjs pypi
       - run: python3 -m build
         working-directory: packages/pypi
+
+  test-api:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: packages/api/package-lock.json
+      - run: npm ci
+        working-directory: packages/api
+      - run: npm run typecheck
+        working-directory: packages/api
+      - run: npm test
+        working-directory: packages/api
